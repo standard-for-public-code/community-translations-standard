@@ -10,8 +10,8 @@
 
 ## Responsables políticos y legisladores: qué necesitan hacer
 
-## Managers: qué necesitan hacer
+## Profesionales de la dirección de equipos: qué necesitan hacer
 
-## Desarrolladores de software y diseñadores: qué necesitan hacer
+## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
 ## Más información
