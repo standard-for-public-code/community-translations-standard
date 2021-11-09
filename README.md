@@ -4,7 +4,28 @@ This is a repository for unofficial translations of the [Standard for Public Cod
 
 ## Contribute
 
-Anyone may start a translation of the standard. Please place your translation in a folder named with [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (for example `es` for Spanish or `da` for Danish).
+Anyone may start a translation of the standard.
+Please place your translation in a folder named with [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (for example `es` for Spanish or `da` for Danish).
+
+In order for our scripts that generate pdf's to work as easily as possible, do not translate file names, folder names or the front matter. 
+
+### Files to translate
+
+These are the files that need to be translated before it is ready for review.
+
+- index.md
+- all files in the folder criteria except for _template.md
+- readers-guide.md
+- glossary.md
+- CONTRIBUTING.md
+- GOVERNANCE.md
+- CHANGELOG.md
+- print.html
+
+### Review of a translation
+
+Before we merge a pull request of a new or updated translation it need to be reviewed.
+This should be done by a native speaker coming from a different context than the person submitting the pull request.
 
 ## Problems, suggestions and questions in issues
 
