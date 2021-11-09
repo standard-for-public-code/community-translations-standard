@@ -8,7 +8,7 @@
 
 ## Cómo testear
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
