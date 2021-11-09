@@ -13,14 +13,15 @@ In order for our scripts that generate pdf's to work as easily as possible, do n
 
 These are the files that need to be translated before it is ready for review.
 
-- index.md
-- all files in the folder criteria except for _template.md
-- readers-guide.md
-- glossary.md
-- CONTRIBUTING.md
-- GOVERNANCE.md
-- CHANGELOG.md
-- print.html
+- [index.md](https://github.com/publiccodenet/standard/blob/main/index.md)
+- all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
+- [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
+- [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
+- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
+- [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
+- [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
+- [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
+- [print.html](https://github.com/publiccodenet/standard/blob/main/print.html)
 
 ### Review of a translation
 
