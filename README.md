@@ -23,6 +23,26 @@ These are the files that need to be translated before it is ready for review.
 - [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
 - [print.html](https://github.com/publiccodenet/standard/blob/main/print.html)
 
+While print.html is a large file, the only text that needs to be translated are the ones in the table below (some in two places in the file).
+
+| English text |
+|-|
+| Request for contributions |
+| Table of Contents |
+| Authors | 
+| Introduction |
+| Readers guide |
+| Glossary |
+| Criteria |
+| Contributing guide |
+| Code of conduct |
+| Governance |
+| Version history |
+| License |
+| Contact |
+| This license is the legal contract that allows anyone to do anything they like with the content in this entire document. |
+| For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500 |
+
 ### Review of a translation
 
 Before we merge a pull request of a new or updated translation it need to be reviewed.
