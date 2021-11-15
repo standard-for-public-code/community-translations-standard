@@ -3,7 +3,7 @@ order: 15
 ---
 # Documentación de la madurez del código
 
-## Requerimientos
+## Requisitos
 
 * Una codebase DEBE de ser versionada.
 * Una codebase que está lista para ser usada DEBE únicamente depender de otras codebases que también se encuentren preparadas para su uso.
@@ -28,7 +28,7 @@ Señalar claramente la madurez de una codebase ayuda a otros a decidir si reutil
 * Está claro dónde conseguir la versión más reciente.
 * La codebase no depende de ninguna codebase marcada con un estado menos maduro.
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Al desarrollar políticas, hay que entender que cualquier código desarrollado debe ser probado y mejorado antes de ponerlo en servicio.
 * Considera la posibilidad de versionar los cambios de las políticas, especialmente cuando desencadenen nuevas versiones del código fuente.
