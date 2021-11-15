@@ -44,7 +44,7 @@ order: 10
 
 * Test ofte med politiske beslutningstagere og ledelse, hvorvidt de forstår, hvad du leverer og hvordan du dokumenterer det.
 
-## Further reading
+## Yderligere læsning
 
-* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
-* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.
+* Tekst af [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - gør tekstens indhold læsbart og forståeligt.
+* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - tillad kun de 1000 mest almindelige ord.

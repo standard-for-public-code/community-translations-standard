@@ -42,9 +42,9 @@ order: 13
 * Tilføj en ny `license` fil hvad gang du laver en ny kodebase.
 * Tilføj en copyright notice og et licens sidehoved hver gang du laver en ny kildekodefil.
 
-## Further reading
+## Yderligere læsning
 
-* [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition.
-* [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand.
-* [REUSE Initiative specification](https://reuse.software/spec/) for unambiguous, human-readable and machine-readable copyright and licensing information.
-* [SPDX License List](https://spdx.org/licenses/) with standardized, machine-readable abbreviations for most licenses.
+* [Open source definition](https://opensource.org/osd) af the Open Source Initiative - alle open source licenserne opfylder denne definition.
+* [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) af Creative Commons Aotearoa New Zealand.
+* [REUSE Initiative specification](https://reuse.software/spec/) for utvetydig, menneskeligt læsbar og maskinlæsbar copyright og licensinformation.
+* [SPDX License List](https://spdx.org/licenses/) med standardliserede, maskinlæsbare forkortelser for de fleste licenser.

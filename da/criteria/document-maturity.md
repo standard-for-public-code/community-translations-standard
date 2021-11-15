@@ -44,8 +44,8 @@ At tydeligt signalere modenheden af ens kodebasen hjælper andre til at beslutte
 * Sæt versioner på alle udgivelser.
 * Særligt i scenarier med løbende udgivelse, kan versionen automatisk afledes fra versionskontrolsystemets metadata (for eksempel ved at bruge [git describe](https://git-scm.com/docs/git-describe)).
 
-## Further reading
+## Yderligere læsning
 
-* [Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/) by the Australian Digital Transformation Agency.
-* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service.
-* [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) by the UK Government Digital Service.
+* [Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/) af the Australian Digital Transformation Agency.
+* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) af the UK Government Digital Service.
+* [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) af the UK Government Digital Service.

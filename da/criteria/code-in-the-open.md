@@ -46,10 +46,10 @@ For hvert commit, skal reviewers verificere at indholdet ikke inkludere følsom 
 
 * Tydeligt dele data og kode op for at møde kravene om følsom information, som beskrevet ovenfor.
 
-## Further reading
+## Yderligere læsning
 
-* [Coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) by the UK Government Digital Service.
-* [When code should be open or closed](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) by the UK Government Digital Service.
-* [Security considerations when coding in the open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) by the UK Government Digital Service.
-* [Deploying software regularly](https://www.gov.uk/service-manual/technology/deploying-software-regularly) by the UK Government Digital Service.
-* [How GDS uses GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/) by the UK Government Digital Service.
+* [Coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) af the UK Government Digital Service.
+* [When code should be open or closed](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) af the UK Government Digital Service.
+* [Security considerations when coding in the open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) af the UK Government Digital Service.
+* [Deploying software regularly](https://www.gov.uk/service-manual/technology/deploying-software-regularly) af the UK Government Digital Service.
+* [How GDS uses GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/) af the UK Government Digital Service.

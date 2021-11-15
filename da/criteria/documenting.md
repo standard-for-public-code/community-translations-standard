@@ -48,6 +48,6 @@ order: 9
 * Tjek regelmæssigt for at forstå, hvordan ikke-kildekoden delen i kodebasen har ændret sig.
 * Giv feedback på, hvordan man gør ikke-kildekoden delen af dokumentationen mere tydelig.
 
-## Further reading
+## Yderligere læsning
 
-* [Documentation guide](https://www.writethedocs.org/guide/) by Write the Docs.
+* [Documentation guide](https://www.writethedocs.org/guide/) af Write the Docs.

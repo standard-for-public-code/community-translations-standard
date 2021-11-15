@@ -53,8 +53,8 @@ order: 7
 * Bed andre bidragsydere på projekter om at gennemse dit arbejde, i din organisation eller udenfor.
 * Prøv at svare på andres requests for kode så ofte som muligt.
 
-## Further reading
+## Yderligere læsning
 
-* [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
-* Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
+* [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) af the UK Government Digital Service.
+* Grenbeskyttelse på [GitHub](https://help.github.com/en/articles/about-protected-branches) og [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)

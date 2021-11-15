@@ -38,7 +38,7 @@ order: 14
 * Brug en linter (værktøj til analyse af statisk kode).
 * Tilføj linter konfigurationer til kodebasen.
 
-## Further reading
+## Yderligere læsning
 
-* [List of linters](https://github.com/caramelomartins/awesome-linters) by Hugo Martins.
-* [Programming style](https://en.wikipedia.org/wiki/Programming_style) on Wikipedia.
+* [List of linters](https://github.com/caramelomartins/awesome-linters) af Hugo Martins.
+* [Programming style](https://en.wikipedia.org/wiki/Programming_style) på Wikipedia.

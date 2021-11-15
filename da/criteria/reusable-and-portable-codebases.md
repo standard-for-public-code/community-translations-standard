@@ -49,6 +49,6 @@ order: 3
 * Kilden skal designes til at løse et generelt problem frem for ét specifikt et.
 * Nogen i en lignende organisation med et lignende problem skal være i stand til at bruge din løsning.
 
-## Further reading
+## Yderligere læsning
 
-* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service.
+* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) af the UK Government Digital Service.

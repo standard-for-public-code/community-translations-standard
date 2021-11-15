@@ -60,9 +60,9 @@ order: 12
 * Juster testkodedækningsværktøjerne for at undgå falske alarmer som følge af inlining eller andre optimeringer.
 * Implementer ofte.
 
-## Further reading
+## Yderligere læsning
 
-* [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) by Martin Fowler.
+* [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) af Martin Fowler.
 * [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble.
-* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service.
-* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the Government Digital Service (United Kingdom).
+* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) af the UK Government Digital Service.
+* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) af the Government Digital Service (United Kingdom).

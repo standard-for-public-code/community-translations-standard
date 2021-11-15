@@ -60,10 +60,10 @@ F.eks. hvis der tilføres en ny kategori af ansøger til en kodebase, som giver 
 * Marker forskellige versioner, så det er let at tilgå en specifik version, f.eks. ved at bruge revisionstags eller en skriftlig angivelse.
 * Skriv klare commit beskeder, så versionerne kan sammenlignes på en brugbar måde.
 
-## Further reading
+## Yderligere læsning
 
-* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
-* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
-* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
-* [GitHub Learning Lab](https://lab.github.com/) for learning how to use GitHub or refresh your skills.
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) a list with the most common used git commands.
+* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) af Karl Fogel.
+* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) af the UK Government Digital Service.
+* [Semantic Versioning Specification](https://semver.org/) brug flere kodebaser til at mærke versioner.
+* [GitHub Learning Lab](https://lab.github.com/) for at lære at bruge GitHub eller opfriske dine evne.
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) en liste med de mest brugte git kommandorer.

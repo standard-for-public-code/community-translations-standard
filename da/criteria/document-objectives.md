@@ -41,6 +41,6 @@ Der er en introduktion til kodebase formål, mission og mål i kodebase dokument
 
 * Tilføj de teknologiske og designmæssige mål til kodebasens dokumentation, f.eks. i `README`.
 
-## Further reading
+## Yderligere læsning
 
-* [How to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf) by Marek Hajduczenia.
+* [How to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf) af Marek Hajduczenia.

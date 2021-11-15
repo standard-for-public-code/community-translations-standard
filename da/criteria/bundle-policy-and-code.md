@@ -44,7 +44,7 @@ Dette sørger for, at der er garanteret tilgang til både kildekoden og politisk
 * Arbejd sammen med politiske beslutningstagere for at sikre, at der ikke er uoverensstemmelse mellem retningslinjerne og kildekode.
 * Giv feedback på hvordan retningslinjernes dokumentation kan gøres klarere.
 
-## Further reading
+## Yderligere læsning
 
-* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) by Camunda.
-* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) by Trisotech.
+* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) af Camunda.
+* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) af Trisotech.

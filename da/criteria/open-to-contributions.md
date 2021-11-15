@@ -44,9 +44,9 @@ order: 4
 * Svar requests hurtigt.
 * Hold din ledelse informeret om den tid og de ressourcer, som du har brug for for at støtte andre bidragsydere.
 
-## Further reading
+## Yderligere læsning
 
-* [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides.
+* [Building welcoming communities](https://opensource.guide/building-community/) af Open Source Guides.
 * The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct.
-* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides.
-* [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for voksende open source community projekter, af Open Source Guides.
+* [Building online communities](http://hintjens.com/blog:117) af Pieter Hintjens (long read!).
