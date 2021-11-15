@@ -4,7 +4,7 @@ order: 13
 
 # Publicar con una licencia en abierto
 
-## Requerimientos
+## Requisitos
 
 * Todo el código y la documentación DEBEN tener una licencia que permita su libre reutilización, modificación y redistribución.
 * El código fuente del software DEBE estar licenciado bajo una [licencia de código abierto aprobada por la OSI](https://opensource.org/licenses/category).
