@@ -1,6 +1,6 @@
 # Nombre
 
-## Requerimientos
+## Requisitos
 
 ## Por qué es importante
 
