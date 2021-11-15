@@ -3,7 +3,7 @@ order: 9
 ---
 # Documentar el código
 
-## Requerimientos
+## Requisitos
 
 * Toda la funcionalidad de la codebase -tanto las políticas como el código fuente- DEBE estar descrita en un lenguaje claramente comprensible para aquellos que entienden el propósito del código.
 * La documentación de la codebase DEBE contener
@@ -33,7 +33,7 @@ order: 9
 * La documentación se genera a partir del código.
 * Los enlaces y las imágenes se comprueban automáticamente.
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Comprueba regularmente cómo ha cambiado el código no relacionado con las políticas en la codebase.
 * Dar información sobre cómo hacer que la documentación no relacionada con las políticas sea más clara.
@@ -48,6 +48,6 @@ order: 9
 * Comprueba regularmente cómo ha cambiado el código no fuente en la codebase.
 * Da información sobre cómo hacer que la documentación no-fuente sea más clara.
 
-## Más información
+## Más información (en inglés)
 
-* [Documentation guide](https://www.writethedocs.org/guide/) por Write the Docs.
+* [Guía de documentación](https://www.writethedocs.org/guide/) por Write the Docs.
