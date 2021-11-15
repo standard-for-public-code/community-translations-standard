@@ -4,7 +4,7 @@ order: 5
 
 # Hacer que las contribuciones sean fáciles
 
-## Requerimientos
+## Requisitos
 
 * La codebase DEBE tener un tracker o rastreador de problemas público que acepte sugerencias de cualquier persona.
 * La codebase DEBE incluir instrucciones sobre cómo informar privadamente de los problemas de seguridad para su divulgación responsable.
@@ -27,7 +27,7 @@ order: 5
 * Hay un issue tracker o rastreador de problemas público.
 * Es posible participar en una discusión con otros usuarios sobre el software.
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Seguir las cuestiones de políticas en la codebase, para que un experto externo en políticas pertinentes pueda ofrecer ayuda.
 
@@ -41,8 +41,8 @@ order: 5
 * Responder con prontitud a las solicitudes.
 * Mantener a la dirección informada del tiempo y los recursos que necesita para apoyar a otros colaboradores.
 
-## Más información
+## Más información (en inglés)
 
-* [How to inspire exceptional contributions to your open-source project](https://www.netdata.cloud/blog/open-source-contributions/)
-* [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) por el Servicio Digital del Gobierno del Reino Unido.
-* [Verdaccio's security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) es un ejemplo muy explicativo.
+* [Cómo inspirar contribuciones excepcionales en tu proyecto open-source](https://www.netdata.cloud/blog/open-source-contributions/)
+* [Los beneficios de programar en abierto](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) por el Servicio Digital del Gobierno del Reino Unido.
+* [La política de seguridad de Verdaccio](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) es un ejemplo muy explicativo.
