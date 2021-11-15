@@ -1,10 +1,10 @@
 ---
-orden: 12
+order: 12
 ---
 
 # Uso de la integración continua
 
-## Requerimientos
+## Requisitos
 
 * Toda funcionalidad en el código fuente DEBE TENER tests automatizados.
 * Las contribuciones DEBEN pasar todos los tests automatizados antes de ser admitidas en la codebase.
@@ -40,14 +40,14 @@ orden: 12
 * Todos los que trabajan en la codebase integran su trabajo al menos una vez al día.
 * Hay contribuciones en los últimos tres meses.
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Involucra a la dirección, así como a los desarrolladores y diseñadores, tan pronto como sea posible en el proceso y haz que se comprometan durante el desarrollo de las políticas a implementar.
 * Asegúrate de que también hay tests automatizados para la documentación de las políticas.
 * Corrije la documentación de las legislaciones cuanto antes si estas no superan un test.
 * Asegúrate de que el código refleja cualquier cambio en la legislación (véase [Mantener el control de versiones](version-control-and-history.md)).
 
-## Dirección de equipos: qué necesitan hacer
+## Profesionales de la dirección de equipos: qué necesitan hacer
 
 * Asegúrate de realizar pruebas con usuarios finales reales lo más rápido y a menudo posible.
 * Contrata servicios de consultoría que suministren entregables pequeños con mucha frecuencia en lugar de entregables grandes con menos frecuencia.
@@ -60,9 +60,9 @@ orden: 12
 * Ajuste las herramientas de cobertura del código de tests para evitar falsas alarmas resultantes de inlining u otras optimizaciones.
 * Despliega a menudo.
 
-## Más información
+## Más información (en inglés)
 
-* [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) por Martin Fowler.
-* [What is continuous delivery](https://www.continuousdelivery.com/) por Jez Humble.
-* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) por el Servicio Digital del Gobierno de Reino Unido.
-* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) por el Servicio Digital del Gobierno de Reino Unido.
+* [Qué es integración continua](https://www.martinfowler.com/articles/continuousIntegration.html) por Martin Fowler.
+* [Qué es entrega continua](https://www.continuousdelivery.com/) por Jez Humble.
+* [Uso de la entrega continua](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) por el Servicio Digital del Gobierno de Reino Unido.
+* [Garantía de calidad: probando tu servicio regularmente](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) por el Servicio Digital del Gobierno de Reino Unido.
