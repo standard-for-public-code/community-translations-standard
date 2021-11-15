@@ -2,9 +2,9 @@
 order: 8
 ---
 
-# Document codebase objectives
+# Documenta los objetivos de la codebase
 
-## Requerimientos
+## Requisitos
 
 * La codebase DEBE contener documentación de sus objetivos -como una declaración de misión y objetivos- que sea comprensible para profesionales del diseño y desarrollo, para que de esta manera puedan utilizar o contribuir a la codebase.
 * La documentación de la codebase DEBE describir claramente las conexiones entre los objetivos de las políticas y los objetivos de la propia codebase.
@@ -28,7 +28,7 @@ Documentar los objetivos de la codebase:
 
 Hay una entrada para los objetivos, la misión o la meta de la codebase en la documentación de la misma.
 
-## Responsables políticos y legisladores: qué necesitan hacer
+## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Añadir los objetivos de las políticas a la documentación de la codebase, por ejemplo en el `README`.
 * Incluir políticas relevantes que impacten en la comunidad, en la codebase y en el desarrollo, como políticas con valores sólidos y éticos, por ejemplo, la accesibilidad o la igualdad de oportunidades.
@@ -43,4 +43,4 @@ Hay una entrada para los objetivos, la misión o la meta de la codebase en la do
 
 ## Más información
 
-* [How to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf) por Marek Hajduczenia.
+* [Cómo escribir objetivos de proyecto](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf) por Marek Hajduczenia.
