@@ -1,10 +1,10 @@
 ---
-orden: 1
+order: 1
 ---
 
 # Código en abierto
 
-## Requerimientos
+## Requisitos
 
 * Todo el código fuente de cualquier política y software en uso (a menos que se utilice para la detección de fraudes) DEBE publicarse y ser de acceso público.
 * Los colaboradores NO DEBEN subir al repositorio información sensible sobre los usuarios, su organización o terceros.
@@ -38,12 +38,12 @@ Por cada commit, los revisores o reviewers verifican que el contenido no incluye
 * Desarrollar políticas en abierto.
 * Priorizar políticas en abierto y transparentes.
 
-## Mánagers: qué necesitan hacer
+## Profesionales de la dirección de equipos: qué necesitan hacer
 
 * Desarrollar una cultura que abrace la apertura, el aprendizaje y la retroalimentación.
 * Colaborar con empresas externas y profesionales autónomos a través del trabajo en abierto.
 
-## Desarrolladores de software y diseñadores: qué necesitan hacer
+## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
 * Dividir de forma clara los datos y el código, de tal manera que se pueda alcanzar el requerimiento sobre información sensible mencionado con anterioridad.
 
