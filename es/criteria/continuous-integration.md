@@ -2,7 +2,7 @@
 order: 12
 ---
 
-# Uso de la integración continua
+# Utilizar integración continua
 
 ## Requisitos
 
