@@ -2,7 +2,7 @@
 order: 4
 ---
 
-# Los colaboradores son bienvenidos
+# Las colaboradoraciones son bienvenidas
 
 ## Requisitos
 
