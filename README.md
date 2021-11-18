@@ -14,6 +14,7 @@ In order for our scripts that generate pdf's to work as easily as possible, do n
 These are the files that need to be translated before it is ready for review.
 
 - [index.md](https://github.com/publiccodenet/standard/blob/main/index.md)
+- [introduction.md](https://github.com/publiccodenet/standard/blob/main/introduction.md)
 - all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
 - [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
 - [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
@@ -42,6 +43,9 @@ While print.html is a large file, the only text that needs to be translated are 
 | Contact |
 | This license is the legal contract that allows anyone to do anything they like with the content in this entire document. |
 | For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500 |
+
+The license and the code of conduct need not be translated since those are just copied from other projects.
+If there is a translation available in the target language for these, they *may* be included.
 
 ### Review of a translation
 
