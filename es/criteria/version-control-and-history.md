@@ -31,7 +31,7 @@ El control de versiones distribuido te permite:
 
 ## Qué no hace
 
-* Sustituir por [madurez publicitaria](document-maturity.md).
+* Sustituir la [documentación de la madurez de la codebase](document-maturity.md).
 * Garantizar que el código se ejecute correctamente.
 * Garantizar los colaboradores.
 
