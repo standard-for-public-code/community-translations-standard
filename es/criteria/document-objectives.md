@@ -2,7 +2,7 @@
 order: 8
 ---
 
-# Documenta los objetivos de la codebase
+# Documentar los objetivos de la codebase
 
 ## Requisitos
 
