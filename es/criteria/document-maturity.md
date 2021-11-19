@@ -1,7 +1,7 @@
 ---
 order: 15
 ---
-# Documentar la madurez del código
+# Documentar la madurez de la codebase
 
 ## Requisitos
 
