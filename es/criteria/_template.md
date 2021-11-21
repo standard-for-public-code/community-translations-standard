@@ -6,7 +6,7 @@
 
 ## Qué no hace
 
-## Cómo testear
+## Cómo probar
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 

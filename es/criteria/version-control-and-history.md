@@ -14,7 +14,7 @@ order: 6
 * Los colaboradores DEBERÍAN agrupar los cambios relevantes en los commits.
 * Los mantenedores DEBERÍAN marcar las versiones liberadas de la codebase, por ejemplo usando etiquetas de revisión o etiquetas textuales.
 * Los contribuyentes DEBERÍAN preferir formatos de archivo donde los cambios dentro de los archivos puedan ser fácilmente vistos y entendidos en el sistema de control de versiones.
-* Los colaboradores PUEDEN firmar sus confirmaciones y proporcionar una dirección de correo electrónico, para que los futuros contribuyentes puedan ponerse en contacto con los contribuyentes anteriores con preguntas sobre su trabajo.
+* Los colaboradores PUEDEN firmar sus commits y proporcionar una dirección de correo electrónico, para que los futuros contribuyentes puedan ponerse en contacto con los contribuyentes anteriores con preguntas sobre su trabajo.
 
 ## Por qué es importante
 
@@ -22,8 +22,8 @@ El control de versiones significa llevar un registro de los cambios en el códig
 
 El control de versiones distribuido te permite:
 
-* Tener una copia completa del código y su historia
-* Volver a una versión anterior de la codebase siempre que se quiera
+* Tener una copia completa del código y su historia.
+* Volver a una versión anterior de la codebase siempre que se quiera.
 * Registrar los cambios y las razones por las que se han hecho, para ayudar a los futuros profesionales del desarrollo a entender el proceso.
 * Comparar dos versiones diferentes.
 * Trabajar en los cambios en paralelo, en equipo, antes de fusionarlos.
@@ -35,20 +35,19 @@ El control de versiones distribuido te permite:
 * Garantizar que el código se ejecute correctamente.
 * Garantizar los colaboradores.
 
-## Cómo testear
+## Cómo probar
 
 * La codebase se mantiene en el control de versiones utilizando software como Git.
-
 * Todos los mensajes del commit messages explican:
-  * por qué el cambio ha sido realizado,
-  * cuál era la discusión sobre el cambio o dónde encontrarla (con una URL).
+  * Por qué el cambio ha sido realizado,
+  * Cuál era la discusión sobre el cambio o dónde encontrarla (con una URL).
 * Es posible acceder a una versión específica de la codebase, por ejemplo a través de una etiqueta (o tag) de revisión o una etiqueta (o label) textual.
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Si se crea una nueva versión de la codebase debido a un cambio de política, asegúrate de que quede claro en la documentación:
-  * cuál es el cambio en la política,
-  * cómo ha cambiado la codebase.
+* Si se crea una nueva versión de la codebase debido a un cambio de política, asegúrarse de que quede claro en la documentación:
+  * Cuál es el cambio en la política,
+  * Cómo ha cambiado la codebase.
 
 Por ejemplo, añadiendo una nueva categoría de aplicante a una codebase que gestiona la concesión de permisos debería de ser considerada un cambio de política.
 

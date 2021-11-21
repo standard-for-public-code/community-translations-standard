@@ -20,7 +20,7 @@ El software es una infraestructura pública.
 
 En el siglo XXI el software puede ser considerado una infraestructura pública vital. Cada vez más, no es sólo la expresión de la política existente, sino el creador de nuevas políticas, por ejemplo, cuando los algoritmos deciden qué distritos necesitan servicios sociales o policiales adicionales.
 
-La mecánica de los programas informáticos, los algoritmos y la recogida de datos se ha convertido en un elemento clave en la ejecución de las políticas públicas. El código informático ejecuta ahora políticas que han sido programadas en el código legal a través de procedimientos democráticos. Ambas formas de código establecen las condiciones para que la sociedad funcione de acuerdo con los valores públicos fijados democráticamente, el último ejecutado por humanos, el primero por máquinas. En otras palabras, el código del software ha empezado a equivaler cada vez más al código legal.
+La mecánica de los programas informáticos, los algoritmos y la recolección de datos se han convertido en un elemento clave para la ejecución de las políticas públicas. El código informático ejecuta ahora políticas que han sido programadas en el código legal a través de procedimientos democráticos. Ambas formas de código establecen las condiciones para que la sociedad funcione de acuerdo con los valores públicos fijados democráticamente; el último ejecutado por humanos, el primero por máquinas. En otras palabras, el código del software ha empezado a equivaler cada vez más al código legal.
 
 Por tanto, el software debería estar sujeto a los principios de la gobernanza democrática.
 
@@ -28,17 +28,17 @@ Por tanto, el software debería estar sujeto a los principios de la gobernanza d
 
 Los métodos de producción de software público actual no han sido muy eficaces en cuanto a la prestación de servicios públicos.
 
-En la última década, algunas organizaciones públicas que han adquirido soluciones de software completas se encontrado con la sorpresa de que:
+En la última década, algunas organizaciones públicas que han adquirido soluciones de software completas se encontrado con sorpresas como:
 
-* no pueden cambiar su software para reflejar una política que ha sido modificada o sacar provecho de una nueva tecnología
-* no tienen acceso a sus datos ya que se encuentran cerrados en sistemas propietarios
-* se les requiere pagar licencias cada vez más caras
+* No pueden cambiar su software para reflejar una política que ha sido modificada o sacar provecho de una nueva tecnología.
+* Ho tienen acceso a sus datos ya que se encuentran cerrados en sistemas propietarios.
+* Se ven obligados a pagar licencias cada vez más costosas.
 
 ### Soberanía tecnológica y responsabilidad democrática
 
 Las instituciones públicas, trabajadores públicos y residentes se merecen algo mejor.
 
-Creemos que el software que dirige nuestra sociedad no puede seguir siendo una *caja negra*, controlada por compañías externas que mantienen que mantienen oculta la lógica subyacente en la que funciona su software en codebases privadas. Por el contrario, los gobiernos y las personas a las que sirven necesitan soberanía tecnológica, que les permita establecer y controlar el funcionamiento del software público, al igual que pueden establecer y controlar la política que se formula legalmente en las leyes. Los ciudadanos y los actores de la sociedad civil necesitan que este software sea transparente y responsable.
+Creemos que el software que dirige nuestra sociedad no puede seguir siendo una *caja negra*, controlada por compañías externas que mantienen que mantienen oculta la lógica subyacente con la que funciona su software en codebases privadas. Por el contrario, los gobiernos y las personas a las que sirven necesitan soberanía tecnológica, que les permita establecer y controlar el funcionamiento del software público, al igual que pueden establecer y controlar la política que se formula legalmente en las leyes. Los ciudadanos y los actores de la sociedad civil necesitan que este software sea transparente y responsable.
 
 El diseño del software como infraestructura cívica esencial debe respetar los derechos digitales de los ciudadanos.
 
@@ -48,25 +48,25 @@ El código público está en el centro de las instituciones públicas modernas, 
 
 El software público debe por tanto ser:
 
-* transparente
-* responsable
-* entendible por sus constituyentes
+* Transparente.
+* Responsable.
+* Entendible por sus constituyentes.
 
-Debe de reflejar los valores de la sociedad a la que sirve. Por citar un caso: siendo inclusivo y no discriminatorio.
+Debe reflejar los valores de la sociedad a la que sirve. Por citar un caso: siendo inclusivo y no discriminatorio.
 
-La mayoría de los sistemas de software propietario utilizados actualmente por las organizaciones públicas no cumplen estos requisitos. El código público -el software construido para funcionar con y como infraestructura pública, junto con los acuerdos para su producción- sí lo hace.
+La mayoría de los sistemas de software propietario utilizados actualmente por las organizaciones públicas no cumplen estos requisitos. El código público - el software construido para funcionar con y como infraestructura pública, junto con los acuerdos para su producción - sí lo hace.
 
 ### Valores del código público
 
 Consideramos que el código público ha de tener los siguientes valores centrales:
 
-* Inclusivo
-* Usable
-* Abierto
-* Legible
-* Responsable
-* Accesible
-* Sostenible
+* Inclusivo.
+* Usable.
+* Abierto.
+* Legible.
+* Responsable.
+* Accesible.
+* Sostenible.
 
 ## Cómo funciona el código público
 
@@ -82,7 +82,7 @@ Esta puesta en común de recursos permite a las administraciones públicas prest
 
 El código público ofrece un mejor modelo económico tanto para las organizaciones públicas como para las empresas privadas. Es una alternativa a la adquisición tradicional de software que aumenta el control local y las oportunidades económicas.
 
-Diseñado desde el principio para ser abierto, adaptable y con portabilidad de datos, puede ser desarrollado por personal interno o por proveedores de confianza. Como el código es abierto, la administración pública puede cambiar de proveedor si lo necesita. El código abierto aumenta las oportunidades de aprendizaje y escrutinio público, lo que permite a la administración pública obtener contratos más pequeños, facilitando así que las pequeñas y medianas empresas locales puedan presentar ofertas. Las administraciones públicas pueden utilizar sus propias compras de software para estimular la innovación y la competencia en su economía local.
+Diseñado desde el principio para ser abierto, adaptable y con portabilidad de datos, puede ser desarrollado por personal interno o por proveedores de confianza. Como el código es abierto, la administración pública puede cambiar de proveedor si lo necesita. El código abierto aumenta las oportunidades de aprendizaje y escrutinio público, lo que permite a la administración pública obtener contratos de menores cuantías, facilitando así que las pequeñas y medianas empresas locales puedan presentar ofertas. Las administraciones públicas pueden utilizar sus propias compras de software para estimular la innovación y la competencia en su economía local.
 
 Esto puede considerarse como una inversión que conduce al futuro crecimiento económico: serán necesarios más proveedores debido a la creciente demanda de tecnología.
 
@@ -94,15 +94,15 @@ Para utilizar el código público existente, hay que especificar en el presupues
 
 ## Cumplimiento de normas o proceso de certificación
 
-La Foundation for Public Code se asegura de que las codebase bajo su tutela o stewardship (y no *in incubation* o *in the attic* ) cumplan con el Estándar para el Código Público. Esto deja claro a los usuarios y colaboradores potenciales que la codebase es de alta calidad, y que las actualizaciones también lo serán.
+La Foundation for Public Code se asegura de que las codebase bajo su tutela o dirección (y no *in incubation* o *in the attic* ) cumplan con el Estándar para el Código Público. Esto deja claro a los usuarios y colaboradores potenciales que la codebase es de alta calidad, y que las actualizaciones también lo serán.
 
-La auditoría realizada por nuestra organización está pensada para complementar los tests automatizados, ya que las máquinas son excelentes para comprobar cosas como la sintaxis y si los resultados se ajustan a las expectativas. Las máquinas no pueden comprobar cosas que están destinadas a los humanos, como comprobar si la documentación es realmente comprensible y accesible en su contexto, si los mensajes de confirmación tienen sentido y si se siguen las directrices de la comunidad.
+La auditoría realizada por nuestra organización está pensada para complementar las pruebas automáticas, ya que las máquinas son excelentes para comprobar cosas como la sintaxis y si los resultados se ajustan a las expectativas. Las máquinas no pueden comprobar cosas que están destinadas a los humanos, como comprobar si la documentación es realmente comprensible y accesible en su contexto, si los mensajes de confirmación tienen sentido y si se siguen las directrices de la comunidad.
 
 La auditoría pone a prueba toda la codebase, incluyendo el código fuente, la política, la documentación y la conversación para comprobar que se cumplen tanto las normas establecidas por nuestra organización como las normas establecidas en la propia codebase.
 
 ### Cómo funciona el proceso
 
-Cada vez que se sugiere una contribución a una codebase -por ejemplo, a través de una solicitud de merge- los [administradores de la codebase](https://about.publiccode.net/roles/) de nuestra organización auditarán la contribución para comprobar que cumple con el Estándar para el Código Público. Las nuevas contribuciones sólo pueden ser adoptadas en la codebase después de haber sido aprobadas conforme con el Estándar para el Código Público, y haber sido revisadas por otro contribuyente.
+Cada vez que se sugiere una contribución a una codebase - por ejemplo, a través de una solicitud de merge - los [administradores de la codebase](https://about.publiccode.net/roles/) de nuestra organización auditarán la contribución para comprobar que cumple con el Estándar para el Código Público. Las nuevas contribuciones sólo pueden ser adoptadas en la codebase después de haber sido aprobadas conforme con el Estándar para el Código Público, y haber sido revisadas por otro contribuyente.
 
 La auditoría se presenta como una revisión de la contribución. El administrador de la codebase da su opinión línea por línea y la conformidad, ayudando al contribuyente a mejorar su contribución. La solicitud de fusión no puede realizarse hasta que los administradores de la codebase hayan aprobado la contribución.
 
@@ -121,20 +121,20 @@ Si el proceso de auditoría se añade a una codebase existente, las nuevas solic
 Este Estándar ayuda a profesionales del desarrollo, diseño, de la gestión de equipos empresariales y responsables de políticas a:
 
 * Desarrollar software y políticas de alta calidad para mejorar la prestación de servicios públicos.
-* desarrollar codebases que puedan reutilizarse en distintos contextos y mantenerse en colaboración
-* reducir la deuda técnica y la tasa de fracaso de los proyectos
-* tener un mayor control y capacidad de decisión sobre sus sistemas de IT
-* mejorar las relaciones con los proveedores con un mejor modelo económico
+* Desarrollar codebases que puedan reutilizarse en distintos contextos y mantenerse en colaboración.
+* Reducir la deuda técnica y la tasa de fracaso de los proyectos.
+* Tener un mayor control y capacidad de decisión sobre sus sistemas de IT.
+* Mejorar las relaciones con los proveedores con un mejor modelo económico.
 
-[La Foundation for Public Code](https://publiccode.net/) ayuda a las organizaciones públicas a compartir y adoptar software de código abierto, construir comunidades de desarrolladores sostenibles y crear un ecosistema próspero para el código público. Lo hace a través de la tutela o stewardship de codebases. Para este proceso, los administradores de codebases utilizan el Estándar para el Código Público para asegurarse de que el código que supervisan es de alta calidad y se puede mantener en colaboración.
+[La Foundation for Public Code](https://publiccode.net/) ayuda a las organizaciones públicas a compartir y adoptar software de código abierto, construir comunidades de desarrolladores sostenibles y crear un ecosistema próspero para el código público. Lo hace a través de la tutela o dirección de codebases. Para este proceso, los administradores de codebases utilizan el Estándar para el Código Público para asegurarse de que el código que supervisan es de alta calidad y puede ser mantenido de manera colaborativa.
 
 Los usuarios potenciales de las codebases que cumplen con el Estándar para el Código Público pueden esperar que sean altamente reutilizables, fácilmente mantenibles y de alta calidad.
 
 El Estándar para el Código Público hace esto mediante:
 
-* el establecimiento de una terminología común para el desarrollo de código público.
-* estableciendo medidas para ayudar a desarrollar un código público de alta calidad
-* proporcionando orientación sobre cómo cumplir sus criterios y hacer operativa su conformidad
+* El establecimiento de una terminología común para el desarrollo de código público.
+* Estableciendo medidas para ayudar a desarrollar un código público de alta calidad.
+* Proporcionando orientación sobre cómo cumplir sus criterios y hacer operativa su conformidad.
 
 El Estándar para el Código Público pretende ser independiente del tiempo y la tecnología.
 
@@ -142,14 +142,14 @@ El Estándar para el Código Público pretende ser independiente del tiempo y la
 
 El Estándar para el Código Público es para aquellas personsa que crean y reúsan código público:
 
-* responsables de políticas
-* personas encargadas de la gestión de equipos y proyectos
-* profesionales del desarrollo de software y el diseño
+* Responsables de políticas.
+* Personas encargadas de la gestión de equipos y proyectos.
+* Profesionales del desarrollo de software y el diseño.
 
 Estas personas trabajan en:
 
-* organizaciones públicas: instituciones y administraciones
-* consultorías y empresas proveedoras de servicios de tecnologías de la información y políticas a organizaciones públicas
+* Organizaciones públicas: instituciones y administraciones.
+* Consultorías y empresas proveedoras de servicios de tecnologías de la información y políticas a organizaciones públicas.
 
 No se dirige a las y los usuarios finales de las organizaciones públicas (residentes o ciudadanía), ni a periodistas o personas académicas.
 

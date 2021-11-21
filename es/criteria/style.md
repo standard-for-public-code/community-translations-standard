@@ -20,9 +20,9 @@ order: 14
 
 * Ayudar a los colaboradores a escribir bien o a explicar eficazmente lo que hacen.
 
-## Cómo testear
+## Cómo probar
 
-* Comprueba si las contribuciones se ajustan a las guías de estilo especificadas en la documentación.
+* Verificar si las contribuciones se ajustan a las guías de estilo especificadas en la documentación.
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
@@ -30,15 +30,15 @@ order: 14
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Incluye en la definición de calidad de su organización el lenguaje escrito, las fuentes, las pruebas o tests y las políticas.
+* Incluir en la definición de calidad de su organización el lenguaje escrito, las fuentes, las pruebas o tests y las políticas.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Crea, sigue y mejora continuamente una guía de estilo para el código fuente, las pruebas o tests y la documentación, y documéntela en la codebase, por ejemplo, en `CONTRIBUTING` o `README`.
-* Utiliza un linter.
-* Añade configuraciones de linter a la codebase.
+* Crear, seguir y mejorar continuamente una guía de estilo para el código fuente, las pruebas o tests y la documentación, y documéntela en la codebase, por ejemplo, en `CONTRIBUTING` o `README`.
+* Utilizar un linter.
+* Añadir configuraciones de linter a la codebase.
 
-## Further reading
+## Más información
 
 * [Lista de linters](https://github.com/caramelomartins/awesome-linters) por Hugo Martins.
 * [Estilo de programación](https://en.wikipedia.org/wiki/Programming_style) en Wikipedia.

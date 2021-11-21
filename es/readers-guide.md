@@ -8,7 +8,7 @@ Debajo se encuentra una breve explicación de cada una de estas secciones y cóm
 
 Esta sección lista lo que necesita ser desarrollado para cumplir con el estándar.
 
-Para limitar la ambigüedad, las palabras clave "DEBE", "NO DEBE", "REQUIERE", "PODRÍA", "NO PODRÍA", "DEBERÍA", "NO DEBERÍA", "RECOMIEDA",  "PUEDE", and "OPCIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
+Para limitar la ambigüedad, las palabras clave "DEBE", "NO DEBE", "REQUIERE", "PODRÍA", "NO PODRÍA", "DEBERÍA", "NO DEBERÍA", "RECOMIENDA",  "PUEDE", y "OPCIONAL" de este documento deben ser interpretadas de acuerdo con el documento [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
 
 ## Por qué es importante
 
@@ -18,12 +18,12 @@ Esta sección explica por qué es importante seguir los requisitos para personas
 
 Esta sección gestiona expectativas a través de la explicación de requisitos que el criterio no cumplirá.
 
-Esto ayuda:
+Esto ayuda a:
 
-* con una correcta aplicación del Estándar
-* a asegurarse de que no aparecen questiones improvistas
+* Aplicar de manera correcta el Estándar.
+* Asegurarse de que surjan imprevistos.
 
-## Cómo testear
+## Cómo probar
 
 Esta sección ofrece acciones que puedes llevar a cabo para comprobar si una contribución cumple con el Estándar. Resulta muy importante si quieres hacer operativo el Estándar.
 
@@ -39,7 +39,7 @@ Las personas responsables políticas establecen las prioridades y objetivos de l
 
 Esta sección trata de dirigirse específicamente a personas directivas, ofreciéndoles acciones concretas que pueden llevar a cabo en su función.
 
-La dirección es responsable de la entrega del proyecto a tiempo, de la gestión de las partes interesadas y de la prestación continua del servicio. Para ello depende totalmente tanto de responsables políticos como de profesionales del desarrollo y diseño. Tienen que crear la cultura adecuada, alinear los recursos correctos y proporcionar las estructuras adecuadas para prestar grandes servicios.
+La dirección es responsable de la entrega del proyecto a tiempo, de la gestión de las partes interesadas y de la prestación continua del servicio. Para ello depende totalmente tanto de responsables políticos como de profesionales del desarrollo y diseño. Debe crear la cultura adecuada, alinear los recursos correctos y proporcionar las estructuras adecuadas para prestar grandes servicios.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 

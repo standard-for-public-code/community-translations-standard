@@ -2,9 +2,9 @@
 
 Te damos la bienvenida al Estándar para el Código Público o Standard for Public Code.
 
-Definimos «código público» o *public code* como software open source desarrollado por organizaciones públicas, junto a las políticas y directrices necesarias para su reutilización.
+Definimos «código público» o *public code* como software de código abierto desarrollado por organizaciones públicas, junto a las políticas y directrices necesarias para su reutilización.
 
-El Estándar para el Código Público o Standard for Public Code ofrece a las organizaciones públicas un modelo para construir sus propias soluciones open source que posibilitan su futura reutilización con éxito por parte de organizaciones públicas similares en otros lugares. Incluye directrices para aquellas personas a cargo de políticas, de administraciones municipales, de desarrollo de software y empresas colaboradoras.
+El Estándar para el Código Público o Standard for Public Code ofrece a las organizaciones públicas un modelo para construir sus propias soluciones de código abierto que posibilitan su futura reutilización con éxito por parte de organizaciones públicas similares en otros lugares. Incluye directrices para aquellas personas a cargo de políticas, de administraciones municipales, de desarrollo de software y empresas colaboradoras.
 
 * [Introducción y contexto](introduction.md)
 * [Guía de lectura: cómo interpretar este estándar](readers-guide.md)

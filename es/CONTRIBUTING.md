@@ -26,7 +26,7 @@ Este proyecto utiliza el [modelo y flujo de trabajo de branching de GitFlow](htt
 
 Añade tus cambios en commits [con un mensaje que los explique](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Documenta las opciones o decisiones que tomes en el mensaje de confirmación, esto permitirá que todas las personas involucradas en el proyecto estén informadas de tus elecciones en el futuro.
 
-Si estás añadiendo código, asegúrate de que has añadido y actualizado la documentación y los tests pertinentes antes de enviar tu pull request. Asegúrate de escribir tests que muestren el comportamiento del código recién añadido o modificado.
+Si estás añadiendo código, asegúrate de que has añadido y actualizado la documentación y las pruebas pertinentes antes de enviar tu pull request. Asegúrate de escribir tests que muestren el comportamiento del código recién añadido o modificado.
 
 ### 2. Pull request
 
@@ -36,7 +36,7 @@ Cuando envíes una pull request, por favor, acompáñala de una descripción del
 
 Todas las contribuciones tienen que ser revisadas por alguien.
 
-Puede darse que tu contribución pueda ser implementada inmediatamente por una de las personas que mantienen la codebase. De todas formas, normalmente, una nueva pull request necesita de algunas mejoras antes de poder ser aceptada. Otros contribuyentes (o robots auxiliares) pueden tener feedback. Si este es el caso, las personas responsables del mantenimiento te ayudarán a mejorar tu documentación y código.
+Puede darse que tu contribución pueda ser implementada inmediatamente por una de las personas que mantienen el codebase. En todo caso, una nueva pull request generalmente necesita de algunas mejoras antes de poder ser aceptada. Otros contribuyentes (o robots auxiliares) pueden dar retroalimenación. Si este es el caso, las personas responsables del mantenimiento te ayudarán a mejorar tu documentación y código.
 
 Tu documentación y código serán aceptados una vez hayan pasado por una revisión humana.
 
