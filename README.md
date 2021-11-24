@@ -29,6 +29,7 @@ While print.html is a large file, the only text that needs to be translated are 
 | English text |
 |-|
 | Request for contributions |
+| Standard for Public Code |
 | Table of Contents |
 | Authors | 
 | Introduction |
