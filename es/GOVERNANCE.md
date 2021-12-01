@@ -1,6 +1,6 @@
 # Gobernanza
 
-Este estándar es el núcleo de la tutela o stewardship de codebases que ofrece la [Foundation for Public Code](https://publiccode.net/). Decidimos si una codebase está lista para el codesarrollo de la comunidad basándonos en este documento.
+Este estándar es el núcleo de la tutela o stewardship de codebases que ofrece la [Foundation for Public Code](https://publiccode.net/). Decidimos si una codebase está lista para el co-desarrollo de la comunidad basándonos en este documento.
 
 El personal de la Foundation for Public Code mantiene el estándar.
 

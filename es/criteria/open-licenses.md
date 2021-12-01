@@ -2,7 +2,7 @@
 order: 13
 ---
 
-# Publicar con una licencia en abierto
+# Publicar con una licencia abierta
 
 ## Requisitos
 
@@ -21,7 +21,7 @@ order: 13
 
 * Previene el uso del código por parte de actores específicos.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
 * Hay al menos un archivo de licencia presente en la codebase, normalmente llamado 'license'.
 * La licencia del código fuente está en la [lista de licencias de código abierto aprobadas por la OSI](https://opensource.org/licenses/category) y la licencia de la documentación es [conforme a la definición de abierto](https://opendefinition.org/licenses/).
@@ -30,17 +30,17 @@ order: 13
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Desarrollar una política que exija que el código sea código abierto.
-* Desarrollar una política que desincentive el código y la tecnología que no sean código abierto en la contratación pública.
+* Desarrollar una política que desincentive el código y la tecnología que no sean de código abierto en la contratación pública.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Trabaja solo con proveedores de código abierto que entreguen su código publicándolo bajo una licencia de código abierto.
-* Ten en cuenta que aunque las [licencias Creative Commons](https://creativecommons.org/licenses/) son estupendas para la documentación, las licencias que estipulan 'No Comercial' o 'No Derivatives' NO pueden reutilizarse, modificarse y redistribuirse libremente; y por tanto, no cumplen estos requisitos.
+* Trabajar solo con proveedores de código abierto que entreguen su código publicándolo bajo una licencia de código abierto.
+* Tener en cuenta que aunque las [licencias Creative Commons](https://creativecommons.org/licenses/) son estupendas para la documentación, las licencias que estipulan 'No Comercial' o 'No Derivatives' NO pueden reutilizarse, modificarse y redistribuirse libremente; y por tanto, no cumplen estos requisitos.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Añade un nuevo fichero `license` a cada nueva codebase creada.
-* Añade un aviso de copyright y una cabecera de licencia a cada nuevo archivo de código fuente creado.
+* Añadir un nuevo fichero `license` a cada nueva codebase creada.
+* Añadir un aviso de copyright y una cabecera de licencia a cada nuevo archivo de código fuente creado.
 
 ## Más información
 

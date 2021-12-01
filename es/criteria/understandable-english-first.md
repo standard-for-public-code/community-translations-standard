@@ -23,30 +23,28 @@ order: 10
 ## Qué no hace
 
 * Hacer comprensibles las explicaciones de la funcionalidad de la codebase.
-* Haz que la jerga de tu organización sea comprensible sin una explicación.
+* Hacer que la jerga de tu organización sea comprensible sin una explicación.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
-* Comprueba que las traducciones y la versión en inglés tienen el mismo contenido.
-* Valida que la documentación no contenga acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio sin explicar.
-* Comprueba la gramática de la documentación con [Grammarly](https://www.grammarly.com/).
-* Comprueba la legibilidad de la documentación con [Hemingway text editor](https://hemingwayapp.com/).
-* Pregunta a alguien fuera de tu contexto si entiende su contenido (por ejemplo, un desarrollador que trabaje en una la codebase diferente).
+* Verificar que las traducciones y la versión en inglés tienen el mismo contenido.
+* Validar que la documentación no contenga acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio sin explicar.
+* Comprobar la gramática de la documentación con [Grammarly](https://www.grammarly.com/).
+* Comprobar la legibilidad de la documentación con [Hemingway text editor](https://hemingwayapp.com/).
+* Preguntr a alguien fuera de tu contexto si entiende su contenido (por ejemplo, un desarrollador que trabaje en una la codebase diferente).
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Prueba con frecuencia con otras personas directivas, diseñadoras y desarrolladoras del proceso si entienden lo que estás entregando y cómo lo documentas.
+* Probar con frecuencia con otras personas directivas, diseñadoras y desarrolladoras del proceso si entienden lo que esta siendo entregando y cómo está documentado.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Intenta limitar el uso de acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio en las comunicaciones internas en y entre los equipos y las partes interesadas.
-* Sé una persona crítica con la documentación y las descripciones de las propuestas y los cambios: si no entiendes algo, es probable que los demás también tengan problemas con ello.
+* Intentar limitar el uso de acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio en las comunicaciones internas en y entre los equipos y las partes interesadas.
+* Ser una persona crítica con la documentación y las descripciones de las propuestas y los cambios: si no entiendes algo, es probable que los demás también tengan problemas con ello.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-## Developers and designers: what you need to do
-
-* Realiza tests con legisladores y responsables de políticas y personas directoras de equipos. Comprueba si comprenden lo que estás entregando y cómo lo documentas.
+* Realizar pruebas o tests frecuentemente con responsables de políticas y personas directoras de equipos. si comprenden lo que está siendo entregando y cómo está documentado.
 
 ## Más información
 

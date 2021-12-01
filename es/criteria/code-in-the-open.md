@@ -15,32 +15,32 @@ order: 1
 
 Mantener el código en abierto:
 
-* mejora la transparencia
-* aumenta la calidad del código
-* facilita las auditorías
+* Mejora la transparencia.
+* Aumenta la calidad del código.
+* Facilita las auditorías.
 
 ## Qué no hace
 
 * Hace el código fuente o política reusable.
 * Hace entendibles al mayor número de personas posible la codebase y el código que contiene.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
-El origen de cada versión en uso es publicado en internet donde puede ser visto:
+La fuente de cada versión en uso es publicado en internet donde puede ser visto:
 
-* desde fuera de la organización que ha contribuido
-* sin la necesidad de forma alguna de autentificación o autorización
+* Desde fuera de la organización que ha contribuido.
+* Sin la necesidad de forma alguna de autentificación o autorización.
 
-Por cada commit, los revisores o reviewers verifican que el contenido no incluye informaicón sensible como pueden ser configuraciones, nombres de usuarios o contraseñas, claves públicas o cualquier otra credencial utilizada en sistemas en producción.
+Por cada commit, los revisores o reviewers verifican que el contenido no incluye información sensible como pueden ser configuraciones, nombres de usuarios o contraseñas, claves públicas o cualquier otra credencial utilizada en sistemas en producción.
 
-## Responsables políticos o legistadores: qué necesitan hacer
+## ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Desarrollar políticas en abierto.
-* Priorizar políticas en abierto y transparentes.
+* Desarrollar políticas de forma abierta.
+* Priorizar políticas abiertas y transparentes.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Desarrollar una cultura que abrace la apertura, el aprendizaje y la retroalimentación.
+* Desarrollar una cultura que acoja la apertura, el aprendizaje y la retroalimentación.
 * Colaborar con empresas externas y profesionales autónomos a través del trabajo en abierto.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
@@ -49,8 +49,8 @@ Por cada commit, los revisores o reviewers verifican que el contenido no incluye
 
 ## Más información (en inglés)
 
-* [Mantener el código en abierto](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) por el Servicio del Gobierno Digital del Reino Unido.
-* [Cuándo el código debería de estar en abierto y cuándo cerrado](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) by the UK Government Digital Service.
-* [Consideraciones de seguridad cuando se considere el código en abierto](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) por el Servicio del Gobierno Digital del Reino Unido.
+* [Desarrollando código en abierto](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) por el Servicio del Gobierno Digital del Reino Unido.
+* [Cuándo el código debería ser abierto y cuándo cerrado](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) by the UK Government Digital Service.
+* [Consideraciones de seguridad cuando se desarrolla con código en abierto](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) por el Servicio del Gobierno Digital del Reino Unido.
 * [Desplegando el software con regularidad](https://www.gov.uk/service-manual/technology/deploying-software-regularly) por el Servicio del Gobierno Digital del Reino Unido.
 * [Cómo GDS usa GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/) por el Servicio del Gobierno Digital del Reino Unido.

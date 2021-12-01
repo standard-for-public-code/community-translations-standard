@@ -22,14 +22,14 @@ order: 5
 
 * Garantizar que otros reutilicen la codebase.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
 * Hay un issue tracker o rastreador de problemas público.
 * Es posible participar en una discusión con otros usuarios sobre el software.
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Seguir las cuestiones de políticas en la codebase, para que un experto externo en políticas pertinentes pueda ofrecer ayuda.
+* Hacer seguimiento a los problemas de políticas en la codebase, para que un experto externo en políticas pertinentes pueda ofrecer ayuda.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 

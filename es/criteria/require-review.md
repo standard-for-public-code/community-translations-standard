@@ -20,26 +20,19 @@ order: 7
 
 * Aumenta la calidad de la codebase.
 * Reduce los riesgos de seguridad y los riesgos operativos.
-* Crea una cultura de hacer que cada contribución sea grande.
-* Atrapa los errores más obvios que puedan ocurrir.
+* Crea una cultura de hacer que cada contribución sea de alta calidad.
+* Detecta los errores más obvios que puedan ocurrir.
 * Da a los contribuyentes la seguridad de que sus contribuciones sólo se aceptan si realmente añaden valor.
 * Asegura a los contribuyentes un tiempo garantizado para la retroalimentación o la mejora colaborativa.
 
-## What this does not do
-
-* Guarantee the right solution to a problem.
-* Mean that reviewers are liable.
-* Absolve a contributor from writing documentation and tests.
-* Provide you with the right reviewers.
-
 ## Qué no hace
 
-* Garantizar la solución correcta de un problema.
-* Implicar que los revisores son responsables.
-* Absolver a un colaborador de escribir la documentación y los tests o pruebas.
-* Proporcionar los revisores adecuados.
+* Garantizar la solución adecuada a un problema dado.
+* Asegurar que los revisores son responsables.
+* Libera al contribuyente de tener que escribir documentación y pruebas.
+* Proveer los revisores adecuados.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
 * Cada commit del historial ha sido revisado por un colaborador diferente en un contexto distinto.
 
@@ -50,15 +43,15 @@ order: 7
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Haz que la entrega de un código de buena calidad sea un objetivo compartido.
-* Asegúrate de que la escritura y la revisión de las contribuciones al código fuente, las políticas, la documentación y las pruebas o tests se consideren igualmente valiosas.
-* Crea una cultura en la que todas las contribuciones sean bienvenidas y todo el mundo esté capacitado para revisarlas.
-* Asegúrate de que ninguna persona colaboradora esté sola al contribuir a la codebase.
+* Hacer que la entrega de un código de buena calidad sea un objetivo común.
+* Asegurarse de que la escritura y revisión de las contribuciones al código fuente, las políticas, la documentación y las pruebas o tests se consideren igualmente valiosas.
+* Crear una cultura en la que todas las contribuciones sean bienvenidas y, en la que todas y todos estén empoderados para revisarlas.
+* Asegurarse de que ninguna persona colaboradora esté sola al contribuir a la codebase.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Pide a otros colaboradores de la codebase que revisen tu trabajo, en tu organización o fuera de ella.
-* Intenta responder a las solicitudes de revisión de código de otros con prontitud, proporcionando inicialmente información sobre el concepto del cambio.
+* Pedir a otros colaboradores de la codebase que revisen su trabajo, en su organización o fuera de ella.
+* Intentar responder a las solicitudes de revisión de código de otros con prontitud, proporcionando inicialmente información sobre el concepto del cambio.
 
 ## Más información
 

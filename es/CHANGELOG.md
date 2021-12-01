@@ -5,11 +5,11 @@
 1 de marzo de 2021: 🧽 el séptimo borrador contiene ligeras mejoras tras la versión 0.2.0.
 
 * Nuevo requisito DEBERÍA en cuanto al uso de un sistema de control de versiones y por qué distribuido es importante.
-* Los requisitos de feedback para las contribuciones rechazadas son más estrictos que los aceptados.
-* Especifica que los avisos de copyright y de licencia deben ser legibles por la máquina.
+* Los requisitos de retroalimentación para las contribuciones rechazadas son más estrictos que los aceptados.
+* Especifica que los avisos de derechos de autor y de licencia deben ser legibles por la máquina.
 * Asesora cómo comprobar que los avisos son legibles por la máquina.
-* Aclara de la guía para las publicaciones periódicas.
-* Aclara la definición de control de versiones en el glosario.
+* Aclaración sobre la guía para las publicaciones periódicas.
+* Aclaración sobre la definición de control de versiones en el glosario.
 * Añade más lecturas que fomenten la contribución, SPDX, Git y la revisión de las contribuciones.
 * Añade enlaces a vídeos sobre el concepto de código público.
 * Actualiza el enlace BPMN.
@@ -21,7 +21,7 @@
 
 26 de octubre de 2020: 🎊 el sexto borrador parte un requisito y añade claridad.
 
-* Divide el criterio «Las colaboradoraciones son bienvenidas» ("Welcome contributors") en «Hacer que las contribuciones sean fáciles» ("Make contributing easy") y «Las colaboradoraciones son bienvenidas» ("Welcome contributors").
+* Divide el criterio «Las colaboraciones son bienvenidas» ("Welcome contributors") en «Hacer que las contribuciones sean fáciles» ("Make contributing easy") y «Las colaboraciones son bienvenidas» ("Welcome contributors").
 * Cambia el nombre del criterio «Prestar atención a la madurez de la codebase» ("Pay attention to codebase maturity") por «Documentar la madurez de la codebase» ("Document codebase maturity").
 * Cambia DEBE por DEBERÍA para el requisito de codebase en uso por múltiples partes.
 * Añade el requisito de NO DEBE con respecto a la cesión de derechos de autor.
@@ -35,7 +35,7 @@
 
 ## Versión 0.1.4
 
-27 de noviembre de 2019: 🧹 el quinto borrador consiste principalmente de correcciones adiccionales menores.
+27 de noviembre de 2019: 🧹 el quinto borrador consiste principalmente de correcciones adicionales menores.
 
 * Enlazado el fichero License.md.
 * Añade a Sky Bristol, Marcus Klaas de Vries y Jan Ainali a la lista de autores y autoras.
@@ -54,7 +54,7 @@
 
 22 de agosto de 2019: 🌠 el tercer borrador se centra en un mejor texto y tiene en cuenta los aportes de la comunidad.
 
-* Con nuevas colaboradoraciones, la lista de autoras/es es nueva.
+* Con nuevas colaboraciones, la lista de autoras/es es nueva.
 * Todos los enlaces son ahora HTTPS.
 * Corrección general, aclaración de la redacción y eliminación de errores tipográficos.
 * Criterios actualizados:
@@ -64,7 +64,7 @@
   * Recomendación para las cabeceras de licencia en los archivos
   * Recomendación para la notificación de vulnerabilidades
   * Recomendación para la documentación explícita de la gobernanza
-  
+
 ## Versión 0.1.1
 
 9 de mayo de 2019: 🤔 el segundo borrador corrige una serie de errores básicos y faltas tipográficas.

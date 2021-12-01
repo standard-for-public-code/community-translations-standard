@@ -6,7 +6,7 @@ Cualquier sistema de normas descrito explícitamente. Esto incluye leyes, polít
 
 ## Codebase
 
-ACualquier paquete discreto de código (tanto código fuente como políticas), los tests y la documentación necesaria para implementar una pieza de política o software.
+Cualquier paquete discreto de código (tanto código fuente como políticas), sus pruebas y documentación necesaria para implementar una pieza de política o software.
 
 Puede ser, por ejemplo, un documento o un repositorio de control de versiones.
 
@@ -50,7 +50,7 @@ Dado que el código público sirve al interés público, debe ser abierto, legib
 Al desarrollar el código público independientemente del contexto local para el que se desarrolló, sin dejar de ser implementable, así como documentando el proceso de desarrollo abiertamente, el código público puede proporcionar un bloque de construcción para que otros puedan:
 
 * Reimplementar en su contexto local.
-* tomar como punto de partida para continuar el desarrollo
+* tomar como punto de partida para continuar el desarrollo.
 * Utilizarlo como base de aprendizaje.
 
 Para facilitar la reutilización, el código público debe ser de dominio público o tener una licencia abierta que permita a otros ver y reutilizar el trabajo libremente y producir obras derivadas.
