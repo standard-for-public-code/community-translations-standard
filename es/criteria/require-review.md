@@ -50,7 +50,7 @@ order: 7
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Pedir a otros colaboradores de la codebase que revisen sy trabajo, en su organización o fuera de ella.
+* Pedir a otros colaboradores de la codebase que revisen su trabajo, en su organización o fuera de ella.
 * Intentar responder a las solicitudes de revisión de código de otros con prontitud, proporcionando inicialmente información sobre el concepto del cambio.
 
 ## Más información

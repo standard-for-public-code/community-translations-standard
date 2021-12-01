@@ -47,7 +47,7 @@ order: 3
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
 * El código fuente deben estar diseñadas para ser reutilizadas por otros usuarios y organizaciones.
-* El código fiente debe estar diseñada para resolver un problema general en lugar de uno específico.
+* El código fuente debe estar diseñada para resolver un problema general en lugar de uno específico.
 * Alguien en una organización similar que se enfrente a un problema similar debería poder utilizar tu solución.
 
 ## Más información

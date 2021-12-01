@@ -29,7 +29,7 @@ Esta sección ofrece acciones que puedes llevar a cabo para comprobar si una con
 
 Hemos tratado de redactarlo de manera que alguien que no esté muy familiarizado con el tema pueda hacer una comprobación básica de su cumplimiento.
 
-## Responsables políticos o legistadores: qué necesitan hacer
+## Responsables políticos o legisladores: qué necesitan hacer
 
 Esta sección trata de dirigirse específicamente a responsables políticos ofreciéndoles acciones concretas que pueden llevar a cabo en su función.
 

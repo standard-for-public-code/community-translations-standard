@@ -31,9 +31,9 @@ La fuente de cada versión en uso es publicado en internet donde puede ser visto
 * Desde fuera de la organización que ha contribuido.
 * Sin la necesidad de forma alguna de autentificación o autorización.
 
-Por cada commit, los revisores o reviewers verifican que el contenido no incluye informaicón sensible como pueden ser configuraciones, nombres de usuarios o contraseñas, claves públicas o cualquier otra credencial utilizada en sistemas en producción.
+Por cada commit, los revisores o reviewers verifican que el contenido no incluye información sensible como pueden ser configuraciones, nombres de usuarios o contraseñas, claves públicas o cualquier otra credencial utilizada en sistemas en producción.
 
-## Responsables políticos o legistadores: qué necesitan hacer
+## ## Responsables de políticas y legislaciones: qué necesitan hacer
 
 * Desarrollar políticas de forma abierta.
 * Priorizar políticas abiertas y transparentes.

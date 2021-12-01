@@ -2,29 +2,29 @@
 order: 4
 ---
 
-# Las colaboradoraciones son bienvenidas
+# Las colaboraciones son bienvenidas
 
 ## Requisitos
 
-* The codebase DEBE permitir que cualquiera envíe sugerencias de cambios en la codebase.
-* The codebase DEBE incluir directrices de contribución que explican qué tipo de contribuciones son bienvenidas y cómo pueden participar los contribuyentes, por ejemplo en un archivo `CONTRIBUTING`.
-* The codebase DEBERÍA anunciar el compromiso de las organizaciones implicadas en el desarrollo y el mantenimiento.
-* The codebase DEBERÍA documentar la gobernanza de la codebase, las contribuciones y su comunidad, por ejemplo en un fichero `GOVERNANCE`.
-* The codebase DEBERÍA tener un roadmap u hoja de ruta pública.
-* The codebase PUEDE incluir un código de conducta para aquellos que quieran contribuir.
+* La codebase DEBE permitir que cualquiera envíe sugerencias de cambios en la codebase.
+* La codebase DEBE incluir directrices de contribución que explican qué tipo de contribuciones son bienvenidas y cómo pueden participar los contribuyentes, por ejemplo en un archivo `CONTRIBUTING`.
+* La codebase DEBERÍA anunciar el compromiso de las organizaciones implicadas en el desarrollo y el mantenimiento.
+* La codebase DEBERÍA documentar la gobernanza de la codebase, las contribuciones y su comunidad, por ejemplo en un fichero `GOVERNANCE`.
+* La codebase DEBERÍA tener un roadmap u hoja de ruta pública.
+* La codebase PUEDE incluir un código de conducta para aquellos que quieran contribuir.
 
 ## Por qué es importante
 
 * Ayuda a los recién llegados a entender y confiar en el liderazgo de la comunidad de la codebase.
 * Evita que la comunidad que trabaja en una codebase se divida porque no hay forma de influir en sus objetivos y progresos, lo que da lugar a comunidades divergentes.
-* Ayuda a los usuarios a decidirse por una codebase en lugar de otro.
+* Ayuda a los usuarios a decidirse por una codebase en lugar de otra.
 
-## WQué no hace
+## Qué no hace
 
 * Garantizar que otros se unan a la comunidad.
 * Garantizar que otros reutilicen la codebase.
 
-## Cómo testear
+## Cómo probar o hacer tests
 
 * Es posible enviar sugerencias de cambios en la codebase.
 * Existen directrices de contribución.
@@ -32,18 +32,18 @@ order: 4
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Añade una lista a la codebase de cualquier otro recurso que los expertos en políticas, las organizaciones no gubernamentales y los académicos puedan encontrar útil para entender o reutilizar su política.
-* Considera la posibilidad de añadir datos de contacto para que otros responsables políticos que estén considerando la reutilización puedan pedir consejo.
+* Añadir una lista a la codebase de cualquier otro recurso que las personas expertas en políticas, en un entorno académico y las organizaciones no gubernamentales puedan encontrar útil para entender o reutilizar dichas políticas.
+* Considerar la posibilidad de añadir datos de contacto para que otros responsables políticos que estén considerando la reutilización puedan pedir consejo.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Asegúrate de que la documentación explica cómo participa tu organización en la codebase, de qué recursos dispone y durante cuánto tiempo.
-* Apoya a sus responsables políticos, profesionales del desarrollo y el diseño experimentados para que sigan formando parte de la comunidad el mayor tiempo posible.
+* Asegurarse de que la documentación explica cómo participa tu organización en la codebase, de qué recursos dispone y durante cuánto tiempo.
+* Apoyar a sus responsables políticas, profesionales del desarrollo y el diseño con experiencia para que sigan formando parte de la comunidad el mayor tiempo posible.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Responde con prontitud a las solicitudes.
-* Mantén a tu dirección informada del tiempo y los recursos que necesitas para apoyar a otros colaboradores.
+* Responder con prontitud a las solicitudes.
+* Mantener a tu dirección informada del tiempo y los recursos que necesitas para apoyar a otros colaboradores.
 
 ## Más información
 

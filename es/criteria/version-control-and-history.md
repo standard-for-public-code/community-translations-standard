@@ -10,7 +10,7 @@ order: 6
 * Todos los archivos de una codebase DEBEN ser controlados por versiones.
 * Todas las decisiones DEBEN estar documentadas en los mensajes de confirmación.
 * Cada mensaje de confirmación DEBE enlazar con las discusiones y problemas siempre que sea posible.
-* La codebase DEBERÍA ser mantenido en un sistema de control de versiones distribuido.
+* La codebase DEBERÍA ser mantenida en un sistema de control de versiones distribuido.
 * Los colaboradores DEBERÍAN agrupar los cambios relevantes en los commits.
 * Los mantenedores DEBERÍAN marcar las versiones liberadas de la codebase, por ejemplo usando etiquetas de revisión o etiquetas textuales.
 * Los contribuyentes DEBERÍAN preferir formatos de archivo donde los cambios dentro de los archivos puedan ser fácilmente vistos y entendidos en el sistema de control de versiones.
