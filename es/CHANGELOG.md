@@ -6,8 +6,8 @@
 
 * Nuevo requisito DEBERÍA en cuanto al uso de un sistema de control de versiones y por qué distribuido es importante.
 * Los requisitos de retroalimentación para las contribuciones rechazadas son más estrictos que los aceptados.
-* Especifica que los avisos de derechos de autor y de licencia deben ser legibles por un computador.
-* Asesora cómo comprobar que los avisos son legibles por un computador.
+* Especifica que los avisos de derechos de autor y de licencia deben ser legibles por la máquina.
+* Asesora cómo comprobar que los avisos son legibles por la máquina.
 * Aclaración sobre la guía para las publicaciones periódicas.
 * Aclaración sobre la definición de control de versiones en el glosario.
 * Añade más lecturas que fomenten la contribución, SPDX, Git y la revisión de las contribuciones.
@@ -22,7 +22,7 @@
 26 de octubre de 2020: 🎊 el sexto borrador parte un requisito y añade claridad.
 
 * Divide el criterio «Las colaboraciones son bienvenidas» ("Welcome contributors") en «Hacer que las contribuciones sean fáciles» ("Make contributing easy") y «Las colaboraciones son bienvenidas» ("Welcome contributors").
-* Cambia el nombre del criterio «Prestar atención a la madurez del codebase» ("Pay attention to codebase maturity") por «Documentar la madurez del codebase» ("Document codebase maturity").
+* Cambia el nombre del criterio «Prestar atención a la madurez de la codebase» ("Pay attention to codebase maturity") por «Documentar la madurez de la codebase» ("Document codebase maturity").
 * Cambia DEBE por DEBERÍA para el requisito de codebase en uso por múltiples partes.
 * Añade el requisito de NO DEBE con respecto a la cesión de derechos de autor.
 * Aclara el papel de la configuración en el requisito de código reutilizable.
@@ -58,13 +58,13 @@
 * Todos los enlaces son ahora HTTPS.
 * Corrección general, aclaración de la redacción y eliminación de errores tipográficos.
 * Criterios actualizados:
-  * Requisito de reutilización en diferentes contextos.
-  * Recomendación para el versionado explícito.
-  * Recomendación para el desarrollo multipartito.
-  * Recomendación para las cabeceras de licencia en los archivos.
-  * Recomendación para la notificación de vulnerabilidades.
-  * Recomendación para la documentación explícita de la gobernanza.
-  
+  * Requisito de reutilización en diferentes contextos
+  * Recomendación para el versionado explícito
+  * Recomendación para el desarrollo multipartito
+  * Recomendación para las cabeceras de licencia en los archivos
+  * Recomendación para la notificación de vulnerabilidades
+  * Recomendación para la documentación explícita de la gobernanza
+
 ## Versión 0.1.1
 
 9 de mayo de 2019: 🤔 el segundo borrador corrige una serie de errores básicos y faltas tipográficas.
