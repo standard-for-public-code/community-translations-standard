@@ -28,11 +28,11 @@ order: 7
 ## Qué no hace
 
 * Garantizar la solución adecuada a un problema dado.
-* Asegurar que los revisores son confiables.
+* Asegurar que los revisores son responsables.
 * Libera al contribuyente de tener que escribir documentación y pruebas.
 * Proveer los revisores adecuados.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Cada commit del historial ha sido revisado por un colaborador diferente en un contexto distinto.
 
@@ -46,7 +46,7 @@ order: 7
 * Hacer que la entrega de un código de buena calidad sea un objetivo común.
 * Asegurarse de que la escritura y revisión de las contribuciones al código fuente, las políticas, la documentación y las pruebas o tests se consideren igualmente valiosas.
 * Crear una cultura en la que todas las contribuciones sean bienvenidas y, en la que todas y todos estén empoderados para revisarlas.
-* Asegyrarse de que ninguna persona colaboradora esté sola al contribuir a la codebase.
+* Asegurarse de que ninguna persona colaboradora esté sola al contribuir a la codebase.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 

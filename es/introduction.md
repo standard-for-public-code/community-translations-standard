@@ -20,7 +20,7 @@ El software es una infraestructura pública.
 
 En el siglo XXI el software puede ser considerado una infraestructura pública vital. Cada vez más, no es sólo la expresión de la política existente, sino el creador de nuevas políticas, por ejemplo, cuando los algoritmos deciden qué distritos necesitan servicios sociales o policiales adicionales.
 
-La mecánica de los programas informáticos, los algoritmos y la recolección de datos se han convertido en un elemento clave para la ejecución de las políticas públicas. El código informático ejecuta ahora políticas que han sido programadas en el código legal a través de procedimientos democráticos. Ambas formas de código establecen las condiciones para que la sociedad funcione de acuerdo con los valores públicos fijados democráticamente; el último ejecutado por humanos, el primero por máquinas. En otras palabras, el código del software ha empezado a equivaler cada vez más al código legal.
+La mecánica de los programas informáticos, los algoritmos y la recolección de datos se ha convertido en un elemento clave para la ejecución de las políticas públicas. El código informático ejecuta ahora políticas que han sido programadas en el código legal a través de procedimientos democráticos. Ambas formas de código establecen las condiciones para que la sociedad funcione de acuerdo con los valores públicos fijados democráticamente, el último ejecutado por humanos, el primero por máquinas. En otras palabras, el código del software ha empezado a equivaler cada vez más al código legal.
 
 Por tanto, el software debería estar sujeto a los principios de la gobernanza democrática.
 
@@ -54,7 +54,7 @@ El software público debe por tanto ser:
 
 Debe reflejar los valores de la sociedad a la que sirve. Por citar un caso: siendo inclusivo y no discriminatorio.
 
-La mayoría de los sistemas de software propietario utilizados actualmente por las organizaciones públicas no cumplen estos requisitos. El código público - el software construido para funcionar con y como infraestructura pública, junto con los acuerdos para su producción - sí lo hace.
+La mayoría de los sistemas de software propietario utilizados actualmente por las organizaciones públicas no cumplen estos requisitos. El código público —el software construido para funcionar con y como infraestructura pública, junto con los acuerdos para su producción— sí lo hace.
 
 ### Valores del código público
 
@@ -94,15 +94,15 @@ Para utilizar el código público existente, hay que especificar en el presupues
 
 ## Cumplimiento de normas o proceso de certificación
 
-La Foundation for Public Code se asegura de que las codebase bajo su tutela o dirección (y no *in incubation* o *in the attic* ) cumplan con el Estándar para el Código Público. Esto deja claro a los usuarios y colaboradores potenciales que la codebase es de alta calidad, y que las actualizaciones también lo serán.
+La Foundation for Public Code se asegura de que las codebase bajo su tutela o stewardship (y no *in incubation* o *in the attic*) cumplan con el Estándar para el Código Público. Esto deja claro a los usuarios y colaboradores potenciales que la codebase es de alta calidad, y que las actualizaciones también lo serán.
 
-La auditoría realizada por nuestra organización está pensada para complementar las pruebas automáticas, ya que las máquinas son excelentes para comprobar cosas como la sintaxis y si los resultados se ajustan a las expectativas. Las máquinas no pueden comprobar cosas que están destinadas a los humanos, como comprobar si la documentación es realmente comprensible y accesible en su contexto, si los mensajes de confirmación tienen sentido y si se siguen las directrices de la comunidad.
+La auditoría realizada por nuestra organización está pensada para complementar las pruebas o tests automáticos, ya que las máquinas son excelentes para comprobar cosas como la sintaxis y si los resultados se ajustan a las expectativas. Las máquinas no pueden comprobar cosas que están destinadas a los humanos, como comprobar si la documentación es realmente comprensible y accesible en su contexto, si los mensajes de confirmación tienen sentido y si se siguen las directrices de la comunidad.
 
 La auditoría pone a prueba toda la codebase, incluyendo el código fuente, la política, la documentación y la conversación para comprobar que se cumplen tanto las normas establecidas por nuestra organización como las normas establecidas en la propia codebase.
 
 ### Cómo funciona el proceso
 
-Cada vez que se sugiere una contribución a una codebase - por ejemplo, a través de una solicitud de merge - los [administradores de la codebase](https://about.publiccode.net/roles/) de nuestra organización auditarán la contribución para comprobar que cumple con el Estándar para el Código Público. Las nuevas contribuciones sólo pueden ser adoptadas en la codebase después de haber sido aprobadas conforme con el Estándar para el Código Público, y haber sido revisadas por otro contribuyente.
+Cada vez que se sugiere una contribución a una codebase —por ejemplo, a través de una solicitud de merge— los [administradores de la codebase](https://about.publiccode.net/roles/) de nuestra organización auditarán la contribución para comprobar que cumple con el Estándar para el Código Público. Las nuevas contribuciones sólo pueden ser adoptadas en la codebase después de haber sido aprobadas conforme con el Estándar para el Código Público, y haber sido revisadas por otro contribuyente.
 
 La auditoría se presenta como una revisión de la contribución. El administrador de la codebase da su opinión línea por línea y la conformidad, ayudando al contribuyente a mejorar su contribución. La solicitud de fusión no puede realizarse hasta que los administradores de la codebase hayan aprobado la contribución.
 
@@ -126,7 +126,7 @@ Este Estándar ayuda a profesionales del desarrollo, diseño, de la gestión de 
 * Tener un mayor control y capacidad de decisión sobre sus sistemas de IT.
 * Mejorar las relaciones con los proveedores con un mejor modelo económico.
 
-[La Foundation for Public Code](https://publiccode.net/) ayuda a las organizaciones públicas a compartir y adoptar software de código abierto, construir comunidades de desarrolladores sostenibles y crear un ecosistema próspero para el código público. Lo hace a través de la tutela o dirección de codebases. Para este proceso, los administradores de codebases utilizan el Estándar para el Código Público para asegurarse de que el código que supervisan es de alta calidad y puede ser mantenido de manera colaborativa.
+[La Foundation for Public Code](https://publiccode.net/) ayuda a las organizaciones públicas a compartir y adoptar software de código abierto, construir comunidades de desarrolladores sostenibles y crear un ecosistema próspero para el código público. Lo hace a través de la tutela o stewardship de codebases. Para este proceso, las personas que administran las codebases utilizan el Estándar para el Código Público para asegurarse de que el código que supervisan es de alta calidad y puede ser mantenido de manera colaborativa.
 
 Los usuarios potenciales de las codebases que cumplen con el Estándar para el Código Público pueden esperar que sean altamente reutilizables, fácilmente mantenibles y de alta calidad.
 

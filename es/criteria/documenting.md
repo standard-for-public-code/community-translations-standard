@@ -5,7 +5,7 @@ order: 9
 
 ## Requisitos
 
-* Toda la funcionalidad de la codebase - tanto las políticas como el código fuente - DEBE estar descrita en un lenguaje claramente comprensible para aquellos que entienden el propósito del código.
+* Toda la funcionalidad de la codebase —tanto las políticas como el código fuente— DEBE estar descrita en un lenguaje claramente comprensible para aquellos que entienden el propósito del código.
 * La documentación de la codebase DEBE contener:
   * Una descripción de cómo instalar y ejecutar el código fuente.
   * Ejemplos que demuestren la funcionalidad clave.
@@ -27,11 +27,11 @@ order: 9
 
 * Contribuir directamente a un código más reutilizable y portable (ver [Crear código reutilizable y portable](./reusable-and-portable-codebases.md)).
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Otras partes interesadas, profesionales de otras organizaciones públicas y el público en general encuentran la documentación clara y comprensible.
 * La documentación es generada a partir del código.
-* Los enlaces y las imágenes son probadas automáticamente.
+* Las imágenes y los enlaces son comprobados automáticamente.
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
@@ -45,8 +45,8 @@ order: 9
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Revisar regularmente cómo ha cambiado el código no fuente en la codebase.
-* Dar información sobre cómo hacer que la documentación no-fuente sea más clara.
+* Comprobar regularmente cómo ha cambiado el código no fuente en la codebase.
+* Dar información sobre cómo hacer que la documentación no fuente sea más clara.
 
 ## Más información (en inglés)
 

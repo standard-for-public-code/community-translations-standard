@@ -6,7 +6,7 @@ order: 8
 
 ## Requisitos
 
-* La codebase DEBE contener documentación de sus objetivos - como una declaración de misión y objetivos - que sea comprensible para profesionales del diseño y desarrollo, para que de esta manera puedan utilizar o contribuir a la codebase.
+* La codebase DEBE contener documentación de sus objetivos —como una declaración de misión y objetivos— que sea comprensible para profesionales del diseño y desarrollo, para que de esta manera puedan utilizar o contribuir a la codebase.
 * La documentación de la codebase DEBE describir claramente las conexiones entre los objetivos de las políticas y los objetivos de la propia codebase.
 * La codebase PUEDE contener documentación de sus objetivos para el público en general.
 
@@ -24,7 +24,7 @@ Documentar los objetivos de la codebase:
 * Garantizar contribuciones a la codebase.
 * Evitar que otras codebases intenten alcanzar los mismos objetivos.
 
-## Cómo probar
+## Cómo probar  o hacer tests
 
 Hay una entrada para los objetivos, la misión o la meta de la codebase en la documentación de la misma.
 

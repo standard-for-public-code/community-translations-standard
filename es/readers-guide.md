@@ -23,7 +23,7 @@ Esto ayuda a:
 * Aplicar de manera correcta el Estándar.
 * Asegurarse de que surjan imprevistos.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 Esta sección ofrece acciones que puedes llevar a cabo para comprobar si una contribución cumple con el Estándar. Resulta muy importante si quieres hacer operativo el Estándar.
 

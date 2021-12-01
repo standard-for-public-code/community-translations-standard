@@ -22,7 +22,7 @@ order: 5
 
 * Garantizar que otros reutilicen la codebase.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Hay un issue tracker o rastreador de problemas público.
 * Es posible participar en una discusión con otros usuarios sobre el software.
@@ -33,7 +33,7 @@ order: 5
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Hacer un seguimiento a los problemas de gestión en la codebase, para que los gestores externos con experiencia relevante puedan ayudar de forma voluntaria.
+* Hacer un seguimiento de los problemas de gestión en la codebase, para que los gestores externos con experiencia relevante puedan ayudar de forma voluntaria.
 * Apoyar a sus responsables políticos, desarrolladores y diseñadores experimentados para que sigan contribuyendo a la codebase durante el mayor tiempo posible.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer

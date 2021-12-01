@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# Código abierto
+# Código en abierto
 
 ## Requisitos
 
@@ -13,7 +13,7 @@ order: 1
 
 ## Por qué esto es importante
 
-Mantener el código abierto:
+Mantener el código en abierto:
 
 * Mejora la transparencia.
 * Aumenta la calidad del código.
@@ -24,7 +24,7 @@ Mantener el código abierto:
 * Hace el código fuente o política reusable.
 * Hace entendibles al mayor número de personas posible la codebase y el código que contiene.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 La fuente de cada versión en uso es publicado en internet donde puede ser visto:
 
@@ -41,7 +41,7 @@ Por cada commit, los revisores o reviewers verifican que el contenido no incluye
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
 * Desarrollar una cultura que acoja la apertura, el aprendizaje y la retroalimentación.
-* Colaborar con empresas externas y profesionales autónomos a través del trabajo abierto.
+* Colaborar con empresas externas y profesionales autónomos a través del trabajo en abierto.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
@@ -49,8 +49,8 @@ Por cada commit, los revisores o reviewers verifican que el contenido no incluye
 
 ## Más información (en inglés)
 
-* [Desarrollnado código abierto](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) por el Servicio del Gobierno Digital del Reino Unido.
+* [Desarrollando código en abierto](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) por el Servicio del Gobierno Digital del Reino Unido.
 * [Cuándo el código debería ser abierto y cuándo cerrado](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) by the UK Government Digital Service.
-* [Consideraciones de seguridad cuando se considere el código abierto](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) por el Servicio del Gobierno Digital del Reino Unido.
+* [Consideraciones de seguridad cuando se desarrolla con código en abierto](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) por el Servicio del Gobierno Digital del Reino Unido.
 * [Desplegando el software con regularidad](https://www.gov.uk/service-manual/technology/deploying-software-regularly) por el Servicio del Gobierno Digital del Reino Unido.
 * [Cómo GDS usa GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/) por el Servicio del Gobierno Digital del Reino Unido.

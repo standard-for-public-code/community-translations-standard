@@ -25,7 +25,7 @@ order: 10
 * Hacer comprensibles las explicaciones de la funcionalidad de la codebase.
 * Hacer que la jerga de tu organización sea comprensible sin una explicación.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Verificar que las traducciones y la versión en inglés tienen el mismo contenido.
 * Validar que la documentación no contenga acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio sin explicar.
@@ -40,11 +40,11 @@ order: 10
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
 * Intentar limitar el uso de acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio en las comunicaciones internas en y entre los equipos y las partes interesadas.
-* Ser crítico de la documentación y las descripciones de las propuestas y los cambios: si no entiendes algo, es probable que los demás también tengan problemas con ello.
+* Ser una persona crítica con la documentación y las descripciones de las propuestas y los cambios: si no entiendes algo, es probable que los demás también tengan problemas con ello.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 
-* Probar frecuentemente con responsables de políticas y personas directoras de equipos. si comprenden lo que está siendo entregando y cómo está documentado.
+* Realizar pruebas o tests frecuentemente con responsables de políticas y personas directoras de equipos. si comprenden lo que está siendo entregando y cómo está documentado.
 
 ## Más información
 

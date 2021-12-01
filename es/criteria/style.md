@@ -20,7 +20,7 @@ order: 14
 
 * Ayudar a los colaboradores a escribir bien o a explicar eficazmente lo que hacen.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Verificar si las contribuciones se ajustan a las guías de estilo especificadas en la documentación.
 

@@ -21,4 +21,4 @@ Este repositorio se rige por un [código de conducta](CODE_OF_CONDUCT.md), por f
 
 ## Licencia
 
-Todas las traducciones deben de ser licenciadas bajo [CC0 1.0](LICENSE).
+Todas las traducciones deben de estar recogidas bajo la licencia [CC0 1.0](LICENSE).

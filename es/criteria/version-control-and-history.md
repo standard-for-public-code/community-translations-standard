@@ -35,7 +35,7 @@ El control de versiones distribuido te permite:
 * Garantizar que el código se ejecute correctamente.
 * Garantizar los colaboradores.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * La codebase se mantiene en el control de versiones utilizando software como Git.
 * Todos los mensajes del commit messages explican:
@@ -45,7 +45,7 @@ El control de versiones distribuido te permite:
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Si se crea una nueva versión de la codebase debido a un cambio de política, asegúrarse de que quede claro en la documentación:
+* Si se crea una nueva versión de la codebase debido a un cambio de política, asegurarse de que quede claro en la documentación:
   * Cuál es el cambio en la política,
   * Cómo ha cambiado la codebase.
 

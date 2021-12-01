@@ -8,9 +8,9 @@ order: 15
 * Una codebase DEBE de ser versionada.
 * Una codebase que está lista para ser usada DEBE únicamente depender de otras codebases que también se encuentren preparadas para su uso.
 * Una codebase que no está lista para ser usada DEBE tener una de las siguientes etiquetas:
-  * prototype - para probar el 'look and feel' y para probar internamente el concepto de las posibilidades técnicas.
-  * alpha - para realizar pruebas guiados con un limitado grupo de usuarios.
-  * beta - para abrir las pruebas a una sección más amplia del público general, poor ejemplo para probar si la codebase tiene potencial escalable.
+  * prototype - para experimentar con el 'look and feel' y para probar internamente el concepto de las posibilidades técnicas.
+  * alpha - para realizar pruebas o tests guiados con un limitado grupo de usuarios.
+  * beta - para abrir las pruebas o tests a una sección más amplia del público general, poor ejemplo para probar si la codebase tiene potencial de escalabilidad.
   * pre-release version - código listo para ser publicado pero que no ha recibido aún una aprobación formal.
 * Una codebase DEBERÍA contener un registro de los cambios de versión a versión, por ejemplo en `CHANGELOG`.
 
@@ -22,7 +22,7 @@ Señalar claramente la madurez de una codebase ayuda a otros a decidir si reutil
 
 * Garantizar que otros usarán el código.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * La codebase tiene una estrategia de versionado que está documentada.
 * Está claro dónde conseguir la versión más reciente.
@@ -30,12 +30,12 @@ Señalar claramente la madurez de una codebase ayuda a otros a decidir si reutil
 
 ## Responsables de políticas y legislaciones: qué necesitan hacer
 
-* Al desarrollar políticas, entender que cualquier código desarrollado debe ser probado y mejorado antes de ponerlo en servicio.
+* Entender que cualquier código desarrollado conjuntamente con políticas debe ser probado y mejorado antes de ponerlo en servicio.
 * Considerar la posibilidad de versionar los cambios de las políticas, especialmente cuando desencadenen nuevas versiones del código fuente.
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Asegurarse de que los servicios sólo dependen de codebases de igual o mayor madurez que el servicio. Por ejemplo, no utilices una codebase beta en un servicio de producción ni una codebase prototype en un servicio beta.
+* Asegurarse de que los servicios solo dependen de codebases de igual o mayor madurez que el servicio. Por ejemplo, no utilices una codebase beta en un servicio de producción ni una codebase prototype en un servicio beta.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer
 

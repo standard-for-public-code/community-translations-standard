@@ -21,7 +21,7 @@ order: 13
 
 * Previene el uso del código por parte de actores específicos.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Hay al menos un archivo de licencia presente en la codebase, normalmente llamado 'license'.
 * La licencia del código fuente está en la [lista de licencias de código abierto aprobadas por la OSI](https://opensource.org/licenses/category) y la licencia de la documentación es [conforme a la definición de abierto](https://opendefinition.org/licenses/).
@@ -34,7 +34,7 @@ order: 13
 
 ## Profesionales de la dirección de equipos: qué necesitan hacer
 
-* Trabajar sólo con proveedores de código abierto que entreguen su código publicándolo bajo una licencia de código abierto.
+* Trabajar solo con proveedores de código abierto que entreguen su código publicándolo bajo una licencia de código abierto.
 * Tener en cuenta que aunque las [licencias Creative Commons](https://creativecommons.org/licenses/) son estupendas para la documentación, las licencias que estipulan 'No Comercial' o 'No Derivatives' NO pueden reutilizarse, modificarse y redistribuirse libremente; y por tanto, no cumplen estos requisitos.
 
 ## Profesionales del desarrollo de software y diseño: qué necesitan hacer

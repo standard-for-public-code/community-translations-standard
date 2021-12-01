@@ -16,7 +16,7 @@ order: 3
 
 ## Por qué es importante
 
-* Permite que otros responsables, profesionales del desarrollo y diseño reutilicen lo que se a desarrollado, lo prueben, mejoren y contribuyan dichas mejoras,  incrementando la calidad, abaratando el mantenimiento y aumentando la fiabilidad.
+* Permite que otros responsables, profesionales del desarrollo y diseño reutilicen lo que se ha desarrollado, lo prueben, mejoren y contribuyan dichas mejoras, incrementando la calidad, abaratando el mantenimiento y aumentando la fiabilidad.
 * Hace que el código sea más fácil de entender para la gente nueva (ya que es más general).
 * Facilita el control de la misión, la visión y el alcance de la codebase, ya que esta ha sido diseñado de forma consciente y deliberada para su reutilización.
 * Las codebases utilizadas por múltiples partes tienen más probabilidades de beneficiarse de una comunidad autosuficiente.
@@ -29,7 +29,7 @@ order: 3
 * Construir una comunidad.
 * Trasladar la responsabilidad de la documentación, el soporte, la corrección de errores, etc. a otra parte.
 
-## Cómo probar
+## Cómo probar o hacer tests
 
 * Preguntar a alguien que desempeñe un papel similar en otra organización si podría reutilizar la codebase y lo que ello supondría.
 * La codebase es utilizada por múltiples partes o en múltiples contextos.
