@@ -8,8 +8,8 @@ order: 1
 
 * Todo el código fuente de cualquier política y software en uso (a menos que se utilice para la detección de fraudes) DEBE publicarse y ser de acceso público.
 * Los colaboradores NO DEBEN subir al repositorio información sensible sobre los usuarios, su organización o terceros.
-* Cualquier código fuente que no esté actualmente en uso (como nuevas versiones, propuestas o versiones antiguas) DEBE ser publicado.
-* El código fuente PUEDE proporcionar al público en general información sobre qué código fuente política sustenta cualquier interacción específica que tengan con una organización.
+* Cualquier código fuente que no esté actualmente en uso (como nuevas versiones, propuestas o versiones antiguas) DEBERÍA ser publicado.
+* El código fuente PUEDE proporcionar al público en general información sobre el código fuente o la política que sustenta cualquier interacción específica que tengan con una organización.
 
 ## Por qué esto es importante
 
