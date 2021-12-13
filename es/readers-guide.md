@@ -46,7 +46,3 @@ La dirección es responsable de la entrega del proyecto a tiempo, de la gestión
 Esta sección trata de dirigirse específicamente a profesionales del desarrollo y diseño ofreciéndoles acciones concretas que pueden realizar en su función.
 
 Las personas profesionales del desarrollo suelen estar más alineadas técnicamente y tienen más impacto en la prestación de servicios que los grupos anteriores.
-
-## Más información (en inglés)
-
-Lee más sobre por qué existen estos requisitos y cómo hacerlos funcionar.
