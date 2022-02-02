@@ -1,4 +1,4 @@
-title: Standard for Public Code
+title: Community Translations of the Standard for Public Code
 version: 0.2.2
 
 plugins:
@@ -7,24 +7,24 @@ plugins:
 remote_theme: publiccodenet/jekyll-theme
 include:
   - "README.md"
-  - "CONTRIBUTING.md"
+    # - "CONTRIBUTING.md"
   - "LICENSE.md"
   - "CODE_OF_CONDUCT.md"
 
 toc: true
 
-include_badges: true
+include_badges: false
 
 defaults:
   -
     scope:
       # ignore criteria/index.html, but match all other criteria pages
       # (match all criteria pages not starting with an 'i')
-      path: '/criteria/[!i]*'
+      path: '*/criteria/[!i]*'
     values:
       breadcrumbs:
         - name: 'Criteria'
-          path: '/criteria/'
+          path: '*/criteria/'
       show_prev_next: true
 
   -
