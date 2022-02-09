@@ -4,7 +4,9 @@ Welcome to the community translations of the Standard for Public Code.
 
 Translations:
 
-* [Spanish](es/index.md)
+| Language | Version |
+|----------|---------|
+| [Spanish](es/index.md) | 0.2.1 |
 
 Additional:
 
