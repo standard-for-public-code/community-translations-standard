@@ -20,7 +20,8 @@ These are the files that need to be translated before it is ready for review.
 - all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
 - [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
 - [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
-- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
+- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CODE_OF_CONDUCT.md)
 - [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
 - [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
 - [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
@@ -47,8 +48,10 @@ While print.html is a large file, the only text that needs to be translated are 
 | This license is the legal contract that allows anyone to do anything they like with the content in this entire document. |
 | For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500 |
 
-The license and the code of conduct need not be translated since those are just copied from other projects.
-If there is a translation available in the target language for these, they *may* be included.
+The license need not be translated since that is just copied from another project.
+If there is a translation available in the target language for it, it *may* be included.
+If a translation of the license is not available yet, but you really need it, we encourage you to translate it upstream.
+That way it will benefit more people and you will get help of a community that know the license well.
 
 ### Review of a translation
 
