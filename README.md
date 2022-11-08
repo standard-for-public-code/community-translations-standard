@@ -20,8 +20,8 @@ These are the files that need to be translated before it is ready for review.
 - all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
 - [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
 - [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
-- [CODE_OF_CONDUCT.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
-- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CODE_OF_CONDUCT.md)
+- [CODE_OF_CONDUCT.md](https://github.com/publiccodenet/standard/blob/main/CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
 - [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
 - [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
 - [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
