@@ -4,7 +4,8 @@ Este es un repositorio no oficial de traducciones del [Estándar para el Código
 
 ## Contribute
 
-Cualquier persona puede comenzar una traducción del estándar. Por favor, coloca tu traducción en una carpeta nombrada con un código de lenguaje de los contemplados por [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (por ejemplo `es` para español o `da` para danés).
+Cualquier persona puede comenzar una traducción del estándar.
+Por favor, coloca tu traducción en una carpeta nombrada con un código de lenguaje de los contemplados por [RFC 5646](https://www.rfc-editor.org/info/rfc5646) (por ejemplo `es` para español o `da` para danés o `zh_Hant_TW` para chino con escritura tradicional para la configuración regional de Taiwán).
 
 ## Problemas, sugerencias y preguntas en issues
 
