@@ -5,7 +5,7 @@ This is a repository for unofficial translations of the [Standard for Public Cod
 ## Contribute
 
 Anyone may start a translation of the standard.
-Please place your translation in a folder named with [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (for example `es` for Spanish or `da` for Danish).
+Please place your translation in a folder named with an [RFC 5646](https://www.rfc-editor.org/info/rfc5646) language code (for example `es` for Spanish or `da` for Danish or `zh_Hant_TW` for Chinese with traditional script for the Taiwan locale).
 
 In order for our scripts that generate pdf's to work as easily as possible, do not translate file names, folder names or the front matter.
 
