@@ -2,6 +2,8 @@
 
 This is a repository for unofficial translations of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
 
+[![pages-build-deployment](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment)
+
 ## Contribute
 
 Anyone may start a translation of the standard.
