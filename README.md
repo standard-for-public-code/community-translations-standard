@@ -11,6 +11,9 @@ Please place your translation in a folder named with an [RFC 5646](https://www.r
 
 In order for our scripts that generate pdf's to work as easily as possible, do not translate file names, folder names or the front matter.
 
+You may use `script/new-translation.sh` to get started.
+This script copies the English files into the translation folder that you specify.
+
 In the pull request, also remember to update the table in [index.md](index.md) with a link to the translation and what version this is a translation of.
 
 ### Files to translate
@@ -36,7 +39,7 @@ While print.html is a large file, the only text that needs to be translated are 
 | Request for contributions |
 | Standard for Public Code |
 | Table of Contents |
-| Authors | 
+| Authors |
 | Introduction |
 | Readers guide |
 | Glossary |
