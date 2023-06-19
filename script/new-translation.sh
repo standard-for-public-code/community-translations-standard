@@ -45,7 +45,7 @@ rm -fv criteria/_template.md
 
 for FILE in \
 index.md \
-introduction.md \
+foreword.md \
 readers-guide.md \
 glossary.md \
 CODE_OF_CONDUCT.md \
@@ -53,7 +53,9 @@ CONTRIBUTING.md \
 GOVERNANCE.md \
 CHANGELOG.md \
 AUTHORS.md \
-print.html \
+foreword-print.html \
+print-cover.html \
+standard-print.html \
 ; do
 	cp -iv /tmp/publiccodenet-standard/$FILE .
 done
