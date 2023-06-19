@@ -53,7 +53,9 @@ CONTRIBUTING.md \
 GOVERNANCE.md \
 CHANGELOG.md \
 AUTHORS.md \
-print.html \
+foreword-print.html \
+print-cover.html \
+standard-print.html \
 ; do
 	cp -iv /tmp/publiccodenet-standard/$FILE .
 done
