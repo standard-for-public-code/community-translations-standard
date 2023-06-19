@@ -45,7 +45,7 @@ rm -fv criteria/_template.md
 
 for FILE in \
 index.md \
-introduction.md \
+foreword.md \
 readers-guide.md \
 glossary.md \
 CODE_OF_CONDUCT.md \
