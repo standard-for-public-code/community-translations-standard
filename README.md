@@ -29,9 +29,10 @@ These are the files that need to be translated before it is ready for review.
 - [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
 - [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
 - [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
-- [print.html](https://github.com/publiccodenet/standard/blob/main/print.html)
+- [standard-print.html](https://github.com/publiccodenet/standard/blob/main/standard-print.html)
+- [print-cover.html](https://github.com/publiccodenet/standard/blob/main/print-cover.html)
 
-While print.html is a large file, the only text that needs to be translated are the ones in the table below (some in two places in the file).
+While standard-print.html and print-cover.html are large files, the only text that needs to be translated are the ones in the table below (some in two places in the file).
 
 | English text |
 |-|
@@ -39,7 +40,6 @@ While print.html is a large file, the only text that needs to be translated are 
 | Standard for Public Code |
 | Table of Contents |
 | Authors |
-| Foreword |
 | Readers guide |
 | Glossary |
 | Criteria |
@@ -51,6 +51,16 @@ While print.html is a large file, the only text that needs to be translated are 
 | Contact |
 | This license is the legal contract that allows anyone to do anything they like with the content in this entire document. |
 | For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500 |
+| The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable. |
+| The Standard includes guidance to policymakers, managers, designers and developers creating and managing codebases. |
+| The standard specifies the criteria: |
+| Request for contributions |
+| What public code is and how to implement it for: |
+| Public policy makers |
+| Managers |
+| Developers and designers |
+| Draft |
+| Version |
 
 The license need not be translated since that is just copied from another project.
 If there is a translation available in the target language for it, it *may* be included.
