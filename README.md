@@ -21,7 +21,6 @@ In the pull request, also remember to update the table in [index.md](index.md) w
 These are the files that need to be translated before it is ready for review.
 
 - [index.md](https://github.com/publiccodenet/standard/blob/main/index.md)
-- [introduction.md](https://github.com/publiccodenet/standard/blob/main/introduction.md)
 - all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
 - [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
 - [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
@@ -40,7 +39,7 @@ While print.html is a large file, the only text that needs to be translated are 
 | Standard for Public Code |
 | Table of Contents |
 | Authors |
-| Introduction |
+| Foreword |
 | Readers guide |
 | Glossary |
 | Criteria |
@@ -57,6 +56,11 @@ The license need not be translated since that is just copied from another projec
 If there is a translation available in the target language for it, it *may* be included.
 If a translation of the license is not available yet, but you really need it, we encourage you to translate it upstream.
 That way it will benefit more people and you will get help of a community that know the license well.
+
+#### Foreword
+
+There is also [foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) that gives context about the concept of Public Code.
+The foreword may be translated or even customized for a locale's context.
 
 ### Review of a translation
 
