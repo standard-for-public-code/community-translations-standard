@@ -1,8 +1,9 @@
 # Contents
 
-Welcome to the community translations of the Standard for Public Code.
+Welcome to the community provided courtesy translations of the Standard for Public Code.
+The authoritative language for the standard is English, and the current version is published at [standard.publiccode.net](https://standard.publiccode.net).
 
-Translations:
+Courtesy translations:
 
 | Language | Version |
 |----------|---------|
