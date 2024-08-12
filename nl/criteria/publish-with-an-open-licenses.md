@@ -2,49 +2,50 @@
 order: 13
 ---
 
-# Publicar con una licencia abierta
+# Publiceer met een open licentie
 
-## Requisitos
+Een open en bekende licentie maakt het mogelijk voor iedereen om de [broncode](../glossary.md#source-code) te bekijken, te begrijpen hoe deze werkt, deze vrij te gebruiken en bij te dragen aan de [codebase](../glossary.md#codebase).
+Dit stelt een ecosysteem van leveranciers in staat om rond de codebase te ontstaan.
 
-* Todo el código y la documentación DEBEN tener una licencia que permita su libre reutilización, modificación y redistribución.
-* El código fuente del software DEBE estar licenciado bajo una [licencia de código abierto aprobada por la OSI](https://opensource.org/licenses/category).
-* Todo el código DEBE publicarse con un archivo de licencia.
-* Los contribuyentes NO DEBEN estar obligados a transferir los derechos de autor de sus contribuciones a la codebase.
-* Todos los archivos de código fuente en la codebase DEBERÍAN incluir un aviso de copyright y una cabecera de licencia que sean legibles por la máquina.
-* Las codebases PUEDEN tener múltiples licencias para diferentes tipos de código y documentación.
+Het duidelijk aangeven van de licentie voor elk bestand binnen een codebase vergemakkelijkt correct hergebruik en toekenning van delen van een codebase.
 
-## Por qué es importante
+## Vereisten
 
-* Posibilita que cualquiera tenga acceso al código y sepa que puede reutilizarlo.
+* Alle broncode en documentatie MOETEN worden gelicentieerd op een manier dat ze vrij herbruikbaar, wijzigbaar en redistribueerbaar zijn.
+* Softwarebroncode MOET worden gelicentieerd onder een [door OSI-goedgekeurde of FSF Vrije/Libre-licentie](https://spdx.org/licenses/).
+* Alle broncode MOET worden gepubliceerd met een licentiebestand.
+* Bijdragers MOETEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
+* Alle broncodebestanden in de codebase ZOUDEN een copyrightvermelding en een licentieheader moeten bevatten die machine-leesbaar zijn.
+* Het hebben van meerdere licenties voor verschillende soorten broncode en documentatie is OPTIONEEL.
 
-## Qué no hace
+## Quickscan
 
-* Previene el uso del código por parte de actores específicos.
+* Bevestig dat de codebase duidelijk is gelicentieerd.
+* Bevestig dat de licentie voor de broncode op de [door OSI-goedgekeurde of FSF Vrije/Libre licentielijst](https://spdx.org/licenses/) staat en dat de licentie voor documentatie [voldoet aan de Open Definitie](https://opendefinition.org/licenses/).
+* Bevestig dat de in de codebase gebruikte licenties als bestanden zijn opgenomen.
+* Bevestig dat de bijdragerichtlijnen en [repository](../glossary.md#repository) configuratie geen overdracht van auteursrechten vereisen.
+* Controleer op machine-leesbare licentiecontrole in de [continuous integration](../glossary.md#continuous-integration) tests van de codebase.
 
-## Cómo probar o hacer tests
+## Aanwijzingen voor beleidsmakers
 
-* Hay al menos un archivo de licencia presente en la codebase, normalmente llamado 'license'.
-* La licencia del código fuente está en la [lista de licencias de código abierto aprobadas por la OSI](https://opensource.org/licenses/category) y la licencia de la documentación es [conforme a la definición de abierto](https://opendefinition.org/licenses/).
-* Comprueba que las licencias sean legibles por la máquina con herramientas como [Licensee](https://github.com/licensee/licensee) o [REUSE](https://reuse.software/).
+* Ontwikkel [beleid](../glossary.md#policy) dat vereist dat broncode [open source](../glossary.md#open-source) is.
+* Ontwikkel beleid dat het gebruik van niet-open source code en technologie bij inkoop ontmoedigt.
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+## Aanwijzingen voor managers
 
-* Desarrollar una política que exija que el código sea código abierto.
-* Desarrollar una política que desincentive el código y la tecnología que no sean de código abierto en la contratación pública.
+* Werk alleen met open source-leveranciers die hun broncode publiceren onder een open source-licentie.
+* Wees je ervan bewust dat hoewel [Creative Commons-licenties](https://creativecommons.org/licenses/) geweldig zijn voor documentatie, licenties die Non-Commercial of No Derivatives voorschrijven NIET vrij herbruikbaar, wijzigbaar en redistribueerbaar zijn en niet aan deze vereisten voldoen.
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-* Trabajar solo con proveedores de código abierto que entreguen su código publicándolo bajo una licencia de código abierto.
-* Tener en cuenta que aunque las [licencias Creative Commons](https://creativecommons.org/licenses/) son estupendas para la documentación, las licencias que estipulan 'No Comercial' o 'No Derivatives' NO pueden reutilizarse, modificarse y redistribuirse libremente; y por tanto, no cumplen estos requisitos.
+* Voeg een nieuw `license`-bestand toe aan elke nieuwe codebase die wordt gecreëerd.
+* Voeg een copyrightvermelding en een licentieheader toe aan elk nieuw broncodebestand dat wordt gecreëerd.
+* Zorg ervoor dat wanneer broncode wordt hergebruikt door de codebase, deze een licentie heeft die compatibel is met de licentie of licenties van de codebase.
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+<p style="page-break-after: always;"></p>
+## Meer informatie
 
-* Añadir un nuevo fichero `license` a cada nueva codebase creada.
-* Añadir un aviso de copyright y una cabecera de licencia a cada nuevo archivo de código fuente creado.
-
-## Más información
-
-* [Open source definition](https://opensource.org/osd) por la Open Source Initiative - todas las licencias de código abierto se rigen por esta definición.
-* [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) por Creative Commons Aotearoa New Zealand.
-* [REUSE Initiative specification](https://reuse.software/spec/) para información sobre copyright y licencias clara y entendible tanto para humanos como máquinas.
-* [SPDX License List](https://spdx.org/licenses/) con abreviaturas estandarizadas y legibles para máquinas para la mayoría de las licencias.
+* [Open source definitie](https://opensource.org/osd) door de Open Source Initiative, alle open source-licenties voldoen aan deze definitie.
+* [Geanimeerde video-introductie tot Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) door Creative Commons Aotearoa Nieuw-Zeeland.
+* [REUSE Initiative specificatie](https://reuse.software/spec/) door Free Software Foundation Europe voor ondubbelzinnige, leesbare en machine-leesbare copyright- en licentie-informatie.
+* [SPDX Licentielijst](https://spdx.org/licenses/) door de Linux Foundation met gestandaardiseerde, machine-leesbare afkortingen voor de meeste licenties.

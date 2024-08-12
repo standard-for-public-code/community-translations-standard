@@ -2,54 +2,71 @@
 order: 3
 ---
 
-# Crear código reutilizable y portable
+# Maak de codebase herbruikbaar en draagbaar
 
-## Requisitos
+Het creëren van herbruikbare en draagbare [code](../glossary.md#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen terug te voeren, wat leidt tot betere kwaliteit, goedkopere onderhoud en hogere betrouwbaarheid.
 
-* La codebase DEBE ser desarrollado para ser reutilizable en diferentes contextos.
-* La codebase DEBE ser independiente de cualquier código o servicio secreto, no revelado, propietario o con licencia no abierta para su ejecución y comprensión.
-* La codebase DEBERÍA ser utilizada por múltiples partes.
-* La hoja de ruta o roadmap DEBERÍA estar influenciada por las necesidades de múltiples partes.
-* La configuración DEBERÍA utilizarse para que el código se adapte a las necesidades específicas del contexto.
-* La codebase DEBERÍA incluir una descripción de metadatos legible por la máquina, por ejemplo en un archivo [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml).
-* El código y su documentación NO DEBERÍAN contener información específica de la situación.
+Een [codebase](../glossary.md#codebase) die doordacht en met opzet is ontworpen voor herbruikbaarheid, maakt het mogelijk dat de missie, visie en scope van de codebase worden gedeeld door meerdere partijen.
+Codebases die zijn ontwikkeld en gebruikt door meerdere partijen, hebben meer kans om te profiteren van een zelfvoorzienende community.
 
-## Por qué es importante
+Het organiseren van een codebase zodat deze bestaat uit goed gedocumenteerde modules verbetert de herbruikbaarheid en onderhoudbaarheid.
+Een module is gemakkelijker te hergebruiken in een [andere context](../glossary.md#different-contexts) als het doel ervan duidelijk is gedocumenteerd.
 
-* Permite que otros responsables, profesionales del desarrollo y diseño reutilicen lo que se ha desarrollado, lo prueben, mejoren y contribuyan dichas mejoras, incrementando la calidad, abaratando el mantenimiento y aumentando la fiabilidad.
-* Hace que el código sea más fácil de entender para la gente nueva (ya que es más general).
-* Facilita el control de la misión, la visión y el alcance de la codebase, ya que esta ha sido diseñado de forma consciente y deliberada para su reutilización.
-* Las codebases utilizadas por múltiples partes tienen más probabilidades de beneficiarse de una comunidad autosuficiente.
-* Un archivo de descripción de metadatos aumenta la capacidad de descubrimiento.
-* Cualquier colaborador puede probar y contribuir sin depender de la infraestructura específica de cualquier otro colaborador o implementación.
+Broncode die niet afhankelijk is van de situatie-specifieke infrastructuur van een bijdrager, verkoper of implementatie, kan door elke andere bijdrager worden getest.
 
-## Qué no hace
+## Vereisten
 
-* Conseguir que otros reutilicen la codebase.
-* Construir una comunidad.
-* Trasladar la responsabilidad de la documentación, el soporte, la corrección de errores, etc. a otra parte.
+* De codebase MOET worden ontwikkeld om herbruikbaar te zijn in verschillende contexten.
+* De codebase MOET onafhankelijk zijn van enige geheime, niet-openbaarde, propriëtaire of niet-open gelicentieerde software of diensten voor uitvoering en begrip.
+* De codebase ZOU in gebruik moeten zijn door meerdere partijen.
+* De roadmap ZOU moeten worden beïnvloed door de behoeften van meerdere partijen.
+* De ontwikkeling van de codebase ZOU een samenwerking tussen meerdere partijen moeten zijn.
+* Configuratie ZOU moeten worden gebruikt om [broncode](../glossary.md#source-code) aan te passen aan contextspecifieke behoeften.
+* De codebase ZOU lokaliseerbaar moeten zijn.
+* Broncode en de documentatie ZOUDEN GEEN situatie-specifieke informatie moeten bevatten.
+* Codebase-modules ZOUDEN moeten worden gedocumenteerd op een manier die hergebruik in codebases in andere contexten mogelijk maakt.
+* De software ZOU GEEN diensten of platforms moeten vereisen die alleen beschikbaar zijn bij een enkele verkoper.
 
-## Cómo probar o hacer tests
+## Quickscan
 
-* Preguntar a alguien que desempeñe un papel similar en otra organización si podría reutilizar la codebase y lo que ello supondría.
-* La codebase es utilizada por múltiples partes o en múltiples contextos.
-* En cada commit, los revisores verifican que el contenido no incluya datos específicos de la situación, como nombres de host, datos personales y organizativos, o tokens y contraseñas.
+* Bevestig met iemand in een vergelijkbare rol bij een andere organisatie of zij de codebase kunnen gebruiken en wat dat zou inhouden.
+* Bevestig dat de codebase kan draaien zonder gebruik te maken van enige propriëtaire of niet-open gelicentieerde software of diensten.
+* Als de codebase in vroege ontwikkeling is vóór een productieklare release, controleer dan op bewijs van ambitie om medewerkers te verkrijgen.
+   * Of als de codebase zeer volwassen en stabiel is met zeer weinig fixes, patches of bijdragen:
+     * Controleer of de codebase in gebruik is door meerdere partijen of in meerdere contexten.
+     * Controleer op gedocumenteerde en gebudgetteerde samenwerkingsverplichtingen.
+   * Anders:
+     * Controleer of de codebase in gebruik is door meerdere partijen of in meerdere contexten.
+     * Controleer of de codebase-bijdragers van meerdere partijen komen.
+* Controleer of de codebase-bestanden en commitgeschiedenis geen situatie-specifieke gegevens bevatten.
+* Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder diensten of platforms die beschikbaar zijn bij een enkele verkoper.
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+## Aanwijzingen voor beleidsmakers
 
-* Documentar sus políticas con suficiente claridad y detalle para que puedan ser entendidas fuera de su contexto original.
-* Asegurarse de que su organización figura como usuario conocido por la codebase.
+* Documenteer je [beleid](../glossary.md#policy) met voldoende duidelijkheid en detail zodat het buiten de oorspronkelijke context kan worden begrepen.
+* Zorg ervoor dat je organisatie wordt vermeld als een bekende gebruiker van de codebase.
+* Identificeer andere organisaties om mee samen te werken.
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+## Aanwijzingen voor managers
 
-* Asegurarse de que las partes interesadas y los propietarios de la empresa entienden que la reutilización es un objetivo explícito de la codebase, ya que reduce la deuda técnica y proporciona sostenibilidad a la misma.
+* Zorg ervoor dat stakeholders en business owners begrijpen dat herbruikbaarheid een expliciet doel van de codebase is, aangezien dit technische schuld vermindert en duurzaamheid voor de codebase biedt.
+* Zorg ervoor dat je teams samenwerken met andere teams.
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-* El código fuente deben estar diseñadas para ser reutilizadas por otros usuarios y organizaciones.
-* El código fuente debe estar diseñada para resolver un problema general en lugar de uno específico.
-* Alguien en una organización similar que se enfrente a un problema similar debería poder utilizar tu solución.
+De broncode moet worden ontworpen:
 
-## Más información
+* voor hergebruik door andere gebruikers en organisaties, ongeacht de locatie,
+* om een algemeen probleem op te lossen in plaats van een specifiek,
+* in logisch zinvolle en geïsoleerde modules,
+* zodat iemand in een vergelijkbare organisatie die met een vergelijkbaar probleem wordt geconfronteerd (delen van) de oplossing kan gebruiken.
 
-* [Hacer que el código fuente sea abierto y reutilizable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) por el Servicio Digital del Gobierno del Reino Unido.
+Zorg ervoor dat de codebase-documentatie de afhankelijkheden tijdens build- en runtime beschrijft.
+Als je context vereist dat je implementeert op propriëtaire platforms of gebruikmaakt van propriëtaire componenten, zorg er dan voor dat medewerkers kunnen ontwikkelen, gebruiken, testen en implementeren zonder deze.
+
+Voor elke commit verifiëren reviewers dat de inhoud geen situatie-specifieke gegevens bevat, zoals hostnamen, persoonlijke en organisatorische gegevens, of tokens en wachtwoorden.
+
+## Meer informatie
+
+* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) door de UK Government Digital Service.
+* [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n) door het World Wide Web Consortium.

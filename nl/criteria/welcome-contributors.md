@@ -2,52 +2,58 @@
 order: 4
 ---
 
-# Las colaboraciones son bienvenidas
+# Verwelkom bijdragers
 
-## Requisitos
+De sfeer in een [codebase](../glossary.md#codebase) community helpt gebruikers te beslissen om de ene codebase boven de andere te verkiezen.
+Iedereen verwelkomen als bijdrager stelt de community in staat om te groeien en zichzelf in de loop van de tijd te onderhouden.
+Een community waarin bijdragers duidelijke manieren hebben om invloed uit te oefenen op de doelen en de voortgang van de codebase en de community, is minder waarschijnlijk om te splitsen en te eindigen in uiteenlopende gemeenschappen.
+Nieuwkomers moeten de governance van de codebase-community begrijpen en erop vertrouwen.
 
-* La codebase DEBE permitir que cualquiera envíe sugerencias de cambios en la codebase.
-* La codebase DEBE incluir directrices de contribución que explican qué tipo de contribuciones son bienvenidas y cómo pueden participar los contribuyentes, por ejemplo en un archivo `CONTRIBUTING`.
-* La codebase DEBERÍA anunciar el compromiso de las organizaciones implicadas en el desarrollo y el mantenimiento.
-* La codebase DEBERÍA documentar la gobernanza de la codebase, las contribuciones y su comunidad, por ejemplo en un fichero `GOVERNANCE`.
-* La codebase DEBERÍA tener un roadmap u hoja de ruta pública.
-* La codebase PUEDE incluir un código de conducta para aquellos que quieran contribuir.
+## Vereisten
 
-## Por qué es importante
+* De codebase MOET iedereen toestaan om suggesties in te dienen voor wijzigingen aan de codebase.
+* De codebase MOET richtlijnen voor bijdragen bevatten waarin wordt uitgelegd welke soorten bijdragen welkom zijn en hoe bijdragers betrokken kunnen raken, bijvoorbeeld in een `CONTRIBUTING`-bestand.
+* De codebase MOET de governance van de codebase, bijdragen en de community documenteren, bijvoorbeeld in een `GOVERNANCE`-bestand.
+* De richtlijnen voor bijdragen ZOUDEN moeten documenteren wie de kosten van het beoordelen van bijdragen moet dragen.
+* De codebase ZOU de toegewijde betrokkenheid van de betrokken organisaties bij de ontwikkeling en het onderhoud moeten bekendmaken.
+* De codebase ZOU een openbaar beschikbare roadmap moeten hebben.
+* De codebase ZOU statistieken over de activiteit van de codebase moeten publiceren.
+* Het opnemen van een gedragscode voor bijdragers in de codebase is OPTIONEEL.
 
-* Ayuda a los recién llegados a entender y confiar en el liderazgo de la comunidad de la codebase.
-* Evita que la comunidad que trabaja en una codebase se divida porque no hay forma de influir en sus objetivos y progresos, lo que da lugar a comunidades divergentes.
-* Ayuda a los usuarios a decidirse por una codebase en lugar de otra.
+## Quickscan
 
-## Qué no hace
+* Bevestig dat het mogelijk is om suggesties voor wijzigingen aan de codebase in te dienen.
+* Bevestig dat er richtlijnen voor bijdragen zijn.
+* Bevestig dat de governance van de codebase duidelijk wordt uitgelegd, inclusief hoe invloed kan worden uitgeoefend op de governance van de codebase.
+* Controleer of de richtlijnen voor bijdragen beschrijven wie de kosten van het beoordelen van bijdragen moet dragen.
+* Controleer op een lijst van betrokken organisaties.
+* Controleer op een roadmap.
+* Controleer op gepubliceerde activiteitsstatistieken.
+* Controleer op een gedragscode.
 
-* Garantizar que otros se unan a la comunidad.
-* Garantizar que otros reutilicen la codebase.
+## Aanwijzingen voor beleidsmakers
 
-## Cómo probar o hacer tests
+* Voeg een lijst toe aan de codebase van andere bronnen die [beleid](../glossary.md#policy)-experts, niet-gouvernementele organisaties en academici nuttig zouden vinden om je beleid te begrijpen of te hergebruiken.
+* Overweeg contactgegevens toe te voegen, zodat andere beleidsmakers die samenwerking overwegen je om advies kunnen vragen.
 
-* Es posible enviar sugerencias de cambios en la codebase.
-* Existen directrices de contribución.
-* La gobernanza de la codebase se explica claramente, incluyendo cómo influir en la gobernanza de la codebase.
+## Aanwijzingen voor managers
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+* Zorg ervoor dat de documentatie van de governance het huidige proces bevat voor het aanbrengen van wijzigingen in de governance.
+* Als de community enige consensus heeft over hoe de governance zou moeten veranderen, neem die ideeën dan op als ambities in de documentatie.
+* Zorg ervoor dat, indien nodig, een budget is toegewezen voor het beoordelingsproces van bijdragen zoals overeengekomen door de codebase-community.
+* Zorg ervoor dat de documentatie uitlegt hoe elke organisatie betrokken is bij de codebase, welke middelen beschikbaar zijn en voor hoe lang.
+* Ondersteun je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk deel te blijven uitmaken van de community.
 
-* Añadir una lista a la codebase de cualquier otro recurso que las personas expertas en políticas, en un entorno académico y las organizaciones no gubernamentales puedan encontrar útil para entender o reutilizar dichas políticas.
-* Considerar la posibilidad de añadir datos de contacto para que otros responsables políticos que estén considerando la reutilización puedan pedir consejo.
+<p style="page-break-after: always;"></p>
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+* Reageer snel op verzoeken.
+* Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
+* Communiceer duidelijk aan bijdragers wat ze moeten doen om ervoor te zorgen dat hun bijdrage kan worden geïntegreerd.
 
-* Asegurarse de que la documentación explica cómo participa tu organización en la codebase, de qué recursos dispone y durante cuánto tiempo.
-* Apoyar a sus responsables políticas, profesionales del desarrollo y el diseño con experiencia para que sigan formando parte de la comunidad el mayor tiempo posible.
+## Meer informatie
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
-
-* Responder con prontitud a las solicitudes.
-* Mantener a tu dirección informada del tiempo y los recursos que necesitas para apoyar a otros colaboradores.
-
-## Más información
-
-* [Construyendo comunidades acogedoras](https://opensource.guide/building-community/) por Open Source Guides.
-* El Pacto del Contribuyente o [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) es un tipo del código de conducta.
-* [Liderazgo y gobernanza](https://opensource.guide/leadership-and-governance/) para proyectos open source en crecimiento, por Open Source Guides.
-* [Construyendo comunidades online](http://hintjens.com/blog:117) por Pieter Hintjens (¡lectura extensa!).
+* [Building welcoming communities](https://opensource.guide/building-community/) door Open Source Guides.
+* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) door Mike McQuaid.
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) voor het laten groeien van [open source](../glossary.md#open-source) communityprojecten, door Open Source Guides.
+* [Building online communities](http://hintjens.com/blog:117) door Pieter Hintjens (lang artikel!).

@@ -2,67 +2,66 @@
 order: 12
 ---
 
-# Utilizar integración continua
+# Gebruik continuous integration
 
-## Requisitos
+Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen met een gedeelde branch, geverifieerd door geautomatiseerde tests.
+Hoe vaker het samenvoegen plaatsvindt en hoe kleiner de bijdrage, hoe gemakkelijker het is om merge-conflicten op te lossen.
 
-* Toda funcionalidad en el código fuente DEBE TENER tests o pruebas automáticas.
-* Las contribuciones DEBEN pasar todos los tests o pruebas automáticas antes de ser admitidas en la codebase.
-* Las contribuciones DEBEN ser pequeñas.
-* La codebase DEBE tener contribuyentes activos.
-* Las pruebas o tests del código fuente y la cobertura de la documentación DEBERÍAN ser monitorizados.
-* Las políticas y la documentación PUEDEN tener tests o pruebas que verifiquen la consistencia con el código fuente y viceversa.
-* Las políticas y la documentación PUEDEN tener tests o pruebas de estilo y enlaces rotos.
+Geautomatiseerd testen van alle functionaliteit biedt vertrouwen dat bijdragen werken zoals bedoeld en geen fouten hebben geïntroduceerd, en stelt beoordelaars in staat zich te concentreren op de structuur en aanpak van de bijdrage.
+Hoe gerichter de test, hoe gemakkelijker het is om fouten duidelijk te identificeren en te begrijpen zodra ze zich voordoen.
 
-## Por qué esto es importante
+Het documenteren van de [continuous integration](../glossary.md#continuous-integration) workflow van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen.
+Continuous integration maakt het gemakkelijker om de status van de [codebase](../glossary.md#codebase) te monitoren.
 
-* La integración continua:
-  * Permite identificar rápidamente problemas en la codebase.
-  * Permite asumir riesgos y enfocarse en la resolución de problemas, minimizando el estrés de los colaboradores.
-  * Reduce las barreras para los nuevos contribuyentes al minimizar la cantidad de conocimientos necesarios para sugerir cambios.
-  * Conduce a un código más fácil de mantener.
-  * Acelera el ciclo de desarrollo.
-* Las contribuciones más pequeñas y regulares suelen ser más fáciles de evaluar y suponen un menor riesgo en comparación con los cambios grandes e infrecuentes.
-* Las codebases activamente desarrolladas proveen con mayor frecuencia de colaboración y retroalimentación.
+## Vereisten
 
-## Qué no hace esto
+* Alle functionaliteit in de [broncode](../glossary.md#source-code) MOET geautomatiseerde tests hebben.
+* Bijdragen MOETEN alle geautomatiseerde tests doorstaan voordat ze worden toegelaten tot de codebase.
+* De codebase MOET richtlijnen hebben die uitleggen hoe bijdragen moeten worden gestructureerd.
+* De codebase MOET actieve bijdragers hebben die bijdragen kunnen beoordelen.
+* Geautomatiseerde testresultaten voor bijdragen ZOUDEN openbaar moeten zijn.
+* De richtlijnen van de codebase ZOUDEN moeten aangeven dat elke bijdrage zich op een enkel issue moet richten.
+* Broncode-, test- en documentatiedekking ZOUDEN moeten worden gemonitord.
+* Het testen van [beleid](../glossary.md#policy) en documentatie voor consistentie met de broncode en vice versa is OPTIONEEL.
+* Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
+* Het testen van de software door voorbeelden in de documentatie te gebruiken is OPTIONEEL.
 
-* Crear una infraestructura tolerante a fallos que funcione y escale perfectamente.
-* Crear tests significativos.
-* Probar situaciones de la vida real.
-* Garantizar que el código ofrezca exactamente el mismo resultado de las políticas.
+## Quickscan
 
-## Cómo probar o hacer tests
+* Bevestig dat er tests aanwezig zijn.
+* Bevestig dat broncode-dekkingshulpmiddelen controleren of de dekking 100% van de broncode beslaat.
+* Bevestig dat bijdragen alleen worden toegelaten tot de codebase nadat alle tests zijn geslaagd.
+* Bevestig dat de richtlijnen voor bijdragen uitleggen hoe bijdragen moeten worden gestructureerd.
+* Bevestig dat er bijdragen zijn van de afgelopen drie maanden.
+* Controleer of testresultaten zichtbaar zijn.
+* Controleer of broncode-dekkingsgegevens worden gepubliceerd.
 
-* Hay tests o pruebas presentes.
-* Las herramientas de cobertura del código comprueban si la cobertura es del 100% del código.
-* Las contribuciones son aceptadas en la codebase solo después de que se hayan superado todas las pruebas o tests.
-* Todos los que trabajan en la codebase integran su trabajo al menos una vez al día.
-* Hay contribuciones en los últimos tres meses.
+## Aanwijzingen voor beleidsmakers
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+* Betrek managers, ontwikkelaars en ontwerpers zo vroeg mogelijk in het proces en houd ze betrokken gedurende de ontwikkeling van je beleid.
+* Zorg ervoor dat er ook geautomatiseerde tests zijn ingesteld voor beleidsdocumentatie.
+* Herstel beleidsdocumentatie snel als deze een test niet doorstaat.
+* Zorg ervoor dat de broncode eventuele wijzigingen in het beleid weerspiegelt (zie [Versiebeheer handhaven](maintain-version-control.md)).
 
-* Involucrar tan pronto como sea posible en el proceso a la dirección, el equipo de desarrolladores y el de diseño y hacer que se comprometan durante el desarrollo de las políticas a implementar.
-* Asegurarse de que también haya tests o pruebas automáticas para la documentación de las políticas.
-* Corregir la documentación de las legislaciones cuanto antes si estas no superan una prueba o test.
-* Asegurarse de que el código refleja cualquier cambio en la legislación (véase [Mantener el control de versiones](version-control-and-history.md)).
+## Aanwijzingen voor managers
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+* Zorg ervoor dat je zo snel en vaak mogelijk test met echte eindgebruikers.
+* Plan het werk om kleine delen zeer vaak te integreren in plaats van grote delen minder vaak.
+* Schaf consultancydiensten aan die incrementeel leveren in lijn met het plan.
+* Moedig na een grote mislukking het publiceren van incidentrapporten en openbare discussie over wat er is geleerd aan.
 
-* Asegurarse de realizar pruebas con usuarios finales reales lo más rápido y a menudo posible.
-* Contratar servicios de consultoría que suministren entregables pequeños con alta frecuencia en lugar de entregables grandes con baja frecuencia.
-* Fomentar la publicación de informes de incidentes después de un gran fracaso, así como la discusión pública sobre lo aprendido.
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+* Help managers bij het structureren van het werkplan zodat het in kleine stappen kan worden geïntegreerd.
+* Help bijdragers om de scope van hun bijdragen en functieverzoeken te beperken tot een redelijke omvang.
+* Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
+* Structureer broncode die is geschreven om omstandigheden te behandelen die moeilijk te creëren zijn in een testomgeving, zodat de omstandigheden kunnen worden gesimuleerd tijdens het testen. Vormen van resource-uitputting, zoals het opraken van opslagruimte en geheugentoewijzingsfouten, zijn typische voorbeelden van moeilijk te creëren omstandigheden.
+* Stel de testcode-dekkingshulpmiddelen af om valse alarmen te voorkomen die het gevolg zijn van inlining of andere optimalisaties.
+* Implementeer vaak.
+* Integreer je werk minstens één keer per dag.
 
-* Ayudar a la dirección y a los responsables políticos a poner a prueba sus contribuciones, por ejemplo, comprobando si hay enlaces rotos o probando el estilo.
-* Estructurar el código escrito para manejar condiciones que son difíciles de crear en un entorno de pruebas o tests de tal manera que las condiciones puedan ser simuladas durante las pruebas o tests. Las formas de agotamiento de los recursos, como el agotamiento del espacio de almacenamiento y el fallo en la asignación de memoria, son ejemplos típicos de condiciones difíciles de crear.
-* Ajustar las herramientas de cobertura del código de pruebas o tests para evitar falsas alarmas resultantes de inlining u otras optimizaciones.
-* Desplegar con frecuencia.
+## Meer informatie
 
-## Más información (en inglés)
-
-* [Qué es integración continua](https://www.martinfowler.com/articles/continuousIntegration.html) por Martin Fowler.
-* [Qué es entrega continua](https://www.continuousdelivery.com/) por Jez Humble.
-* [Uso de la entrega continua](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) por el Servicio Digital del Gobierno de Reino Unido.
-* [Garantía de calidad: probando tu servicio regularmente](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) por el Servicio Digital del Gobierno de Reino Unido.
+* [Wat is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) door Martin Fowler.
+* [Gebruik continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) door de UK Government Digital Service.
+* [Kwaliteitsborging: je service regelmatig testen](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) door de UK Government Digital Service.

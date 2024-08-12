@@ -2,43 +2,43 @@
 order: 14
 ---
 
-# Utilizar un estilo coherente
+# Gebruik een samenhangende stijl
 
-## Requisitos
+Het volgen van een consistente en samenhangende stijl stelt bijdragers in verschillende omgevingen in staat om samen te werken.
+Het unificeren van woordenschatten vermindert wrijving in de communicatie tussen bijdragers.
 
-* Las contribuciones DEBEN adherirse a una guía de estilo de código o de escritura, ya sea la propia de la comunidad de la codebase o una existente que se anuncie en la codebase o que forme parte de ella.
-* Las contribuciones DEBERÍAN pasar pruebas automáticas de estilo.
-* La codebase DEBERÍA incluir comentarios en línea y documentación para las secciones no triviales.
-* La guía de estilo PUEDE incluir secciones sobre [inglés comprensible](understandable-english-first.md).
+## Vereisten
 
-## Por qué es importante
+* De [codebase](../glossary.md#codebase) MOET een codeer- of schrijfstijlgids gebruiken, hetzij de eigen stijlgids van de codebase-community, hetzij een bestaande die in de codebase wordt genoemd.
+* Bijdragen ZOUDEN automatische tests op stijl moeten doorstaan.
+* De stijlgids ZOU verwachtingen moeten bevatten voor inline opmerkingen en documentatie voor niet-triviale secties.
+* Het opnemen van verwachtingen voor [begrijpelijk Engels](use-plain-english.md) in de stijlgids is OPTIONEEL.
 
-* Permite a los colaboradores de diferentes entornos trabajar juntos en un producto unificado.
-* La unificación de vocabularios reduce la fricción en la comunicación entre los colaboradores.
+## Quickscan
 
-## Qué no hace
+* Bevestig dat bijdragen in lijn zijn met de stijlgidsen die in de documentatie zijn gespecificeerd.
+* Controleer op de aanwezigheid van automatische tests op stijl.
 
-* Ayudar a los colaboradores a escribir bien o a explicar eficazmente lo que hacen.
+## Aanwijzingen voor beleidsmakers
 
-## Cómo probar o hacer tests
+* Maak, volg en verbeter voortdurend een stijlgids voor [beleid](../glossary.md#policy) en documentatie, en documenteer dit in de codebase, bijvoorbeeld in de `CONTRIBUTING` of `README`.
 
-* Verificar si las contribuciones se ajustan a las guías de estilo especificadas en la documentación.
+## Aanwijzingen voor managers
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+* Neem geschreven taal, broncode-, test- en beleidsnormen op in je organisatorische definitie van kwaliteit.
 
-* Crear, seguir y mejorar continuamente una guía de estilo para las políticas y la documentación, así como documentar la misma codebase, por ejemplo en `CONTRIBUTING` o `README`.
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+Als de codebase nog geen richtlijnen voor engineering of andere bijdragersbegeleiding heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.md#repository) die beschrijft wat er momenteel wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`.
+Een belangrijk doel van dit bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet gemakkelijk kunnen controleren.
+De richtlijnen moeten bevatten wat er wordt verwacht van [broncode](../glossary.md#source-code) bijdragen om te worden samengevoegd door de beheerders, inclusief broncode, tests en documentatie.
+Verbeter en breid deze documentatie voortdurend uit met als doel deze documentatie te laten evolueren tot engineeringrichtlijnen.
 
-* Incluir en la definición de calidad de su organización el lenguaje escrito, las fuentes, las pruebas o tests y las políticas.
+Daarnaast:
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+* Gebruik een linter.
+* Voeg linterconfiguraties toe aan de codebase.
 
-* Crear, seguir y mejorar continuamente una guía de estilo para el código fuente, las pruebas o tests y la documentación, y documéntela en la codebase, por ejemplo, en `CONTRIBUTING` o `README`.
-* Utilizar un linter.
-* Añadir configuraciones de linter a la codebase.
+## Meer informatie
 
-## Más información
-
-* [Lista de linters](https://github.com/caramelomartins/awesome-linters) por Hugo Martins.
-* [Estilo de programación](https://en.wikipedia.org/wiki/Programming_style) en Wikipedia.
+* [Programming style](https://en.wikipedia.org/wiki/Programming_style) op Wikipedia.

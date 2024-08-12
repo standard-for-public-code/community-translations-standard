@@ -2,52 +2,58 @@
 order: 10
 ---
 
-# Utilizar un inglés sencillo
+# Gebruik eenvoudig Engels
 
-## Requisitos
+Engels is de *de facto* taal van samenwerking in softwareontwikkeling.
+Sommige contexten vereisen echter andere talen dan Engels.
+Daarom kan een codebase een set van gezaghebbende talen hebben, waaronder Engels.
 
-* Toda la documentación de la codebase DEBE estar en inglés sencillo.
-* Todo el código DEBE estar en inglés, excepto cuando se requiera su ejecución como política.
-* Cualquier traducción DEBE estar actualizada con la versión en inglés y viceversa.
-* No DEBERÍA haber acrónimos, abreviaturas, juegos de palabras o términos legales/no ingleses/específicos del dominio en la codebase sin una explicación previa o un enlace a una explicación.
-* El nombre de la codebase DEBERÍA ser descriptivo y estar libre de acrónimos, abreviaturas, juegos de palabras o marcas de la organización.
-* La documentación DEBERÍA apuntar a un nivel de lectura de educación secundaria inferior, como recomiendan las [Pautas de Accesibilidad al Contenido en la Web 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
-* Todo el código, la documentación y las pruebas PUEDEN tener una traducción.
+Informatie uit de publieke sector moet toegankelijk zijn voor al haar burgers.
+Eenvoudige en duidelijke taal maakt de [code](../glossary.md#code) en wat deze doet gemakkelijker te begrijpen voor een breder publiek.
 
-## Por qué es importante
+Vertalingen vergroten de mogelijke reikwijdte van een [codebase](../glossary.md#codebase) verder.
+Taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het creëren en onderhouden van vertalingen.
 
-* Hace que la codebase y lo que hace sean comprensibles para una mayor variedad de partes interesadas en múltiples contextos.
-* Ayuda a descubrir la codebase.
-* Puede ayudarle a cumplir la [directiva de accesibilidad de la Unión Europea](https://ec.europa.eu/digital-single-market/en/web-accessibility), que exige que la mayor parte de la información del sector público sea accesible.
+## Vereisten
 
-## Qué no hace
+* De set gezaghebbende talen voor documentatie van de codebase MOET worden gedocumenteerd.
+* Engels MOET een van de gezaghebbende talen zijn.
+* Alle documentatie van de codebase MOET actueel zijn in alle gezaghebbende talen.
+* Alle [broncode](../glossary.md#source-code) MOET in het Engels zijn, behalve wanneer [beleid](../glossary.md#policy) als code door machines wordt geïnterpreteerd.
+* Al het meegeleverde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle gezaghebbende talen.
+* Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische/taalkundige/vakspecifieke termen in de codebase mogen staan zonder een voorafgaande uitleg of een link naar een uitleg.
+* Documentatie ZOU moeten streven naar een leesniveau op het niveau van lager secundair onderwijs, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
+* Het verstrekken van aanvullende vertalingen op basis van beleefdheid van code, documentatie of tests is OPTIONEEL.
 
-* Hacer comprensibles las explicaciones de la funcionalidad de la codebase.
-* Hacer que la jerga de tu organización sea comprensible sin una explicación.
+## Quickscan
 
-## Cómo probar o hacer tests
+* Bevestig dat de codebase documenteert welke talen gezaghebbend zijn.
+* Bevestig dat de documentatie van de codebase beschikbaar is in het Engels.
+* Bevestig dat vertalingen in gezaghebbende talen dezelfde inhoud hebben.
+* Bevestig dat de broncode in het Engels is, of bevestig dat eventuele niet-Engelse broncode beleid of termen zijn met voorafgaande uitleg.
+* Bevestig dat al het beleid volledig is vertaald of een samenvatting heeft in alle gezaghebbende talen.
+* Controleer of er geen onverklaarde acroniemen, afkortingen, woordspelingen of juridische/taalkundige/vakspecifieke termen in de documentatie staan.
+* Controleer de spelling, grammatica en leesbaarheid van de documentatie.
 
-* Verificar que las traducciones y la versión en inglés tienen el mismo contenido.
-* Validar que la documentación no contenga acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio sin explicar.
-* Comprobar la gramática de la documentación con [Grammarly](https://www.grammarly.com/).
-* Comprobar la legibilidad de la documentación con [Hemingway text editor](https://hemingwayapp.com/).
-* Preguntr a alguien fuera de tu contexto si entiende su contenido (por ejemplo, un desarrollador que trabaje en una la codebase diferente).
+## Aanwijzingen voor beleidsmakers
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+* Test regelmatig met andere managers, ontwikkelaars en ontwerpers tijdens het proces of ze begrijpen wat je levert en hoe je het documenteert.
 
-* Probar con frecuencia con otras personas directivas, diseñadoras y desarrolladoras del proceso si entienden lo que esta siendo entregando y cómo está documentado.
+## Aanwijzingen voor managers
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+* Stel vast welke talen gezaghebbend zijn voor de documentatie van de codebase, met vermelding van relevant beleid indien van toepassing.
+* Zorg ervoor dat er personeel of budget beschikbaar is om vertalingen voor gezaghebbende talen te verzorgen.
+* Probeer het gebruik van acroniemen, afkortingen, woordspelingen of juridische/taalkundige/vakspecifieke termen te beperken in interne communicatie binnen en tussen teams en belanghebbenden. Voeg dergelijke termen toe aan een woordenlijst en link ernaar vanaf de plaatsen waar ze worden gebruikt.
+* Wees kritisch op documentatie en beschrijvingen in voorstellen en wijzigingen. Als je iets niet begrijpt, zullen anderen er waarschijnlijk ook moeite mee hebben.
 
-* Intentar limitar el uso de acrónimos, abreviaturas, juegos de palabras o términos legales/específicos del dominio en las comunicaciones internas en y entre los equipos y las partes interesadas.
-* Ser una persona crítica con la documentación y las descripciones de las propuestas y los cambios: si no entiendes algo, es probable que los demás también tengan problemas con ello.
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+* Test regelmatig met beleidsmakers en managers of ze begrijpen wat je levert en hoe je het documenteert.
+* Vraag iemand buiten je context of ze de inhoud begrijpen (bijvoorbeeld een ontwikkelaar die aan een andere codebase werkt).
+* Als er zowel verplichte gezaghebbende vertalingen als "best effort" vertalingen op basis van beleefdheid zijn, zorg er dan voor dat duidelijk wordt gedocumenteerd in welke categorie elke vertaling valt.
 
-* Realizar pruebas o tests frecuentemente con responsables de políticas y personas directoras de equipos. si comprenden lo que está siendo entregando y cómo está documentado.
+## Meer informatie
 
-## Más información
-
-* Texto de las [Directrices sobre la Accesibilidad en el Contenido Web 2.1, Directriz 3.1 Legible](https://www.w3.org/TR/WCAG21/#readable) - hacer el contenido textual legible y comprensible.
-* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - solo permite 1000 de las palabras más comunes.
-* [Definición de idioma sencillo](https://www.plainlanguage.gov/about/definitions/) por la Administración de Servicios Generales de los Estados Unidos.
+* Het voldoen aan de [Web Content Accessibility Guidelines 2.2, Guideline 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level) door W3C maakt tekstinhoud leesbaar en begrijpelijk.
+* De [Europese Unie toegankelijkheidsrichtlijn](https://ec.europa.eu/digital-single-market/en/web-accessibility) door de Europese Commissie, is een voorbeeld van regelgeving die hoge toegankelijkheid vereist.
+* [Definitie van eenvoudige taal](https://www.plainlanguage.gov/about/definitions/) door de United States General Services Administration.

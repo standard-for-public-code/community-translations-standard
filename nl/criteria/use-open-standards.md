@@ -2,45 +2,42 @@
 order: 11
 ---
 
-# Utilizar estándares abiertos
+# Gebruik open standaarden
 
-## Requisitos
+[Open standaarden](../glossary.md#open-standard) garanderen toegang tot de kennis die nodig is om de [codebase](../glossary.md#codebase) te gebruiken en eraan bij te dragen.
+Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-in.
+Open standaarden die eenduidig zijn, maken onafhankelijke ontwikkeling van beide zijden van gegevensuitwisseling mogelijk.
 
-* Para las features o características de una codebase que facilitan el intercambio de datos, la codebase DEBE utilizar un estándar abierto que cumpla con los [Requisitos de Estándares Abiertos de la Iniciativa de Código Abierto](https://opensource.org/osr).
-* Si no hay un estándar abierto disponible, se DEBERÍA hacer un esfuerzo para desarrollar uno.
-* Los estándares que una máquina puede comprobar o testar DEBERÍAN ser preferidos a los que no lo son.
-* La funcionalidad que utiliza las características de un estándar que no es un estándar abierto PUEDE ser proporcionada si es necesario, pero solo de forma adicional a a las características conformes.
-* Todos los estándares no conformes utilizados DEBEN ser registrados claramente en la documentación.
-* La codebase DEBERÍA contener una lista de todos los estándares utilizados con enlaces a donde están disponibles.
+## Vereisten
 
-## Por qué es importante
+* Voor functies van de codebase die de uitwisseling van gegevens faciliteren, MOET de codebase een open standaard gebruiken die voldoet aan de [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* Alle niet-open standaarden die worden gebruikt, MOETEN duidelijk als zodanig in de documentatie worden vastgelegd.
+* Elke standaard die wordt gekozen voor gebruik binnen de codebase MOET in de documentatie worden vermeld met een link naar waar deze beschikbaar is.
+* Elke niet-open standaard die wordt gekozen voor gebruik binnen de codebase MAG de samenwerking en hergebruik NIET belemmeren.
+* Als er geen bestaande open standaard beschikbaar is, ZOU er moeite moeten worden gedaan om er een te ontwikkelen.
+* Open standaarden die machine-testbaar zijn, ZOUDEN de voorkeur moeten krijgen boven open standaarden die dat niet zijn.
+* Niet-open standaarden die machine-testbaar zijn, ZOUDEN de voorkeur moeten krijgen boven niet-open standaarden die dat niet zijn.
 
-* Crea interoperabilidad entre sistemas.
-* Reduce el posible bloqueo de los proveedores.
-* Garantiza el acceso al conocimiento necesario para reutilizar y contribuir a la codebase.
+## Quickscan
 
-## Qué no hace
+* Bevestig dat gegevensuitwisseling voldoet aan een door OSI goedgekeurde open standaard.
+* Bevestig dat alle gebruikte niet-open standaarden duidelijk als zodanig in de documentatie zijn vastgelegd.
+* Bevestig dat de documentatie een lijst bevat van de standaarden die binnen de codebase worden gevolgd, elk met een werkende link, of een verklaring dat er geen standaarden zijn gekozen.
 
-* Hacer entendible cómo se puede utilizar el software.
+## Aanwijzingen voor beleidsmakers
 
-## Cómo probar o hacer tests
+* Verplicht het gebruik van open standaarden waar mogelijk.
+* Verbied de aanschaf van technologie die geen open standaarden gebruikt.
 
-* La documentación incluye una lista de estándares.
-* Los estándares utilizados para todas las funciones que ofrecen interoperabilidad con otros componentes y sistemas están libre y públicamente disponibles en Internet.
+## Aanwijzingen voor managers
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+* Overweeg het opnemen van een beoordeling van de naleving van open standaarden in [broncode](../glossary.md#source-code) reviews.
 
-* Obligar al uso de estándares abiertos en todos los casos posibles.
-* Prohibir la adquisición de tecnología que no utilice estándares abiertos.
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+* Voeg [continuous integration](../glossary.md#continuous-integration) tests toe voor naleving van de standaarden.
+* Beoordeel de commits en andere [repository](../glossary.md#repository) bronnen op verwijzingen naar standaarden en controleer deze met de vermelde standaarden.
 
-* Considerar incluir la evaluación del cumplimiento de estándares abiertos en las revisiones de código.
+## Meer informatie
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
-
-* Añadir tests o pruebas de integración continua en cumplimiento con los estándares.
-
-## Más información
-
-* [Principios de estándares abiertos](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles) documento sobre políticas de la Oficina del Gabinete (de Gobierno) del Reino Unido.
+* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), [beleid](../glossary.md#policy) document van het UK Cabinet Office.
