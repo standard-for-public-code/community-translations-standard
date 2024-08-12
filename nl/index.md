@@ -9,8 +9,7 @@ De *Standard for Public Code* biedt publieke organisaties een model voor het bou
 * [Introductie en achtergrond](introduction.md)
 * [Leeswijzer](readers-guide.md)
 * [Overzicht van termen](glossary.md)
-* [Criteria](criteria/)
-{% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+* [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
   * [{{page.title}}]({{site.baseurl}}{{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}
 * [Auteurs](AUTHORS.md)
 * [Bijdragen](CONTRIBUTING.md)
