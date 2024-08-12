@@ -22,17 +22,17 @@ In the pull request, also remember to update the table in [index.md](index.md) w
 
 These are the files that need to be translated before it is ready for review.
 
-- [index.md](https://github.com/standard-for-public-code/standard/blob/main/index.md)
-- all files in the folder [criteria](https://github.com/standard-for-public-code/standard/tree/main/criteria) except for _template.md
-- [readers-guide.md](https://github.com/standard-for-public-code/standard/blob/main/readers-guide.md)
-- [glossary.md](https://github.com/standard-for-public-code/standard/blob/main/glossary.md)
-- [CODE_OF_CONDUCT.md](https://github.com/standard-for-public-code/standard/blob/main/CODE_OF_CONDUCT.md)
-- [CONTRIBUTING.md](https://github.com/standard-for-public-code/standard/blob/main/CONTRIBUTING.md)
-- [GOVERNANCE.md](https://github.com/standard-for-public-code/standard/blob/main/GOVERNANCE.md)
-- [CHANGELOG.md](https://github.com/standard-for-public-code/standard/blob/main/CHANGELOG.md)
-- [AUTHORS.md](https://github.com/standard-for-public-code/standard/blob/main/AUTHORS.md)
-- [standard-print.html](https://github.com/standard-for-public-code/standard/blob/main/standard-print.html)
-- [print-cover.html](https://github.com/standard-for-public-code/standard/blob/main/print-cover.html)
+- [index.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/index.md)
+- all files in the folder [criteria](https://github.com/standard-for-public-code/standard-for-public-code/tree/main/criteria) except for _template.md
+- [readers-guide.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/readers-guide.md)
+- [glossary.md](https://github.com/standard-for-public-code/standard/blob-for-public-code/main/glossary.md)
+- [CODE_OF_CONDUCT.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CONTRIBUTING.md)
+- [GOVERNANCE.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/GOVERNANCE.md)
+- [CHANGELOG.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CHANGELOG.md)
+- [AUTHORS.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/AUTHORS.md)
+- [standard-print.html](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/standard-print.html)
+- [print-cover.html](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/print-cover.html)
 
 While standard-print.html and print-cover.html are large files, the only text that needs to be translated are the ones in the table below (some in two places in the file).
 
@@ -74,7 +74,7 @@ That way it will benefit more people and you will get help of a community that k
 
 #### Foreword
 
-There is also [foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) that gives context about the concept of Public Code.
+There is also [foreword.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/foreword.md) that gives context about the concept of Public Code.
 
 The foreword may be translated or even customized for a locale's context.
 
