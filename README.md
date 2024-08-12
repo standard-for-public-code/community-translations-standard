@@ -25,7 +25,7 @@ These are the files that need to be translated before it is ready for review.
 - [index.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/index.md)
 - all files in the folder [criteria](https://github.com/standard-for-public-code/standard-for-public-code/tree/main/criteria) except for _template.md
 - [readers-guide.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/readers-guide.md)
-- [glossary.md](https://github.com/standard-for-public-code/standard/blob-for-public-code/main/glossary.md)
+- [glossary.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/glossary.md)
 - [CODE_OF_CONDUCT.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CODE_OF_CONDUCT.md)
 - [CONTRIBUTING.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CONTRIBUTING.md)
 - [GOVERNANCE.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/GOVERNANCE.md)
