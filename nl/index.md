@@ -13,7 +13,6 @@ Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](f
 
 ## Inhoudsopgave
 
-* [Introductie en achtergrond](introduction.md)
 * [Leeswijzer](readers-guide.md)
 * [Overzicht van termen](glossary.md)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
