@@ -2,55 +2,44 @@
 order: 1
 ---
 
-# Código en abierto
+# Werk in alle openheid
 
-## Requisitos
+Coderen in het openbaar verbetert transparantie, verhoogt de kwaliteit van de broncode, maakt de broncode gemakkelijker te auditen en maakt samenwerking mogelijk.
+Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en beleid hun interacties met een publieke organisatie beïnvloeden.
 
-* Todo el código fuente de cualquier política y software en uso (a menos que se utilice para la detección de fraudes) DEBE publicarse y ser de acceso público.
-* Los colaboradores NO DEBEN subir al repositorio información sensible sobre los usuarios, su organización o terceros.
-* Cualquier código fuente que no esté actualmente en uso (como nuevas versiones, propuestas o versiones antiguas) DEBERÍA ser publicado.
-* El código fuente PUEDE proporcionar al público en general información sobre el código fuente o la política que sustenta cualquier interacción específica que tengan con una organización.
+## Vereisten
 
-## Por qué esto es importante
+- Alle broncode voor elke software in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
+- Alle broncode voor elk beleid in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
+- De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
+- Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) ZOU MOETEN worden gepubliceerd.
+- Het documenteren welke broncode of beleid ten grondslag ligt aan een specifieke interactie die het algemene publiek mogelijk heeft met een organisatie is OPTIONEEL.
 
-Mantener el código en abierto:
+## Quickscan
 
-* Mejora la transparencia.
-* Aumenta la calidad del código.
-* Facilita las auditorías.
+- Bevestig dat de bron voor elke momenteel gebruikte versie is gepubliceerd op het internet waar deze kan worden gezien van buiten de oorspronkelijke bijdragende organisatie en zonder dat enige vorm van authenticatie of autorisatie nodig is.
+- Bevestig dat de codebase bestanden en commit geschiedenis geen gevoelige informatie bevatten.
+- Controleer op de publicatie van broncode die momenteel niet in gebruik is.
 
-## Qué no hace
+## Aanwijzingen voor beleidsmakers
 
-* Hace el código fuente o política reusable.
-* Hace entendibles al mayor número de personas posible la codebase y el código que contiene.
+- Ontwikkel beleid in het openbaar.
+- Prioriteer open en transparant beleid.
 
-## Cómo probar o hacer tests
+## Aanwijzingen voor managers
 
-La fuente de cada versión en uso es publicado en internet donde puede ser visto:
+- Ontwikkel een cultuur die openheid, leren en feedback omarmt.
+- Werk samen met externe leveranciers en freelancers door in het openbaar te werken.
 
-* Desde fuera de la organización que ha contribuido.
-* Sin la necesidad de forma alguna de autentificación o autorización.
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-Por cada commit, los revisores o reviewers verifican que el contenido no incluye información sensible como pueden ser configuraciones, nombres de usuarios o contraseñas, claves públicas o cualquier otra credencial utilizada en sistemas en producción.
+- Als reviewer, verifieer voor elke commit dat de inhoud geen gevoelige informatie bevat zoals configuraties, gebruikersnamen of wachtwoorden, publieke sleutels of andere echte inloggegevens die in productiesystemen worden gebruikt.
+- Scheid duidelijk gegevens en broncode, om aan de bovenstaande eis over gevoelige informatie te voldoen.
 
-## ## Responsables de políticas y legislaciones: qué necesitan hacer
+## Meer informatie
 
-* Desarrollar políticas de forma abierta.
-* Priorizar políticas abiertas y transparentes.
-
-## Profesionales de la dirección de equipos: qué necesitan hacer
-
-* Desarrollar una cultura que acoja la apertura, el aprendizaje y la retroalimentación.
-* Colaborar con empresas externas y profesionales autónomos a través del trabajo en abierto.
-
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
-
-* Dividir de forma clara los datos y el código, de tal manera que se pueda alcanzar el requerimiento sobre información sensible mencionado con anterioridad.
-
-## Más información (en inglés)
-
-* [Desarrollando código en abierto](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) por el Servicio del Gobierno Digital del Reino Unido.
-* [Cuándo el código debería ser abierto y cuándo cerrado](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) by the UK Government Digital Service.
-* [Consideraciones de seguridad cuando se desarrolla con código en abierto](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) por el Servicio del Gobierno Digital del Reino Unido.
-* [Desplegando el software con regularidad](https://www.gov.uk/service-manual/technology/deploying-software-regularly) por el Servicio del Gobierno Digital del Reino Unido.
-* [Cómo GDS usa GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/) por el Servicio del Gobierno Digital del Reino Unido.
+- Coding in the open door de UK Government Digital Service.
+- When code should be open or closed door de UK Government Digital Service.
+- Security considerations when coding in the open door de UK Government Digital Service.
+- Deploying software regularly door de UK Government Digital Service.
+- How GDS uses GitHub door de UK Government Digital Service.
