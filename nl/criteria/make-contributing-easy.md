@@ -2,47 +2,46 @@
 order: 5
 ---
 
-# Hacer que las contribuciones sean fáciles
+# Maak bijdragen gemakkelijk
 
-## Requisitos
+Om betere, betrouwbaardere en rijkere software te ontwikkelen, moeten gebruikers in staat zijn om problemen op te lossen, functies toe te voegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.md#codebase) aan te pakken.
 
-* La codebase DEBE tener un tracker o rastreador de problemas público que acepte sugerencias de cualquier persona.
-* La codebase DEBE incluir instrucciones sobre cómo informar privadamente de los problemas de seguridad para su divulgación responsable.
-* La documentación DEBE enlazar tanto con el rastreador de problemas público como con los cambios enviados a la codebase, por ejemplo en un archivo `README`.
-* La codebase DEBE tener canales de comunicación para usuarios y desarrolladores, por ejemplo, listas de correo electrónico.
-* La documentación DEBERÍA incluir instrucciones sobre cómo informar de problemas potencialmente sensibles a la seguridad en un canal cerrado.
+Een gedeelde digitale infrastructuur maakt het gemakkelijker om samen te werken aan bijdragen.
+Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers bijdragers worden.
 
-## Por qué es importante
+## Vereisten
 
-* Permite a los usuarios solucionar problemas y añadir funciones a la codebase compartida, lo que da lugar a un software mejor, más fiable y con más funciones.
-* Permite la adopción colaborativa de la infraestructura digital compartida.
-* Ayuda a los usuarios a decidirse por una codebase en lugar de otra.
+* De codebase MOET een openbaar issuetracker hebben die suggesties van iedereen accepteert.
+* De documentatie MOET zowel naar de openbare issuetracker als naar ingediende wijzigingen in de codebase verwijzen, bijvoorbeeld in een `README`-bestand.
+* De codebase MOET communicatiekanalen hebben voor gebruikers en ontwikkelaars, bijvoorbeeld e-maillijsten.
+* Er MOET een manier zijn om beveiligingsproblemen te melden voor verantwoorde openbaarmaking via een gesloten kanaal.
+* De documentatie MOET instructies bevatten over hoe mogelijk beveiligingsgevoelige problemen kunnen worden gemeld.
 
-## Qué no hace
+## Quickscan
 
-* Garantizar que otros reutilicen la codebase.
+* Bevestig dat er een openbare issuetracker is.
+* Bevestig dat de codebase links bevat naar de openbare issuetracker en ingediende wijzigingen in de codebase.
+* Bevestig dat het mogelijk is om deel te nemen aan een discussie met andere gebruikers en ontwikkelaars over de software via de kanalen die in de codebase worden beschreven.
+* Bevestig dat er een gesloten kanaal is voor het melden van beveiligingsproblemen.
+* Bevestig dat er instructies zijn voor het privé melden van beveiligingsproblemen.
 
-## Cómo probar o hacer tests
+## Aanwijzingen voor beleidsmakers
 
-* Hay un issue tracker o rastreador de problemas público.
-* Es posible participar en una discusión con otros usuarios sobre el software.
+* Houd [beleidskwesties](../glossary.md#policy) bij in de codebase, zodat een relevante externe beleidsexpert hulp kan aanbieden.
 
-## Responsables de políticas y legislaciones: qué necesitan hacer
+## Aanwijzingen voor managers
 
-* Hacer seguimiento a los problemas de políticas en la codebase, para que un experto externo en políticas pertinentes pueda ofrecer ayuda.
+* Houd beheerskwesties bij in de codebase, zodat externe managers met relevante ervaring hulp kunnen aanbieden.
+* Ondersteun je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
 
-## Profesionales de la dirección de equipos: qué necesitan hacer
+## Aanwijzingen voor ontwikkelaars en ontwerpers
 
-* Hacer un seguimiento de los problemas de gestión en la codebase, para que los gestores externos con experiencia relevante puedan ayudar de forma voluntaria.
-* Apoyar a sus responsables políticos, desarrolladores y diseñadores experimentados para que sigan contribuyendo a la codebase durante el mayor tiempo posible.
+* Net als bij [beoordelingen](require-review-of-contributions.md), zorg ervoor dat je snel reageert op verzoeken.
+* Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
+* Zorg ervoor dat geschikte communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de README.
+* Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in het publiccode.yml-bestand.
 
-## Profesionales del desarrollo de software y diseño: qué necesitan hacer
+## Meer informatie
 
-* Responder con prontitud a las solicitudes.
-* Mantener a la dirección informada del tiempo y los recursos que necesita para apoyar a otros colaboradores.
-
-## Más información (en inglés)
-
-* [Cómo inspirar contribuciones excepcionales en tu proyecto open-source](https://www.netdata.cloud/blog/open-source-contributions/)
-* [Los beneficios de programar en abierto](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) por el Servicio Digital del Gobierno del Reino Unido.
-* [La política de seguridad de Verdaccio](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) es un ejemplo muy explicativo.
+* [Hoe uitzonderlijke bijdragen aan je open-sourceproject te inspireren](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) door Joel Hans.
+* [De voordelen van coderen in het openbaar](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) door de UK Government Digital Service.
