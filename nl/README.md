@@ -1,3 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2024 Code for NL
+---
+
 # Nederlandse vertaling van de Standard for Public Code
 
 Dit is een community repository met de Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org), aangeboden door [Code for NL](https://www.codefor.nl).

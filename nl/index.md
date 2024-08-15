@@ -1,3 +1,7 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2024 Code for NL
+---
 
 # Richtlijnen voor samenwerking aan open source in de overheid
 
