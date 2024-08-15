@@ -1,25 +1,21 @@
-# Traducciones de la comunidad del Estándar para el Código Público
+# Nederlandse vertaling van de Standard for Public Code
 
-Este es un repositorio no oficial de traducciones del [Estándar para el Código Público o Standard for Public Code](https://standard.publiccode.net), proporcionadas por la comunidad.
+Dit is een community repository met de Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org), aangeboden door [Code for NL](https://www.codefor.nl).
 
-## Contribute
+## Bijdragen
 
-Cualquier persona puede comenzar una traducción del estándar.
-Por favor, coloca tu traducción en una carpeta nombrada con un código de lenguaje de los contemplados por [RFC 5646](https://www.rfc-editor.org/info/rfc5646) (por ejemplo `es` para español o `da` para danés o `zh_Hant_TW` para chino con escritura tradicional para la configuración regional de Taiwán).
+Inhoudelijke wijzigingen aan de Standard for Public Code moeten plaatsvinden via de upstream [Standard for Public Code Governance](https://www.standardforpubliccode.org/GOVERNANCE.html). Talige wijzigingen aan de Nederlandse vertaling kunnen in deze repository worden gedaan.
 
-## Problemas, sugerencias y preguntas en issues
+## Problemen, suggesties en vragen in issues
 
-Puedes reportar problemas, sugerir cambios o preguntar dudas [creando un issue en GitHub](https://help.github.com/articles/creating-an-issue/). Para este proyecto en el repositorio a través de [GitHub Issues para traducciones de la comunidad](https://github.com/publiccodenet/community-translations-standard/issues).
-O también puedes apuntarte a [la lista de correo del Estándar para el Código Público](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) y enviar un correo electrónico a [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
+Je kunt problemen melden, wijzigingen voorstellen of vragen stellen door [een issue aan te maken op GitHub](https://help.github.com/articles/creating-an-issue/). Voor deze vertaling kan dat in [de Github repository Standard for Public Code Translations](https://github.com/standard-for-public-code/community-translations-standard/issues).
 
-## Previsualizar, construir y desplegar
+Ook kun je meepraten op [de Code for NL Slack omgeving](https://praatmee.codefor.nl) in het kanaal #standard-for-public-code.
 
-Aún estamos diseñando los detalles de este proceso. Por favor, sé paciente.
+## Gedragscode
 
-## Código de Conducta
+Deze repository en de activiteiten daaromheen vallen onder een [gedragscode](CODE_OF_CONDUCT.md) die je dient te respecteren.
 
-Este repositorio se rige por un [código de conducta](CODE_OF_CONDUCT.md), por favor, respétalo.
+## Licentie
 
-## Licencia
-
-Todas las traducciones deben de estar recogidas bajo la licencia [CC0 1.0](LICENSE).
+De Nederlandse vertaling van de Standard for Public Code valt onder de [CC0 1.0 licentie](LICENSE).
