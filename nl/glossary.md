@@ -1,64 +1,88 @@
-# Glosario
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2024 Code for NL
+---
+# Termenoverzicht
 
-## Código
+## Code
 
-Cualquier sistema de normas descrito explícitamente. Esto incluye leyes, políticas y ordenanzas, así como el código fuente que se utiliza para construir software. Todos los anteriores son reglas, algunas ejecutadas por humanos y otras por máquinas.
+Iedere expliciet beschreven set van regels.
+Dit omvat wetten, beleid en verordeningen, evenals broncode die wordt gebruikt om software te bouwen.
+Beide zijn regels, sommige uitgevoerd door mensen en andere door machines.
 
 ## Codebase
 
-Cualquier paquete discreto de código (tanto código fuente como políticas), sus pruebas y documentación necesaria para implementar una pieza de política o software.
+Ieder samenhangend geheel aan code (zowel broncode als beleid), inclusief de tests en de documentatie die nodig zijn om een stuk beleid of software te implementeren.
 
-Puede ser, por ejemplo, un documento o un repositorio de control de versiones.
+Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
 
-## Integración continua
+## Continue integratie
 
-En ingeniería de software, la integración continua (CI) es la práctica de fusionar o merge todas las copias de trabajo de los desarrolladores con una rama o branch de desarrollo de una codebase con una frecuencia razonable.
+In software engineering is continue integratie (CI) de praktijk van het regelmatig of zo vaak mogelijk samenvoegen van alle werkende kopieën van ontwikkelaars naar een ontwikkelingsbranch van een codebase.
 
-## Público general
+## Verschillende contexten
 
-El público en general: personas usuarias finales del código y de los servicios basados en él.
+Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft waarvoor er niet één beslisser is die samenwerking op een natuurlijk manier zou kunnen laten plaatsvinden.
 
-Por citar un caso, aquellas personas residentes de una ciudad son consideradas usuarias finales de los servicios que proporciona la ciudad y todo el código que posibilita esos servicios.
+## Algemeen publiek
 
-## Open source o código abierto
+Het brede publiek: eindgebruikers van de code en de diensten die daarop zijn gebaseerd.
 
-Open source o código abierto se define por la Open Source Initiative en su [Definición de Open Source](https://opensource.org/osd-annotated) (en inglés).
+Bijvoorbeeld: de inwoners van een stad worden beschouwd als eindgebruikers van de diensten van een stad en van alle code die deze diensten aandrijft.
 
-## Estándar abierto
+## Open source
 
-Un estándar abierto es cualquier estándar que cumple con los [Requisitos de Estándar Abierto](https://opensource.org/osr) de la Open Source Initiative (en inglés).
+Open source is defined by the Open Source Initiative in their [Open Source Definition](https://opensource.org/osd-annotated).
+Open source is gedefinieerd door de Open Source Initiative in hun [Open Source Definition](https://opensource.org/osd-annotated).
 
-## Política(s)
+## Open standaard
 
-Una política es un sistema deliberado de principios para guiar las decisiones y lograr resultados racionales.
-Una política es una declaración de intenciones y se aplica como un procedimiento o protocolo.
-Las políticas suelen ser adoptadas por un órgano de gobierno dentro de una organización.
-Las políticas pueden ayudar a tomar decisiones tanto subjetivas como objetivas.
+An open standard is any standard that meets the Open Source Initiative's [Open Standard Requirements](https://opensource.org/osr).
+Een open standaard is iedere standaard die voldoet aan de [Open Standaard Vereisten](https://opensource.org/osr) van de Open Source Initiative.
 
-Una política pública es el proceso por el cual los gobiernos traducen su visión política en programas y acciones para generar resultados.
+## Beleid
 
-A nivel nacional, la política y la legislación (la ley) suelen estar separadas. La distinción suele ser más difusa en la administración local.
+Een beleid is een bewust systeem van principes om beslissingen te sturen en rationele resultaten te bereiken.
+Een beleid is een intentieverklaring en wordt geïmplementeerd als een procedure of protocol.
+Beleid wordt over het algemeen aangenomen door een bestuursorgaan binnen een organisatie.
+Beleid kan ondersteunend zijn aan zowel subjectieve als objectieve besluitvorming.
 
-En el Estándar, la palabra «política» se refiere a la política creada y adoptada por organizaciones públicas como gobiernos y municipios.
+Publieke beleidsvorming is het proces waarbij overheden hun politieke visie omzetten in programma's en acties om resultaten op te leveren.
 
-## Código Público
+Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden.
+Dit onderscheid is vaak vager in de lokale overheid.
 
-El código público es tanto el código fuente informático (como el software y los algoritmos) como la política pública ejecutada en un contexto público, por humanos o máquinas.
+In de Standard for Public Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
 
-Dado que el código público sirve al interés público, debe ser abierto, legible, responsable, accesible y sostenible.
+## Publieke code
 
-Al desarrollar el código público independientemente del contexto local para el que se desarrolló, sin dejar de ser implementable, así como documentando el proceso de desarrollo abiertamente, el código público puede proporcionar un bloque de construcción para que otros puedan:
+Publieke code (_public code_) is open source software die is ontwikkeld door publieke organisaties, tezamen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
 
-* Reimplementar en su contexto local.
-* tomar como punto de partida para continuar el desarrollo.
-* Utilizarlo como base de aprendizaje.
+Publieke code is zowel computerbroncode (zoals software en algoritmen) als publiek beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
-Para facilitar la reutilización, el código público debe ser de dominio público o tener una licencia abierta que permita a otros ver y reutilizar el trabajo libremente y producir obras derivadas.
+Publieke code dient het publieke belang, is open, leesbaar, verantwoord, toegankelijk en duurzaam.
 
-## Repositorio
+Door publieke code te ontwikkelen onafhankelijk van, maar nog steeds implementeerbaar in de lokale context waarvoor het is ontwikkeld, en door het ontwikkelproces openbaar te documenteren, kan publieke code een bouwsteen bieden voor anderen om:
 
-En los sistemas de control de revisiones (o versiones), un repositorio es una estructura de datos que almacena los metadatos de un conjunto de archivos o una estructura de directorios. (fuente: SVNBook)
+* de codebase in hun lokale context te implementeren
+* de codebase als basis te nemen voor verdere ontwikkeling
+* de codebase te gebruiken om van te leren
 
-## Control de versiones
+Om hergebruik te vergemakkelijken, wordt publieke code ofwel in het publieke domein vrijgegeven of gelicentieerd met een open licentie die anderen toestaat om het werk vrij te bekijken en te hergebruiken en om afgeleide werken te produceren.
 
-El control de versiones es la gestión de los cambios en el código fuente y los archivos asociados a él. Los cambios suelen identificarse mediante un código, denominado *número de revisión* (o similar). Cada revisión se asocia con el momento en que se realizó y la persona que hizo el cambio, lo que facilita el seguimiento de la evolución del código. Las revisiones de código pueden compararse entre sí y facilita la restauración de versiones anteriores.
+## Repository
+
+Een repository is een opslaglocatie die wordt gebruikt door versiebeheertools voor bestanden en metadata van een codebase.
+Repositories maken het mogelijk om met meerdere bijdragers aan dezelfde set bestanden te werken.
+Repositories kunnen meerdere versies van sets bestanden opslaan.
+
+## Broncode
+
+De door mensen leesbare tekst van een computerprogramma die kan worden vertaald in machine-instructies.
+
+## Versiebeheer
+
+Versiebeheer is het beheer van wijzigingen aan broncode en de bestanden die daarmee samenhangen.
+Veranderingen worden meestal aangeduid met een code, de zogenoemde *revisiecode* (of iets dergelijks).
+Iedere revisie is gekoppeld aan het tijdstip waarop deze is gemaakt en de persoon die de wijziging heeft aangebracht, waardoor het gemakkelijker wordt om de wijzigingsgeschiedenis van de code terug te volgen.
+Revisie-controlesystemen kunnen worden gebruikt om verschillende versies met elkaar te vergelijken en te zien hoe de inhoud in de loop van de tijd is veranderd.
