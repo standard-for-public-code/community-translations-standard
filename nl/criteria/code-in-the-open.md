@@ -4,15 +4,15 @@
 order: 1
 ---
 
-# Werk in alle openheid
+# Programmeer in het openbaar
 
-Coderen in het openbaar verbetert transparantie, verhoogt de kwaliteit van de broncode, maakt de broncode gemakkelijker te auditen en maakt samenwerking mogelijk.
-Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en beleid hun interacties met een publieke organisatie beïnvloeden.
+Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de broncode, maakt de broncode gemakkelijker te controleren en maakt samenwerking mogelijk.
+Samen zorgt dit voor meer mogelijkheden voor burgers om te begrijpen hoe software en beleid hun interacties met een publieke organisatie beïnvloeden.
 
 ## Vereisten
 
-- Alle broncode voor elke software in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
-- Alle broncode voor elk beleid in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
+- Alle broncode voor software in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
+- Alle broncode voor beleid in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
 - De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
 - Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) ZOU MOETEN worden gepubliceerd.
 - Het documenteren welke broncode of beleid ten grondslag ligt aan een specifieke interactie die het algemene publiek mogelijk heeft met een organisatie is OPTIONEEL.

@@ -21,18 +21,15 @@ Deze sectie legt uit wat het doel is van het criterium en waarom het belangrijk 
 
 Deze sectie somt op wat er gedaan moet worden om te voldoen aan de Standard for Public Code.
 
-De volgende trefwoorden in dit document moeten worden geïnterpreteerd zoals beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119):
+De woorden “MOET”, “MAG NIET”, “ZOU MOETEN”, “ZOU NIET MOETEN”, en “MAG” in dit document moeten worden geïnterpreteerd gelijk aan hun Engelstalige equivalenten (“_MUST_", "_MUST NOT_", "_SHOULD_", "_SHOULD NOT_" en "_MAY_") als beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119). Waar deze exacte termen bedoeld zijn worden ze in hoofdletters weergegeven.
 
-* MOET (_MUST_)
-* MOET NIET (_MUST NOT_)
-* VEREIST (_REQUIRED__)
-* ZAL (_SHALL_)
-* ZAL NIET (_SHALL NOT_)
-* ZOU (_SHOULD_)
-* ZOU NIET (_SHOULD NOT_)
-* AANBEVOLEN (_RECOMMENDED_)
-* KAN (_MAY_)
-* OPTIONEEL (_OPTIONAL_)
+De betekenis van deze woorden is:
+
+* MOET: absolute vereiste
+* MAG NIET: absoluut verbod
+* ZOU MOETEN: sterke wens, tenzij er valide reden is in specifiek geval af te wijken
+* ZOU NIET MOETEN: ongewenst, tenzij er valide reden is om het in specifiek geval toe te laten
+* MAG: vrije keuze, een optie
 
 ## Sectie "Quickscan"
 
