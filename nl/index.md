@@ -3,15 +3,15 @@
 # SPDX-FileCopyrightText: 2024 Code for NL
 ---
 
-# Richtlijnen voor samenwerking aan open source in de overheid
+# Leidraad voor open source samenwerking in de overheid
 
-De *Standard for Public Code* is een set criteria die publieke organisaties ondersteunt bij het gezamenlijk ontwikkelen en onderhouden van software en beleid.
+De *Standard for Public Code* is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
-De *Standard for Public Code* biedt richtlijnen aan publieke organisaties die succesvol willen samenwerken aan open source-oplossingen met soortgelijke organisaties op andere locaties. Het bevat advies voor beleidsmakers, overheidsmanagers, ontwikkelaars en leveranciers. De *Standard for Public Code* ondersteunt de gezamenlijke creatie van codebases die bruikbaar, open, leesbaar, verantwoord, toegankelijk en duurzaam zijn. Het is bedoeld om toepasbaar te zijn op codebases voor alle overheidsniveaus - van supranationaal tot gemeentelijk.
+De *Standard for Public Code* is een leidraad voor publieke organisaties die succesvol willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders. Het bevat adviezen voor beleidsmakers, overheidsmanagers, ontwikkelaars en leveranciers. De *Standard for Public Code* ondersteunt het gezamenlijk ontwikkelen van codebases die bruikbaar, open, leesbaar, verantwoord, toegankelijk en duurzaam zijn. Het is bedoeld om toepasbaar te zijn op codebases voor alle overheidsniveaus - van supranationaal tot gemeentelijk.
 
-De *Standard for Public Code* definieert "*public code*" of "[publieke code](https://www.standardforpubliccode.org/glossary.html#public-code)" als open source software ontwikkeld door publieke organisaties, tezamen met het beleid en de richtlijnen die nodig zijn voor samenwerking daaraan en hergebruik daarvan.
+De *Standard for Public Code* definieert "*public code*" ("[publieke code](glossary.html#publieke-code)") als open source software die is ontwikkeld door publieke organisaties, in cobinatie met bijbehorend beleid en de documentatie die nodig is voor samenwerking en hergebruik.
 
-De criteria van de *Standard for Public Code* zijn afgestemd op richtlijnen en best practices van open source softwareontwikkeling.
+De criteria van de *Standard for Public Code* zijn afgestemd op richtlijnen en _best practices_ in open source softwareontwikkeling.
 
 Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](foreword.md).
 

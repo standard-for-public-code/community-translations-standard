@@ -56,7 +56,7 @@ In de Standard for Public Code verwijst het woord 'beleid' naar beleid dat is ge
 
 ## Publieke code
 
-Publieke code (_public code_) is open source software die is ontwikkeld door publieke organisaties, tezamen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
+Publieke code (_public code_) is open source software die is ontwikkeld door publieke organisaties, in combinatie met het beleid en de documentatie nodig voor samenwerking en hergebruik.
 
 Publieke code is zowel computerbroncode (zoals software en algoritmen) als publiek beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
