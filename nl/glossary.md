@@ -18,7 +18,7 @@ Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
 
 ## Continue integratie
 
-In software engineering is continue integratie (CI) de praktijk van het regelmatig of zo vaak mogelijk samenvoegen van alle werkende kopieën van ontwikkelaars naar een ontwikkelingsbranch van een codebase.
+In _software engineering_ is continue integratie (CI) de praktijk van het regelmatig of zo vaak mogelijk samenvoegen van alle werkende kopieën van ontwikkelaars naar een ontwikkelingsbranch van een codebase.
 
 ## Verschillende contexten
 
@@ -32,13 +32,11 @@ Bijvoorbeeld: de inwoners van een stad worden beschouwd als eindgebruikers van d
 
 ## Open source
 
-Open source is defined by the Open Source Initiative in their [Open Source Definition](https://opensource.org/osd-annotated).
-Open source is gedefinieerd door de Open Source Initiative in hun [Open Source Definition](https://opensource.org/osd-annotated).
+Open source is gedefinieerd door de *Open Source Initiative* in hun [Open Source Definition](https://opensource.org/osd-annotated).
 
 ## Open standaard
 
-An open standard is any standard that meets the Open Source Initiative's [Open Standard Requirements](https://opensource.org/osr).
-Een open standaard is iedere standaard die voldoet aan de [Open Standaard Vereisten](https://opensource.org/osr) van de Open Source Initiative.
+Een open standaard is iedere standaard die voldoet aan de [Open Standard Requirements](https://opensource.org/osr) vereisten van de *Open Source Initiative*.
 
 ## Beleid
 
@@ -52,13 +50,13 @@ Publieke beleidsvorming is het proces waarbij overheden hun politieke visie omze
 Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden.
 Dit onderscheid is vaak vager in de lokale overheid.
 
-In de Standard for Public Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
+In de *Standard for Public Code* verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
 
 ## Publieke code
 
 Publieke code (_public code_) is open source software die is ontwikkeld door publieke organisaties, in combinatie met het beleid en de documentatie nodig voor samenwerking en hergebruik.
 
-Publieke code is zowel computerbroncode (zoals software en algoritmen) als publiek beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
+Publieke code is zowel computerbroncode (zoals software en algoritmes) als beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
 Publieke code dient het publieke belang, is open, leesbaar, verantwoord, toegankelijk en duurzaam.
 

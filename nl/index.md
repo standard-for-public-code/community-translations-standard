@@ -7,7 +7,7 @@
 
 De *Standard for Public Code* is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
-De *Standard for Public Code* is een leidraad voor publieke organisaties die succesvol willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders. Het bevat adviezen voor beleidsmakers, overheidsmanagers, ontwikkelaars en leveranciers. De *Standard for Public Code* ondersteunt het gezamenlijk ontwikkelen van codebases die bruikbaar, open, leesbaar, verantwoord, toegankelijk en duurzaam zijn. Het is bedoeld om toepasbaar te zijn op codebases voor alle overheidsniveaus - van supranationaal tot gemeentelijk.
+De *Standard for Public Code* is een leidraad voor publieke organisaties die succesvol willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders. Het bevat adviezen voor beleidsmakers, overheidsmanagers, ontwikkelaars en leveranciers. De *Standard for Public Code* ondersteunt het in samenwerking ontwikkelen van codebases die bruikbaar, open, leesbaar, verantwoord, toegankelijk en duurzaam zijn. Het is bedoeld om toepasbaar te zijn op codebases voor alle overheidsniveaus - van supranationaal tot gemeentelijk.
 
 De *Standard for Public Code* definieert "[publieke code](glossary.html#publieke-code)" als open source software die is ontwikkeld door publieke organisaties, in cobinatie met bijbehorend beleid en de documentatie die nodig is voor samenwerking en hergebruik.
 
