@@ -1,13 +1,18 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2024 Code for NL
+order: 1
+---
 # Naam
 
 ## Vereisten
 
-## Quickscan
+## Hoe te testen
 
-## Aanwijzingen voor beleidsmakers
+## Beleidsmakers in de publieke sector: wat u moet doen
 
-## Aanwijzingen voor managers
+## Managers: wat u moet doen
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+## Ontwikkelaars en ontwerpers: wat u moet doen
 
 ## Meer informatie

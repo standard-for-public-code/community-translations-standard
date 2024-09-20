@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2024 Code for NL
 ---
 
-# Leidraad voor open source samenwerking in de overheid
+# Leidraad voor open source werken in de overheid
 
 De *Standard for Public Code* is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 

@@ -4,44 +4,51 @@
 order: 1
 ---
 
-# Programmeer in het openbaar
+# Open coderen
 
-Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de broncode, maakt de broncode gemakkelijker te controleren en maakt samenwerking mogelijk.
-Samen zorgt dit voor meer mogelijkheden voor burgers om te begrijpen hoe software en beleid hun interacties met een publieke organisatie beïnvloeden.
+Open coderen verbetert de transparantie, verhoogt de kwaliteit van de [[broncode]{.underline}][1], maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
+
+Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en [[beleid]{.underline}][2] hun interacties met een publieke organisatie beïnvloeden.
 
 ## Vereisten
 
-- Alle broncode voor software in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
-- Alle broncode voor beleid in gebruik (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
-- De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
-- Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) ZOU MOETEN worden gepubliceerd.
-- Het documenteren welke broncode of beleid ten grondslag ligt aan een specifieke interactie die het algemene publiek mogelijk heeft met een organisatie is OPTIONEEL.
+-   Alle broncode voor alle gebruikte software (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
 
-## Quickscan
+-   Alle broncode voor al het gebruikte beleid (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en publiek toegankelijk zijn.
 
-- Bevestig dat de bron voor elke momenteel gebruikte versie is gepubliceerd op het internet waar deze kan worden gezien van buiten de oorspronkelijke bijdragende organisatie en zonder dat enige vorm van authenticatie of autorisatie nodig is.
-- Bevestig dat de codebase bestanden en commit geschiedenis geen gevoelige informatie bevatten.
-- Controleer op de publicatie van broncode die momenteel niet in gebruik is.
+-   De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
 
-## Aanwijzingen voor beleidsmakers
+-   Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) MOET worden gepubliceerd.
 
-- Ontwikkel beleid in het openbaar.
-- Prioriteer open en transparant beleid.
+-   Het documenteren van welke broncode of welk beleid ten grondslag ligt aan een specifieke interactie die het [[algemene publiek]{.underline}][3] met een organisatie kan hebben, is OPTIONEEL.
 
-## Aanwijzingen voor managers
+## Hoe te testen
 
-- Ontwikkel een cultuur die openheid, leren en feedback omarmt.
-- Werk samen met externe leveranciers en freelancers door in het openbaar te werken.
+-   Controleer of de broncode van elke versie die momenteel in gebruik is, op internet is gepubliceerd, waar deze van buiten de oorspronkelijke bijdragende organisatie kan worden bekeken en zonder dat er enige vorm van authenticatie of autorisatie nodig is.
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+-   Controleer of de [[codebase]{.underline}][4]-bestanden en commit-geschiedenis geen gevoelige informatie bevatten.
 
-- Als reviewer, verifieer voor elke commit dat de inhoud geen gevoelige informatie bevat zoals configuraties, gebruikersnamen of wachtwoorden, publieke sleutels of andere echte inloggegevens die in productiesystemen worden gebruikt.
-- Scheid duidelijk gegevens en broncode, om aan de bovenstaande eis over gevoelige informatie te voldoen.
+-   Controleer op de publicatie van broncode die momenteel niet in gebruik is.
 
-## Meer informatie
+## Beleidsmakers in de publieke sector: wat u moet doen
 
-- Coding in the open door de UK Government Digital Service.
-- When code should be open or closed door de UK Government Digital Service.
-- Security considerations when coding in the open door de UK Government Digital Service.
-- Deploying software regularly door de UK Government Digital Service.
-- How GDS uses GitHub door de UK Government Digital Service.
+-   Ontwikkel open beleid.
+
+-   Geef prioriteit aan open en transparant beleid.
+
+## Managers: wat u moet doen
+
+-   Ontwikkel een cultuur waarin openheid, leren en feedback centraal staan.
+
+-   Werk samen met externe leveranciers en freelancers door in de openheid te werken.
+
+## Ontwikkelaars en ontwerpers: wat u moet doen
+
+-   Controleer als beoordelaar voor iedere commit of de inhoud geen gevoelige informatie bevat, zoals configuraties, gebruikersnamen of wachtwoorden, openbare sleutels of andere echte referenties die in productiesystemen worden gebruikt.
+
+-   Maak een duidelijke scheiding tussen gegevens en broncode om te voldoen aan de bovenstaande eis over gevoelige informatie.
+
+  [1]: https://standard.publiccode.net/glossary.html#source-code
+  [2]: https://standard.publiccode.net/glossary.html#policy
+  [3]: https://standard.publiccode.net/glossary.html#general-public
+  [4]: https://standard.publiccode.net/glossary.html#codebase

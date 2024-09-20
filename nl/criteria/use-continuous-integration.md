@@ -4,66 +4,84 @@
 order: 12
 ---
 
-# Gebruik continuous integration
+# Continue integratie gebruiken
 
-Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen met een gedeelde branch, geverifieerd door geautomatiseerde tests.
-Hoe vaker het samenvoegen plaatsvindt en hoe kleiner de bijdrage, hoe gemakkelijker het is om merge-conflicten op te lossen.
+Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde aftakking, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdrage, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
 
-Geautomatiseerd testen van alle functionaliteit biedt vertrouwen dat bijdragen werken zoals bedoeld en geen fouten hebben geïntroduceerd, en stelt beoordelaars in staat zich te concentreren op de structuur en aanpak van de bijdrage.
-Hoe gerichter de test, hoe gemakkelijker het is om fouten duidelijk te identificeren en te begrijpen zodra ze zich voordoen.
+Door alle functionaliteit automatisch te testen, weet u zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [continuous integration](../glossary.md#continuous-integration) workflow van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen.
-Continuous integration maakt het gemakkelijker om de status van de [codebase](../glossary.md#codebase) te monitoren.
+Het documenteren van de [continue integratieworkflow]{.underline} van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase]{.underline} te controleren.
 
 ## Vereisten
 
-* Alle functionaliteit in de [broncode](../glossary.md#source-code) MOET geautomatiseerde tests hebben.
-* Bijdragen MOETEN alle geautomatiseerde tests doorstaan voordat ze worden toegelaten tot de codebase.
-* De codebase MOET richtlijnen hebben die uitleggen hoe bijdragen moeten worden gestructureerd.
-* De codebase MOET actieve bijdragers hebben die bijdragen kunnen beoordelen.
-* Geautomatiseerde testresultaten voor bijdragen ZOUDEN openbaar moeten zijn.
-* De richtlijnen van de codebase ZOUDEN moeten aangeven dat elke bijdrage zich op een enkel issue moet richten.
-* Broncode-, test- en documentatiedekking ZOUDEN moeten worden gemonitord.
-* Het testen van [beleid](../glossary.md#policy) en documentatie voor consistentie met de broncode en vice versa is OPTIONEEL.
-* Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
-* Het testen van de software door voorbeelden in de documentatie te gebruiken is OPTIONEEL.
+-   Alle functionaliteit in de [broncode]{.underline} MOET geautomatiseerd worden getest.
 
-## Quickscan
+-   Bijdragen MOETEN alle geautomatiseerde tests doorstaan voordat ze in de codebase worden opgenomen.
 
-* Bevestig dat er tests aanwezig zijn.
-* Bevestig dat broncode-dekkingshulpmiddelen controleren of de dekking 100% van de broncode beslaat.
-* Bevestig dat bijdragen alleen worden toegelaten tot de codebase nadat alle tests zijn geslaagd.
-* Bevestig dat de richtlijnen voor bijdragen uitleggen hoe bijdragen moeten worden gestructureerd.
-* Bevestig dat er bijdragen zijn van de afgelopen drie maanden.
-* Controleer of testresultaten zichtbaar zijn.
-* Controleer of broncode-dekkingsgegevens worden gepubliceerd.
+-   De codebase MOET richtlijnen hebben die uitleggen hoe bijdragen gestructureerd moeten worden.
 
-## Aanwijzingen voor beleidsmakers
+-   De codebase MOET actieve bijdragers hebben die bijdragen kunnen beoordelen.
 
-* Betrek managers, ontwikkelaars en ontwerpers zo vroeg mogelijk in het proces en houd ze betrokken gedurende de ontwikkeling van je beleid.
-* Zorg ervoor dat er ook geautomatiseerde tests zijn ingesteld voor beleidsdocumentatie.
-* Herstel beleidsdocumentatie snel als deze een test niet doorstaat.
-* Zorg ervoor dat de broncode eventuele wijzigingen in het beleid weerspiegelt (zie [Versiebeheer handhaven](maintain-version-control.md)).
+-   De geautomatiseerde testresultaten voor bijdragen MOETEN openbaar zijn.
 
-## Aanwijzingen voor managers
+-   In de richtlijnen van de codebase MOET worden vermeld dat elke bijdrage zich op één enkel probleem moet richten.
 
-* Zorg ervoor dat je zo snel en vaak mogelijk test met echte eindgebruikers.
-* Plan het werk om kleine delen zeer vaak te integreren in plaats van grote delen minder vaak.
-* Schaf consultancydiensten aan die incrementeel leveren in lijn met het plan.
-* Moedig na een grote mislukking het publiceren van incidentrapporten en openbare discussie over wat er is geleerd aan.
+-   De test- en documentatiedekking van broncode MOET worden gecontroleerd.
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+-   Het testen van [beleid]{.underline} en documentatie op consistentie met de bron en vice versa is OPTIONEEL.
 
-* Help managers bij het structureren van het werkplan zodat het in kleine stappen kan worden geïntegreerd.
-* Help bijdragers om de scope van hun bijdragen en functieverzoeken te beperken tot een redelijke omvang.
-* Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
-* Structureer broncode die is geschreven om omstandigheden te behandelen die moeilijk te creëren zijn in een testomgeving, zodat de omstandigheden kunnen worden gesimuleerd tijdens het testen. Vormen van resource-uitputting, zoals het opraken van opslagruimte en geheugentoewijzingsfouten, zijn typische voorbeelden van moeilijk te creëren omstandigheden.
-* Stel de testcode-dekkingshulpmiddelen af om valse alarmen te voorkomen die het gevolg zijn van inlining of andere optimalisaties.
-* Implementeer vaak.
-* Integreer je werk minstens één keer per dag.
+-   Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
 
-## Meer informatie
+-   Het testen van de software aan de hand van voorbeelden in de documentatie is OPTIONEEL.
 
-* [Wat is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) door Martin Fowler.
-* [Gebruik continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) door de UK Government Digital Service.
-* [Kwaliteitsborging: je service regelmatig testen](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) door de UK Government Digital Service.
+## Hoe te testen
+
+-   Controleer of er tests aanwezig zijn.
+
+-   Ga na of de hulpmiddelen voor broncodedekking controleren of de dekking 100% van de broncode bedraagt.
+
+-   Controleer of bijdragen alleen aan de codebase worden toegevoegd nadat alle tests zijn doorstaan.
+
+-   Controleer of de bijdragerichtlijnen uitleggen hoe bijdragen gestructureerd moeten worden.
+
+-   Controleer of er de afgelopen drie maanden bijdragen zijn geleverd.
+
+-   Controleer of de testresultaten zichtbaar zijn.
+
+-   Controleer of broncodedekkinggegevens zijn gepubliceerd.
+
+## Beleidsmakers in de publieke sector: wat u moet doen
+
+-   Betrek managers, ontwikkelaars en ontwerpers zo vroeg mogelijk bij het proces en zorg dat ze betrokken blijven tijdens de ontwikkeling van uw beleid.
+
+-   Zorg ervoor dat er ook geautomatiseerde tests zijn ingesteld voor beleidsdocumentatie.
+
+-   Herstel beleidsdocumentatie onmiddellijk als deze een test niet doorstaat.
+
+-   Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Versiebeheer bijhouden]{.underline}).
+
+## Managers: wat u moet doen
+
+-   Zorg ervoor dat u zo snel en vaak mogelijk test met echte eindgebruikers.
+
+-   Plan het werk zo dat u kleine onderdelen heel vaak integreert in plaats van grote onderdelen minder vaak.
+
+-   Zorg voor consultancydiensten die stapsgewijs worden geleverd, afgestemd op het plan.
+
+-   Stimuleer na een grote mislukking de publicatie van incidentrapporten en een openbare discussie over de geleerde lessen.
+
+## Ontwikkelaars en ontwerpers: wat u moet doen
+
+-   Help managers het werkplan zo te structureren dat het in kleine stapjes kan worden geïntegreerd.
+
+-   Help bijdragers om de reikwijdte van hun bijdragen en functieverzoeken zo klein mogelijk te houden.
+
+-   Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
+
+-   Structureer broncode die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving op zo\'n manier dat de omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van bronnen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
+
+-   Pas de hulpmiddelen voor testcode-dekkingen aan om valse alarmen als gevolg van inlining of andere optimalisaties te voorkomen.
+
+-   Implementeer vaak.
+
+-   Integreer uw werk minstens één keer per dag.

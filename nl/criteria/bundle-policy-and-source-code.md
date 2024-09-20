@@ -4,52 +4,66 @@
 order: 2
 ---
 
-# Bundel beleid en broncode
+# Bundelbeleid en broncode
 
-Toegang tot zowel broncode als beleidsdocumentatie biedt bouwstenen voor iedereen om de codebase in hun lokale context te implementeren of bij te dragen aan de verdere ontwikkeling ervan.
+Toegang tot zowel de [[broncode]{.underline}][1] als de [[beleidsdocumentatie]{.underline}][2] biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [[codebase]{.underline}][3].
 
-Het begrijpen van het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe deze dat aanpakt.
+Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe de codebase die probeert op te lossen.
 
-Om te kunnen beoordelen of een codebase in een nieuwe context geïmplementeerd kan worden, moet een organisatie begrijpen welke procesveranderingen ze moet kiezen of hoe ze extra configureerbaarheid aan de bestaande oplossing kan toevoegen om deze aan te passen aan de nieuwe context.
+Om te kunnen evalueren of een codebase in een nieuwe context moet worden geïmplementeerd, moet een organisatie begrijpen welke proceswijzigingen ze moet kiezen of hoe ze extra configureerbaarheid aan de bestaande oplossing kan toevoegen om deze aan de nieuwe context aan te passen.
 
 ## Vereisten
 
-- De codebase MOET het beleid bevatten waarop de broncode is gebaseerd.
-- Als een beleid is gebaseerd op broncode, MOET die broncode in de codebase zijn opgenomen, tenzij deze wordt gebruikt voor fraudedetectie.
-- Beleid ZOU MOETEN worden aangeboden in machineleesbare en ondubbelzinnige formaten.
-- Continue integratie tests ZOUDEN MOETEN valideren dat de broncode en het beleid coherent worden uitgevoerd.
+-   De codebase MOET het beleid bevatten waarop de broncode is gebaseerd.
 
-## Quickscan
+-   Als beleid is gebaseerd op broncode, MOET die broncode in de codebase worden opgenomen, tenzij deze wordt gebruikt voor fraudedetectie.
 
-- Controleer met een ambtenaar dat al het beleid waarop de broncode is gebaseerd is opgenomen.
-- Controleer met een ambtenaar dat alle broncode waarop het beleid is gebaseerd is opgenomen.
-- Controleer of het beleid door een machine kan worden geïnterpreteerd.
-- Controleer dat de continuous integrationtests voor coherente uitvoering van broncode en beleid slagen.
+-   Beleid MOET worden aangeleverd in machineleesbare en ondubbelzinnige formaten.
 
-## Aanwijzingen voor beleidsmakers
+-   Met [continue integratietests]{.underline} MOET worden gevalideerd of de broncode en het beleid coherent worden uitgevoerd.
 
-- Werk samen met ontwikkelaars en ontwerpers om ervoor te zorgen dat er geen mismatch is tussen beleid en broncode.
-- Lever de relevante beleidsteksten voor opname in de repository; als de tekst niet beschikbaar is in het Engels, lever dan ook een Engelse samenvatting. Zorg ervoor dat u standaarden opneemt die uw organisatie heeft gekozen om na te leven en eventuele organisatorische processen die van invloed zijn op de ontwikkeling of de implementatiecontext van de codebase voor uw organisatie.
-- Lever referenties en links naar teksten die het beleid ondersteunen.
-- Documenteer beleid in formaten die ondubbelzinnig en machineleesbaar zijn, zoals die gepubliceerd door de Object Management Group.
-- Houd beleid bij met dezelfde versiebeheer en documentatie die wordt gebruikt om broncode bij te houden.
-- Controleer regelmatig de broncode in de codebase om te begrijpen hoe deze is veranderd en of deze nog steeds overeenkomt met de intenties van het beleid.
-- Neem beleid op dat relevant is voor community, codebase en ontwikkeling, inclusief wettelijke verplichtingen zoals de Algemene Verordening Gegevensbescherming of de EU-richtlijn voor Webtoegankelijkheid, of mensenrechtenbeleid, zoals bijvoorbeeld een toezegging van een publieke organisatie zich in te zetten voor gelijke kansen.
+## Hoe te testen
 
-## Aanwijzingen voor managers
+-   Controleer bij een ambtenaar of alle beleidsregels waarop de broncode is gebaseerd, zijn opgenomen.
 
-* Houd beleidsmakers, ontwikkelaars en ontwerpers betrokken en verbonden gedurende het hele ontwikkelingsproces.
-* Zorg ervoor dat beleidsmakers, ontwikkelaars en ontwerpers aan dezelfde doelstellingen werken.
+-   Controleer bij een ambtenaar of alle broncode waarop het beleid is gebaseerd, is opgenomen.
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+-   Controleer of het beleid door een machine kan worden geïnterpreteerd.
 
-* Raak vertrouwd met de procesmodelleringsnotatie die de beleidsmakers in uw organisatie gebruiken en leer deze te gebruiken.
-* Werk samen met beleidsmakers om ervoor te zorgen dat er geen mismatch is tussen beleid en broncode.
-* Geef feedback over hoe de beleidsdocumentatie duidelijker kan worden gemaakt.
+-   Controleer de continue integratietests op een coherente uitvoering van de broncode en beleidsdoorgang.
 
-## Meer informatie
+## Beleidsmakers in de publieke sector: wat u moet doen
 
-* [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) op Wikipedia.
-* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) door Trisotech.
-* [Decision Model and Notation](https://en.wikipedia.org/wiki/Decision_Model_and_Notation) op Wikipedia.
-* [Case Management Model Notation](https://en.wikipedia.org/wiki/CMMN) op Wikipedia.
+-   Werk samen met ontwikkelaars en ontwerpers om ervoor te zorgen dat er geen discrepantie is tussen de beleidscode en de broncode.
+
+-   Geef de relevante beleidsteksten op voor opname in de [repository]{.underline}. Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat u de standaarden opneemt waaraan uw organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor uw organisatie.
+
+-   Geef referenties en links naar teksten die het beleid ondersteunen.
+
+-   Documenteer beleid in formaten die ondubbelzinnig en machineleesbaar zijn, zoals het beleid dat gepubliceerd is door de [Object Management Group]{.underline}.
+
+-   Volg het beleid met [hetzelfde versiebeheer en dezelfde]{.underline} documentatie die worden gebruikt om de broncode te volgen.
+
+-   Controleer regelmatig hoe de broncode in de codebase is gewijzigd en of deze nog steeds overeenkomt met de [bedoelingen van het beleid]{.underline}.
+
+-   Neem relevant beleid op dat van invloed is op de community, codebase en ontwikkeling, waaronder wettelijke verplichtingen zoals de [[Algemene Verordening Gegevensbescherming]{.underline}][4] of de [[EU-richtlijn webtoegankelijkheid]{.underline}][5], of mensenrechtenbeleid, zoals de toewijding van een publieke organisatie voor gelijke kansen.
+
+## Managers: wat u moet doen
+
+-   Houd beleidsmakers, ontwikkelaars en ontwerpers betrokken bij en verbonden met het hele ontwikkelingsproces.
+
+-   Zorg ervoor dat beleidsmakers, ontwikkelaars en ontwerpers dezelfde doelen nastreven.
+
+## Ontwikkelaars en ontwerpers: wat u moet doen
+
+-   Vertrouwd maken met de procesmodelleringsnotatie die beleidsmakers in uw organisatie gebruiken en deze leren te gebruiken.
+
+-   Samenwerken met beleidsmakers om ervoor te zorgen dat er geen discrepantie is tussen de beleidscode en de broncode.
+
+-   Feedback geven over hoe beleidsdocumentatie duidelijker kan worden gemaakt.
+
+  [1]: https://standard.publiccode.net/glossary.html#source-code
+  [2]: https://standard.publiccode.net/glossary.html#policy
+  [3]: https://standard.publiccode.net/glossary.html#codebase
+  [4]: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+  [5]: https://ec.europa.eu/digital-single-market/en/web-accessibility

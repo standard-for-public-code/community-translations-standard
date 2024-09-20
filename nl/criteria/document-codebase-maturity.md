@@ -1,47 +1,52 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2024 Code for NL
-order: 15
+order: 16
 ---
-# Documenteer het volwassenheidsniveau van de codebase
 
-Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.md#codebase) helpt anderen beslissen of ze deze willen gebruiken en eraan willen bijdragen.
-De volwassenheid van een codebase-versie omvat ook de volwassenheid van zijn afhankelijkheden.
-Begrijpen hoe een codebase is geëvolueerd, is essentieel voor het begrijpen van de codebase en hoe eraan bij te dragen.
+# Volwassenheid van codebase documenteren
+
+Het duidelijk aangeven van de volwassenheid van een [codebase]{.underline}helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
 
 ## Vereisten
 
-* De codebase MOET geversifieerd zijn.
-* De codebase MOET duidelijk documenteren of er versies van de codebase zijn die klaar zijn voor gebruik.
-* Codebase-versies die klaar zijn voor gebruik MOGEN alleen afhankelijk zijn van versies van andere codebases die ook klaar zijn voor gebruik.
-* De codebase ZOU een logboek van veranderingen van versie tot versie moeten bevatten, bijvoorbeeld in de `CHANGELOG`.
-* De methode voor het toewijzen van versie-identificaties ZOU gedocumenteerd moeten zijn.
-* Het is OPTIONEEL om semantische versienummering te gebruiken.
+-   De codebase MOET een versienummer hebben.
 
-## Quickscan
+-   De codebase MOET duidelijk documenteren of er al dan niet versies van de codebase klaar zijn voor gebruik.
 
-* Bevestig dat de codebase een strategie heeft voor versienummering die gedocumenteerd is.
-* Bevestig dat het voor beleidsmakers, managers, ontwikkelaars en ontwerpers duidelijk is of de codebase versies heeft die klaar zijn voor gebruik.
-* Bevestig dat versies van de codebase die klaar zijn voor gebruik niet afhankelijk zijn van versies van andere codebases die niet klaar zijn voor gebruik.
-* Controleer of het versienummeringsschema van de codebase gedocumenteerd is en wordt gevolgd.
-* Controleer of er een logboek van veranderingen is.
+-   Codebase-versies die klaar zijn voor gebruik, MOETEN alleen afhangen van versies van andere codebases die ook klaar zijn voor gebruik.
 
-## Aanwijzingen voor beleidsmakers
+-   De codebase MOET een logboek bevatten van wijzigingen van versie naar versie, bijvoorbeeld in de CHANGELOG.
 
-* Begrijp bij het ontwikkelen van [beleid](../glossary.md#policy) dat alle ontwikkelde [broncode](../glossary.md#source-code) getest en verbeterd moet worden voordat deze in gebruik kan worden genomen.
-* Overweeg om beleidswijzigingen te voorzien van een versienummer, vooral wanneer deze nieuwe versies van de broncode triggeren.
+-   De methode voor het toekennen van versie-identificaties MOET gedocumenteerd zijn.
 
-## Aanwijzingen voor managers
+-   Het is OPTIONEEL om semantisch versiebeheer te gebruiken.
 
-* Zorg ervoor dat diensten alleen vertrouwen op versies van codebases met een gelijke of hogere volwassenheid dan de dienst. Gebruik bijvoorbeeld geen bètaversie van een codebase in een productiedienst.
+## Hoe te testen
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+-   Controleer of de codebase een gedocumenteerde strategie voor versiebeheer heeft.
 
-* Zorg ervoor dat de versienummeringsaanpak van de codebase wordt gevolgd voor alle releases.
+-   Controleer of het voor beleidsmakers, managers, ontwikkelaars en ontwerpers duidelijk is of de codebase versies heeft die klaar zijn voor gebruik.
 
-## Meer informatie
+-   Controleer of de gebruiksklare versies van de codebase niet afhankelijk zijn van versies van andere codebases die nog niet klaar zijn voor gebruik.
 
-* [Semantic Versioning Specification](https://semver.org/) gebruikt door veel codebases om versies te labelen.
-* [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-* [Service Design and Delivery Process](https://www.dta.gov.au/help-and-advice/build-and-improve-services/service-design-and-delivery-process) door het Australian Digital Transformation Agency.
-* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) door de UK Government Digital Service.
+-   Controleer of het versiebeheerschema van de codebase is gedocumenteerd en wordt gevolgd.
+
+-   Controleer of er een logboek is waarin wijzigingen worden bijgehouden.
+
+## Beleidsmakers in de publieke sector: wat u moet doen
+
+-   Houd er bij het ontwikkelen van [[beleid]{.underline}][1] rekening mee dat elke ontwikkelde [[broncode]{.underline}][2] moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
+
+-   Overweeg wijzigingen in het versiebeheerbeleid, vooral als de wijzigingen nieuwe versies van de broncode veroorzaken.
+
+## Managers: wat u moet doen
+
+-   Zorg ervoor dat diensten alleen afhankelijk zijn van versies van codebases die even volwassen of volwassener zijn dan de dienst zelf. Gebruik bijvoorbeeld geen bètaversie van een codebase in een productieservice.
+
+## Ontwikkelaars en ontwerpers: wat u moet doen
+
+-   Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle releases.
+
+  [1]: https://standard.publiccode.net/glossary.html#policy
+  [2]: https://standard.publiccode.net/glossary.html#source-code

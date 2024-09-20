@@ -4,71 +4,88 @@
 order: 3
 ---
 
-# Maak de codebase herbruikbaar en draagbaar
+# Codebase herbruikbaar en overdraagbaar maken
 
-Het creëren van herbruikbare en draagbare [code](../glossary.md#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen terug te voeren, wat leidt tot betere kwaliteit, goedkopere onderhoud en hogere betrouwbaarheid.
+Het maken van herbruikbare en overdraagbare [code]{.underline} stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid.
 
-Een [codebase](../glossary.md#codebase) die doordacht en met opzet is ontworpen voor herbruikbaarheid, maakt het mogelijk dat de missie, visie en scope van de codebase worden gedeeld door meerdere partijen.
-Codebases die zijn ontwikkeld en gebruikt door meerdere partijen, hebben meer kans om te profiteren van een zelfvoorzienende community.
+Het doordacht en doelgericht ontwerpen van een [codebase]{.underline} voor herbruikbaarheid zorgt ervoor dat de missie, visie en reikwijdte van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans om te profiteren van een zelfvoorzienende community.
 
-Het organiseren van een codebase zodat deze bestaat uit goed gedocumenteerde modules verbetert de herbruikbaarheid en onderhoudbaarheid.
-Een module is gemakkelijker te hergebruiken in een [andere context](../glossary.md#different-contexts) als het doel ervan duidelijk is gedocumenteerd.
+Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context]{.underline} als het doel ervan duidelijk gedocumenteerd is.
 
-Broncode die niet afhankelijk is van de situatie-specifieke infrastructuur van een bijdrager, verkoper of implementatie, kan door elke andere bijdrager worden getest.
+Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een bijdrager, leverancier of implementatie kan door elke andere bijdrager worden getest.
 
 ## Vereisten
 
-* De codebase MOET worden ontwikkeld om herbruikbaar te zijn in verschillende contexten.
-* De codebase MOET onafhankelijk zijn van enige geheime, niet-openbaarde, propriëtaire of niet-open gelicentieerde software of diensten voor uitvoering en begrip.
-* De codebase ZOU in gebruik moeten zijn door meerdere partijen.
-* De roadmap ZOU moeten worden beïnvloed door de behoeften van meerdere partijen.
-* De ontwikkeling van de codebase ZOU een samenwerking tussen meerdere partijen moeten zijn.
-* Configuratie ZOU moeten worden gebruikt om [broncode](../glossary.md#source-code) aan te passen aan contextspecifieke behoeften.
-* De codebase ZOU lokaliseerbaar moeten zijn.
-* Broncode en de documentatie ZOUDEN GEEN situatie-specifieke informatie moeten bevatten.
-* Codebase-modules ZOUDEN moeten worden gedocumenteerd op een manier die hergebruik in codebases in andere contexten mogelijk maakt.
-* De software ZOU GEEN diensten of platforms moeten vereisen die alleen beschikbaar zijn bij een enkele verkoper.
+-   De codebase MOET worden ontwikkeld om in verschillende contexten herbruikbaar te zijn.
 
-## Quickscan
+-   De codebase MOET voor uitvoering en begrip onafhankelijk zijn van geheime, niet openbaar gemaakte, bedrijfseigen of niet-open software of diensten onder licentie.
 
-* Bevestig met iemand in een vergelijkbare rol bij een andere organisatie of zij de codebase kunnen gebruiken en wat dat zou inhouden.
-* Bevestig dat de codebase kan draaien zonder gebruik te maken van enige propriëtaire of niet-open gelicentieerde software of diensten.
-* Als de codebase in vroege ontwikkeling is vóór een productieklare release, controleer dan op bewijs van ambitie om medewerkers te verkrijgen.
-   * Of als de codebase zeer volwassen en stabiel is met zeer weinig fixes, patches of bijdragen:
-     * Controleer of de codebase in gebruik is door meerdere partijen of in meerdere contexten.
-     * Controleer op gedocumenteerde en gebudgetteerde samenwerkingsverplichtingen.
-   * Anders:
-     * Controleer of de codebase in gebruik is door meerdere partijen of in meerdere contexten.
-     * Controleer of de codebase-bijdragers van meerdere partijen komen.
-* Controleer of de codebase-bestanden en commitgeschiedenis geen situatie-specifieke gegevens bevatten.
-* Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder diensten of platforms die beschikbaar zijn bij een enkele verkoper.
+-   De codebase MOET door meerdere partijen worden gebruikt.
 
-## Aanwijzingen voor beleidsmakers
+-   De routekaart MOET worden beïnvloed door de behoeften van meerdere partijen.
 
-* Documenteer je [beleid](../glossary.md#policy) met voldoende duidelijkheid en detail zodat het buiten de oorspronkelijke context kan worden begrepen.
-* Zorg ervoor dat je organisatie wordt vermeld als een bekende gebruiker van de codebase.
-* Identificeer andere organisaties om mee samen te werken.
+-   De ontwikkeling van de codebase MOET een samenwerking zijn tussen meerdere partijen.
 
-## Aanwijzingen voor managers
+-   De configuratie MOET worden gebruikt om [broncode]{.underline} aan te passen aan contextspecifieke behoeften.
 
-* Zorg ervoor dat stakeholders en business owners begrijpen dat herbruikbaarheid een expliciet doel van de codebase is, aangezien dit technische schuld vermindert en duurzaamheid voor de codebase biedt.
-* Zorg ervoor dat je teams samenwerken met andere teams.
+-   De codebase MOET lokaliseerbaar zijn.
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+-   De broncode en de bijbehorende documentatie MAG GEEN situatiespecifieke informatie bevatten.
 
-De broncode moet worden ontworpen:
+-   Codebase-modules MOETEN zodanig zijn gedocumenteerd dat hergebruik in codebases in andere contexten mogelijk is.
 
-* voor hergebruik door andere gebruikers en organisaties, ongeacht de locatie,
-* om een algemeen probleem op te lossen in plaats van een specifiek,
-* in logisch zinvolle en geïsoleerde modules,
-* zodat iemand in een vergelijkbare organisatie die met een vergelijkbaar probleem wordt geconfronteerd (delen van) de oplossing kan gebruiken.
+-   De software MAG GEEN diensten of platformen vereisen die slechts door één leverancier worden geleverd.
 
-Zorg ervoor dat de codebase-documentatie de afhankelijkheden tijdens build- en runtime beschrijft.
-Als je context vereist dat je implementeert op propriëtaire platforms of gebruikmaakt van propriëtaire componenten, zorg er dan voor dat medewerkers kunnen ontwikkelen, gebruiken, testen en implementeren zonder deze.
+## Hoe te testen
 
-Voor elke commit verifiëren reviewers dat de inhoud geen situatie-specifieke gegevens bevat, zoals hostnamen, persoonlijke en organisatorische gegevens, of tokens en wachtwoorden.
+-   Vraag aan iemand in een vergelijkbare rol bij een andere organisatie of hij of zij de codebase mag gebruiken en wat dat inhoudt.
 
-## Meer informatie
+-   Controleer of de codebase kan worden uitgevoerd zonder gebruik te maken van propriëtaire of niet-open software of services. Bevestig dat de codebase kan draaien zonder gebruik te maken van bedrijfseigen of niet-open software of diensten onder licentie.
 
-* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) door de UK Government Digital Service.
-* [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n) door het World Wide Web Consortium.
+-   Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt, vóórdat er een release is die gereed is voor productie, controleer dan of er aanwijzingen zijn dat er de ambitie is om samen te werken.
+
+    -   Of als de codebase erg volwassen en stabiel is en er zeer zelden oplossingen, patches of bijdragen zijn:
+
+        -   Controleer of de codebase wordt gebruikt door meerdere partijen of in meerdere contexten.
+
+        -   Controleer of er gedocumenteerde en gebudgetteerde samenwerkingsverplichtingen zijn.
+
+    -   Anders:
+
+        -   Controleer of de codebase wordt gebruikt door meerdere partijen of in meerdere contexten.
+
+        -   Controleer of er meerdere partijen bijdragen aan de codebase.
+
+-   Controleer of de codebase-bestanden en commit-geschiedenis geen situatiespecifieke gegevens bevatten.
+
+-   Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder dat er diensten of platformen van één leverancier nodig zijn.
+
+## Beleidsmakers in de publieke sector: wat u moet doen
+
+-   Documenteer uw [beleid]{.underline} zo duidelijk en gedetailleerd dat het ook buiten de oorspronkelijke context kan worden begrepen.
+
+-   Zorg ervoor dat uw organisatie als een bekende gebruiker in de codebase wordt vermeld.
+
+-   Identificeer andere organisaties waarmee uw teams kunnen samenwerken.
+
+## Managers: wat u moet doen
+
+-   Zorg ervoor dat belanghebbenden en bedrijfseigenaren begrijpen dat herbruikbaarheid een expliciet doel van de codebase is. Dit vermindert de technische schuld en zorgt voor duurzaamheid van de codebase.
+
+-   Zorg ervoor dat uw teams samenwerken met andere teams.
+
+## Ontwikkelaars en ontwerpers: wat u moet doen
+
+De bron moet worden ontworpen:
+
+-   voor hergebruik door andere gebruikers en organisaties, ongeacht de locatie,
+
+-   om een algemeen probleem op te lossen in plaats van een specifiek probleem,
+
+-   in logisch zinvolle en geïsoleerde modules,
+
+-   zodat iemand in een vergelijkbare organisatie met een vergelijkbaar probleem (delen van) de oplossing zou kunnen gebruiken.
+
+Zorg ervoor dat de documentatie van de codebase de build time- en runtime-afhankelijkheden beschrijft. Als uw context vereist dat u implementeert op bedrijfseigen platformen of bedrijfseigen componenten gebruikt, zorg er dan voor dat samenwerkers zonder deze componenten kunnen ontwikkelen, gebruiken, testen en implementeren.
+
+Bij elke commit controleren beoordelaars of de inhoud geen situatiespecifieke gegevens bevat, zoals hostnamen, persoons- en organisatiegegevens of tokens en wachtwoorden.

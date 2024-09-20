@@ -1,46 +1,43 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2024 Code for NL
-order: 14
+order: 15
 ---
 
-# Gebruik een samenhangende stijl
+# Samenhangende stijl gebruiken
 
-Het volgen van een consistente en samenhangende stijl stelt bijdragers in verschillende omgevingen in staat om samen te werken.
-Het unificeren van woordenschatten vermindert wrijving in de communicatie tussen bijdragers.
+Door een consistente en coherente stijl te volgen, kunnen medewerkers in verschillende omgevingen samenwerken. Het verenigen van vocabulaires vermindert wrijving in de communicatie tussen medewerkers.
 
 ## Vereisten
 
-* De [codebase](../glossary.md#codebase) MOET een codeer- of schrijfstijlgids gebruiken, hetzij de eigen stijlgids van de codebase-community, hetzij een bestaande die in de codebase wordt genoemd.
-* Bijdragen ZOUDEN automatische tests op stijl moeten doorstaan.
-* De stijlgids ZOU verwachtingen moeten bevatten voor inline opmerkingen en documentatie voor niet-triviale secties.
-* Het opnemen van verwachtingen voor [begrijpelijk Engels](use-plain-english.md) in de stijlgids is OPTIONEEL.
+-   De [codebase]{.underline} MOET een codeer- of schrijfstijlgids gebruiken, ofwel die van de codebase-community zelf of een bestaande waarnaar in de codebase wordt verwezen.
 
-## Quickscan
+-   Bijdragen MOETEN geautomatiseerde stijltests doorstaan.
 
-* Bevestig dat bijdragen in lijn zijn met de stijlgidsen die in de documentatie zijn gespecificeerd.
-* Controleer op de aanwezigheid van automatische tests op stijl.
+-   De stijlgids MOET verwachtingen bevatten voor inline opmerkingen en documentatie voor niet-triviale secties.
 
-## Aanwijzingen voor beleidsmakers
+-   Het opnemen van verwachtingen voor [begrijpelijk Engels]{.underline} in de stijlgids is OPTIONEEL.
 
-* Maak, volg en verbeter voortdurend een stijlgids voor [beleid](../glossary.md#policy) en documentatie, en documenteer dit in de codebase, bijvoorbeeld in de `CONTRIBUTING` of `README`.
+## Hoe te testen
 
-## Aanwijzingen voor managers
+-   Bevestig dat de bijdragen in overeenstemming zijn met de stijlgidsen in de documentatie.
 
-* Neem geschreven taal, broncode-, test- en beleidsnormen op in je organisatorische definitie van kwaliteit.
+-   Controleer op de aanwezigheid van geautomatiseerde stijltests.
 
-## Aanwijzingen voor ontwikkelaars en ontwerpers
+## Beleidsmakers in de publieke sector: wat u moet doen
 
-Als de codebase nog geen richtlijnen voor engineering of andere bijdragersbegeleiding heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.md#repository) die beschrijft wat er momenteel wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`.
-Een belangrijk doel van dit bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet gemakkelijk kunnen controleren.
-De richtlijnen moeten bevatten wat er wordt verwacht van [broncode](../glossary.md#source-code) bijdragen om te worden samengevoegd door de beheerders, inclusief broncode, tests en documentatie.
-Verbeter en breid deze documentatie voortdurend uit met als doel deze documentatie te laten evolueren tot engineeringrichtlijnen.
+-   Maak, volg en verbeter voortdurend een stijlgids voor [beleid]{.underline} en documentatie, en documenteer dit in de codebase, bijvoorbeeld in de CONTRIBUTING of README.
 
-Daarnaast:
+## Managers: wat u moet doen
 
-* Gebruik een linter.
-* Voeg linterconfiguraties toe aan de codebase.
+-   Neem geschreven taal, bron-, test- en beleidsnormen op in je organisatorische definitie van kwaliteit.
 
-## Meer informatie
+## Ontwikkelaars en ontwerpers: wat u moet doen
 
-* [Programming style](https://en.wikipedia.org/wiki/Programming_style) op Wikipedia.
+Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository]{.underline} die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de CONTRIBUTING of README. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen]{.underline} zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
+
+Bovendien:
+
+-   Gebruik een linter.
+
+-   Voeg linterconfiguraties toe aan de codebase.
