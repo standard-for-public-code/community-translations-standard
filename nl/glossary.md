@@ -6,37 +6,11 @@ status: correcties-v0.1
 
 # Begrippenlijst
 
-## Code
-
-Elk expliciet beschreven systeem van regels. Dit omvat wetten, beleid en verordeningen, maar ook broncode die wordt gebruikt om software te bouwen. Beide zijn regels, sommige uitgevoerd door mensen en andere door machines.
-
-## Codebase
-
-Elk samenhangend geheel aan code (zowel broncode als beleid), inclusief de tests en de documentatie die nodig zijn om dat beleid of software te implementeren.
-
-Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
-
-## Continue integratie
-
-In software engineering is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
-
-## Verschillende contexten
-
-Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft waarvoor er niet één besluitvormer is die samenwerking op een natuurlijke manier kan laten plaatsvinden.
-
 ## Algemeen publiek
 
 Het brede publiek: eindgebruikers van de code en de diensten die daarop gebaseerd zijn.
 
 De inwoners van een stad worden bijvoorbeeld beschouwd als eindgebruikers van de diensten van een stad en van alle code die deze diensten aandrijft.
-
-## Open source
-
-Open source wordt gedefinieerd door het Open Source Initiative in zijn [Open Source Definition](https://opensource.org/definition-annotated).
-
-## Open standaard
-
-Een open standaard is elke standaard die voldoet aan de [Open Standard Requirements](https://opensource.org/osr) van het Open Source Initiative.
 
 ## Beleid
 
@@ -53,6 +27,32 @@ Beleidsvorming is het proces waarbij overheden hun politieke visie vertalen naar
 Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Bij lokale overheden is dit onderscheid is vaak vager.
 
 In de *Standaard voor Publieke Code* verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
+
+## Broncode
+
+De door mensen leesbare tekst van een computerprogramma die kan worden vertaald in machine-instructies.
+
+## Code
+
+Elk expliciet beschreven systeem van regels. Dit omvat wetten, beleid en verordeningen, maar ook broncode die wordt gebruikt om software te bouwen. Beide zijn regels, sommige uitgevoerd door mensen en andere door machines.
+
+## Codebase
+
+Elk samenhangend geheel aan code (zowel broncode als beleid), inclusief de tests en de documentatie die nodig zijn om dat beleid of software te implementeren.
+
+Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
+
+## Continue integratie
+
+In software engineering is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
+
+## Open source
+
+Open source wordt gedefinieerd door het Open Source Initiative in zijn [Open Source Definition](https://opensource.org/definition-annotated).
+
+## Open standaard
+
+Een open standaard is elke standaard die voldoet aan de [Open Standard Requirements](https://opensource.org/osr) van het Open Source Initiative.
 
 ## Publieke code
 
@@ -76,9 +76,9 @@ Om hergebruik te vergemakkelijken, wordt publieke code ofwel vrijgegeven in het 
 
 Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramma\'s voor bestanden en metadata van een codebase. Repositories zorgen ervoor dat meerdere medewerkers aan dezelfde set bestanden kunnen werken. Repositories kunnen meerdere versies van sets bestanden bevatten.
 
-## Broncode
+## Verschillende contexten
 
-De door mensen leesbare tekst van een computerprogramma die kan worden vertaald in machine-instructies.
+Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft waarvoor er niet één besluitvormer is die samenwerking op een natuurlijke manier kan laten plaatsvinden.
 
 ## Versiebeheer
 
