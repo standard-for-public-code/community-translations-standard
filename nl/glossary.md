@@ -1,6 +1,7 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2024 Code for NL
+status: correcties-v0.1
 ---
 
 # Begrippenlijst
@@ -11,71 +12,74 @@ Elk expliciet beschreven systeem van regels. Dit omvat wetten, beleid en verorde
 
 ## Codebase
 
-Elk discreet pakket code (zowel broncode als beleid), de tests en de documentatie die nodig zijn om beleid of software te implementeren.
+Elk samenhangend geheel aan code (zowel broncode als beleid), inclusief de tests en de documentatie die nodig zijn om dat beleid of software te implementeren.
 
-Dit kan bijvoorbeeld een document of versiebeheerrepository zijn.
+Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
 
 ## Continue integratie
 
-In software engineering is continue integratie (CI) de praktijk van het zo vaak als redelijkerwijs mogelijk is samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkeltak van een codebase.
+In software engineering is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
 
 ## Verschillende contexten
 
-Twee contexten zijn anders als het gaat om verschillende publieke organisaties of verschillende afdelingen waarvoor er niet één besluitvormer is die samenwerking op een natuurlijke manier mogelijk maakt.
+Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft waarvoor er niet één besluitvormer is die samenwerking op een natuurlijke manier kan laten plaatsvinden.
 
 ## Algemeen publiek
 
-Het grote publiek: eindgebruikers van de code en de diensten die erop gebaseerd zijn.
+Het brede publiek: eindgebruikers van de code en de diensten die daarop gebaseerd zijn.
 
-De inwoners van een stad worden bijvoorbeeld beschouwd als eindgebruikers van de diensten van een stad en van alle code die deze diensten aanstuurt.
+De inwoners van een stad worden bijvoorbeeld beschouwd als eindgebruikers van de diensten van een stad en van alle code die deze diensten aandrijft.
 
 ## Open source
 
-Open source wordt gedefinieerd door het Open Source Initiative in zijn [Open Source Definition].
+Open source wordt gedefinieerd door het Open Source Initiative in zijn [Open Source Definition](https://opensource.org/definition-annotated).
 
 ## Open standaard
 
-Een open standaard is elke standaard die voldoet aan de [Open Standard Requirements] van het Open Source Initiative.
+Een open standaard is elke standaard die voldoet aan de [Open Standard Requirements](https://opensource.org/osr) van het Open Source Initiative.
 
 ## Beleid
 
-Beleid is een weloverwogen systeem van principes om beslissingen te sturen en rationele resultaten te bereiken. Beleid is een intentieverklaring en wordt geïmplementeerd als een procedure of protocol. Beleidsregels worden over het algemeen aangenomen door een bestuursorgaan binnen een organisatie. Beleid kan helpen bij zowel subjectieve als objectieve besluitvorming.
+Beleid is een weloverwogen systeem van principes om beslissingen te sturen en rationele resultaten te bereiken.
 
-Overheidsbeleid is het proces waarbij overheden hun politieke visie vertalen naar programma\'s en acties om resultaten te behalen.
+Beleid is een intentieverklaring en wordt geïmplementeerd als een procedure of protocol.
 
-Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Het onderscheid is vaak vager bij lokale overheden.
+Beleidsregels worden over het algemeen aangenomen door een bestuursorgaan binnen een organisatie.
 
-In de standaard verwijst het woord \'beleid\' naar beleid dat wordt gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
+Beleid kan helpen bij zowel subjectieve als objectieve besluitvorming.
+
+Beleidsvorming is het proces waarbij overheden hun politieke visie vertalen naar programma\'s en acties om resultaten te behalen.
+
+Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Bij lokale overheden is dit onderscheid is vaak vager.
+
+In de *Standaard voor Publieke Code* verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
 
 ## Publieke code
 
-Publieke code is open source software ontwikkeld door publieke organisaties, samen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
+Publieke code (*public code*) is open source software ontwikkeld door publieke organisaties, in combinatie met het beleid en de documentatie nodig voor samenwerking en hergebruik.
 
-Publieke code is zowel computerbroncode (zoals software en algoritmen) als publiek beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
+Publieke code is zowel computerbroncode (zoals software en algoritmen) als beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
-Publieke codes dienen het algemene belang, zijn open, leesbaar, controleerbaar, toegankelijk en duurzaam.
+Publieke code dient het algemeen belang, is open, leesbaar, verantwoord, toegankelijk en duurzaam.
 
-Door openbare code te ontwikkelen die onafhankelijk is van, maar toch implementeerbaar is in de lokale context waarvoor ze werd ontwikkeld, en door het ontwikkelingsproces openlijk te documenteren, kan openbare code een bouwsteen vormen voor het volgende:
+Door publieke code te ontwikkelen die onafhankelijk is van, maar toch implementeerbaar is in de lokale context waarvoor ze werd ontwikkeld, en door het ontwikkelingsproces openbaar te documenteren, kan publieke code een bouwsteen bieden voor anderen om:
 
--   opnieuw implementeren in lokale context
+- de code in hun lokale context te implementeren
 
--   dienen als uitgangspunt voor verdere ontwikkeling
+- de code als uitgangspunt te nemen voor verdere ontwikkeling
 
--   als basis voor leren
+- de code te gebruiken als bron om van te leren
 
-Om hergebruik te vergemakkelijken, wordt openbare code ofwel vrijgegeven in het openbare domein of voorzien van een open licentie die anderen toestaat het werk vrij te bekijken en te hergebruiken en afgeleide werken te produceren.
+Om hergebruik te vergemakkelijken, wordt publieke code ofwel vrijgegeven in het publieke domein of voorzien van een open licentie die anderen toestaat het werk vrij te bekijken en te hergebruiken en afgeleide werken te produceren.
 
 ## Repository
 
-Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramma\'s voor bestanden en metadata van een codebase. Repositories zorgen ervoor dat meerdere medewerkers aan dezelfde set bestanden kunnen werken. Repositories kunnen meerdere versies van sets met bestanden bevatten.
+Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramma\'s voor bestanden en metadata van een codebase. Repositories zorgen ervoor dat meerdere medewerkers aan dezelfde set bestanden kunnen werken. Repositories kunnen meerdere versies van sets bestanden bevatten.
 
 ## Broncode
 
-Voor mensen leesbare tekst van een computerprogramma die naar machine-instructies kan worden vertaald.
+De door mensen leesbare tekst van een computerprogramma die kan worden vertaald in machine-instructies.
 
 ## Versiebeheer
 
-Versiebeheer is het beheer van wijzigingen in de broncode en de bestanden die eraan zijn gekoppeld. Wijzigingen worden meestal aangeduid met een code, het zogenaamde *revisienummer* (of vergelijkbaar). Elke revisie is gekoppeld aan de tijd waarop deze is gemaakt en de persoon die de wijziging heeft doorgevoerd. Hierdoor is het gemakkelijker om de ontwikkeling van de code te volgen. Revisiebeheersystemen kunnen worden gebruikt om verschillende versies met elkaar te vergelijken en om te zien hoe de inhoud in de loop van de tijd is gewijzigd.
-
-  [Open Source Definition]: https://opensource.org/osd-annotated
-  [Open Standard Requirements]: https://opensource.org/osr
+Versiebeheer is het beheer van wijzigingen in de broncode en de bestanden die daarmee samenhangen. Wijzigingen worden meestal aangeduid met een code, het zogenaamde *revisienummer* (of iets vergelijkbaars). Elke revisie is gekoppeld aan het tijdstip waarop deze is gemaakt en de persoon die de wijziging heeft doorgevoerd. Hierdoor is het gemakkelijker om de ontwikkeling van de code te volgen. Revisiebeheersystemen kunnen worden gebruikt om verschillende versies met elkaar te vergelijken en om te zien hoe de inhoud in de loop van de tijd is gewijzigd.
