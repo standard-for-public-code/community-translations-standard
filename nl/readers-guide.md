@@ -19,27 +19,15 @@ In deze sectie wordt uitgelegd wat het criterium beoogt te bereiken en waarom he
 
 In deze sectie staat wat er gedaan moet worden om aan de standaard te voldoen.
 
-De volgende trefwoorden in dit document moeten worden geïnterpreteerd zoals beschreven in [IETF RFC 2119][]:
+De woorden “MOET”, “MAG NIET”, “ZOU MOETEN”, “ZOU NIET MOETEN”, en “MAG” in dit document moeten worden geïnterpreteerd gelijk aan hun Engelstalige equivalenten (“_MUST_", "_MUST NOT_", "_SHOULD_", "_SHOULD NOT_" en "_MAY_") als beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119). Waar deze exacte termen bedoeld zijn worden ze in hoofdletters weergegeven.
 
--   MOET
+De betekenis van deze woorden is:
 
--   MOET NIET
-
--   VEREIST
-
--   ZAL
-
--   ZAL NIET
-
--   ZOU
-
--   ZOU NIET
-
--   AANBEVOLEN
-
--   KAN
-
--   OPTIONEEL
+* MOET: absolute vereiste
+* MAG NIET: absoluut verbod
+* ZOU MOETEN: sterke wens, tenzij er valide reden is in specifiek geval af te wijken
+* ZOU NIET MOETEN: ongewenst, tenzij er valide reden is om het in specifiek geval toe te laten
+* MAG: vrije keuze, een optie
 
 ## Hoe te testen
 
