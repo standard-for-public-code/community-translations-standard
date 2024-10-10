@@ -30,7 +30,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Controleer of het beleid door een machine kan worden geïnterpreteerd.
 
-- Controleer dat de continue integratietests op coherente uitvoering van de broncode en het beleid slagen.
+- Controleer of de continue integratietests op coherente uitvoering van de broncode en het beleid slagen.
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
