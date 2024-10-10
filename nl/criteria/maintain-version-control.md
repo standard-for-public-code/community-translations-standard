@@ -6,64 +6,74 @@ order: 6
 
 # Versiebeheer bijhouden
 
-[Versiebeheer]{.underline} betekent het in de loop van de tijd bijhouden van wijzigingen in de [broncode]{.underline} en andere bestanden van de [codebase]{.underline}. Op deze manier kunt u gestructureerde documentatie bijhouden van de geschiedenis van de codebase. Dit is essentieel voor samenwerking op grote schaal, omdat het ontwikkelaars in staat stelt om parallel aan wijzigingen te werken en toekomstige ontwikkelaars helpt om de redenen voor wijzigingen te begrijpen.
+[Versiebeheer](/nl/glossary.html#versiebeheer) betekent het in de loop van de tijd bijhouden van wijzigingen in de [broncode](/nl/glossary.html#broncode) en andere bestanden van de [codebase](/nl/glossary.html#codebase). Op deze manier kunt u gestructureerde documentatie bijhouden van de geschiedenis van de codebase. Dit is essentieel voor samenwerking op grote schaal, omdat het ontwikkelaars in staat stelt om parallel aan bijdragen te werken en toekomstige ontwikkelaars helpt om de redenen voor wijzigingen te begrijpen.
 
 ## Vereisten
 
--   Van alle bestanden in de codebase MOETEN de versienummers worden bijgehouden.
+- Alle bestanden in de codebase MOETEN onder versiebeheer vallen.
 
--   Alle beslissingen MOETEN in commit-berichten worden gedocumenteerd.
+- Alle beslissingen MOETEN in commit-berichten worden gedocumenteerd.
 
--   Elk commit-bericht MOET waar mogelijk linken naar discussies en kwesties.
+- Elke commit-berichten MOET waar mogelijk linken naar discussies en issues.
 
--   De versies van de codebase MOETEN in een gedistribueerd versiebeheersysteem worden bijgehouden.
+- De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
--   Bijdragerichtlijnen MOETEN vereisen dat bijdragers relevante wijzigingen in commits groeperen.
+- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat bijdragers relevante wijzigingen in commits groeperen.
 
--   Beheerders MOETEN vrijgegeven versies van de codebase markeren, bijvoorbeeld met revisie- of tekstlabels.
+- Beheerders ZOUDEN vrijgegeven versies van de codebase MOETEN markeren, bijvoorbeeld met revisie- of tekstlabels.
 
--   Bijdragerichtlijnen MOETEN bestandsformaten aanmoedigen waarbij de wijzigingen in de bestanden eenvoudig kunnen worden bekeken en begrepen in het versiebeheersysteem.
+- Bijdragerichtlijnen ZOUDEN bestandsformaten MOETEN aanmoedigen waarbij de wijzigingen in de bestanden eenvoudig kunnen worden bekeken en begrepen in het versiebeheersysteem.
 
--   Bijdragers kunnen hun commits optioneel ondertekenen en een e-mailadres opgeven, zodat toekomstige bijdragers contact kunnen opnemen met eerdere bijdragers met vragen over hun werk.
+- Bijdragers kunnen hun commits OPTIONEEL ondertekenen en een e-mailadres opgeven, zodat toekomstige bijdragers contact kunnen opnemen met eerdere bijdragers met vragen over hun werk.
 
 ## Hoe te testen
 
--   Controleer of de codebase-versies worden beheerd met software zoals Git.
+- Controleer of de codebase wordt beheerd met versiebeheersoftware zoals Git.
 
--   Bekijk de commit-geschiedenis om te bevestigen dat alle commit-berichten uitleggen waarom de wijziging is gemaakt.
+- Bekijk de commit-geschiedenis om te bevestigen dat alle commit-berichten uitleggen waarom de wijziging is gemaakt.
 
--   Bekijk de commit-geschiedenis en bevestig dat indien mogelijk alle commit-berichten de discussie over de wijziging bevatten of waar de wijziging te vinden is (met een URL).
+- Bekijk de commit-geschiedenis en bevestig dat waar mogelijk alle commit-berichten de discussie over de wijziging bevatten of waar die te vinden is (met een URL).
 
--   Controleer of het versiebeheersysteem gedistribueerd is.
+- Controleer of het versiebeheersysteem gedistribueerd is.
 
--   Bekijk de commit-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
+- Bekijk de commit-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
 
--   Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
+- Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 
--   Controleer indien mogelijk of de bestandsformaten die in de codebase worden gebruikt, tekstformaten zijn.
+- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk tekstformaten zijn.
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Als er een nieuwe versie van de codebase wordt gemaakt vanwege een [beleidswijziging]{.underline}, zorg er dan voor dat het volgende duidelijk is in de documentatie:
+- Als er een nieuwe versie van de codebase wordt gemaakt vanwege een [beleidswijziging](/nl/glossary.html#beleid), zorg er dan voor dat het volgende duidelijk is in de documentatie:
 
     -   wat de beleidswijziging is
 
     -   hoe de beleidswijziging de codebase heeft veranderd
 
-Bijvoorbeeld, het toevoegen van een nieuwe categorie aanvragers aan een codebase die het toekennen van vergunningen beheert, zou als een beleidswijziging worden beschouwd.
+Bijvoorbeeld, het toevoegen van een nieuwe categorie aanvrager aan een codebase voor het toekennen van vergunningen, zou als een beleidswijziging worden beschouwd.
 
 ## Managers: wat u moet doen
 
--   Beleidsmakers, ontwikkelaars en ontwerpers ondersteunen om duidelijk te zijn over welke verbeteringen ze aanbrengen in de codebase. Verbeteringen aanbrengen is geen risico voor de public relations.
+- Stimuleer beleidsmakers, ontwikkelaars en ontwerpers om duidelijk te zijn over welke verbeteringen ze aanbrengen in de codebase. Verbeteringen aanbrengen is geen imagoschade-risico.
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
--   Zorg ervoor dat alle bestanden die nodig zijn om de code te begrijpen, te bouwen en te implementeren in het versiebeheersysteem staan.
+- Zorg ervoor dat alle bestanden die nodig zijn om de code te begrijpen, te bouwen en te implementeren, in het versiebeheersysteem staan.
 
--   Schrijf duidelijke commit-berichten, zodat het makkelijk te begrijpen is waarom de commit gedaan is.
+- Schrijf duidelijke commit-berichten, zodat het makkelijk te begrijpen is waarom de commit gedaan is.
 
--   Markeer verschillende versies zodat het eenvoudig is om een specifieke versie te openen, bijvoorbeeld met behulp van revisie- of tekstlabels.
+- Markeer verschillende versies zodat het eenvoudig is om een specifieke versie te openen, bijvoorbeeld met behulp van revisie- of tekstlabels.
 
--   Schrijf duidelijke commit-berichten zodat versies goed vergeleken kunnen worden.
+- Schrijf duidelijke commit-berichten zodat versies goed vergeleken kunnen worden.
 
--   Werk samen met beleidsmakers om te beschrijven hoe de broncode is bijgewerkt na een beleidswijziging.
+- Werk samen met beleidsmakers om te beschrijven hoe de broncode is bijgewerkt na een beleidswijziging.
+
+## Meer informatie
+
+* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) door Karl Fogel.
+
+* [Versiebeheer in codering handhaven](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) door de UK Government Digital Service.
+
+* [GitHub Skills](https://skills.github.com/) door GitHub voor het leren gebruiken van GitHub of om je vaardigheden op te frissen.
+
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) door GitHub, een lijst met de meest gebruikte git-opdrachten.
