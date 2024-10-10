@@ -4,23 +4,23 @@
 order: 1
 ---
 
-# Open coderen
+# Programmeer in het Openbaar
 
-Open coderen verbetert de transparantie, verhoogt de kwaliteit van de [[broncode]{.underline}][1], maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
+Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de [broncode](/nl/glossary.html#broncode), maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
 
-Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en [[beleid]{.underline}][2] hun interacties met een publieke organisatie beïnvloeden.
+Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en [beleid](/nl/glossary.html#beleid) hun interacties met een publieke organisatie beïnvloeden.
 
 ## Vereisten
 
--   Alle broncode voor alle gebruikte software (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en openbaar toegankelijk zijn.
+-   Alle broncode voor alle gebruikte software (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en publiek toegankelijk zijn.
 
--   Alle broncode voor al het gebruikte beleid (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en publiek toegankelijk zijn.
+- Alle broncode voor al het gebruikte beleid (tenzij gebruikt voor fraudedetectie) MOET worden gepubliceerd en publiek toegankelijk zijn.
 
--   De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
+- De codebase MAG GEEN gevoelige informatie bevatten over gebruikers, hun organisatie of derden.
 
--   Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) MOET worden gepubliceerd.
+-   Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) ZOU MOETEN worden gepubliceerd.
 
--   Het documenteren van welke broncode of welk beleid ten grondslag ligt aan een specifieke interactie die het [[algemene publiek]{.underline}][3] met een organisatie kan hebben, is OPTIONEEL.
+-   Het documenteren van welke broncode of welk beleid ten grondslag ligt aan een specifieke interactie die het [algemeen publiek](/nl/glossary.html#algemeen-publiek) met een organisatie kan hebben, is OPTIONEEL.
 
 ## Hoe te testen
 
