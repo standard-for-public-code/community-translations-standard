@@ -10,11 +10,11 @@ Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk re
 
 Door alle functionaliteit automatisch te testen, weet u zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [continue integratieworkflow]{.underline} van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase]{.underline} te controleren.
+Het documenteren van de [continue integratieworkflow](/nl/glossary.html#) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#) te controleren.
 
 ## Vereisten
 
--   Alle functionaliteit in de [broncode]{.underline} MOET geautomatiseerd worden getest.
+-   Alle functionaliteit in de [broncode](/nl/glossary.html#) MOET geautomatiseerd worden getest.
 
 -   Bijdragen MOETEN alle geautomatiseerde tests doorstaan voordat ze in de codebase worden opgenomen.
 
@@ -28,7 +28,7 @@ Het documenteren van de [continue integratieworkflow]{.underline} van een codeba
 
 -   De test- en documentatiedekking van broncode MOET worden gecontroleerd.
 
--   Het testen van [beleid]{.underline} en documentatie op consistentie met de bron en vice versa is OPTIONEEL.
+-   Het testen van [beleid](/nl/glossary.html#) en documentatie op consistentie met de bron en vice versa is OPTIONEEL.
 
 -   Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
 
@@ -58,7 +58,7 @@ Het documenteren van de [continue integratieworkflow]{.underline} van een codeba
 
 -   Herstel beleidsdocumentatie onmiddellijk als deze een test niet doorstaat.
 
--   Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Versiebeheer bijhouden]{.underline}).
+-   Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Versiebeheer bijhouden](/nl/glossary.html#)).
 
 ## Managers: wat u moet doen
 

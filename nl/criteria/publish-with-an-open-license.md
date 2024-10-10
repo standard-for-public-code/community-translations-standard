@@ -6,7 +6,7 @@ order: 13
 
 # Publiceren met een open licentie
 
-Een open en bekende licentie maakt het voor iedereen mogelijk om de [broncode]{.underline} te bekijken om te begrijpen hoe de broncode werkt, om het vrij te gebruiken en om bij te dragen aan de [codebase]{.underline}. Hierdoor kan er een ecosysteem van leveranciers ontstaan rond de codebase.
+Een open en bekende licentie maakt het voor iedereen mogelijk om de [broncode](/nl/glossary.html#) te bekijken om te begrijpen hoe de broncode werkt, om het vrij te gebruiken en om bij te dragen aan de [codebase](/nl/glossary.html#). Hierdoor kan er een ecosysteem van leveranciers ontstaan rond de codebase.
 
 Door de licentie voor elk bestand in een codebase duidelijk aan te geven, wordt het hergebruik en de toekenning van delen van een codebase eenvoudiger.
 
@@ -14,7 +14,7 @@ Door de licentie voor elk bestand in een codebase duidelijk aan te geven, wordt 
 
 -   Alle broncode en documentatie MOET onder een licentie vallen die vrij herbruikbaar, veranderbaar en herdistribueerbaar is.
 
--   De broncode van software MOET onder een [OSI-goedgekeurde of FSF Free/Libre-licentie]{.underline} vallen.
+-   De broncode van software MOET onder een [OSI-goedgekeurde of FSF Free/Libre-licentie](/nl/glossary.html#) vallen.
 
 -   Alle broncode MOET worden met een licentiebestand gepubliceerd.
 
@@ -28,17 +28,17 @@ Door de licentie voor elk bestand in een codebase duidelijk aan te geven, wordt 
 
 -   Controleer of de codebase duidelijk onder een licentie valt.
 
--   Controleer of de licentie voor de broncode op de [OSI-goedgekeurde of FSF Free/Libre-licentielijst]{.underline} staat en of de licentie voor de documentatie [overeenkomt met de Open Definition]{.underline}.
+-   Controleer of de licentie voor de broncode op de [OSI-goedgekeurde of FSF Free/Libre-licentielijst](/nl/glossary.html#) staat en of de licentie voor de documentatie [overeenkomt met de Open Definition](/nl/glossary.html#).
 
 -   Controleer of de licenties die in de codebase worden gebruikt, als bestanden zijn opgenomen.
 
--   Controleer of de bijdragerichtlijnen en de configuratie van de [repository]{.underline} geen overdracht van auteursrechten vereisen.
+-   Controleer of de bijdragerichtlijnen en de configuratie van de [repository](/nl/glossary.html#) geen overdracht van auteursrechten vereisen.
 
--   Controleer op machineleesbare licentiecontrole in de [continue integratietests]{.underline} van de codebase.
+-   Controleer op machineleesbare licentiecontrole in de [continue integratietests](/nl/glossary.html#) van de codebase.
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Ontwikkel [[beleid]{.underline}][1] dat vereist dat broncode [[open source]{.underline}][2] is.
+-   Ontwikkel [[beleid](/nl/glossary.html#)][1] dat vereist dat broncode [[open source](/nl/glossary.html#)][2] is.
 
 -   Ontwikkel beleid dat het gebruik van niet-open broncode en technologie bij aanbestedingen ontmoedigt.
 
@@ -46,7 +46,7 @@ Door de licentie voor elk bestand in een codebase duidelijk aan te geven, wordt 
 
 -   Werk alleen samen met open source-leveranciers die hun broncode publiceren onder een open source-licentie.
 
--   Let op: hoewel [[Creative Commons-licenties]{.underline}][3] geweldig zijn voor documentatie, zijn licenties die bepalen dat het mag gaan om niet-commercieel materiaal of geen afgeleide producten, NIET vrijelijk herbruikbaar, veranderbaar en herdistribueerbaar zijn, en die niet aan deze vereisten voldoen.
+-   Let op: hoewel [[Creative Commons-licenties](/nl/glossary.html#)][3] geweldig zijn voor documentatie, zijn licenties die bepalen dat het mag gaan om niet-commercieel materiaal of geen afgeleide producten, NIET vrijelijk herbruikbaar, veranderbaar en herdistribueerbaar zijn, en die niet aan deze vereisten voldoen.
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 

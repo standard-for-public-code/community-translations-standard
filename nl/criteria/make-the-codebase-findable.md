@@ -6,7 +6,7 @@ order: 14
 
 # Codebase vindbaar maken
 
-Hoe beter een [[codebase]{.underline}][1] te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een code publiceren en hopen dat de code wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
+Hoe beter een [[codebase](/nl/glossary.html#)][1] te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een code publiceren en hopen dat de code wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
 
 Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of lijst met FSF-softwaremappen (die dus deel uitmaakt van het semantische web), zorgt ervoor dat mensen de codebase gemakkelijker kunnen raadplegen, citeren, onderscheiden en ontdekken via hulpmiddelen van derden.
 
@@ -24,9 +24,9 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 -   De codebase MOET vindbaar moeten zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
--   De codebase MOET een unieke en blijvende identificatie hebben waarbij de belangrijkste bijdragers, de locatie van [[de repository]{.underline}][2] en de website vermeld worden.
+-   De codebase MOET een unieke en blijvende identificatie hebben waarbij de belangrijkste bijdragers, de locatie van [[de repository](/nl/glossary.html#)][2] en de website vermeld worden.
 
--   De codebase MOET een machineleesbare metadata-beschrijving bevatten, bijvoorbeeld in een [publiccode.yml]{.underline}-bestand.
+-   De codebase MOET een machineleesbare metadata-beschrijving bevatten, bijvoorbeeld in een [publiccode.yml](/nl/glossary.html#)-bestand.
 
 -   Een eigen domeinnaam voor de codebase is OPTIONEEL.
 
@@ -64,7 +64,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 -   Test uw probleemomschrijving met collega\'s buiten uw context die niet bekend zijn met de codebase.
 
--   Presenteer op relevante conferenties hoe de codebase het [[beleid]{.underline}][3] implementeert.
+-   Presenteer op relevante conferenties hoe de codebase het [[beleid](/nl/glossary.html#)][3] implementeert.
 
 ## Managers: wat u moet doen
 
@@ -78,7 +78,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
--   Zoekmachineoptimalisatie, bijvoorbeeld door een [[sitemap]{.underline}][4] toe te voegen.
+-   Zoekmachineoptimalisatie, bijvoorbeeld door een [[sitemap](/nl/glossary.html#)][4] toe te voegen.
 
 -   Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in de beschrijving van de repository.
 

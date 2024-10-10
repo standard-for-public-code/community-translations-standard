@@ -8,9 +8,9 @@ order: 10
 
 Engels is de *de factor* taal voor samenwerking bij softwareontwikkeling. Sommige contexten vereisen echter andere talen dan Engels. Daarom kan een codebase een aantal hoofdtalen hebben, waaronder Engels.
 
-Informatie van de overheid moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de[code]{.underline} en wat deze doet, voor een breder publiek begrijpelijk is.
+Informatie van de overheid moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de[code](/nl/glossary.html#) en wat deze doet, voor een breder publiek begrijpelijk is.
 
-Vertalingen vergroten verder het mogelijke bereik van een [codebase]{.underline}. Een taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het maken en onderhouden van vertalingen.
+Vertalingen vergroten verder het mogelijke bereik van een [codebase](/nl/glossary.html#). Een taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het maken en onderhouden van vertalingen.
 
 ## Vereisten
 
@@ -20,13 +20,13 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase]{.underline}
 
 -   Alle documentatie van de codebase MOET up-to-date zijn in alle hoofdtalen.
 
--   Alle [broncode]{.underline} MOET in het Engels zijn opgesteld, behalve wanneer [beleid]{.underline} machinaal als code wordt geïnterpreteerd.
+-   Alle [broncode](/nl/glossary.html#) MOET in het Engels zijn opgesteld, behalve wanneer [beleid](/nl/glossary.html#) machinaal als code wordt geïnterpreteerd.
 
 -   Al het gebundelde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle hoofdtalen.
 
 -   Er MOGEN geen acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen in de codebase voorkomen zonder voorafgaande uitleg of een link naar een uitleg.
 
--   De documentatie MOET gericht zijn op het leesniveau van lager secundair onderwijs, zoals aanbevolen door de [Web Content Accessibility Guidelines 2]{.underline}.
+-   De documentatie MOET gericht zijn op het leesniveau van lager secundair onderwijs, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](/nl/glossary.html#).
 
 -   Het verstrekken van extra vertalingen van code, documentatie of tests is OPTIONEEL.
 

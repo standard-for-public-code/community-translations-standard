@@ -10,13 +10,13 @@ Door een consistente en coherente stijl te volgen, kunnen medewerkers in verschi
 
 ## Vereisten
 
--   De [codebase]{.underline} MOET een codeer- of schrijfstijlgids gebruiken, ofwel die van de codebase-community zelf of een bestaande waarnaar in de codebase wordt verwezen.
+-   De [codebase](/nl/glossary.html#) MOET een codeer- of schrijfstijlgids gebruiken, ofwel die van de codebase-community zelf of een bestaande waarnaar in de codebase wordt verwezen.
 
 -   Bijdragen MOETEN geautomatiseerde stijltests doorstaan.
 
 -   De stijlgids MOET verwachtingen bevatten voor inline opmerkingen en documentatie voor niet-triviale secties.
 
--   Het opnemen van verwachtingen voor [begrijpelijk Engels]{.underline} in de stijlgids is OPTIONEEL.
+-   Het opnemen van verwachtingen voor [begrijpelijk Engels](/nl/glossary.html#) in de stijlgids is OPTIONEEL.
 
 ## Hoe te testen
 
@@ -26,7 +26,7 @@ Door een consistente en coherente stijl te volgen, kunnen medewerkers in verschi
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Maak, volg en verbeter voortdurend een stijlgids voor [beleid]{.underline} en documentatie, en documenteer dit in de codebase, bijvoorbeeld in de CONTRIBUTING of README.
+-   Maak, volg en verbeter voortdurend een stijlgids voor [beleid](/nl/glossary.html#) en documentatie, en documenteer dit in de codebase, bijvoorbeeld in de CONTRIBUTING of README.
 
 ## Managers: wat u moet doen
 
@@ -34,7 +34,7 @@ Door een consistente en coherente stijl te volgen, kunnen medewerkers in verschi
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
-Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository]{.underline} die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de CONTRIBUTING of README. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen]{.underline} zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
+Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository](/nl/glossary.html#) die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de CONTRIBUTING of README. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen](/nl/glossary.html#) zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
 
 Bovendien:
 

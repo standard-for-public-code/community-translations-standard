@@ -4,62 +4,64 @@
 order: 9
 ---
 
-# Code documenteren
+# Documenteer de code
 
-Goed gedocumenteerde [broncode]{.underline} helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is essentieel voor mensen om de [codebase]{.underline} sneller te gaan gebruiken en eraan bij te dragen.
+Goed gedocumenteerde [broncode](/nl/glossary.html#broncode) helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is onmisbaar voor mensen om de [codebase](/nl/glossary.html#codebase) te gaan gebruiken en eraan bij te dragen.
 
 ## Vereisten
 
--   Alle functionaliteit van de codebase, zowel het [beleid]{.underline} als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase begrijpen.
+- Alle functionaliteit van de codebase, zowel het [beleid](/nl/glossary.html#beleid) als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase begrijpen.
 
--   De documentatie van de codebase MOET een beschrijving bevatten van hoe de software moet worden geïnstalleerd en uitgevoerd.
+- De documentatie van de codebase MOET een beschrijving bevatten van hoe de software moet worden geïnstalleerd en uitgevoerd.
 
--   De documentatie van de codebase MOET voorbeelden bevatten die de belangrijkste functionaliteit demonstreren.
+- De documentatie van de codebase MOET voorbeelden bevatten die de belangrijkste functionaliteit demonstreren.
 
--   De documentatie van de codebase MOET een algemene beschrijving bevatten die duidelijk te begrijpen is voor een breed publiek van belanghebbenden, zoals het [algemene publiek]{.underline} en journalisten.
+- De documentatie van de codebase ZOU een algemene beschrijving MOETEN bevatten die duidelijk te begrijpen is voor een breed publiek van belanghebbenden, zoals het [algemeen publiek](/nl/glossary.html#algemeen-publiek) en journalisten.
 
--   De documentatie van de codebase MOET een paragraaf bevatten die beschrijft hoe een zelfstandige versie van de broncode kan worden geïnstalleerd en uitgevoerd, inclusief, indien nodig, een testdataset.
+- De documentatie van de codebase ZOU een paragraaf MOETEN bevatten die beschrijft hoe een zelfstandige versie van de broncode kan worden geïnstalleerd en uitgevoerd, inclusief, indien nodig, een testdataset.
 
--   De documentatie van de codebase MOET voorbeelden bevatten van alle functionaliteit.
+- De documentatie van de codebase ZOU voorbeelden MOETEN bevatten van alle functionaliteit.
 
--   De documentatie MOET de belangrijkste componenten of modules van de codebase en hun relaties beschrijven, bijvoorbeeld als een algemene architectuurdiagram.
+- De documentatie ZOU de belangrijkste componenten of modules van de codebase en hun relaties MOETEN beschrijven, bijvoorbeeld als een hoog-over architectuurdiagram.
 
--   Er MOETEN [continue integratietests]{.underline} worden uitgevoerd om de kwaliteit van de documentatie te controleren.
-
--   Er kunnen OPTIONEEL voorbeelden in de documentatie van de codebase worden opgenomen zodat de gebruikers direct aan de slag kunnen met de codebase.
+- Er ZOUDEN [continue integratietests](/nl/glossary.html#continue-integratie) MOETEN worden uitgevoerd om de kwaliteit van de documentatie te controleren.
 
 ## Hoe te testen
 
--   Controleer of andere belanghebbenden, professionals van andere publieke organisaties en het grote publiek de documentatie duidelijk en begrijpelijk vinden.
+- Controleer of andere belanghebbenden, professionals van andere publieke organisaties en het brede publiek de documentatie duidelijk en begrijpelijk vinden.
 
--   Controleer of de documentatie beschrijft hoe de broncode moet worden geïnstalleerd en uitgevoerd.
+- Controleer of de documentatie beschrijft hoe de broncode moet worden geïnstalleerd en uitgevoerd.
 
--   Controleer of de documentatie voorbeelden bevat van de belangrijkste functionaliteit.
+- Controleer of de documentatie voorbeelden bevat van de belangrijkste functionaliteit.
 
--   Vraag het grote publiek en journalisten of ze de algemene beschrijving begrijpen.
+- Vraag mensen uit het brede publiek en journalisten of ze de algemene beschrijving begrijpen.
 
--   Controleer of de instructies voor het installeren en uitvoeren van een zelfstandige versie van de broncode resulteren in een werkend systeem.
+- Controleer of de instructies voor het installeren en uitvoeren van een zelfstandige versie van de broncode resulteren in een werkend systeem.
 
--   Controleer of alle gedocumenteerde functionaliteit een voorbeeld bevat.
+- Controleer of alle gedocumenteerde functionaliteit een voorbeeld bevat.
 
--   Controleer of de documentatie een algemene architectuurdiagram of iets dergelijks bevat.
+- Controleer of de documentatie een hoog-over architectuurdiagram of iets dergelijks bevat.
 
--   Controleer of de kwaliteit van de documentatie deel uitmaakt van de integratietests, bijvoorbeeld of de documentatie correct is gegenereerd en of links en afbeeldingen zijn getest.
+- Controleer of de kwaliteit van de documentatie deel uitmaakt van de integratietests, bijvoorbeeld of de documentatie correct is gegenereerd en of links en afbeeldingen zijn getest.
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Controleer regelmatig hoe de niet-beleidscode in de codebase is gewijzigd.
+- Kijk regelmatig of begrijpelijk is hoe de niet-beleidscode in de codebase is gewijzigd.
 
--   Geef feedback over hoe u niet-beleiddocumentatie duidelijker kunt maken.
+- Geef feedback over hoe de niet-beleid documentatie duidelijker gemaakt kan worden.
 
 ## Managers: wat u moet doen
 
--   Probeer de codebase te gebruiken, zodat uw feedback kan bijdragen aan een betere documentatie van het beleid en de broncode. Is de huidige documentatie bijvoorbeeld voldoende om een manager bij een andere publieke organisatie te overtuigen om deze codebase te gebruiken?
+- Probeer de codebase te gebruiken, zodat uw feedback kan bijdragen aan een betere documentatie van het beleid en de broncode. Is de huidige documentatie bijvoorbeeld voldoende om een manager bij een andere publieke organisatie te overtuigen om deze codebase te gebruiken?
 
--   Zorg ervoor dat u zowel het beleid en de broncode als de documentatie begrijpt.
+- Zorg ervoor dat u de beleid- en broncode evenals de documentatie begrijpt.
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
--   Controleer regelmatig hoe de niet-broncode in de codebase is gewijzigd.
+- Controleer regelmatig hoe de niet-broncode in de codebase is gewijzigd.
 
--   Geef feedback over hoe u niet-brondocumentatie duidelijker kunt maken.
+- Geef feedback over hoe de niet-broncode documentatie duidelijker gemaakt kan worden.
+
+## Meer informatie
+
+* [Documentation guide](https://www.writethedocs.org/guide/) door Write the Docs.

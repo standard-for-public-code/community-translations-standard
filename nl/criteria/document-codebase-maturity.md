@@ -6,7 +6,7 @@ order: 16
 
 # Volwassenheid van codebase documenteren
 
-Het duidelijk aangeven van de volwassenheid van een [codebase]{.underline}helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
+Het duidelijk aangeven van de volwassenheid van een [codebase](/nl/glossary.html#)helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
 
 ## Vereisten
 
@@ -36,7 +36,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase]{.underline}helpt 
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Houd er bij het ontwikkelen van [[beleid]{.underline}][1] rekening mee dat elke ontwikkelde [[broncode]{.underline}][2] moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
+-   Houd er bij het ontwikkelen van [[beleid](/nl/glossary.html#)][1] rekening mee dat elke ontwikkelde [[broncode](/nl/glossary.html#)][2] moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
 
 -   Overweeg wijzigingen in het versiebeheerbeleid, vooral als de wijzigingen nieuwe versies van de broncode veroorzaken.
 

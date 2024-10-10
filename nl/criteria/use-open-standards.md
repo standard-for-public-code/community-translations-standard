@@ -6,11 +6,11 @@ order: 11
 
 # Open standaarden gebruiken
 
-[Open standaarden]{.underline} garanderen toegang tot de kennis die nodig is om de [codebase]{.underline} te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Open standaarden die eenduidig zijn, maken de onafhankelijke ontwikkeling van beide kanten van gegevensuitwisseling mogelijk.
+[Open standaarden](/nl/glossary.html#) garanderen toegang tot de kennis die nodig is om de [codebase](/nl/glossary.html#) te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Open standaarden die eenduidig zijn, maken de onafhankelijke ontwikkeling van beide kanten van gegevensuitwisseling mogelijk.
 
 ## Vereisten
 
--   Voor functies van de codebase die de uitwisseling van gegevens vergemakkelijken, MOET de codebase een open standaard gebruiken die voldoet aan de [Open Source Initiative Open Standard Requirements]{.underline}.
+-   Voor functies van de codebase die de uitwisseling van gegevens vergemakkelijken, MOET de codebase een open standaard gebruiken die voldoet aan de [Open Source Initiative Open Standard Requirements](/nl/glossary.html#).
 
 -   Alle niet-open standaarden die worden gebruikt, MOETEN duidelijk als zodanig worden vermeld in de documentatie.
 
@@ -40,10 +40,10 @@ order: 11
 
 ## Managers: wat u moet doen
 
--   Overweeg om de beoordeling van de naleving van open standaarden op te nemen in [broncodebeoordelingen]{.underline}.
+-   Overweeg om de beoordeling van de naleving van open standaarden op te nemen in [broncodebeoordelingen](/nl/glossary.html#).
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
--   Voeg [continue integratietests]{.underline} toe voor naleving van de standaarden.
+-   Voeg [continue integratietests](/nl/glossary.html#) toe voor naleving van de standaarden.
 
--   Controleer de commits en andere [repositorybronnen]{.underline} op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
+-   Controleer de commits en andere [repositorybronnen](/nl/glossary.html#) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
