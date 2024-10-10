@@ -65,6 +65,9 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 ## Meer informatie
 
 * [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) op Wikipedia.
+
 * [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) door Trisotech.
+
 * [Decision Model and Notation](https://en.wikipedia.org/wiki/Decision_Model_and_Notation) op Wikipedia.
+
 * [Case Management Model Notation](https://en.wikipedia.org/wiki/CMMN) op Wikipedia.

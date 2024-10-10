@@ -47,3 +47,15 @@ Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software 
 - Controleer als beoordelaar voor iedere commit of de inhoud geen gevoelige informatie bevat, zoals configuraties, gebruikersnamen of wachtwoorden, *public keys* of andere gegevens die in productiesystemen worden gebruikt.
 
 - Maak een duidelijke scheiding tussen gegevens en broncode om te voldoen aan de bovenstaande eis over gevoelige informatie.
+
+## Meer informatie
+
+- [Coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) door de UK Government Digital Service.
+
+- [When code should be open or closed](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) door de UK Government Digital Service.
+
+- [Security considerations when coding in the open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) door de UK Government Digital Service.
+
+- [Deploying software regularly](https://www.gov.uk/service-manual/technology/deploying-software-regularly) door de UK Government Digital Service.
+
+- [How GDS uses GitHub](https://technology.blog.gov.uk/2014/01/27/how-we-use-github/) door de UK Government Digital Service.
