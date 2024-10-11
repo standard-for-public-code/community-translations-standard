@@ -103,7 +103,7 @@ Publieke code kan worden gebruikt en ontwikkeld door permanente interne ontwikke
 
 Om bestaande publieke code te gebruiken, moet u in uw budget en projectontwerp specificeren dat uw nieuwe oplossing die codebase zal gebruiken. Om een innovatieve benadering aan te moedigen bij het aanpassen van de publieke code aan uw context, kunt u de dienst of het resultaat in uw contract beschrijven.
 
-## De doelen van de Standard for Public Code
+## De doelen van de *Standaard voor Publieke Code*
 
 Deze standaard ondersteunt ontwikkelaars, ontwerpers, managers en beleidsmakers bij:
 
@@ -113,19 +113,19 @@ Deze standaard ondersteunt ontwikkelaars, ontwerpers, managers en beleidsmakers 
 - meer controle en beslissingsbevoegdheid over hun IT-systemen
 - het verbeteren van de relaties met leveranciers door een beter economisch model
 
-Potentiële gebruikers van codebases die zijn getoetst aan de Standard for Public Code kunnen verwachten dat deze zeer herbruikbaar, gemakkelijk te onderhouden en van hoge kwaliteit zijn.
+Potentiële gebruikers van codebases die zijn getoetst aan de *Standaard voor Publieke Code* kunnen verwachten dat deze zeer herbruikbaar, gemakkelijk te onderhouden en van hoge kwaliteit zijn.
 
-De Standard for Public Code doet dit door:
+De *Standaard voor Publieke Code* doet dit door:
 
 - het vaststellen van een gemeenschappelijke terminologie voor publieke code-ontwikkeling
 - het vaststellen van kaders om te helpen bij het ontwikkelen van hoogwaardige publieke code
 - het bieden van begeleiding bij het voldoen aan de criteria en het operationaliseren van naleving
 
-De Standard for Public Code is bedoeld om tijds- en technologieonafhankelijk te zijn.
+De *Standaard voor Publieke Code* is bedoeld om tijds- en technologieonafhankelijk te zijn.
 
 ### Voor wie is dit bedoeld
 
-De Standard for Public Code is bedoeld voor de mensen die publieke code creëren en hergebruiken:
+De *Standaard voor Publieke Code* is bedoeld voor de mensen die publieke code creëren en hergebruiken:
 
 - beleidsmakers
 - bedrijfs- en projectmanagers
