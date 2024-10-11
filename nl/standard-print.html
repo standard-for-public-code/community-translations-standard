@@ -54,7 +54,7 @@
 
   <article id="section-authors">
 
-    {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
@@ -88,13 +88,13 @@
 
   <article id="section-readers-guide">
 
-    {% for page in site.pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
   <article id="section-glossary">
 
-    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
@@ -119,7 +119,7 @@
 
   <article id="section-contributing">
 
-    {% for page in site.pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
@@ -129,7 +129,7 @@
 
   <article id="section-code-of-conduct">
 
-    {% for page in site.pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
@@ -139,7 +139,7 @@
 
   <article id="section-governance">
 
-    {% for page in site.pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
@@ -149,7 +149,7 @@
 
   <article id="section-changelog">
 
-    {% for page in site.pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
