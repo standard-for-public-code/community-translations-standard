@@ -1,6 +1,7 @@
 ---
 ---
-
+{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" %}
+{% assign sorted = pages | sort: "order" %}
 <!DOCTYPE html>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2024 The Standard for Public Code Community, https://www.standardforpubliccode.org/AUTHORS -->
@@ -63,9 +64,8 @@
       <li><a href="#section-readers-guide" class="table-of-contents">Leeswijzer</a></li>
       <li><a href="#section-glossary" class="table-of-contents">Begrippenlijst</a></li>
       <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
-        {% assign sorted = site.pages | sort:"order" %}
         <ol>
-        {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+        {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
           <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
         </ol>
@@ -97,9 +97,8 @@
 
   <article id="section-criteria">
     <h1>Criteria</h1>
-    {% assign sorted = site.pages | sort:"order" %}
     <ol>
-    {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
       <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
     {% endif%}  {% endif%}{% endfor %}
     </ol>
@@ -109,8 +108,7 @@
     <img src="https://www.standardforpubliccode.org/assets/unlock.svg" alt="unlock">
   </figure>
 
-  {% assign sorted = site.pages | sort:"order" %}
-  {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+  {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
     <article id="section-criteria-{{page.name}}">
       {{page.content | markdownify}}
     </article>{% endif%}
@@ -143,7 +141,7 @@
   </article>
 
   <figure>
-    <img src="/assets/eco-system.svg" alt="ecosystem">
+    <img src="https://www.standardforpubliccode.org/assets/eco-system.svg" alt="ecosystem">
   </figure>
 
   <article id="section-changelog">
