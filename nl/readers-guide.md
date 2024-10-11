@@ -5,7 +5,7 @@
 
 # Lezersgids
 
-De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe u goede openbare code maakt.
+De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe u goede publieke code maakt.
 
 Verwijzingen naar \"beleidsmakers\", \"managers\" en \"ontwikkelaars en ontwerpers\" zijn van toepassing op iedereen die taken uitvoert die verband houden met deze rollen, ongeacht hun functie. Het komt vaak voor dat mensen taken hebben die meerdere rollen omvatten.
 
@@ -55,9 +55,9 @@ Ontwikkelaars zijn meestal meer technisch onderlegd en hebben meer invloed op de
 
 ## Beperking van toepassingsgebied
 
-De standaard voor openbare code is niet bedoeld voor individuele implementaties van een codebase. Dit betekent dat de standaard implementeerders niet vertelt hoe ze moeten voldoen aan de lokale technische infrastructuur of het juridische kader van hun organisatie.
+De Standaard voor Publieke Code is niet bedoeld voor individuele implementaties van een codebase. Dit betekent dat de standaard implementeerders niet vertelt hoe ze moeten voldoen aan de lokale technische infrastructuur of het juridische kader van hun organisatie.
 
-Hoewel de standaard voor openbare code verwijst naar verschillende standaarden en er aanzienlijke overlappingen zijn met andere standaarden, is het doel ervan om samenwerking mogelijk te maken. Daarom is het niet de bedoeling om kwaliteitsstandaarden te vervangen, zoals de ISO 25000-serie, of standaarden die gericht zijn op beveiliging, zoals de OpenSSF Best Practices Badge, maar om er een goede synergie mee te creëren.
+Hoewel de Standaard voor Publieke Code verwijst naar verschillende standaarden en er aanzienlijke overlappingen zijn met andere standaarden, is het doel ervan om samenwerking mogelijk te maken. Daarom is het niet de bedoeling om kwaliteitsstandaarden te vervangen, zoals de ISO 25000-serie, of standaarden die gericht zijn op beveiliging, zoals de OpenSSF Best Practices Badge, maar om er een goede synergie mee te creëren.
 
 En hoewel het doel is om samenwerking mogelijk te maken, is het geen garantie dat er een community ontstaat. Dat vereist nog steeds proactiviteit en ambitie die verder gaan dan het gereedmaken van de codebase voor samenwerking.
 

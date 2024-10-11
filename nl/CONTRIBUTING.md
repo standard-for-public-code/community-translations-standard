@@ -13,7 +13,7 @@ We houden van kwesties en pull requests van iedereen. Als u niet vertrouwd bent 
 
 ## Problemen, suggesties en vragen in kwesties
 
-Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vindt u in de routekaart. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kunt u een GitHub-kwestie aanmaken voor dit project in de GitHub-kwesties voor de standaard voor openbare code.
+Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vindt u in de routekaart. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kunt u een GitHub-kwestie aanmaken voor dit project in de GitHub-kwesties voor de Standaard voor Publieke Code.
 
 Of meld u aan voor de mailinglijst en stuur een e-mail naar standard@lists.publiccode.net.
 
@@ -29,7 +29,7 @@ Dit project heeft een Creative Commons Zero v1.0 Universal-licentie, wat in esse
 
 ## 1. Uw wijzigingen aanbrengen
 
-Bijdragen moeten voldoen aan de vereisten in de criteria van de standaard voor openbare code zelf. Beoordelaars zorgen er ook voor dat bijdragen in lijn zijn met de waarden van openbare code. Bovendien controleren ze of de bijdrage voldoet aan de standaarden en coherent blijft met het algemene werk.
+Bijdragen moeten voldoen aan de vereisten in de criteria van de Standaard voor Publieke Code zelf. Beoordelaars zorgen er ook voor dat bijdragen in lijn zijn met de waarden van publieke code. Bovendien controleren ze of de bijdrage voldoet aan de standaarden en coherent blijft met het algemene werk.
 
 Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als u deze repository hebt gevorkt, zorg er dan voor dat u een feature branch aanmaakt volgens het GitFlow-model.
 
@@ -39,15 +39,15 @@ Als u code toevoegt, zorg er dan voor dat u de relevante documentatie en tests h
 
 ## Toepasselijk beleid
 
-Op dit moment implementeert de standaard voor openbare code geen specifiek openbaar beleid.
+Op dit moment implementeert de Standaard voor Publieke Code geen specifiek openbaar beleid.
 
 ## Stijl
 
-De standaard voor openbare code streeft naar het gebruik van gewoon Engels en we hebben gekozen voor Amerikaans-Engels voor de spelling. Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat u uw bijdrage levert dan dat u zich zorgen maakt over spelling en typografie. We helpen u graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
+De Standaard voor Publieke Code streeft naar het gebruik van gewoon Engels en we hebben gekozen voor Amerikaans-Engels voor de spelling. Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat u uw bijdrage levert dan dat u zich zorgen maakt over spelling en typografie. We helpen u graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
 
 ## Te volgen standaarden
 
-Dit zijn de standaarden die de standaard voor openbare code gebruikt. Zorg ervoor dat uw bijdragen hierop aansluiten, zodat ze gemakkelijker kunnen worden samengevoegd.
+Dit zijn de standaarden die de Standaard voor Publieke Code gebruikt. Zorg ervoor dat uw bijdragen hierop aansluiten, zodat ze gemakkelijker kunnen worden samengevoegd.
 
 -   [IETF RFC 2119] - voor trefwoorden op vereisteniveau
 
@@ -73,7 +73,7 @@ Sterker nog, open gerust een pull request om uw naam toe te voegen aan het [AUTH
 
 ## Talen en vertalingen
 
-De gezaghebbende taal van de standaard voor openbare code is Engels.
+De gezaghebbende taal van de Standaard voor Publieke Code is Engels.
 
 Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor releases. We nodigen u uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
 

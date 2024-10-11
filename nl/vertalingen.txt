@@ -1,0 +1,71 @@
+- en: "Request for contributions"
+  nl: "Verzoek om bijdragen"
+
+- en: "Standard for Public Code"
+  nl: "Standaard voor Publieke Code"
+
+- en: "Table of Contents"
+  nl: "Inhoudsopgave"
+
+- en: "Authors"
+  nl: "Auteurs"
+
+- en: "Readers guide"
+  nl: "Leeswijzer"
+
+- en: "Glossary"
+  nl: "Begrippenlijst"
+
+- en: "Criteria"
+  nl: "Criteria"
+
+- en: "Contributing guide"
+  nl: "Bijdragerichtlijnen"
+
+- en: "Code of conduct"
+  nl: "Gedragscode"
+
+- en: "Governance"
+  nl: "Governance"
+
+- en: "Version history"
+  nl: "Versiegeschiedenis"
+
+- en: "License"
+  nl: "Licentie"
+
+- en: "Contact"
+  nl: "Contact"
+
+- en: "This license is the legal contract that allows anyone to do anything they like with the content in this entire document."
+  nl: "Deze licentie vormt de juridische toestemming waardoor iedereen mag doen wat die wil met de inhoud van dit hele document."
+
+- en: "For questions and more information about our organization you can find us at our website, email us at info@publiccode.net, or call us at +31 20 2 444 500"
+  nl: "Voor vragen en meer informatie over onze organisatie kunt u kijken op onze website, mailen naar info@publiccode.net, of bellen met +31 20 2 444 500"
+
+- en: "The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable."
+  nl: "De Standaard voor Publieke Code ondersteunt het in samenwerking ontwikkelen van codebases die bruikbaar, open, leesbaar, verantwoord, toegankelijk en duurzaam zijn."
+
+- en: "The Standard includes guidance to policymakers, managers, designers and developers creating and managing codebases."
+  nl: "De Standaard bevat adviezen voor beleidsmakers, overheidsmanagers, ontwikkelaars en leveranciers bij het ontwikkelen en onderhouden van codebases."
+
+- en: "The standard specifies the criteria:"
+  nl: "De Standaard beschrijft de volgende criteria:"
+
+- en: "What public code is and how to implement it for:"
+  nl: "Wat publieke code is en hoe u dit implementeert:"
+
+- en: "Public policy makers"
+  nl: "Beleidsmakers in de publieke sector"
+
+- en: "Managers"
+  nl: "Managers"
+
+- en: "Developers and designers"
+  nl: "Ontwikkelaars en ontwerpers"
+
+- en: "Draft"
+  nl: "Voorlopige versie"
+
+- en: "Version"
+  nl: "Versie"
