@@ -4,89 +4,92 @@
 order: 14
 ---
 
-# Codebase vindbaar maken
+# Maak de codebase vindbaar
 
-Hoe beter een [[codebase](/nl/glossary.html#)][1] te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een code publiceren en hopen dat de code wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
+Hoe beter een [codebase](/nl/glossary.html#codebase) te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
 
-Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of lijst met FSF-softwaremappen (die dus deel uitmaakt van het semantische web), zorgt ervoor dat mensen de codebase gemakkelijker kunnen raadplegen, citeren, onderscheiden en ontdekken via hulpmiddelen van derden.
+Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of een vermelding in de FSF-software directory (en op die manier dus onderdeel uitmaken van het semantische web), zorgt ervoor dat mensen gemakkelijker naar de codebase kunnen verwijzen, er uit citeren, codebases van elkaar onderscheiden en ontdekken via overzichtswebsites van derden.
 
 ## Vereisten
 
--   De naam van de codebase MOET beschrijvend zijn en mag geen acroniemen, afkortingen, woordspelingen of organisatorische merknamen bevatten.
+- De naam van de codebase ZOU beschrijvend MOETEN zijn en ZOU dus geen acroniemen, afkortingen, woordspelingen of organisatorische merknamen MOETEN bevatten.
 
--   De codebase MOET een korte beschrijving hebben die iemand helpt te begrijpen waar de codebase voor dient of wat de codebase doet.
+- De codebase ZOU een korte beschrijving MOETEN hebben die iemand helpt te begrijpen waar de codebase voor dient of wat de codebase doet.
 
--   Beheerders MOETEN de codebase indienen bij relevante softwarecatalogi.
+- Beheerders ZOUDEN de codebase MOETEN indienen bij relevante softwarecatalogi.
 
--   De codebase MOET een website hebben waarop het probleem dat de codebase oplost, wordt beschreven in het jargon van verschillende potentiële gebruikers van de codebase (waaronder technologen, beleidsdeskundigen en managers).
+- De codebase ZOU een website MOETEN hebben waarop het probleem dat de codebase oplost, wordt beschreven in het jargon van verschillende potentiële gebruikers van de codebase (waaronder technologen, beleidsdeskundigen en managers).
 
--   De codebase MOET vindbaar zijn met een zoekmachine op codebase-naam.
+- De codebase ZOU vindbaar MOETEN zijn met een zoekmachine op codebase-naam.
 
--   De codebase MOET vindbaar moeten zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
+- De codebase ZOU vindbaar MOETEN zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
--   De codebase MOET een unieke en blijvende identificatie hebben waarbij de belangrijkste bijdragers, de locatie van [[de repository](/nl/glossary.html#)][2] en de website vermeld worden.
+- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van [de repository](/nl/glossary.html#repository) en de website vermeld worden.
 
--   De codebase MOET een machineleesbare metadata-beschrijving bevatten, bijvoorbeeld in een [publiccode.yml](/nl/glossary.html#)-bestand.
+- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld in een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
--   Een eigen domeinnaam voor de codebase is OPTIONEEL.
+- Een eigen domeinnaam voor de codebase is OPTIONEEL.
 
--   Regelmatige presentaties op conferenties door de community zijn OPTIONEEL.
+- Regelmatige presentaties op conferenties door de community zijn OPTIONEEL.
 
 ## Hoe te testen
 
--   Controleer of de naam van de codebase beschrijvend is en geen woordspelingen bevat.
+- Controleer of de naam van de codebase beschrijvend is en geen woordspelingen bevat.
 
--   Controleer of de naam van de codebase geen acroniemen en afkortingen bevat of dat de acroniemen of afkortingen in de naam algemener bekend zijn dan de langere vormen.
+- Controleer of de naam van de codebase geen acroniemen en afkortingen bevat of dat de acroniemen of afkortingen in de naam algemener bekend zijn dan de langere vormen.
 
--   Controleer of de naam van de codebase geen organisatorische branding bevat, tenzij die organisatie van de codebase community zelf is.
+- Controleer of de naam van de codebase geen organisatorische branding bevat, tenzij het die van de codebase-community zelf is.
 
--   Controleer of de repository van de codebase een korte beschrijving van de codebase heeft.
+- Controleer of de repository van de codebase een korte beschrijving van de codebase heeft.
 
--   Controleer of de codebase in relevante softwarecatalogi is opgenomen.
+- Controleer of de codebase in relevante softwarecatalogi is opgenomen.
 
--   Zoek naar een website van de codebase die het probleem beschrijft dat de codebase oplost.
+- Zoek naar een website over de codebase die het probleem beschrijft dat de codebase oplost.
 
--   Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt op de naam van de codebase.
+- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt op de naam van de codebase.
 
--   Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt in natuurlijke taal, bijvoorbeeld door een korte beschrijving te gebruiken.
+- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt in natuurlijke taal, bijvoorbeeld door een korte beschrijving te gebruiken.
 
--   Controleer unieke en blijvende identificatienummers voor vermelding van de belangrijkste bijdragers.
+- Controleer of er unieke en persistente vermeldingen zijn voor de belangrijkste bijdragers.
 
--   Controleer de unieke en blijvende identificatienummers voor de repository-locatie.
+- Controleer of er unieke en persistente vermeldingen zijn voor de repository-locatie.
 
--   Controleer de unieke en blijvende identificatienummers voor de website van de codebase.
+- Controleer of er unieke en persistente vermeldingen zijn voor de website van de codebase.
 
--   Controleer of er een machineleesbaar bestand metadata-beschrijvingen is.
+- Controleer of er een machineleesbaar bestand met metadata-beschrijvingen is.
 
 ## Beleidsmakers in de publieke sector: wat u moet doen
 
--   Geef een beschrijving van het beleidsterrein of probleem waarop deze codebase betrekking heeft of waarop deze codebase draait.
+- Geef een beschrijving van het beleidsterrein of probleem waarop deze codebase betrekking heeft of waarop deze codebase draait.
 
--   Test uw probleemomschrijving met collega\'s buiten uw context die niet bekend zijn met de codebase.
+- Toets uw probleemomschrijving bij collega\'s buiten uw context die niet bekend zijn met de codebase.
 
--   Presenteer op relevante conferenties hoe de codebase het [[beleid](/nl/glossary.html#)][3] implementeert.
+- Presenteer op relevante conferenties hoe de codebase het [beleid](/nl/glossary.html#beleid) implementeert.
 
 ## Managers: wat u moet doen
 
--   Zoek in handelsmerkdatabases om verwarring of inbreuk te voorkomen voordat u een naam kiest.
+- Doorzoek handelsmerkdatabases om verwarring of inbreuk te voorkomen voordat u een naam kiest.
 
--   Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in beschrijvingen van accounts op sociale media.
+- Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in beschrijvingen van accounts op sociale media.
 
--   Budget voor het verbeteren van de vaardigheden op het gebied van contentontwerp en zoekmachineoptimalisatie in het team.
+- Budgeteer voor het verbeteren van de vaardigheden op het gebied van contentontwerp en zoekmachineoptimalisatie in het team.
 
--   Zorg ervoor dat mensen die betrokken zijn bij het project aanwezig zijn op relevante conferenties.
+- Zorg ervoor dat mensen die betrokken zijn bij het project aanwezig zijn op relevante conferenties.
 
 ## Ontwikkelaars en ontwerpers: wat u moet doen
 
--   Zoekmachineoptimalisatie, bijvoorbeeld door een [[sitemap](/nl/glossary.html#)][4] toe te voegen.
+- Optimaliseer voor zoekmachines, bijvoorbeeld door een [sitemap](https://www.sitemaps.org/protocol.html) toe te voegen.
 
--   Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in de beschrijving van de repository.
+- Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in de beschrijving van de repository.
 
--   Test uw probleemomschrijving met collega\'s buiten uw context die niet bekend zijn met de codebase.
+- Toets uw probleemomschrijving bij collega\'s buiten uw context die niet bekend zijn met de codebase.
 
--   Stel conferenties voor waar u presentaties kunt geven en geef zelf ook presentaties.
+- Draag conferenties aan waar presentaties kunnen worden gegeven en geef daar zelf ook presentaties.
 
-  [1]: https://standard.publiccode.net/glossary.html#codebase
-  [2]: https://standard.publiccode.net/glossary.html#repository
-  [3]: https://standard.publiccode.net/glossary.html#policy
-  [4]: https://www.sitemaps.org/protocol.html
+## Meer informatie
+
+* [Inleiding tot Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) door de Wikidata-gemeenschap.
+
+* [FSF-softwarelijstvermelding](https://directory.fsf.org/wiki/Main_Page) door de Free Software Foundation.
+
+* De [FAIR-richtlijnen voor wetenschappelijk databeheer en stewardship](https://www.go-fair.org/fair-principles/) door het GO FAIR International Support and Coordination Office bieden een mooie lijst van attributen die (meta)gegevens beter machine-actionable (en dus beter vindbaar) maken. Sommige hiervan zijn direct van toepassing op codebases, terwijl andere kunnen aanzetten tot verkenning van wat het equivalent zou zijn voor codebases.
