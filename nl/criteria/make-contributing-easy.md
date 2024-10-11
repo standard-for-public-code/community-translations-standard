@@ -14,7 +14,7 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - De codebase MOET een openbare issue tracker hebben die suggesties van iedereen accepteert.
 
-- De documentatie MOET linken naar zowel de openbare issue tracker als de ingediende codebase-wijzigingen, bijvoorbeeld in een README-bestand.
+- De documentatie MOET linken naar zowel de openbare issue tracker als de ingediende codebase-wijzigingen, bijvoorbeeld in een `README`-bestand.
 
 - De codebase MOET communicatiekanalen hebben voor gebruikers en ontwikkelaars, bijvoorbeeld e-maillijsten.
 
@@ -50,7 +50,7 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - Houd uw managers op de hoogte van de tijd en middelen die u nodig hebt om andere bijdragers te ondersteunen.
 
-- Zorg ervoor dat de juiste communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de README.
+- Zorg ervoor dat de juiste communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de `README`.
 
 - Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in het bestand publiccode.yml.
 
