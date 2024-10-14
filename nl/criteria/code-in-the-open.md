@@ -4,7 +4,7 @@
 order: 1
 ---
 
-# Programmeer in het Openbaar
+# Programmeer in het openbaar
 
 Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de [broncode](/nl/glossary.html#broncode), maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
 
