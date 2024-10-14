@@ -6,7 +6,7 @@ order: 9
 
 # Documenteer de code
 
-Goed gedocumenteerde [broncode]({{ "/nl/glossary.html#broncode) helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is onmisbaar voor mensen om de [codebase](/nl/glossary.html#codebase" | relative_url }}) te gaan gebruiken en eraan bij te dragen.
+Goed gedocumenteerde [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}) helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is onmisbaar voor mensen om de [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) te gaan gebruiken en eraan bij te dragen.
 
 ## Vereisten
 
