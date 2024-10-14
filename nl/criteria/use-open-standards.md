@@ -6,7 +6,7 @@ order: 11
 
 # Gebruik open standaarden
 
-[Open standaarden]({{ "/nl/glossary.html#open-standaard) garanderen toegang tot de kennis die nodig is om de [codebase](/nl/glossary.html#codebase" | relative_url }}) te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Eenduidige open standaarden maken het mogelijk om beide kanten van een gegevensuitwisseling onafhankelijk van elkaar te ontwikkelen.
+[Open standaarden](../glossary.html#open-standaard) garanderen toegang tot de kennis die nodig is om de [codebase](/nl/glossary.html#codebase) te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Eenduidige open standaarden maken het mogelijk om beide kanten van een gegevensuitwisseling onafhankelijk van elkaar te ontwikkelen.
 
 ## Vereisten
 
@@ -40,13 +40,13 @@ order: 11
 
 ## Managers: wat je moet doen
 
-- Overweeg om de beoordeling van de naleving van open standaarden op te nemen in [broncodebeoordelingen]({{ "/nl/glossary.html#broncode" | relative_url }}).
+- Overweeg om de beoordeling van de naleving van open standaarden op te nemen in [broncodebeoordelingen](../glossary.html#broncode).
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Voeg [continue integratietests]({{ "/nl/glossary.html#continue-integratie" | relative_url }}) op naleving van de standaarden toe.
+- Voeg [continue integratietests](../glossary.html#continue-integratie) op naleving van de standaarden toe.
 
-- Controleer de commits en andere [repositorybronnen]({{ "/nl/glossary.html#repository" | relative_url }}) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
+- Controleer de commits en andere [repositorybronnen](../glossary.html#repository) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
 
 ## Meer informatie
 

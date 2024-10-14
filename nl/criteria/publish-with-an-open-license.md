@@ -6,7 +6,7 @@ order: 13
 
 # Publiceer met een open licentie
 
-Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode]({{ "/nl/glossary.html#broncode) te bekijken om te begrijpen hoe de broncode werkt, om het vrijelijk te gebruiken en om bij te dragen aan de [codebase](/nl/glossary.html#codebase" | relative_url }}). Hierdoor kan er een ecosysteem van leveranciers ontstaan rond de codebase.
+Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken om te begrijpen hoe de broncode werkt, om het vrijelijk te gebruiken en om bij te dragen aan de [codebase](/nl/glossary.html#codebase). Hierdoor kan er een ecosysteem van leveranciers ontstaan rond de codebase.
 
 Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden hergebruik van delen van de codebase en naamsvermelding daarbij eenvoudiger.
 
@@ -32,13 +32,13 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Controleer of de licenties die in de codebase worden gebruikt, als bestanden zijn opgenomen.
 
-- Controleer of de bijdragerichtlijnen en de configuratie van de [repository]({{ "/nl/glossary.html#repository" | relative_url }}) geen overdracht van auteursrechten vereisen.
+- Controleer of de bijdragerichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
 
-- Controleer op machineleesbare licentiecontrole in de [continue integratietests]({{ "/nl/glossary.html#continue-integratie" | relative_url }}) van de codebase.
+- Controleer op machineleesbare licentiecontrole in de [continue integratietests](../glossary.html#continue-integratie) van de codebase.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Ontwikkel [beleid]({{ "/nl/glossary.html#beleid) dat vereist dat broncode [open source](/nl/glossary.html#open-source" | relative_url }}) is.
+- Ontwikkel [beleid](../glossary.html#beleid) dat vereist dat broncode [open source](/nl/glossary.html#open-source) is.
 
 - Ontwikkel beleid dat het gebruik van niet-open broncode en technologie bij aanbestedingen ontmoedigt.
 

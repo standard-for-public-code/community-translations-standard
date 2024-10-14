@@ -10,11 +10,11 @@ Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk re
 
 Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [continue integratieworkflow]({{ "/nl/glossary.html#continue-integratie) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase" | relative_url }}) te controleren.
+Het documenteren van de [continue integratieworkflow](../glossary.html#continue-integratie) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
 
 ## Vereisten
 
-- Alle functionaliteit in de [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}) MOET geautomatiseerd worden getest.
+- Alle functionaliteit in de [broncode](../glossary.html#broncode) MOET geautomatiseerd worden getest.
 
 - Bijdragen MOETEN alle geautomatiseerde tests doorstaan voordat ze in de codebase worden opgenomen.
 
@@ -28,7 +28,7 @@ Het documenteren van de [continue integratieworkflow]({{ "/nl/glossary.html#cont
 
 - De test- en documentatiedekking van broncode ZOU MOETEN worden gecontroleerd.
 
-- Het testen van [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) en documentatie op consistentie met de broncode en vice versa is OPTIONEEL.
+- Het testen van [beleid](../glossary.html#beleid) en documentatie op consistentie met de broncode en vice versa is OPTIONEEL.
 
 - Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
 

@@ -98,7 +98,7 @@
 
   {% for page in criteriaPages %}
     <article id="section-criteria-{{page.name}}">
-      {{page.content | markdownify}}
+      {{page.content | replace: "../glossary.html#", "#" | markdownify}}
     </article>
   {% endfor %}
 
