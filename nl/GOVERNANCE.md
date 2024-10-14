@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2024 Code for NL
 ---
 
-# Bestuur
+# Governance
 
 Deze standaard vormt de kern van het beheer van de codebase door de [Foundation for Public Code]. Op basis van dit document beslissen we of een codebase gereed is voor gezamenlijke ontwikkeling door de community.
 

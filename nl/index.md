@@ -24,7 +24,7 @@ Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](f
   * [{{page.title}}]({{site.baseurl}}{{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}
 * [Auteurs](AUTHORS.md)
 * [Bijdragen](CONTRIBUTING.md)
-* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [Gedragscode](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
 * [Versiegeschiedenis](CHANGELOG.md)
 * [Licentie](LICENSE.md)
