@@ -6,6 +6,8 @@ order: 4
 
 # Verwelkom bijdragers
 
+[codebase]({{ "/nl/glossary.html#codebase" | relative_url }})
+
 De sfeer in een [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als bijdrager kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur ("*governance*") van de codebase-community begrijpen en die vertrouwen.
 
 ## Vereisten
