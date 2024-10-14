@@ -8,7 +8,7 @@ order: 12
 
 Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde aftakking, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdrage, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
 
-Door alle functionaliteit automatisch te testen, weet u zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
+Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
 Het documenteren van de [continue integratieworkflow](/nl/glossary.html#continue-integratie) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
 
@@ -50,9 +50,9 @@ Het documenteren van de [continue integratieworkflow](/nl/glossary.html#continue
 
 - Controleer of broncodedekkinggegevens zijn gepubliceerd.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Betrek managers, ontwikkelaars en ontwerpers zo vroeg mogelijk bij het proces en zorg dat ze betrokken blijven tijdens de ontwikkeling van uw beleid.
+- Betrek managers, ontwikkelaars en ontwerpers zo vroeg mogelijk bij het proces en zorg dat ze betrokken blijven tijdens de ontwikkeling van je beleid.
 
 - Zorg ervoor dat er ook geautomatiseerde tests zijn ingesteld voor beleidsdocumentatie.
 
@@ -60,9 +60,9 @@ Het documenteren van de [continue integratieworkflow](/nl/glossary.html#continue
 
 - Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Versiebeheer bijhouden](maintain-version-control.html)).
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
-- Zorg ervoor dat u zo snel en vaak mogelijk test met echte eindgebruikers.
+- Zorg ervoor dat je zo snel en vaak mogelijk test met echte eindgebruikers.
 
 - Plan het werk zo dat er heel vaak kleine stukjes geïntegreerd worden in plaats van af en toe grote.
 
@@ -70,7 +70,7 @@ Het documenteren van de [continue integratieworkflow](/nl/glossary.html#continue
 
 - Moedig na een grote mislukking de publicatie van incidentrapporten aan en een openbare bespreking van de geleerde lessen.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Help managers het werkplan zo te structureren dat het in kleine stapjes kan worden geïntegreerd.
 
@@ -84,7 +84,7 @@ Het documenteren van de [continue integratieworkflow](/nl/glossary.html#continue
 
 - Rol de codebase regelmatig uit.
 
-- Integreer uw werk minstens één keer per dag.
+- Integreer je werk minstens één keer per dag.
 
 ## Meer informatie
 

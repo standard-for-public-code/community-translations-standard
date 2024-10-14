@@ -8,7 +8,7 @@ order: 7
 
 Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [broncode](/nl/glossary.html#broncode) en het verminderen van beveiligingsrisico\'s en operationele risico\'s.
 
-Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot u de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](/nl/glossary.html#codebase) worden toegevoegd. Als u weet dat alle broncode is gecontroleerd, voorkomt u dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleert u een cultuur waarin de focus ligt op oplossingen.
+Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](/nl/glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen.
 
 Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdragers een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
 
@@ -50,13 +50,13 @@ Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdr
 
 - Controleer of er geen patroon is van tussenpozen tussen het indienen van een bijdrage en de beoordeling ervan, waarbij de bijdrager langer dan twee werkdagen moet wachten op zinvolle reacties.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Voer een \'vier ogen\'-beleid in, waarbij alles, niet alleen de broncode, wordt gecontroleerd.
 
 - Gebruik een versiebeheersysteem of -methodologie die beoordeling en feedback mogelijk maakt.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Maak van het leveren van geweldige software tot een gezamenlijk doel.
 
@@ -68,9 +68,9 @@ Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdr
 
 - Creëer een mandaat voor ontwikkelaars om prioriteit te geven aan een snelle beoordeling van bijdragen.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Vraag andere bijdragers aan de codebase om uw werk te beoordelen, binnen uw organisatie of daarbuiten.
+- Vraag andere bijdragers aan de codebase om je werk te beoordelen, binnen je organisatie of daarbuiten.
 
 - Probeer snel te reageren op verzoeken van anderen om een beoordeling en geef in eerste instantie feedback over het concept van de wijziging.
 

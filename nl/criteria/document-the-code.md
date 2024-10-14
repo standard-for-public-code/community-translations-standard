@@ -44,19 +44,19 @@ Goed gedocumenteerde [broncode](/nl/glossary.html#broncode) helpt mensen te begr
 
 - Controleer of de kwaliteit van de documentatie deel uitmaakt van de integratietests, bijvoorbeeld of de documentatie correct is gegenereerd en of links en afbeeldingen zijn getest.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Kijk regelmatig of begrijpelijk is hoe de niet-beleidscode in de codebase is gewijzigd.
 
 - Geef feedback over hoe de niet-beleid documentatie duidelijker gemaakt kan worden.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
-- Probeer de codebase te gebruiken, zodat uw feedback kan bijdragen aan een betere documentatie van het beleid en de broncode. Is de huidige documentatie bijvoorbeeld voldoende om een manager bij een andere publieke organisatie te overtuigen om deze codebase te gebruiken?
+- Probeer de codebase te gebruiken, zodat je feedback kan bijdragen aan een betere documentatie van het beleid en de broncode. Is de huidige documentatie bijvoorbeeld voldoende om een manager bij een andere publieke organisatie te overtuigen om deze codebase te gebruiken?
 
-- Zorg ervoor dat u de beleid- en broncode evenals de documentatie begrijpt.
+- Zorg ervoor dat je de beleid- en broncode evenals de documentatie begrijpt.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Controleer regelmatig hoe de niet-broncode in de codebase is gewijzigd.
 

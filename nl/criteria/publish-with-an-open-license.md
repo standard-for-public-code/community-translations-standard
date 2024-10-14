@@ -36,19 +36,19 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Controleer op machineleesbare licentiecontrole in de [continue integratietests](/nl/glossary.html#continue-integratie) van de codebase.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Ontwikkel [beleid](/nl/glossary.html#beleid) dat vereist dat broncode [open source](/nl/glossary.html#open-source) is.
 
 - Ontwikkel beleid dat het gebruik van niet-open broncode en technologie bij aanbestedingen ontmoedigt.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Werk alleen samen met open source-leveranciers die hun broncode publiceren onder een open source-licentie.
 
 - Let op: hoewel [Creative Commons-licenties](https://creativecommons.org/licenses/) geweldig zijn voor documentatie, voldoen de licenties die commercieel hergebruik of afgeleide producten beperken, NIET aan de bovenstaande vereiste dat ze vrij hergebruik, verandering en herdistributie moeten toestaan.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Voeg een nieuw licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
 

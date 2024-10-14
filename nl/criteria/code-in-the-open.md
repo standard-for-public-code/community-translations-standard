@@ -30,19 +30,19 @@ Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software 
 
 - Controleer op de publicatie van broncode die momenteel niet in gebruik is.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Ontwikkel beleid in het openbaar.
 
 - Geef prioriteit aan openheid en transparantie van beleid.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Ontwikkel een cultuur waarin openheid, leren en feedback centraal staan.
 
 - Werk samen met externe leveranciers en freelancers door in de openheid te werken.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Controleer als beoordelaar voor iedere commit of de inhoud geen gevoelige informatie bevat, zoals configuraties, gebruikersnamen of wachtwoorden, *public keys* of andere gegevens die in productiesystemen worden gebruikt.
 

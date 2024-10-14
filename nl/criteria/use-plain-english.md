@@ -46,11 +46,11 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](/nl/glossar
 
 - Controleer de spelling, grammatica en leesbaarheid van de documentatie.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Toets regelmatig bij andere managers, ontwikkelaars en ontwerpers of zij begrijpen wat u levert en hoe u dit documenteert.
+- Toets regelmatig bij andere managers, ontwikkelaars en ontwerpers of zij begrijpen wat je levert en hoe je dit documenteert.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Bepaal welke talen hoofdtalen zijn voor de codebase-documentatie en verwijs indien van toepassing naar het relevante beleid.
 
@@ -58,13 +58,13 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](/nl/glossar
 
 - Probeer het gebruik van acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen bij interne communicatie in en tussen teams en belanghebbenden te beperken. Voeg dergelijke termen toe aan een woordenlijst en verwijs ernaar vanaf de plekken waar ze worden gebruikt.
 
-- Wees kritisch op documentatie en beschrijvingen in voorstellen en wijzigingen. Als u iets niet begrijpt, zullen anderen er waarschijnlijk ook moeite mee hebben.
+- Wees kritisch op documentatie en beschrijvingen in voorstellen en wijzigingen. Als je iets niet begrijpt, zullen anderen er waarschijnlijk ook moeite mee hebben.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Controleer regelmatig bij beleidsmakers en managers of zij begrijpen wat u levert en hoe u dit documenteert.
+- Controleer regelmatig bij beleidsmakers en managers of zij begrijpen wat je levert en hoe je dit documenteert.
 
-- Vraag iemand buiten uw context of hij of zij de inhoud begrijpt (bijvoorbeeld een ontwikkelaar die aan een andere codebase werkt).
+- Vraag iemand buiten jouw context of hij of zij de inhoud begrijpt (bijvoorbeeld een ontwikkelaar die aan een andere codebase werkt).
 
 - Als er zowel hoofdvertalingen als \"best effort\" vertalingen zijn, zorg er dan voor dat duidelijk wordt vastgelegd tot welke categorie elke vertaling behoort.
 

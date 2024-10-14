@@ -101,7 +101,7 @@ Dit kan worden gezien als een investering die leidt tot toekomstige economische 
 
 Publieke code kan worden gebruikt en ontwikkeld door permanente interne ontwikkelteams, aannemers of uitbestede leveranciers. Leveranciers van publieke organisaties kunnen publieke code opnemen in hun inschrijvingen.
 
-Om bestaande publieke code te gebruiken, moet u in uw budget en projectontwerp specificeren dat uw nieuwe oplossing die codebase zal gebruiken. Om een innovatieve benadering aan te moedigen bij het aanpassen van de publieke code aan uw context, kunt u de dienst of het resultaat in uw contract beschrijven.
+Om bestaande publieke code te gebruiken, moet je in je budget en projectontwerp specificeren dat je nieuwe oplossing die codebase zal gebruiken. Om een innovatieve benadering aan te moedigen bij het aanpassen van de publieke code aan jouw context, kun je de dienst of het resultaat in je contract beschrijven.
 
 ## De doelen van de Standaard voor Publieke Code
 

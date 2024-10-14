@@ -5,37 +5,37 @@
 
 # Bijdragen aan deze standaard
 
-🙇‍♀️ Bedankt voor uw bijdrage!
+🙇‍♀️ Bedankt voor je bijdrage!
 
-We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom uw inbreng, stellen uw feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
+We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom je inbreng, stellen je feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
 
-We houden van kwesties en pull requests van iedereen. Als u niet vertrouwd bent met GitHub, kunt u uw feedback mailen naar <info@publiccode.net>.
+We houden van kwesties en pull requests van iedereen. Als je niet vertrouwd bent met GitHub, kun je je feedback mailen naar <info@publiccode.net>.
 
 ## Problemen, suggesties en vragen in kwesties
 
-Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vindt u in de routekaart. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kunt u een GitHub-kwestie aanmaken voor dit project in de GitHub-kwesties voor de Standaard voor Publieke Code.
+Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vind je in de routekaart. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kun je een GitHub-kwestie aanmaken voor dit project in de GitHub-kwesties voor de Standaard voor Publieke Code.
 
-Of meld u aan voor de mailinglijst en stuur een e-mail naar standard@lists.publiccode.net.
+Of meld je aan voor de mailinglijst en stuur een e-mail naar standard@lists.publiccode.net.
 
 U hoeft niets aan onze code of documentatie te wijzigen om bij te dragen!
 
 ## Documentatie en code in pull requests
 
-Als u iets aan de documentatie of code van een van onze projecten wilt toevoegen, moet u een pull request indienen.
+Als je iets aan de documentatie of code van een van onze projecten wilt toevoegen, moet je een pull request indienen.
 
-Als u GitHub nog nooit hebt gebruikt, ga dan snel aan de slag met GitHub-workflow begrijpen of volg een van de geweldige gratis interactieve cursussen in GitHub-vaardigheden over het werken met GitHub en het werken met MarkDown, de syntaxis waarin de documentatie van dit project is opgesteld.
+Als je GitHub nog nooit hebt gebruikt, ga dan snel aan de slag met GitHub-workflow begrijpen of volg een van de geweldige gratis interactieve cursussen in GitHub-vaardigheden over het werken met GitHub en het werken met MarkDown, de syntaxis waarin de documentatie van dit project is opgesteld.
 
-Dit project heeft een Creative Commons Zero v1.0 Universal-licentie, wat in essentie betekent dat het project samen met uw bijdragen in het publieke domein valt, in welke jurisdictie dan ook, en dat iedereen ermee kan doen wat hij of zij wil.
+Dit project heeft een Creative Commons Zero v1.0 Universal-licentie, wat in essentie betekent dat het project samen met jouw bijdragen in het publieke domein valt, in welke jurisdictie dan ook, en dat iedereen ermee kan doen wat hij of zij wil.
 
-## 1. Uw wijzigingen aanbrengen
+## 1. Je wijzigingen aanbrengen
 
 Bijdragen moeten voldoen aan de vereisten in de criteria van de Standaard voor Publieke Code zelf. Beoordelaars zorgen er ook voor dat bijdragen in lijn zijn met de waarden van publieke code. Bovendien controleren ze of de bijdrage voldoet aan de standaarden en coherent blijft met het algemene werk.
 
-Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als u deze repository hebt gevorkt, zorg er dan voor dat u een feature branch aanmaakt volgens het GitFlow-model.
+Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als je deze repository hebt gevorkt, zorg er dan voor dat je een feature branch aanmaakt volgens het GitFlow-model.
 
-Voeg uw wijzigingen toe aan commits met een bericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte commits. In sommige gevallen kan een enkele set wijzigingen meerdere kwesties oplossen. Zorg er in dat geval voor dat u alle kwestienummers vermeldt die zijn opgelost. Wanneer u nieuwe bestanden toevoegt, selecteert u bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die u maakt in het commit-bericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van uw keuzes.
+Voeg je wijzigingen toe aan commits met een bericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte commits. In sommige gevallen kan een enkele set wijzigingen meerdere kwesties oplossen. Zorg er in dat geval voor dat je alle kwestienummers vermeldt die zijn opgelost. Wanneer je nieuwe bestanden toevoegt, selecteer je bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die je maakt in het commit-bericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van je keuzes.
 
-Als u code toevoegt, zorg er dan voor dat u de relevante documentatie en tests hebt toegevoegd en bijgewerkt voordat u pull request indient. Zorg ervoor dat u tests schrijft die het gedrag van de nieuw toegevoegde of gewijzigde code laten zien.
+Als je code toevoegt, zorg er dan voor dat je de relevante documentatie en tests hebt toegevoegd en bijgewerkt voordat je pull request indient. Zorg ervoor dat je tests schrijft die het gedrag van de nieuw toegevoegde of gewijzigde code laten zien.
 
 ## Toepasselijk beleid
 
@@ -43,11 +43,11 @@ Op dit moment implementeert de Standaard voor Publieke Code geen specifiek openb
 
 ## Stijl
 
-De Standaard voor Publieke Code streeft naar het gebruik van gewoon Engels en we hebben gekozen voor Amerikaans-Engels voor de spelling. Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat u uw bijdrage levert dan dat u zich zorgen maakt over spelling en typografie. We helpen u graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
+De Standaard voor Publieke Code streeft naar het gebruik van gewoon Engels en we hebben gekozen voor Amerikaans-Engels voor de spelling. Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
 
 ## Te volgen standaarden
 
-Dit zijn de standaarden die de Standaard voor Publieke Code gebruikt. Zorg ervoor dat uw bijdragen hierop aansluiten, zodat ze gemakkelijker kunnen worden samengevoegd.
+Dit zijn de standaarden die de Standaard voor Publieke Code gebruikt. Zorg ervoor dat je bijdragen hierop aansluiten, zodat ze gemakkelijker kunnen worden samengevoegd.
 
 -   [IETF RFC 2119] - voor trefwoorden op vereisteniveau
 
@@ -55,27 +55,27 @@ Dit zijn de standaarden die de Standaard voor Publieke Code gebruikt. Zorg ervoo
 
 ## 2. Pull request
 
-Voeg bij het indienen van het pull request een beschrijving van het probleem dat u probeert op te lossen en het kwestienummer dat deze pull request oplost. Het heeft de voorkeur dat bij elke pull request indien mogelijk één kwestie wordt aangepakt. In sommige gevallen kan een enkele set veranderingen meerdere kwesties oplossen. Zorg er in dat geval voor dat u alle kwestienummers vermeldt die zijn opgelost.
+Voeg bij het indienen van het pull request een beschrijving van het probleem dat je probeert op te lossen en het kwestienummer dat deze pull request oplost. Het heeft de voorkeur dat bij elke pull request indien mogelijk één kwestie wordt aangepakt. In sommige gevallen kan een enkele set veranderingen meerdere kwesties oplossen. Zorg er in dat geval voor dat je alle kwestienummers vermeldt die zijn opgelost.
 
 ## 3. Verbeteren
 
 Alle bijdragen moeten door iemand worden beoordeeld. De Foundation for Public Code streeft ernaar ervoor te zorgen dat beheerders beschikbaar zijn om bijdragen te beoordelen met als doel om binnen twee werkdagen feedback te geven.
 
-Het kan zijn dat uw bijdrage meteen kan worden samengevoegd door een beheerder. Meestal moet een nieuwe pull request echter worden verbeterd voordat deze kan worden samengevoegd. Andere medewerkers (of hulprobots) hebben misschien feedback. Als dit het geval is, zal de beoordelende beheerder u helpen om uw documentatie en code te verbeteren.
+Het kan zijn dat je bijdrage meteen kan worden samengevoegd door een beheerder. Meestal moet een nieuwe pull request echter worden verbeterd voordat deze kan worden samengevoegd. Andere medewerkers (of hulprobots) hebben misschien feedback. Als dit het geval is, zal de beoordelende beheerder je helpen om je documentatie en code te verbeteren.
 
-Als uw documentatie en code door de menselijke beoordeling zijn gekomen, wordt deze samengevoegd.
+Als je documentatie en code door de menselijke beoordeling zijn gekomen, wordt deze samengevoegd.
 
 ## 4. Vieren
 
-Uw ideeën, documentatie en code zijn een integraal onderdeel van dit project geworden. U bent de open source-held die we nodig hebben!
+Uw ideeën, documentatie en code zijn een integraal onderdeel van dit project geworden. je bent de open source-held die we nodig hebben!
 
-Sterker nog, open gerust een pull request om uw naam toe te voegen aan het [AUTHORS]-bestand en eeuwige naamsvermelding te krijgen.
+Sterker nog, open gerust een pull request om je naam toe te voegen aan het [AUTHORS]-bestand en eeuwige naamsvermelding te krijgen.
 
 ## Talen en vertalingen
 
 De gezaghebbende taal van de Standaard voor Publieke Code is Engels.
 
-Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor releases. We nodigen u uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
+Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor releases. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
 
   [er een nieuwe release wordt uitgebracht]: https://standard.publiccode.net/docs/releasing.html
   [IETF RFC 2119]: https://tools.ietf.org/html/rfc2119

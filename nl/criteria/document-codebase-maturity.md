@@ -34,17 +34,17 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](/nl/glossary.html
 
 - Controleer of er een logboek is waarin wijzigingen worden bijgehouden.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Houd er bij het ontwikkelen van [beleid](/nl/glossary.html#beleid) rekening mee dat elke ontwikkelde [broncode](/nl/glossary.html#broncode) moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
 
 - Overweeg versionering van beleidswijzigingen, vooral als de wijzigingen nieuwe versies van de broncode veroorzaken.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Zorg ervoor dat diensten alleen afhankelijk zijn van versies van codebases die even volwassen of volwassener zijn dan de dienst zelf. Gebruik bijvoorbeeld geen bètaversie van een codebase in een productieservice.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle releases.
 

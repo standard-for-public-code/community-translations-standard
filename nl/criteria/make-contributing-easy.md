@@ -34,21 +34,21 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - Controleer of er instructies zijn voor het privé melden van beveiligingsproblemen.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Houd [beleidsissues](/nl/glossary.html#beleid) in de codebase bij, zodat ook externe beleidsexperts vrijwillige hulp kunnen bieden.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Houd management issues in de codebase bij, zodat ook externe managers met relevante ervaring vrijwillige hulp kunnen bieden.
 
-- Stimuleer uw ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
+- Stimuleer je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Zorg er net als bij [reviews](require-review-of-contributions.html) voor dat u vlot op verzoeken reageert.
+- Zorg er net als bij [reviews](require-review-of-contributions.html) voor dat je vlot op verzoeken reageert.
 
-- Houd uw managers op de hoogte van de tijd en middelen die u nodig hebt om andere bijdragers te ondersteunen.
+- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
 
 - Zorg ervoor dat de juiste communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de `README`.
 

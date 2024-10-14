@@ -44,29 +44,29 @@ De sfeer in een [codebase](/nl/glossary.html#codebase) community zorgt ervoor da
 
 - Controleer of er een gedragscode is.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Voeg aan de codebase een lijst toe met andere bronnen die voor [beleidsdeskundigen](/nl/glossary.html#beleid), non-gouvernementele organisaties en academici nuttig kunnen zijn om uw beleid te begrijpen of te hergebruiken.
+- Voeg aan de codebase een lijst toe met andere bronnen die voor [beleidsdeskundigen](/nl/glossary.html#beleid), non-gouvernementele organisaties en academici nuttig kunnen zijn om je beleid te begrijpen of te hergebruiken.
 
-- Overweeg om contactgegevens toe te voegen zodat andere beleidsmakers die samenwerking overwegen, u om advies kunnen vragen.
+- Overweeg om contactgegevens toe te voegen zodat andere beleidsmakers die samenwerking overwegen, je om advies kunnen vragen.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Zorg ervoor dat de documentatie van de governance de huidige procedure voor het doorvoeren van wijzigingen in de governance zelf bevat.
 
 - Als er binnen de community consensus bestaat over hoe de organisatie moet veranderen, neem die ideeën dan als ambities in de documentatie op.
 
-- Zorg er indien nodig voor dat u budget hebt gereserveerd voor het beoordelingsproces van de bijdragen zoals overeengekomen door de codebase-community.
+- Zorg er indien nodig voor dat je budget hebt gereserveerd voor het beoordelingsproces van de bijdragen zoals overeengekomen door de codebase-community.
 
 - Zorg ervoor dat in de documentatie wordt uitgelegd hoe elke organisatie bij de codebase betrokken is, welke middelen zij hiervoor beschikbaar stellen en voor hoelang.
 
-- Stimuleer uw ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk deel uit te blijven maken van de community.
+- Stimuleer je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk deel uit te blijven maken van de community.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Reageer vlot op verzoeken.
 
-- Houd uw managers op de hoogte van de tijd en middelen die u nodig hebt om andere bijdragers te ondersteunen.
+- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
 
 - Communiceer duidelijk aan bijdragers wat ze moeten doen om ervoor te zorgen dat hun bijdrage geïntegreerd kan worden.
 

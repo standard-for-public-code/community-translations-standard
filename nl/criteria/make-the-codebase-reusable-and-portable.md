@@ -60,21 +60,21 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder dat er diensten of platformen van één leverancier nodig zijn.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Documenteer uw [beleid](/nl/glossary.html#beleid) zo duidelijk en gedetailleerd dat het ook buiten de oorspronkelijke context kan worden begrepen.
+- Documenteer je [beleid](/nl/glossary.html#beleid) zo duidelijk en gedetailleerd dat het ook buiten de oorspronkelijke context kan worden begrepen.
 
-- Zorg ervoor dat uw organisatie als een bekende gebruiker in de codebase wordt vermeld.
+- Zorg ervoor dat je organisatie als een bekende gebruiker in de codebase wordt vermeld.
 
-- Identificeer andere organisaties waarmee uw teams kunnen samenwerken.
+- Identificeer andere organisaties waarmee je teams kunnen samenwerken.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Zorg ervoor dat belanghebbenden en proceseigenaren begrijpen dat herbruikbaarheid een expliciet doel van de codebase is. Dit vermindert de *technical debt* en zorgt voor duurzaamheid van de codebase.
 
-- Zorg ervoor dat uw teams samenwerken met andere teams.
+- Zorg ervoor dat je teams samenwerken met andere teams.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 De broncode moet worden ontworpen:
 
@@ -86,7 +86,7 @@ De broncode moet worden ontworpen:
 
 - zodat iemand in een vergelijkbare organisatie met een vergelijkbaar probleem (delen van) de oplossing kan gebruiken.
 
-Zorg ervoor dat de documentatie van de codebase de build- en runtime-afhankelijkheden beschrijft. Als uw context vereist dat u implementeert op propriëtaire platformen of propriëtaire componenten gebruikt, zorg er dan voor dat anderen zonder deze componenten kunnen ontwikkelen, gebruiken, testen en implementeren.
+Zorg ervoor dat de documentatie van de codebase de build- en runtime-afhankelijkheden beschrijft. Als je context vereist dat je implementeert op propriëtaire platformen of propriëtaire componenten gebruikt, zorg er dan voor dat anderen zonder deze componenten kunnen ontwikkelen, gebruiken, testen en implementeren.
 
 Bij elke commit controleren beoordelaars of de inhoud geen situatiespecifieke gegevens bevat, zoals hostnamen, persoons- en organisatiegegevens of tokens en wachtwoorden.
 

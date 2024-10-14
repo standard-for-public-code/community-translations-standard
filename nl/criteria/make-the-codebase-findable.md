@@ -46,9 +46,9 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Zoek naar een website over de codebase die het probleem beschrijft dat de codebase oplost.
 
-- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt op de naam van de codebase.
+- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer je zoekt op de naam van de codebase.
 
-- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer u zoekt in natuurlijke taal, bijvoorbeeld door een korte beschrijving te gebruiken.
+- Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer je zoekt in natuurlijke taal, bijvoorbeeld door een korte beschrijving te gebruiken.
 
 - Controleer of er unieke en persistente vermeldingen zijn voor de belangrijkste bijdragers.
 
@@ -58,17 +58,17 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Controleer of er een machineleesbaar bestand met metadata-beschrijvingen is.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Geef een beschrijving van het beleidsterrein of probleem waarop deze codebase betrekking heeft of waarop deze codebase draait.
 
-- Toets uw probleemomschrijving bij collega\'s buiten uw context die niet bekend zijn met de codebase.
+- Toets je probleemomschrijving bij collega\'s buiten jouw context die niet bekend zijn met de codebase.
 
 - Presenteer op relevante conferenties hoe de codebase het [beleid](/nl/glossary.html#beleid) implementeert.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
-- Doorzoek handelsmerkdatabases om verwarring of inbreuk te voorkomen voordat u een naam kiest.
+- Doorzoek handelsmerkdatabases om verwarring of inbreuk te voorkomen voordat je een naam kiest.
 
 - Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in beschrijvingen van accounts op sociale media.
 
@@ -76,13 +76,13 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Zorg ervoor dat mensen die betrokken zijn bij het project aanwezig zijn op relevante conferenties.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Optimaliseer voor zoekmachines, bijvoorbeeld door een [sitemap](https://www.sitemaps.org/protocol.html) toe te voegen.
 
 - Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in de beschrijving van de repository.
 
-- Toets uw probleemomschrijving bij collega\'s buiten uw context die niet bekend zijn met de codebase.
+- Toets je probleemomschrijving bij collega\'s buiten jouw context die niet bekend zijn met de codebase.
 
 - Draag conferenties aan waar presentaties kunnen worden gegeven en geef daar zelf ook presentaties.
 

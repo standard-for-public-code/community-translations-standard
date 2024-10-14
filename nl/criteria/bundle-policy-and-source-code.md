@@ -32,11 +32,11 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Controleer of de continue integratietests op coherente uitvoering van de broncode en het beleid slagen.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Werk samen met ontwikkelaars en ontwerpers om ervoor te zorgen dat er geen discrepantie is tussen de beleidscode en de broncode.
 
-- Geef de relevante beleidsteksten op voor opname in de [repository](/nl/glossary.html#repository). Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat u de standaarden opneemt waaraan uw organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor uw organisatie.
+- Geef de relevante beleidsteksten op voor opname in de [repository](/nl/glossary.html#repository). Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat je de standaarden opneemt waaraan je organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor je organisatie.
 
 - Geef referenties en links naar teksten die het beleid ondersteunen.
 
@@ -48,15 +48,15 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Neem relevant beleid op dat van invloed is op de community, codebase en ontwikkeling, waaronder wettelijke verplichtingen zoals de [Algemene Verordening Gegevensbescherming](https://eur-lex.europa.eu/eli/reg/2016/679/oj) of de [EU-richtlijn webtoegankelijkheid](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility), of mensenrechtenbeleid, zoals bijvoorbeeld een toezegging van een publieke organisatie zich in te zetten voor gelijke kansen.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Houd beleidsmakers, ontwikkelaars en ontwerpers betrokken en verbonden gedurende het hele ontwikkelingsproces.
 
 - Zorg ervoor dat beleidsmakers, ontwikkelaars en ontwerpers dezelfde doelen nastreven.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Raak vertrouwd met de procesmodelleringsnotatie die beleidsmakers in uw organisatie gebruiken en leer deze te gebruiken.
+- Raak vertrouwd met de procesmodelleringsnotatie die beleidsmakers in je organisatie gebruiken en leer deze te gebruiken.
 
 - Werk samen met beleidsmakers om ervoor te zorgen dat er geen discrepantie is tussen de beleidscode en de broncode.
 

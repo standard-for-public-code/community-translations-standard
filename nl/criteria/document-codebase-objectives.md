@@ -22,17 +22,17 @@ Het duidelijk documenteren van de doelstellingen van de [codebase](/nl/glossary.
 
 - Controleer op beschrijvingen van verbanden tussen de beleidsdoelstellingen en de doelstellingen van de codebase.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Voeg de beleidsdoelstellingen toe aan de documentatie van de codebase, bijvoorbeeld in de `README`.
 
-- Zorg ervoor dat aan al uw doelstellingen van de codebase koppelingen of verwijzingen naar ondersteunende beleidsdocumenten zijn toegevoegd om te voldoen aan het criterium voor [bundelen van beleid en broncode](bundle-policy-and-source-code.html).
+- Zorg ervoor dat aan al je doelstellingen van de codebase koppelingen of verwijzingen naar ondersteunende beleidsdocumenten zijn toegevoegd om te voldoen aan het criterium voor [bundelen van beleid en broncode](bundle-policy-and-source-code.html).
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Voeg de organisatie- en bedrijfsdoelstellingen toe aan de documentatie van de codebase, bijvoorbeeld in de `README`.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Voeg de technologie- en ontwerpdoelstellingen toe aan de documentatie van de codebase, bijvoorbeeld in de `README`.
 

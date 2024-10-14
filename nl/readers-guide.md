@@ -5,7 +5,7 @@
 
 # Lezersgids
 
-De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe u goede publieke code maakt.
+De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe je goede publieke code maakt.
 
 Verwijzingen naar \"beleidsmakers\", \"managers\" en \"ontwikkelaars en ontwerpers\" zijn van toepassing op iedereen die taken uitvoert die verband houden met deze rollen, ongeacht hun functie. Het komt vaak voor dat mensen taken hebben die meerdere rollen omvatten.
 
@@ -31,23 +31,23 @@ De betekenis van deze woorden is:
 
 ## Hoe te testen
 
-In deze sectie vindt u acties die u kunt ondernemen om te controleren of een bijdrage voldoet aan de standaard. Dit is essentieel als u de standaard in gebruik wilt nemen.
+In deze sectie vind je acties die je kunt ondernemen om te controleren of een bijdrage voldoet aan de standaard. Dit is essentieel als je de standaard in gebruik wilt nemen.
 
 We hebben geprobeerd het zo te formuleren dat iemand die niet zo bekend is met het onderwerp toch een basiscontrole op naleving kan uitvoeren.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 In deze sectie proberen we specifiek beleidsmakers aan te spreken door hen concrete acties aan te bieden die ze in hun rol kunnen uitvoeren.
 
 Publieke beleidsmakers bepalen de prioriteiten en doelen van projecten en hebben mogelijk minder technologische ervaring.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 In deze sectie proberen we specifiek managers aan te spreken door hen concrete acties aan te bieden die ze in hun rol kunnen uitvoeren.
 
 Managers zijn verantwoordelijk voor het op tijd opleveren van projecten, het beheer van belanghebbenden en de voortdurende levering van de dienst. Hiervoor zijn ze volledig afhankelijk van zowel beleidsmakers als ontwikkelaars en ontwerpers. Ze moeten de juiste cultuur creëren, de juiste middelen inzetten en de juiste structuren bieden om geweldige diensten te leveren.
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 In deze sectie proberen we specifiek ontwikkelaars en ontwerpers aan te spreken door hen concrete acties aan te bieden die ze in hun rol kunnen uitvoeren.
 

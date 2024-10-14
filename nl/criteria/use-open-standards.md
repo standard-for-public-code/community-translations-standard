@@ -32,17 +32,17 @@ order: 11
 
 - Controleer of de documentatie een lijst bevat met de standaarden die in de codebase worden gehanteerd, elk met een werkende link of een verklaring dat er geen standaarden zijn gekozen.
 
-## Beleidsmakers in de publieke sector: wat u moet doen
+## Beleidsmakers in de publieke sector: wat je moet doen
 
 - Verplicht overal waar mogelijk het gebruik van open standaarden.
 
 - Verbied de aanschaf van technologie die geen open standaarden gebruikt.
 
-## Managers: wat u moet doen
+## Managers: wat je moet doen
 
 - Overweeg om de beoordeling van de naleving van open standaarden op te nemen in [broncodebeoordelingen](/nl/glossary.html#broncode).
 
-## Ontwikkelaars en ontwerpers: wat u moet doen
+## Ontwikkelaars en ontwerpers: wat je moet doen
 
 - Voeg [continue integratietests](/nl/glossary.html#continue-integratie) op naleving van de standaarden toe.
 
