@@ -6,7 +6,7 @@ order: 2
 
 # Bundel beleid en broncode
 
-Toegang tot zowel de [broncode]({{ "/nl/glossary.html#broncode) als de [beleid](/nl/glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](/nl/glossary.html#codebase" | relative_url }}).
+Toegang tot zowel de [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}) als de [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}).
 
 Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe de codebase die probeert op te lossen.
 
