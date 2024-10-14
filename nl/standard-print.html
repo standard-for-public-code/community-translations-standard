@@ -68,7 +68,7 @@
       <li><a href="#section-contributing" class="table-of-contents">Bijdragerichtlijnen</a></li>
       <li><a href="#section-code-of-conduct" class="table-of-contents">Gedragscode</a></li>
       <li><a href="#section-governance" class="table-of-contents">Governance</a></li>
-      <li><a href="#section-changelog" class="table-of-contents">Versiegeschiedenis</a></li>
+      <!-- <li><a href="#section-changelog" class="table-of-contents">Versiegeschiedenis</a></li> -->
       <li><a href="#section-license" class="table-of-contents">Licentie</a></li>
     </ol>
   </article>
@@ -123,8 +123,10 @@
     <img src="https://www.standardforpubliccode.org/assets/eco-system.svg" alt="ecosystem">
   </figure>
 
+  {% comment %}
   {% assign page = pages | where: "name", "CHANGELOG.md" | first %}
   {% if page %}<article id="section-changelog">{{page.content | markdownify}}</article>{% endif %}
+  {% endcomment %}
 
   <article id="section-license">
     <p>Deze licentie vormt de juridische toestemming waardoor iedereen mag doen wat die wil met de inhoud van dit hele document.</p>

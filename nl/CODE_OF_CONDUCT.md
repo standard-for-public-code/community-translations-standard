@@ -5,9 +5,9 @@
 
 # Gedragscode
 
-Veel community-leden komen uit maatschappelijke of professionele omgevingen met gedragscodes, maar sommige individuen niet. In dit document worden de verwachtingen van alle community-leden en alle interacties beschreven, ongeacht het communicatiekanaal.
+Veel community-leden komen uit maatschappelijke of professionele omgevingen met gedragscodes, maar niet iedereen. Dit document beschrijft de verwachtingen met betrekking tot alle community-leden en alle interacties, ongeacht het communicatiekanaal.
 
-Wees er om samen te werken.
+Ben er om samen te werken.
 
 Wees attent, respectvol en geduldig.
 
