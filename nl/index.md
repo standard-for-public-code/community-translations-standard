@@ -1,7 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2024 Code for NL
-status: correcties-v0.1
+# SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 ---
 
 # Leidraad voor open source samenwerken in de overheid
