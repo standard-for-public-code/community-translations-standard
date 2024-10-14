@@ -1,7 +1,7 @@
 ---
 ---
-{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" %}
-{% assign sorted = pages | sort: "order" %}
+{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" | where_exp: "page", "page.name != 'index.md'" %}
+{% assign criteriaPages = pages | where_exp: "page", "page.dir contains '/criteria/'" | where_exp: "page", "page.title" | sort: "order" %}
 <!DOCTYPE html>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2024 The Standard for Public Code Community, https://www.standardforpubliccode.org/AUTHORS -->
@@ -37,40 +37,32 @@
   <article id="section-first-page">
     <p>Oproep tot bijdragen</p>
     <h1 class="title">Standaard voor Publieke Code</h1>
-
     <ul class="first-page-audiences">
       <lh>Over wat publieke code is en hoe je dit gebruikt als:</lh>
       <li id="first-page-public-policy-makers-what-you-need-to-do">Beleidsmaker in de publieke sector</li>
       <li id="first-page-managers-what-you-need-to-do">Manager</li>
       <li id="first-page-developers-and-designers-what-you-need-to-do">Ontwikkelaar of ontwerper</li>
     </ul>
-
     <img src="https://www.standardforpubliccode.org/assets/hands-shake.svg" alt="hands shaking">
-
     <p><strong>Voorlopige versie</strong><br/>Versie <span class="standard-version">0.8.0-nl-0.1.0</span></p>
     <p><img src="https://www.standardforpubliccode.org/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"> <img src="https://www.standardforpubliccode.org/assets/dpg-badge.svg" alt="Digital Public Goods approval badge" width="92" height="46"></p>
     <p>github.com/standard-for-public-code/community-translations-standard</p>
   </article>
 
-  <article id="section-authors">
-
-    {% for page in pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "AUTHORS.md" | first %}
+  {% if page %}<article id="section-authors">{{page.content | markdownify}}</article>{% endif %}
 
   <article id="table-of-contents">
-
     <h1>Inhoudsopgave</h1>
-
     <ol>
       <li><a href="#section-authors" class="table-of-contents">Auteurs</a></li>
       <li><a href="#section-readers-guide" class="table-of-contents">Leeswijzer</a></li>
       <li><a href="#section-glossary" class="table-of-contents">Begrippenlijst</a></li>
       <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
         <ol>
-        {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
-        {% endif%}  {% endif%}{% endfor %}
+        {% for page in criteriaPages %}
+          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>
+        {% endfor %}
         </ol>
       </li>
       <li><a href="#section-contributing" class="table-of-contents">Bijdragerichtlijnen</a></li>
@@ -79,31 +71,24 @@
       <li><a href="#section-changelog" class="table-of-contents">Versiegeschiedenis</a></li>
       <li><a href="#section-license" class="table-of-contents">Licentie</a></li>
     </ol>
-
   </article>
 
   <figure>
     <img src="https://www.standardforpubliccode.org/assets/codebase.svg" alt="codebase">
   </figure>
 
-  <article id="section-readers-guide">
+  {% assign page = pages | where: "name", "glossary.md" | first %}
+  {% if page %}<article id="section-readers-guide">{{page.content | markdownify}}</article>{% endif %}
 
-    {% for page in pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
-
-  <article id="section-glossary">
-
-    {% for page in pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "glossary.md" | first %}
+  {% if page %}<article id="section-glossary">{{page.content | markdownify}}</article>{% endif %}
 
   <article id="section-criteria">
     <h1>Criteria</h1>
     <ol>
-    {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
-    {% endif%}  {% endif%}{% endfor %}
+    {% for page in criteriaPages %}
+      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>
+    {% endfor %}
     </ol>
   </article>
 
@@ -111,54 +96,40 @@
     <img src="https://www.standardforpubliccode.org/assets/unlock.svg" alt="unlock">
   </figure>
 
-  {% for page in sorted %}{% if page.dir contains "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+  {% for page in criteriaPages %}
     <article id="section-criteria-{{page.name}}">
       {{page.content | markdownify}}
-    </article>{% endif%}
-  {% endif%}  {% endif%}{% endfor %}
+    </article>
+  {% endfor %}
 
-  <article id="section-contributing">
-
-    {% for page in pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "CONTRIBUTING.md" | first %}
+  {% if page %}<article id="section-contributing">{{page.content | markdownify}}</article>{% endif %}
 
   <figure>
-      <img src="https://www.standardforpubliccode.org/assets/collaborative-development.svg" alt="collaborative-development">
-    </figure>
+    <img src="https://www.standardforpubliccode.org/assets/collaborative-development.svg" alt="collaborative-development">
+  </figure>
 
-  <article id="section-code-of-conduct">
-
-    {% for page in pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "CODE_OF_CONDUCT.md" | first %}
+  {% if page %}<article id="section-code-of-conduct">{{page.content | markdownify}}</article>{% endif %}
 
   <figure>
     <img src="https://www.standardforpubliccode.org/assets/collaboration.svg" alt="collaboration">
   </figure>
 
-  <article id="section-governance">
-
-    {% for page in pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "GOVERNANCE.md" | first %}
+  {% if page %}<article id="section-governance">{{page.content | markdownify}}</article>{% endif %}
 
   <figure>
     <img src="https://www.standardforpubliccode.org/assets/eco-system.svg" alt="ecosystem">
   </figure>
 
-  <article id="section-changelog">
-
-    {% for page in pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
+  {% assign page = pages | where: "name", "CHANGELOG.md" | first %}
+  {% if page %}<article id="section-changelog">{{page.content | markdownify}}</article>{% endif %}
 
   <article id="section-license">
-
     <p>Deze licentie vormt de juridische toestemming waardoor iedereen mag doen wat die wil met de inhoud van dit hele document.</p>
     <h1>CC0 1.0 Universal</h1>
     <pre>{% include_relative LICENSE %}</pre>
-
   </article>
 
 </body>
