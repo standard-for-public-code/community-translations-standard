@@ -6,17 +6,17 @@ order: 9
 
 # Documenteer de code
 
-Goed gedocumenteerde [broncode](/nl/glossary.html#broncode) helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is onmisbaar voor mensen om de [codebase](/nl/glossary.html#codebase) te gaan gebruiken en eraan bij te dragen.
+Goed gedocumenteerde [broncode]({{ "/nl/glossary.html#broncode) helpt mensen te begrijpen wat de broncode doet en hoe de broncode moet worden gebruikt. Documentatie is onmisbaar voor mensen om de [codebase](/nl/glossary.html#codebase" | relative_url }}) te gaan gebruiken en eraan bij te dragen.
 
 ## Vereisten
 
-- Alle functionaliteit van de codebase, zowel het [beleid](/nl/glossary.html#beleid) als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase begrijpen.
+- Alle functionaliteit van de codebase, zowel het [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase begrijpen.
 
 - De documentatie van de codebase MOET een beschrijving bevatten van hoe de software moet worden geïnstalleerd en uitgevoerd.
 
 - De documentatie van de codebase MOET voorbeelden bevatten die de belangrijkste functionaliteit demonstreren.
 
-- De documentatie van de codebase ZOU een algemene beschrijving MOETEN bevatten die duidelijk te begrijpen is voor een breed publiek van belanghebbenden, zoals het [algemeen publiek](/nl/glossary.html#algemeen-publiek) en journalisten.
+- De documentatie van de codebase ZOU een algemene beschrijving MOETEN bevatten die duidelijk te begrijpen is voor een breed publiek van belanghebbenden, zoals het [algemeen publiek]({{ "/nl/glossary.html#algemeen-publiek" | relative_url }}) en journalisten.
 
 - De documentatie van de codebase ZOU een paragraaf MOETEN bevatten die beschrijft hoe een zelfstandige versie van de broncode kan worden geïnstalleerd en uitgevoerd, inclusief, indien nodig, een testdataset.
 
@@ -24,7 +24,7 @@ Goed gedocumenteerde [broncode](/nl/glossary.html#broncode) helpt mensen te begr
 
 - De documentatie ZOU de belangrijkste componenten of modules van de codebase en hun relaties MOETEN beschrijven, bijvoorbeeld als een hoog-over architectuurdiagram.
 
-- Er ZOUDEN [continue integratietests](/nl/glossary.html#continue-integratie) MOETEN worden uitgevoerd om de kwaliteit van de documentatie te controleren.
+- Er ZOUDEN [continue integratietests]({{ "/nl/glossary.html#continue-integratie" | relative_url }}) MOETEN worden uitgevoerd om de kwaliteit van de documentatie te controleren.
 
 ## Hoe te testen
 

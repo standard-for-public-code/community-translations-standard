@@ -6,7 +6,7 @@ order: 2
 
 # Bundel beleid en broncode
 
-Toegang tot zowel de [broncode](/nl/glossary.html#broncode) als de [beleid](/nl/glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](/nl/glossary.html#codebase).
+Toegang tot zowel de [broncode]({{ "/nl/glossary.html#broncode) als de [beleid](/nl/glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](/nl/glossary.html#codebase" | relative_url }}).
 
 Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe de codebase die probeert op te lossen.
 
@@ -20,7 +20,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Beleid ZOU MOETEN worden aangeleverd in machineleesbare en ondubbelzinnige formaten.
 
-- [Continue integratietests](/nl/glossary.html#continue-integratie) ZOU MOETEN valideren dat de broncode en het beleid coherent worden uitgevoerd.
+- [Continue integratietests]({{ "/nl/glossary.html#continue-integratie" | relative_url }}) ZOU MOETEN valideren dat de broncode en het beleid coherent worden uitgevoerd.
 
 ## Hoe te testen
 
@@ -36,7 +36,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Werk samen met ontwikkelaars en ontwerpers om ervoor te zorgen dat er geen discrepantie is tussen de beleidscode en de broncode.
 
-- Geef de relevante beleidsteksten op voor opname in de [repository](/nl/glossary.html#repository). Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat je de standaarden opneemt waaraan je organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor je organisatie.
+- Geef de relevante beleidsteksten op voor opname in de [repository]({{ "/nl/glossary.html#repository" | relative_url }}). Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat je de standaarden opneemt waaraan je organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor je organisatie.
 
 - Geef referenties en links naar teksten die het beleid ondersteunen.
 

@@ -6,9 +6,9 @@ order: 1
 
 # Programmeer in het openbaar
 
-Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de [broncode](/nl/glossary.html#broncode), maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
+Programmeren in het openbaar verbetert transparantie, verhoogt de kwaliteit van de [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}), maakt de broncode makkelijker te controleren en maakt samenwerking mogelijk.
 
-Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en [beleid](/nl/glossary.html#beleid) hun interacties met een publieke organisatie beïnvloeden.
+Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software en [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) hun interacties met een publieke organisatie beïnvloeden.
 
 ## Vereisten
 
@@ -20,13 +20,13 @@ Samen creëert dit meer mogelijkheden voor burgers om te begrijpen hoe software 
 
 - Alle broncode die momenteel niet in gebruik is (zoals nieuwe versies, voorstellen of oudere versies) ZOU MOETEN worden gepubliceerd.
 
-- Het documenteren van welke broncode of welk beleid ten grondslag ligt aan een specifieke interactie die het [algemeen publiek](/nl/glossary.html#algemeen-publiek) met een organisatie kan hebben, is OPTIONEEL.
+- Het documenteren van welke broncode of welk beleid ten grondslag ligt aan een specifieke interactie die het [algemeen publiek]({{ "/nl/glossary.html#algemeen-publiek" | relative_url }}) met een organisatie kan hebben, is OPTIONEEL.
 
 ## Hoe te testen
 
 - Controleer of de broncode van elke versie die momenteel in gebruik is, op internet is gepubliceerd, waar deze van buiten de oorspronkelijke bijdragende organisatie kan worden bekeken en zonder dat er enige vorm van authenticatie of autorisatie nodig is.
 
-- Controleer of de [codebase](/nl/glossary.html#codebase)-bestanden en commit-geschiedenis geen gevoelige informatie bevatten.
+- Controleer of de [codebase]({{ "/nl/glossary.html#codebase" | relative_url }})-bestanden en commit-geschiedenis geen gevoelige informatie bevatten.
 
 - Controleer op de publicatie van broncode die momenteel niet in gebruik is.
 

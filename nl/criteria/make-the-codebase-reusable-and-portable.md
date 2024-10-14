@@ -6,11 +6,11 @@ order: 3
 
 # Maak de codebase herbruikbaar en portabel
 
-Het maken van herbruikbare en portabele [code](/nl/glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid.
+Het maken van herbruikbare en portabele [code]({{ "/nl/glossary.html#code" | relative_url }}) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid.
 
-Het doordacht en doelgericht ontwerpen van een [codebase](/nl/glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
+Het doordacht en doelgericht ontwerpen van een [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
 
-Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context](/nl/glossary.html#verschillende-contexten) als het doel ervan duidelijk gedocumenteerd is.
+Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context]({{ "/nl/glossary.html#verschillende-contexten" | relative_url }}) als het doel ervan duidelijk gedocumenteerd is.
 
 Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een bijdrager, leverancier of implementatie kan door elke andere bijdrager worden getest.
 
@@ -26,7 +26,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - De ontwikkeling van de codebase ZOU een samenwerking MOETEN zijn tussen meerdere partijen.
 
-- Om [broncode](/nl/glossary.html#broncode) aan te passen aan contextspecifieke behoeften ZOU gebruik MOETEN worden gemaakt van configuratie.
+- Om [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}) aan te passen aan contextspecifieke behoeften ZOU gebruik MOETEN worden gemaakt van configuratie.
 
 - De codebase ZOU *localizable* MOETEN zijn, dat wil zeggen aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen.
 
@@ -62,7 +62,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Documenteer je [beleid](/nl/glossary.html#beleid) zo duidelijk en gedetailleerd dat het ook buiten de oorspronkelijke context kan worden begrepen.
+- Documenteer je [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) zo duidelijk en gedetailleerd dat het ook buiten de oorspronkelijke context kan worden begrepen.
 
 - Zorg ervoor dat je organisatie als een bekende gebruiker in de codebase wordt vermeld.
 

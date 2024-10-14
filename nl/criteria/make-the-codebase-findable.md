@@ -6,7 +6,7 @@ order: 14
 
 # Maak de codebase vindbaar
 
-Hoe beter een [codebase](/nl/glossary.html#codebase) te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
+Hoe beter een [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
 
 Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of een vermelding in de FSF-software directory (en op die manier dus onderdeel uitmaken van het semantische web), zorgt ervoor dat mensen gemakkelijker naar de codebase kunnen verwijzen, er uit citeren, codebases van elkaar onderscheiden en ontdekken via overzichtswebsites van derden.
 
@@ -24,7 +24,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - De codebase ZOU vindbaar MOETEN zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
-- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van [de repository](/nl/glossary.html#repository) en de website vermeld worden.
+- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van [de repository]({{ "/nl/glossary.html#repository" | relative_url }}) en de website vermeld worden.
 
 - De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld in een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
@@ -64,7 +64,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Toets je probleemomschrijving bij collega\'s buiten jouw context die niet bekend zijn met de codebase.
 
-- Presenteer op relevante conferenties hoe de codebase het [beleid](/nl/glossary.html#beleid) implementeert.
+- Presenteer op relevante conferenties hoe de codebase het [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) implementeert.
 
 ## Managers: wat je moet doen
 

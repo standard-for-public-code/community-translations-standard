@@ -6,11 +6,11 @@ order: 7
 
 # Vereis inspectie van bijdragen
 
-Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [broncode](/nl/glossary.html#broncode) en het verminderen van beveiligingsrisico\'s en operationele risico\'s.
+Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [broncode]({{ "/nl/glossary.html#broncode" | relative_url }}) en het verminderen van beveiligingsrisico\'s en operationele risico\'s.
 
-Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](/nl/glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen.
+Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen.
 
-Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdragers een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
+Een [beleid]({{ "/nl/glossary.html#beleid" | relative_url }}) van snelle beoordelingen garandeert bijdragers een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
 
 ## Vereisten
 
@@ -24,7 +24,7 @@ Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdr
 
 - Bij beoordeling ZOU zowel de software als de tests van de codebase MOETEN worden uitgevoerd.
 
-- Bijdragen ZOUDEN MOETEN worden beoordeeld door iemand in een [andere context](/nl/glossary.html#verschillende-contexten) dan de bijdrager.
+- Bijdragen ZOUDEN MOETEN worden beoordeeld door iemand in een [andere context]({{ "/nl/glossary.html#verschillende-contexten" | relative_url }}) dan de bijdrager.
 
 - Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in releaseversies.
 
@@ -46,7 +46,7 @@ Een [beleid](/nl/glossary.html#beleid) van snelle beoordelingen garandeert bijdr
 
 - Controleer bij de beoordelaars of commits door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
 
-- Controleer het gebruik van *branch protection* in het [versiebeheersysteem](/nl/glossary.html#versiebeheer).
+- Controleer het gebruik van *branch protection* in het [versiebeheersysteem]({{ "/nl/glossary.html#versiebeheer" | relative_url }}).
 
 - Controleer of er geen patroon is van tussenpozen tussen het indienen van een bijdrage en de beoordeling ervan, waarbij de bijdrager langer dan twee werkdagen moet wachten op zinvolle reacties.
 

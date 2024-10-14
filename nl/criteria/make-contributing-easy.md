@@ -6,7 +6,7 @@ order: 5
 
 # Maak bijdragen gemakkelijk
 
-Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten gebruikers problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](/nl/glossary.html#codebase) kunnen aanpakken.
+Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten gebruikers problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) kunnen aanpakken.
 
 Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers ook bijdragen gaan leveren.
 
@@ -36,7 +36,7 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Houd [beleidsissues](/nl/glossary.html#beleid) in de codebase bij, zodat ook externe beleidsexperts vrijwillige hulp kunnen bieden.
+- Houd [beleidsissues]({{ "/nl/glossary.html#beleid" | relative_url }}) in de codebase bij, zodat ook externe beleidsexperts vrijwillige hulp kunnen bieden.
 
 ## Managers: wat je moet doen
 

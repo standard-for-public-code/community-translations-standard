@@ -6,7 +6,7 @@ order: 16
 
 # Documenteer de volwassenheid van de codebase
 
-Het duidelijk aangeven van de volwassenheid van een [codebase](/nl/glossary.html#codebase) helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
+Het duidelijk aangeven van de volwassenheid van een [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}) helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
 
 ## Vereisten
 
@@ -36,7 +36,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](/nl/glossary.html
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Houd er bij het ontwikkelen van [beleid](/nl/glossary.html#beleid) rekening mee dat elke ontwikkelde [broncode](/nl/glossary.html#broncode) moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
+- Houd er bij het ontwikkelen van [beleid]({{ "/nl/glossary.html#beleid) rekening mee dat elke ontwikkelde [broncode](/nl/glossary.html#broncode" | relative_url }}) moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
 
 - Overweeg versionering van beleidswijzigingen, vooral als de wijzigingen nieuwe versies van de broncode veroorzaken.
 

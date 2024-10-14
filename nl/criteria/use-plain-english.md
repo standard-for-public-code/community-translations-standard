@@ -8,9 +8,9 @@ order: 10
 
 Engels is de *de facto* taal voor samenwerking bij softwareontwikkeling. Sommige contexten vereisen echter andere talen dan Engels. Daarom kan een codebase een aantal hoofdtalen hebben, waaronder Engels.
 
-Informatie van de overheid moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de[code](/nl/glossary.html#code) en wat deze doet, voor een breder publiek begrijpelijk is.
+Informatie van de overheid moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de[code]({{ "/nl/glossary.html#code" | relative_url }}) en wat deze doet, voor een breder publiek begrijpelijk is.
 
-Vertalingen vergroten verder het mogelijke bereik van een [codebase](/nl/glossary.html#codebase). Een taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het maken en onderhouden van vertalingen.
+Vertalingen vergroten verder het mogelijke bereik van een [codebase]({{ "/nl/glossary.html#codebase" | relative_url }}). Een taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het maken en onderhouden van vertalingen.
 
 ## Vereisten
 
@@ -20,7 +20,7 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](/nl/glossar
 
 - Alle documentatie van de codebase MOET up-to-date zijn in alle hoofdtalen.
 
-- Alle [broncode](/nl/glossary.html#broncode) MOET in het Engels zijn opgesteld, behalve wanneer [beleid](/nl/glossary.html#beleid) machine leesbaar als code wordt geïnterpreteerd.
+- Alle [broncode]({{ "/nl/glossary.html#broncode) MOET in het Engels zijn opgesteld, behalve wanneer [beleid](/nl/glossary.html#beleid" | relative_url }}) machine leesbaar als code wordt geïnterpreteerd.
 
 - Al het gebundelde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle hoofdtalen.
 

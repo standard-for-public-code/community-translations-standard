@@ -6,7 +6,7 @@ order: 4
 
 # Verwelkom bijdragers
 
-De sfeer in een [codebase](/nl/glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als bijdrager kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur (*governance*) van de codebase-community begrijpen en die vertrouwen.
+De sfeer in een [codebase]({{ "/nl/glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als bijdrager kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur (*governance*" | relative_url }}) van de codebase-community begrijpen en die vertrouwen.
 
 ## Vereisten
 
@@ -46,7 +46,7 @@ De sfeer in een [codebase](/nl/glossary.html#codebase) community zorgt ervoor da
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Voeg aan de codebase een lijst toe met andere bronnen die voor [beleidsdeskundigen](/nl/glossary.html#beleid), non-gouvernementele organisaties en academici nuttig kunnen zijn om je beleid te begrijpen of te hergebruiken.
+- Voeg aan de codebase een lijst toe met andere bronnen die voor [beleidsdeskundigen]({{ "/nl/glossary.html#beleid" | relative_url }}), non-gouvernementele organisaties en academici nuttig kunnen zijn om je beleid te begrijpen of te hergebruiken.
 
 - Overweeg om contactgegevens toe te voegen zodat andere beleidsmakers die samenwerking overwegen, je om advies kunnen vragen.
 
