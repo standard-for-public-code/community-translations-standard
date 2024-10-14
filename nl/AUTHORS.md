@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 ---
-# Authors
+# Auteurs
 
 * Alba Roza, [The Foundation for Public Code](https://publiccode.net/)
 * Arnout Engelen
