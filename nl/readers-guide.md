@@ -17,7 +17,7 @@ In deze sectie wordt uitgelegd wat het criterium beoogt te bereiken en waarom he
 
 ## Vereisten
 
-In deze sectie staat wat er gedaan moet worden om aan de standaard te voldoen.
+In deze sectie staat wat er gedaan moet worden om aan de Standaard voor Publieke Code te voldoen.
 
 De woorden “MOET”, “MAG NIET”, “ZOU MOETEN”, “ZOU NIET MOETEN”, en “MAG” in dit document moeten worden geïnterpreteerd gelijk aan hun Engelstalige equivalenten (“_MUST_", "_MUST NOT_", "_SHOULD_", "_SHOULD NOT_" en "_MAY_") als beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119). Waar deze exacte termen bedoeld zijn worden ze in hoofdletters weergegeven.
 
@@ -31,7 +31,7 @@ De betekenis van deze woorden is:
 
 ## Hoe te testen
 
-In deze sectie vind je acties die je kunt ondernemen om te controleren of een bijdrage voldoet aan de standaard. Dit is essentieel als je de standaard in gebruik wilt nemen.
+In deze sectie vind je acties die je kunt ondernemen om te controleren of een bijdrage voldoet aan de standaard. Dit is essentieel als je de Standaard voor Publieke Code in gebruik wilt nemen.
 
 We hebben geprobeerd het zo te formuleren dat iemand die niet zo bekend is met het onderwerp toch een basiscontrole op naleving kan uitvoeren.
 
@@ -55,9 +55,9 @@ Ontwikkelaars zijn meestal meer technisch onderlegd en hebben meer invloed op de
 
 ## Beperking van toepassingsgebied
 
-De Standaard voor Publieke Code is niet bedoeld voor individuele implementaties van een codebase. Dit betekent dat de standaard implementeerders niet vertelt hoe ze moeten voldoen aan de lokale technische infrastructuur of het juridische kader van hun organisatie.
+De Standaard voor Publieke Code is niet bedoeld voor individuele implementaties van een codebase. Dit betekent dat de Standaard voor Publieke Code implementeerders niet vertelt hoe ze moeten voldoen aan de lokale technische infrastructuur of het juridische kader van hun organisatie.
 
-Hoewel de Standaard voor Publieke Code verwijst naar verschillende standaarden en er aanzienlijke overlappingen zijn met andere standaarden, is het doel ervan om samenwerking mogelijk te maken. Daarom is het niet de bedoeling om kwaliteitsstandaarden te vervangen, zoals de ISO 25000-serie, of standaarden die gericht zijn op beveiliging, zoals de OpenSSF Best Practices Badge, maar om er een goede synergie mee te creëren.
+Hoewel de Standaard voor Publieke Code verwijst naar verschillende standaarden en er aanzienlijke overlappingen zijn met andere standaarden, richt de Standaard voor Publieke Code zich specifiek op het mogelijk maken van samenwerking. Daarom is het niet de bedoeling om kwaliteitsstandaarden te vervangen, zoals de ISO 25000-serie, of standaarden die gericht zijn op beveiliging, zoals de OpenSSF Best Practices Badge, maar om er een goede synergie mee te creëren.
 
 En hoewel het doel is om samenwerking mogelijk te maken, is het geen garantie dat er een community ontstaat. Dat vereist nog steeds proactiviteit en ambitie die verder gaan dan het gereedmaken van de codebase voor samenwerking.
 
