@@ -36,9 +36,9 @@ En daarom moet software aan dezelfde principes van democratisch bestuur onderhev
 
 ### Traditionele openbare softwareaanbesteding
 
-De manier waarop we momenteel publieke software ontwikkelen heeft de publieke dienstverlening niet optimaal bediend.
+De manier waarop we momenteel publieke software ontwikkelen heeft de publieke dienstverlening niet optimaal gediend.
 
-Publieke organisaties die complete softwareoplossingen inkochten worden nog wel eens verrast door zaken als:
+Publieke organisaties die complete softwareoplossingen inkopen worden nog wel eens verrast door zaken als:
 
 - hun software kan niet worden aangepast aan veranderend beleid en nieuwe technologie kan niet worden ingezet
 - er is geen toegang meer tot hun gegevens omdat deze zijn opgesloten in propriëtaire systemen
@@ -59,7 +59,7 @@ Publieke code vormt de kern van moderne publieke instituties, bepaalt het werk v
 Publieke software moet daarom:
 
 - transparant zijn
-- verantwoordelijk zijn
+- verantwoordbaar zijn
 - begrijpelijk zijn voor haar belanghebbenden
 
 Het moet de waarden van de samenleving die het dient weerspiegelen, bijvoorbeeld door inclusief te zijn en niet-discriminerend.
@@ -74,7 +74,7 @@ Wij beschouwen deze waarden als de kern van publieke code:
 - Bruikbaar
 - Open
 - Leesbaar
-- Verantwoord
+- Verantwoordbaar
 - Toegankelijk
 - Duurzaam
 
@@ -84,7 +84,7 @@ Publieke code is open source software bedoeld voor het vervullen van de kerntake
 
 Open zijn heeft veel voordelen.
 
-Lokale verantwoordelijkheid en democratische verantwoording worden gewaarborgd wanneer een publieke organisatie hun eigen publieke code implementeert en onderhoudt. Door open te zijn en een bredere bijdragersbasis te hebben, is de software veiliger omdat het profiteert van vele ogen die mogelijke fouten opsporen. Veel bijdragers delen het onderhoudswerk om het functioneel en modern te houden, wat toekomstige technische achterstand (“*technical debt”) vermindert. De gedeelde werklast is nu en in de toekomst duurzamer. De openheid maakt zowel de code als de gegevens in de toekomst gemakkelijker aanpasbaar. De code wordt makkelijker te herzien, te hergebruiken en uit te faseren. Dit alles resulteert in infrastructuur met een lager risico.
+Lokale verantwoordelijkheid en democratische verantwoording worden gewaarborgd wanneer een publieke organisatie hun eigen publieke code implementeert en onderhoudt. Door open te zijn en een bredere bijdragersbasis te hebben, is de software veiliger omdat het profiteert van vele ogen die mogelijke fouten opsporen. Veel bijdragers delen het onderhoudswerk om het functioneel en modern te houden, wat toekomstige technische achterstand (“*technical debt*”) vermindert. De gedeelde werklast is nu en in de toekomst duurzamer. De openheid maakt zowel de code als de gegevens in de toekomst gemakkelijker aanpasbaar. De code wordt makkelijker te herzien, te hergebruiken en uit te faseren. Dit alles resulteert in infrastructuur met een lager risico.
 
 Door het bundelen van middelen kunnen publieke organisaties extra aandacht besteden aan hoe ze de software kunnen aanpassen zodat deze het beste werkt in elke lokale context, wat betere gebruikerservaringen creëert voor hun eindgebruikers (inwoners of burgers).
 
@@ -92,7 +92,7 @@ Door het bundelen van middelen kunnen publieke organisaties extra aandacht beste
 
 Publieke code biedt een beter economisch model voor publieke organisaties en commerciële bedrijven. Als alternatief voor traditionele softwareaanbesteding zorgt het ervoor dat de lokale controle en economische kansen worden vergroot.
 
-Ontworpen vanaf het begin om open en aanpasbaar te zijn en gegevensportabiliteit te ondersteunen, kan het worden ontwikkeld door intern personeel of vertrouwde leveranciers. Omdat de code open is, kan de publieke organisatie van leverancier veranderen als dat nodig is. Open code vergroot de mogelijkheden voor meekijken en daarvan leren, waardoor de publieke organisatie kleinere contracten kan aanbesteden. Kleinere aanbestedingen maken het gemakkelijker voor lokale kleine en middelgrote ondernemingen om zich daarop in te schrijven. Publieke organisaties kunnen hun eigen softwareaankopen gebruiken om innovatie en concurrentie in hun lokale economie te stimuleren.
+Omdat het *by design* open en aanpasbaar is en gegevensportabiliteit ondersteunt, kan het worden ontwikkeld door intern personeel of vertrouwde leveranciers. Omdat de code open is, kan de publieke organisatie van leverancier veranderen als dat nodig is. Open code vergroot de mogelijkheden voor meekijken en daarvan leren, waardoor de publieke organisatie kleinere contracten kan aanbesteden. Kleinere aanbestedingen maken het gemakkelijker voor lokale kleine en middelgrote ondernemingen om zich daarop in te schrijven. Publieke organisaties kunnen hun eigen softwareaankopen gebruiken om innovatie en concurrentie in hun lokale economie te stimuleren.
 
 Dit kan worden gezien als een investering die leidt tot toekomstige economische groei. Meer leveranciers zullen nodig zijn vanwege de groeiende vraag naar technologie.
 
@@ -108,7 +108,7 @@ Deze standaard ondersteunt ontwikkelaars, ontwerpers, managers en beleidsmakers 
 
 - het ontwikkelen van hoogwaardige software en beleid voor betere publieke dienstverlening
 - het ontwikkelen van codebases die herbruikbaar zijn in verschillende contexten en in samenwerking kunnen worden onderhouden
-- het verminderen van technische achterstanden (“technical debt”) en het falen van projecten
+- het verminderen van technische achterstanden (“*technical debt*”) en het falen van projecten
 - meer controle en beslissingsbevoegdheid over hun IT-systemen
 - het verbeteren van de relaties met leveranciers door een beter economisch model
 
@@ -126,8 +126,8 @@ De Standaard voor Publieke Code is bedoeld om tijds- en technologieonafhankelijk
 
 De Standaard voor Publieke Code is bedoeld voor de mensen die publieke code creëren en hergebruiken:
 
-- beleidsmakers
-- bedrijfs- en projectmanagers
+- beleidsmakers in de publieke sector
+- managers
 - ontwikkelaars en ontwerpers
 
 Deze mensen werken bij:

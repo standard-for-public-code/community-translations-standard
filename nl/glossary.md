@@ -59,7 +59,7 @@ Publieke code (*public code*) is open source software ontwikkeld door publieke o
 
 Publieke code is zowel computerbroncode (zoals software en algoritmen) als beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
-Publieke code dient het algemeen belang, is open, leesbaar, verantwoord, toegankelijk en duurzaam.
+Publieke code dient het algemeen belang, is open, leesbaar, verantwoordbaar, toegankelijk en duurzaam.
 
 Door publieke code te ontwikkelen die onafhankelijk is van, maar toch implementeerbaar is in de lokale context waarvoor ze werd ontwikkeld, en door het ontwikkelingsproces openbaar te documenteren, kan publieke code een bouwsteen bieden voor anderen om:
 

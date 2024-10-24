@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 ---
 
-# Lezersgids
+# Leeswijzer
 
 De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe je goede publieke code maakt.
 
