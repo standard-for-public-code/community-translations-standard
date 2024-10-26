@@ -7,23 +7,21 @@
 
 🙇‍♀️ Bedankt voor je bijdrage!
 
-We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom je inbreng, stellen je feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
+We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom inbreng, stellen feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
 
-We houden van kwesties en pull requests van iedereen. Als je niet vertrouwd bent met GitHub, kun je je feedback mailen naar <info@publiccode.net>.
+We houden van *issues* en *pull requests* van iedereen. Als je niet vertrouwd bent met GitHub, kun je suggesties mailen naar <standaardvoorpubliekecode@codefor.nl>.
 
 ## Problemen, suggesties en vragen in kwesties
 
-Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vind je in de routekaart. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kun je een GitHub-kwestie aanmaken voor dit project in de GitHub-kwesties voor de Standaard voor Publieke Code.
+Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vind je in de roadmap. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kun je een GitHub-issue aanmaken voor dit project in de GitHub-issues voor de Standaard voor Publieke Code.
 
-Of meld je aan voor de mailinglijst en stuur een e-mail naar standard@lists.publiccode.net.
-
-U hoeft niets aan onze code of documentatie te wijzigen om bij te dragen!
+Je hoeft niets aan onze code of documentatie te wijzigen om bij te dragen!
 
 ## Documentatie en code in pull requests
 
 Als je iets aan de documentatie of code van een van onze projecten wilt toevoegen, moet je een pull request indienen.
 
-Als je GitHub nog nooit hebt gebruikt, ga dan snel aan de slag met GitHub-workflow begrijpen of volg een van de geweldige gratis interactieve cursussen in GitHub-vaardigheden over het werken met GitHub en het werken met MarkDown, de syntaxis waarin de documentatie van dit project is opgesteld.
+Als je GitHub nog nooit hebt gebruikt, ga dan snel aan de slag met GitHub-workflow begrijpen of volg een van de geweldige gratis interactieve cursussen in GitHub-vaardigheden over het werken met GitHub en het werken met MarkDown, de manier waarop de documentatie van dit project is opgesteld.
 
 Dit project heeft een Creative Commons Zero v1.0 Universal-licentie, wat in essentie betekent dat het project samen met jouw bijdragen in het publieke domein valt, in welke jurisdictie dan ook, en dat iedereen ermee kan doen wat hij of zij wil.
 
@@ -73,7 +71,7 @@ Sterker nog, open gerust een pull request om je naam toe te voegen aan het [`AUT
 
 ## Talen en vertalingen
 
-De gezaghebbende taal van de Standaard voor Publieke Code is Engels.
+De primaire taal van de Standaard voor Publieke Code is Engels.
 
 Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor releases. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
 
