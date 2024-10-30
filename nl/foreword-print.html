@@ -1,6 +1,6 @@
 ---
 ---
-
+{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" | where_exp: "page", "page.name != 'index.md'" %}
 <!DOCTYPE html>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html -->
@@ -32,9 +32,17 @@
 </head>
 <body class="markdown-body">
 
+  <article id="section-translation-foreword">
+
+    {% assign page = pages | where: "name", "translation-foreword.md" | first %}
+    {% if page %}{{page.content | markdownify}}{% endif %}
+
+  </article>
+
   <article id="section-foreword">
 
-    {% for page in site.pages %}{% if page.name == "foreword.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% assign page = pages | where: "name", "foreword.md" | first %}
+    {% if page %}{{page.content | markdownify}}{% endif %}
 
   </article>
 

@@ -13,4 +13,4 @@ Wees attent, respectvol en geduldig.
 
 Probeer zo constructief mogelijk te zijn.
 
-Als je een probleem wilt melden, stuur dan een e-mail naar directors@publiccode.net.
+Als je een probleem wilt melden, stuur dan een e-mail naar standaardvoorpubliekecode@codefor.nl.

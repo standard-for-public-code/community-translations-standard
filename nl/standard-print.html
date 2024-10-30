@@ -56,6 +56,8 @@
     <h1>Inhoudsopgave</h1>
     <ol>
       <li><a href="#section-authors" class="table-of-contents">Auteurs</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Voorwoord bij de vertaling</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Voorwoord</a></li>
       <li><a href="#section-readers-guide" class="table-of-contents">Leeswijzer</a></li>
       <li><a href="#section-glossary" class="table-of-contents">Begrippenlijst</a></li>
       <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
@@ -77,7 +79,13 @@
     <img src="https://www.standardforpubliccode.org/assets/codebase.svg" alt="codebase">
   </figure>
 
-  {% assign page = pages | where: "name", "glossary.md" | first %}
+  {% assign page = pages | where: "name", "translation-foreword.md" | first %}
+  {% if page %}<article id="section-translation-foreword">{{page.content | markdownify}}</article>{% endif %}
+
+  {% assign page = pages | where: "name", "foreword.md" | first %}
+  {% if page %}<article id="section-foreword">{{page.content | markdownify}}</article>{% endif %}
+
+  {% assign page = pages | where: "name", "readers-guide.md" | first %}
   {% if page %}<article id="section-readers-guide">{{page.content | markdownify}}</article>{% endif %}
 
   {% assign page = pages | where: "name", "glossary.md" | first %}
