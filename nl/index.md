@@ -17,11 +17,13 @@ Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](f
 
 ## Inhoudsopgave
 
+* [Auteurs](AUTHORS.md)
+* [Voorwoord bij de vertaling](translation-foreword.md)
+* [Voorwoord](foreword.md)
 * [Leeswijzer](readers-guide.md)
 * [Begrippenlijst](glossary.md)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
   * [{{page.title}}]({{site.baseurl}}{{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}
-* [Auteurs](AUTHORS.md)
 * [Bijdragen](CONTRIBUTING.md)
 * [Gedragscode](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
