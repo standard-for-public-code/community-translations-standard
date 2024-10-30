@@ -4,7 +4,7 @@ version: 0.2.2
 plugins:
   - jekyll-redirect-from
 
-remote_theme: jgroenen/standard-for-public-code-jekyll-theme
+remote_theme: codefornl/standard-for-public-code-jekyll-theme
 include:
   - "README.md"
     # - "CONTRIBUTING.md"
