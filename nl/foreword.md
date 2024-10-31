@@ -1,7 +1,7 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
-opmerking: "In verband met de overgang van de governance is dit bestand verouderd en moet derhalve worden herzien; hier en in de upstream."
+translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 ---
 
 # Voorwoord

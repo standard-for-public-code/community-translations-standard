@@ -1,6 +1,7 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: Standaard voor Publieke Code, https://www.standaardvoorpubliekecode.nl/
+translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 ---
 
 # Voorwoord bij de Nederlandse vertaling
