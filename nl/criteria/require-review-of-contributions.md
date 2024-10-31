@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 7
+description: Stimuleer een cultuur waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is.
 ---
 
 # Vereis inspectie van bijdragen

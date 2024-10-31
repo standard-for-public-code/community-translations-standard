@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 4
+description: Verwelkom bijdragers om de community te laten groeien en zichzelf langdurig in stand te houden.
 ---
 
 # Verwelkom bijdragers

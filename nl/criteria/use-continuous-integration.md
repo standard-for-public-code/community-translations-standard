@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 12
+description: Verzeker je ervan dat bijdragen werken zoals bedoeld en geen fouten bevatten.
 ---
 
 # Continue integratie gebruiken

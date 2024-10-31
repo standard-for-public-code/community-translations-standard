@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 11
+description: Gebruik open standaarden om interoperabiliteit te garanderen en vendor lock-ins te verminderen.
 ---
 
 # Gebruik open standaarden

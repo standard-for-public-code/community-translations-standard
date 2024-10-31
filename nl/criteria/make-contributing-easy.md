@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 5
+description: Vergroot de kans dat gebruikers bijdragen leveren aan de codebase.
 ---
 
 # Maak bijdragen gemakkelijk

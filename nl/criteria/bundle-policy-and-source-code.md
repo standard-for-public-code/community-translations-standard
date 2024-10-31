@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 2
+description: Zo is het gemakkelijker om te begrijpen hoe de code werkt en waarom het is zoals het is.
 ---
 
 # Bundel beleid en broncode

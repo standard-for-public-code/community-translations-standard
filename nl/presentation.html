@@ -1,0 +1,55 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" | where_exp: "page", "page.name != 'index.md'" %}
+{% assign criteriaPages = pages | where_exp: "page", "page.dir contains '/criteria/'" | where_exp: "page", "page.title" | sort: "order" %}
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html -->
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Presentatie Standaard voor Publieke Code</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://www.standardforpubliccode.org/assets/github-markdown.css">
+    <link rel="stylesheet" href="https://www.standardforpubliccode.org/assets/print.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <style>
+        .slides { width: 32em !important; line-height: 1.5em; }
+    </style>
+    <!-- Reveal.js via CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
+</head>
+<body>
+
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Titel Slide -->
+            <section>
+                <h1>Standaard voor Publieke Code</h1>
+                <h3>Leidraad voor publieke organisaties die willen samenwerken aan open source-oplossingen met soortgelijke organisaties elders.</h3>
+                <p>{{ criteriaPages | size }} criteria voor publieke code</p>
+            </section>
+
+            <!-- Criteria Slides -->
+            {% for page in criteriaPages %}
+            <section>
+                <p>Criterium {{ page.order }}</p>
+                <h2>{{ page.title }}</h2>
+                <p>{{ page.description }}</p>
+            </section>
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js"></script>
+    <script>
+        Reveal.initialize();
+    </script>
+</body>
+</html>

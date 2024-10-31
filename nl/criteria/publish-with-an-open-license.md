@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 13
+description: Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden hergebruik van delen van de codebase en naamsvermelding daarbij eenvoudiger.
 ---
 
 # Publiceer met een open licentie

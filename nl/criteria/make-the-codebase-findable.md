@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 14
+description: Onvindbare codebases bestaan de facto niet.
 ---
 
 # Maak de codebase vindbaar

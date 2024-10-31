@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 3
+description: Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
 ---
 
 # Maak de codebase herbruikbaar en portabel
