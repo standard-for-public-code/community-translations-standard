@@ -29,4 +29,4 @@ Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](f
 * [Gedragscode](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
 * [Versiegeschiedenis](CHANGELOG.md)
-* [Licentie](LICENSE.md)
+* [Licentie](LICENSE)
