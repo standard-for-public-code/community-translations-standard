@@ -28,11 +28,11 @@ Dit project heeft een Creative Commons Zero v1.0 Universal-licentie, wat in esse
 
 ## 1. Je wijzigingen aanbrengen
 
-Bijdragen moeten voldoen aan de vereisten in de criteria van de Standaard voor Publieke Code zelf. Beoordelaars zorgen er ook voor dat bijdragen in lijn zijn met de waarden van publieke code. Bovendien controleren ze of de bijdrage voldoet aan de standaarden en coherent blijft met het algemene werk.
+Bijdragen moeten voldoen aan de vereisten in de criteria van de Standaard voor Publieke Code zelf. Beoordelaars zorgen er ook voor dat bijdragen in lijn zijn met de waarden van publieke code. Bovendien controleren ze of de bijdrage voldoet aan de standaarden en coherent blijft met het algehele werk.
 
-Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als je deze repository hebt gevorkt, zorg er dan voor dat je een feature branch aanmaakt volgens het GitFlow-model.
+Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als je deze repository hebt geforkt, zorg er dan voor dat je een feature branch aanmaakt volgens het GitFlow-model.
 
-Voeg je wijzigingen toe aan commits met een bericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte commits. In sommige gevallen kan een enkele set wijzigingen meerdere kwesties oplossen. Zorg er in dat geval voor dat je alle kwestienummers vermeldt die zijn opgelost. Wanneer je nieuwe bestanden toevoegt, selecteer je bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die je maakt in het commit-bericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van je keuzes.
+Voeg je wijzigingen toe aan commits met een bericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte commits. In sommige gevallen kan een enkele set wijzigingen meerdere issues oplossen. Zorg er in dat geval voor dat je alle issue-nummers vermeldt die zijn opgelost. Wanneer je nieuwe bestanden toevoegt, selecteer je bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die je maakt in het commit-bericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van je keuzes.
 
 Als je code toevoegt, zorg er dan voor dat je de relevante documentatie en tests hebt toegevoegd en bijgewerkt voordat je pull request indient. Zorg ervoor dat je tests schrijft die het gedrag van de nieuw toegevoegde of gewijzigde code laten zien.
 
@@ -42,7 +42,7 @@ Op dit moment implementeert de Standaard voor Publieke Code geen specifiek openb
 
 ## Stijl
 
-De Standaard voor Publieke Code streeft naar het gebruik van gewoon Engels en we hebben gekozen voor Amerikaans-Engels voor de spelling. Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
+Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
 
 ## Te volgen standaarden
 
