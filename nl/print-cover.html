@@ -11,6 +11,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
   <style>
     html {
       font-family: Mulish;
@@ -223,7 +226,7 @@
           De Standaard beschrijft de volgende criteria:
           {% assign sorted = site.pages | sort:"order" %}
           <ol>
-            {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+            {% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
             <li>{{page.title}}</li>{% endif%}
             {% endif%}  {% endif%}{% endfor %}
           </ol>
@@ -233,13 +236,14 @@
       <img src="https://www.standardforpubliccode.org/assets/hand-point.svg" alt="hand pointing">
 
       <section id="logo">
-        <img src="https://www.standardforpubliccode.org/logo/mark-and-name-over-two-lines.svg" alt="Foundation for Public Code logo">
+        <p style="font-size: 12pt">Deze vertaling is mede mogelijk gemaakt door:</p>
+        <img src="https://opensourcewerken.nl/file/embed/e74cbace-e77e-4e63-89ed-8ed146b99c9d/opensourcewerken-roze-achtergrond-liggend-rgb.png" alt="Opensourcewerken logo">
       </section>
     </section>
 
     <section id="front">
       <div id="title-block">
-        <p>Oproep tot bijdragen</p>
+        <p>Nederlandse vertaling</p>
         <h1 class="title">Standaard voor Publieke Code</h1>
       </div>
 
