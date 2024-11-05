@@ -15,6 +15,12 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --color-primary: #f092ce;
+      --color-secondary: #43145e;
+      --color-tertiary: #A80160;
+    }
+
     html {
       font-family: Mulish;
       font-size: 16pt;
@@ -84,7 +90,8 @@
     }
 
     #logo>img {
-      height: 2cm;
+      height: 1.4cm;
+      margin: 0.2cm 0.4cm 0 0;
     }
 
     ol {
@@ -152,17 +159,17 @@
     }
 
     [id$="public-policy-makers-what-you-need-to-do"]:before {
-      background-color: #00EFB5;
+      background-color: var(--color-primary);
       content: 'P';
     }
 
     [id$="managers-what-you-need-to-do"]:before {
-      background-color: #FF6D1C;
+      background-color: var(--color-secondary);
       content: 'M';
     }
 
     [id$="developers-and-designers-what-you-need-to-do"]:before {
-      background-color: #8626FF;
+      background-color: var(--color-tertiary);
       content: 'D';
     }
 
@@ -233,11 +240,11 @@
         </p>
       </div>
 
-      <img src="https://www.standardforpubliccode.org/assets/hand-point.svg" alt="hand pointing">
+      <img src="/nl/assets/hand-point.svg" alt="hand pointing">
 
       <section id="logo">
-        <p style="font-size: 12pt">Deze vertaling is mede mogelijk gemaakt door:</p>
         <img src="https://opensourcewerken.nl/file/embed/e74cbace-e77e-4e63-89ed-8ed146b99c9d/opensourcewerken-roze-achtergrond-liggend-rgb.png" alt="Opensourcewerken logo">
+        <img display: block" src="https://codefor.nl/img/Logo-orange-01.png" alt="Code for NL logo">
       </section>
     </section>
 
@@ -254,11 +261,11 @@
         <li id="first-page-developers-and-designers-what-you-need-to-do">Ontwikkelaar en ontwerpers</li>
       </ul>
 
-      <img src="https://www.standardforpubliccode.org/assets/hands-shake.svg" alt="hands shaking">
+      <img src="/nl/assets/hands-shake.svg" alt="hands shaking">
 
       <div id="version-info">
         <p><strong>Voorlopige versie</strong><br/>Versie <span class="standard-version">0.8.0-nl-0.1.0</span></p>
-        <p><img src="https://www.standardforpubliccode.org/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"> <img src="https://www.standardforpubliccode.org/assets/dpg-badge.svg" alt="Digital Public Goods approval badge" width="92" height="46"></p>
+        <p><img src="https://www.standardforpubliccode.org/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"></p>
         <p>https://www.standaardvoorpubliekecode.nl</p>
       </div>
     </section>
