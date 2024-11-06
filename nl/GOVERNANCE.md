@@ -24,6 +24,7 @@ Elke actieve bijdrager in de community kan verzoeken om lid te worden van de red
 De huidige redactieleden zijn:
 
 - Johan Groenen (Code for NL)
+- Eva van Sloten
 
 #### Verantwoordelijkheden
 
@@ -35,7 +36,7 @@ De redactie zijn actieve bijdragers die dagelijks verantwoordelijk zijn voor:
 Naast de dagelijkse taken heeft de redactie de gezamenlijke verantwoordelijkheid om:
 
 - Technisch richting te geven aan de codebase
-- De roadmap en ondersteunende principes van de *upstream* Standard for Public Code bij te houden
+- De roadmap en ondersteunende principes van de *upstream* Standard for Public Code in de gaten te houden
 - Problemen in de ontwikkeling of conflicten tussen bijdragers op te lossen
 - Releases te beheren en plannen
 - Toegangsrechten te beheren tot de bronnen van de Standaard voor Publieke Code, zoals bronrepositories, hosting en projectagenda's
