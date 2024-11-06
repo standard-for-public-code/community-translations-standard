@@ -24,8 +24,6 @@ Elke actieve bijdrager in de community kan verzoeken om lid te worden van de red
 De huidige redactieleden zijn:
 
 - Johan Groenen (Code for NL)
-- Eva van Sloten (Opensourcewerken)
-- Tom Ootes
 
 #### Verantwoordelijkheden
 
