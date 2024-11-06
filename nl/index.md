@@ -4,7 +4,7 @@
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 ---
 
-# Leidraad open source samenwerken voor publieke organisaties
+# Leidraad voor open source werken in publieke organisaties
 
 De Standaard voor Publieke Code is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
