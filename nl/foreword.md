@@ -48,7 +48,7 @@ Publieke organisaties die complete softwareoplossingen inkopen worden nog wel ee
 
 Publieke organisaties, ambtenaren en inwoners verdienen beter.
 
-Wij geloven dat de software die onze samenleving aanstuurt niet langer een black box mag zijn die gecontroleerd wordt door externe bedrijven die de onderliggende logica waarop hun software werkt verborgen houden in propriëtaire codebases. In plaats daarvan hebben overheden en de mensen die zij dienen technologische soevereiniteit nodig. Op die manier kunnen ze de werking van publieke software bepalen en controleren, zoals ze dat ook doen met wetgeving. Het is belangrijk voor burgers en maatschappelijk middenveld dat software transparant is en dat er verantwoording over wordt afgelegd.
+Wij geloven dat de software die onze samenleving aanstuurt niet langer een black box mag zijn die gecontroleerd wordt door externe bedrijven die de onderliggende logica waarop hun software werkt verborgen houden in propriëtaire codebases. In plaats daarvan hebben publieke organisaties en de mensen die zij dienen technologische soevereiniteit nodig. Op die manier kunnen ze de werking van publieke software bepalen en controleren, zoals ze dat ook doen met wetgeving. Het is belangrijk voor burgers en maatschappelijk middenveld dat software transparant is en dat er verantwoording over wordt afgelegd.
 
 Het ontwerp van software als essentiële maatschappelijke infrastructuur moet de digitale rechten van burgers respecteren.
 

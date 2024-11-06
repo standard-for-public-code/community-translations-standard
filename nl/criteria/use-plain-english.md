@@ -10,7 +10,7 @@ description: Duidelijke en eenvoudige taal zorgt ervoor dat de code en wat deze 
 
 Engels is de *de facto* taal voor samenwerking bij softwareontwikkeling. Sommige contexten vereisen echter andere talen dan Engels. Daarom kan een codebase een aantal hoofdtalen hebben, waaronder Engels.
 
-Informatie van de overheid moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de [code](../glossary.html#code) en wat deze doet, voor een breder publiek begrijpelijk is.
+Informatie van publieke organisaties moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de [code](../glossary.html#code) en wat deze doet, voor een breder publiek begrijpelijk is.
 
 Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary.html#codebase). Een taal die gemakkelijk te begrijpen is, verlaagt de kosten voor het maken en onderhouden van vertalingen.
 
