@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 1
-description: Dit draagt bij aan transparantie, kwaliteit, controleerbaarheid en samenwerking.
+description: Zijn plannen en code publiek toegankelijk?<br>Dit draagt bij aan transparantie, kwaliteit, controleerbaarheid en samenwerking.
 ---
 
 # Programmeer in het openbaar
