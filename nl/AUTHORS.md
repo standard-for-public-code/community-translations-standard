@@ -36,3 +36,9 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 * Sky Bristol
 * Tamas Erkelens, Gemeente Amsterdam
 * Timo Slinger
+
+## Auteurs Nederlandse Vertaling
+
+* Johan Groenen, Code for NL
+* Eva van Sloten, Opensourcewerken
+* Tom Ootes

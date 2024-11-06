@@ -14,9 +14,38 @@ De Nederlandse Vertaling van de Standaard voor Publieke Code is een community-pr
 
 De community rondom de Nederlandse Vertaling van de Standaard voor Publieke Code houdt zich aan de principes van de *upstream* Standard for Public Code.
 
+### Redactie
+
+De community rondom de Nederlandse Vertaling van de Standaard voor Publieke Code heeft een redactie die verantwoordelijk is voor het doorvoeren van verbeteringen. 
+
+#### Samenstelling
+Elke actieve bijdrager in de community kan verzoeken om lid te worden van de redactie door dit aan de redactie kenbaar te maken. De redactie zal hierover stemmen.
+
+De huidige redactieleden zijn:
+
+- Johan Groenen (Code for NL)
+- Eva van Sloten (Opensourcewerken)
+- Tom Ootes
+
+#### Verantwoordelijkheden
+
+De redactie zijn actieve bijdragers die dagelijks verantwoordelijk zijn voor:
+
+- Het mergen van pull requests
+- Het afhandelen van overtredingen van de gedragscode
+
+Naast de dagelijkse taken heeft de redactie de gezamenlijke verantwoordelijkheid om:
+
+- Technisch richting te geven aan de codebase
+- De roadmap en ondersteunende principes van de *upstream* Standard for Public Code bij te houden
+- Problemen in de ontwikkeling of conflicten tussen bijdragers op te lossen
+- Releases te beheren en plannen
+- Toegangsrechten te beheren tot de bronnen van de Standaard voor Publieke Code, zoals bronrepositories, hosting en projectagenda's
+- De governance aan te passen indien nodig
+
 ### Vergaderingen
 
-De community rondom de Nederlandse Vertaling van de Standaard voor Publieke Code heeft geen stuurteam. De community komt samen in een maandelijkse open call, waarin we de vertaling en het gebruik daarvan in de praktijk bespreken. Iedereen is welkom om deel te nemen aan deze open calls. Je kunt je aanmelden om uitgenodigd te worden via een mail naar <standaardvoorpubliekecode@codefor.nl>.
+De community komt samen in een maandelijkse open call, waarin we de vertaling en het gebruik daarvan in de praktijk bespreken. Iedereen is welkom om deel te nemen aan deze open calls. Je kunt je aanmelden om uitgenodigd te worden via een mail naar <standaardvoorpubliekecode@codefor.nl>.
 
 ### Besluitvormingsproces
 
