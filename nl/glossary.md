@@ -22,11 +22,11 @@ Beleidsregels worden over het algemeen aangenomen door een bestuursorgaan binnen
 
 Beleid kan helpen bij zowel subjectieve als objectieve besluitvorming.
 
-Beleidsvorming is het proces waarbij overheden hun politieke visie vertalen naar programma\'s en acties om resultaten te behalen.
+Beleidsvorming is het proces waarbij publieke organisaties hun politieke visie vertalen naar programma\'s en acties om resultaten te behalen.
 
 Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Bij lokale overheden is dit onderscheid is vaak vager.
 
-In de Standaard voor Publieke Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals overheden en gemeenten.
+In de Standaard voor Publieke Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals ministeries en gemeenten.
 
 ## Broncode
 
