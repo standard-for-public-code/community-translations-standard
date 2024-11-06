@@ -39,6 +39,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 ## Auteurs Nederlandse Vertaling
 
+* Vertaalbureau Scriptware
 * Johan Groenen, Code for NL
 * Eva van Sloten, Opensourcewerken
 * Tom Ootes
