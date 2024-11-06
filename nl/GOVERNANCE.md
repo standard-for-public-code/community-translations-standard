@@ -25,6 +25,7 @@ De huidige redactieleden zijn:
 
 - Johan Groenen (Code for NL)
 - Eva van Sloten
+- Tom Ootes (Developer Overheid)
 
 #### Verantwoordelijkheden
 
