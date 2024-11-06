@@ -22,7 +22,7 @@ Talige aanpassingen kunnen we direct doorvoeren. Inhoudelijke suggesties brengen
 
 ### Problemen, suggesties en vragen in kwesties
 
-Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vind je in de roadmap. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kun je een GitHub-issue aanmaken voor dit project in de GitHub-issues voor de Standaard voor Publieke Code.
+Een globaal overzicht van de ontwikkeling die we al hebben geschetst, vind je in de roadmap. Help de ontwikkeling door problemen te melden, wijzigingen voor te stellen en vragen te stellen. Om dit te doen, kun je een GitHub-issue aanmaken voor dit project in de GitHub-issues voor de *upstream* Standard for Public Code.
 
 Je hoeft niets aan onze code of documentatie te wijzigen om bij te dragen!
 
