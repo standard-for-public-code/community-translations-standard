@@ -2,3 +2,5 @@ Gemfile.lock
 _site
 *.pdf
 .vscode/settings.json
+_build_pdf
+*.epub

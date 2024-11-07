@@ -1,5 +1,6 @@
 title: Community Translations of the Standard for Public Code
 version: 0.2.2
+repository: codefornl/community-translations-standard
 
 plugins:
   - jekyll-redirect-from

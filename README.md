@@ -92,7 +92,13 @@ Or, sign up to the [Standard for Public Code mailing list](https://lists.publicc
 
 ## Preview, build and deploy
 
-We are still figuring out the details this process. Please be patient.
+Use `./script/serve.sh` to serve.
+
+Use `./script/pdf.sh` to generate pdf.
+
+For this, `bundle exec jekyll` needs to work, so `bundler` and `jekyll` need to be installed.
+
+Also some other software is needed. Please check out https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/docs/printing.md for instructions.
 
 ## Code of Conduct
 

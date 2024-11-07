@@ -1,4 +1,4 @@
 #!/bin/sh
 
-PAGES_REPO_NWO=standard-for-public-code/community-translations-standard \
+PAGES_REPO_NWO=codefornl/community-translations-standard \
 bundle exec jekyll serve --livereload
