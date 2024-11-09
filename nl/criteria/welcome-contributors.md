@@ -12,7 +12,7 @@ De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat
 
 ## Vereisten
 
-- De codebase MOET het voor iedereen mogelijk maken om suggesties voor wijzigingen in de codebase in te dienen.
+- De codebase MOET iedereen de mogelijkheid geven verbetersuggesties te kunnen doen.
 
 - De codebase MOET bijdragerichtlijnen bevatten die uitleggen welke soorten bijdragen welkom zijn en hoe bijdragers betrokken kunnen worden, bijvoorbeeld in een CONTRIBUTING-bestand.
 
@@ -26,11 +26,11 @@ De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat
 
 - De codebase ZOU statistieken over de codebase-activiteiten MOETEN publiceren.
 
-- Het opnemen van een gedragscode voor bijdragers in de codebase is OPTIONEEL.
+- De codebase kan OPTIONEEL een gedragscode voor bijdragers bevatten.
 
 ## Hoe te testen
 
-- Controleer of het mogelijk is om suggesties voor wijzigingen in de codebase in te dienen.
+- Controleer of het mogelijk is suggesties voor wijzigingen in de codebase te doen.
 
 - Controleer of er bijdragerichtlijnen zijn.
 
@@ -54,7 +54,7 @@ De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat
 
 ## Managers: wat je moet doen
 
-- Zorg ervoor dat de documentatie van de governance de huidige procedure voor het doorvoeren van wijzigingen in de governance zelf bevat.
+- Zorg ervoor dat de huidige procedures, voor het doorvoeren van wijzigingen aan de governance, goed en actueel zijn gedocumenteerd.
 
 - Als er binnen de community consensus bestaat over hoe de organisatie moet veranderen, neem die ideeën dan als ambities in de documentatie op.
 
