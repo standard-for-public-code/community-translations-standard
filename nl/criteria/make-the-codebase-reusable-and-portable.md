@@ -8,19 +8,19 @@ description: Codebases die door meerdere partijen worden ontwikkeld en gebruikt,
 
 # Maak de codebase herbruikbaar en portabel
 
-Het maken van herbruikbare en portabele [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid.
+Het maken van herbruikbare en portabele [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld her te gebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid van die code.
 
-Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
+Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community ondersteuning.
 
 Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context](../glossary.html#verschillende-contexten) als het doel ervan duidelijk gedocumenteerd is.
 
-Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een bijdrager, leverancier of implementatie kan door elke andere bijdrager worden getest.
+Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een mede-ontwikkelaar, leverancier of implementatie kan door elke andere mede-ontwikkelaar worden getest.
 
 ## Vereisten
 
 - De codebase MOET worden ontwikkeld om in verschillende contexten herbruikbaar te zijn.
 
-- De codebase MOET voor uitvoering en begrip onafhankelijk zijn van geheime, niet openbaar gemaakte, bedrijfseigen of niet-open software of diensten onder licentie.
+- De codebase MOET voor uitvoering en begrip onafhankelijk zijn van geheime, niet openbaar gemaakte, bedrijfseigen of niet-open software of diensten aangeboden onder een beperkende licentie.
 
 - De codebase ZOU door meerdere partijen MOETEN worden gebruikt.
 
@@ -30,7 +30,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - Om [broncode](../glossary.html#broncode) aan te passen aan contextspecifieke behoeften ZOU gebruik MOETEN worden gemaakt van configuratie.
 
-- De codebase ZOU *localizable* MOETEN zijn, dat wil zeggen aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen.
+- De codebase ZOU locatiespecifiek te maken MOETEN zijn, dat wil zeggen aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen.
 
 - De broncode en de bijbehorende documentatie MOGEN GEEN situatiespecifieke informatie bevatten.
 
@@ -44,7 +44,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - Controleer of de codebase kan worden uitgevoerd zonder gebruik te maken van propriëtaire of niet-open software of services.
 
-- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt, vóórdat er een release is die gereed is voor productie, controleer dan of er aanwijzingen zijn dat er de ambitie is om samen te werken.
+- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt &mdash; vóórdat er een release is die gereed is voor productie &mdash; controleer dan of er aanwijzingen zijn voor de ambitie om samen te werken.
 
     - Of als de codebase erg volwassen en stabiel is en er zeer zelden oplossingen, patches of bijdragen zijn:
 
@@ -86,7 +86,7 @@ De broncode moet worden ontworpen:
 
 - in logisch samenhangende en geïsoleerde modules,
 
-- zodat iemand in een vergelijkbare organisatie met een vergelijkbaar probleem (delen van) de oplossing kan gebruiken.
+zodat iemand in een vergelijkbare organisatie met een vergelijkbaar probleem (delen van) de oplossing kan gebruiken.
 
 Zorg ervoor dat de documentatie van de codebase de build- en runtime-afhankelijkheden beschrijft. Als je context vereist dat je implementeert op propriëtaire platformen of propriëtaire componenten gebruikt, zorg er dan voor dat anderen zonder deze componenten kunnen ontwikkelen, gebruiken, testen en implementeren.
 
