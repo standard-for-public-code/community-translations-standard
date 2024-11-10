@@ -26,7 +26,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - De codebase ZOU vindbaar MOETEN zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
-- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van [de repository](../glossary.html#repository) en de website vermeld worden.
+- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste participanten, de locatie van [de repository](../glossary.html#repository) en de website vermeld worden.
 
 - De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld in een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
@@ -52,7 +52,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Controleer of de codebase in de resultaten van meer dan één grote zoekmachine verschijnt wanneer je zoekt in natuurlijke taal, bijvoorbeeld door een korte beschrijving te gebruiken.
 
-- Controleer of er unieke en persistente vermeldingen zijn voor de belangrijkste bijdragers.
+- Controleer of er unieke en persistente vermeldingen zijn voor de belangrijkste participanten.
 
 - Controleer of er unieke en persistente vermeldingen zijn voor de repository-locatie.
 

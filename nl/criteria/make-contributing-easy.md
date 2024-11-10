@@ -50,7 +50,7 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - Zorg er net als bij [reviews](require-review-of-contributions.html) voor dat je vlot op verzoeken reageert.
 
-- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
+- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere participanten te ondersteunen.
 
 - Zorg ervoor dat de juiste communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de `README`.
 

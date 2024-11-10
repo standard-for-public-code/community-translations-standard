@@ -20,7 +20,7 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Alle broncode MOET worden gepubliceerd met een licentiebestand.
 
-- Bijdragers MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
+- Participanten MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
 
 - Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentiekop MOETEN bevatten die machineleesbaar zijn.
 
@@ -34,7 +34,7 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Controleer of de licenties die in de codebase worden gebruikt, als bestanden zijn opgenomen.
 
-- Controleer of de bijdragerichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
+- Controleer of de bijdragersrichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
 
 - Controleer op machineleesbare licentiecontrole in de [continue integratietests](../glossary.html#continue-integratie) van de codebase.
 

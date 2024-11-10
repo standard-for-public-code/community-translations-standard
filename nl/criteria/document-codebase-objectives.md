@@ -3,12 +3,12 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 8
-description: Dit helpt belanghebbenden en bijdragers de ontwikkeling van de codebase af te kaderen.
+description: Dit helpt belanghebbenden en participanten de ontwikkeling van de codebase af te kaderen.
 ---
 
 # Documenteer de doelstellingen van codebase
 
-Het duidelijk documenteren van de doelstellingen van de [codebase](../glossary.html#codebase) communiceert de bedoeling van de codebase. Het helpt belanghebbenden en bijdragers de ontwikkeling van de codebase af te kaderen. De doelstellingen bieden ook een gemakkelijke manier voor mensen om te beslissen of deze codebase, of een van modules ervan, nu of in de toekomst interessant voor hen is.
+Het duidelijk documenteren van de doelstellingen van de [codebase](../glossary.html#codebase) communiceert de bedoeling van de codebase. Het helpt belanghebbenden en participanten de ontwikkeling van de codebase af te kaderen. De doelstellingen bieden ook een gemakkelijke manier voor mensen om te beslissen of deze codebase, of een van modules ervan, nu of in de toekomst interessant voor hen is.
 
 ## Vereisten
 

@@ -14,7 +14,7 @@ Hieronder volgt een korte uitleg van elk van deze secties en hoe ze worden gebru
 
 ## Inleiding
 
-In deze sectie wordt uitgelegd wat het criterium beoogt te bereiken en waarom het belangrijk is voor de gebruikers en bijdragers van een codebase.
+In deze sectie wordt uitgelegd wat het criterium beoogt te bereiken en waarom het belangrijk is voor de gebruikers en participanten van een codebase.
 
 ## Vereisten
 

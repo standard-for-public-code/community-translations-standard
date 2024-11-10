@@ -3,22 +3,22 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 4
-description: Verwelkom bijdragers om de community te laten groeien en zichzelf langdurig in stand te houden.
+description: Verwelkom participanten om de community te laten groeien en zichzelf langdurig in stand te houden.
 ---
 
-# Verwelkom bijdragers
+# Verwelkom participanten
 
-De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als bijdrager kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur ("*governance*") van de codebase-community begrijpen en die vertrouwen.
+De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als participant kan de community groeien en zichzelf langdurig in stand houden. In een community waarin participanten op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur ("*governance*") van de codebase-community begrijpen en die vertrouwen.
 
 ## Vereisten
 
 - De codebase MOET iedereen de mogelijkheid geven verbetersuggesties te kunnen doen.
 
-- De codebase MOET bijdragerichtlijnen bevatten die uitleggen welke soorten bijdragen welkom zijn en hoe bijdragers betrokken kunnen worden, bijvoorbeeld in een CONTRIBUTING-bestand.
+- De codebase MOET bijdragersrichtlijnen bevatten die uitleggen welke soorten bijdragen welkom zijn en hoe participanten betrokken kunnen worden, bijvoorbeeld in een CONTRIBUTING-bestand.
 
 - De codebase MOET de governance van de codebase, de bijdragen en de community documenteren, bijvoorbeeld in een GOVERNANCE-bestand.
 
-- In de bijdragerichtlijnen ZOU MOETEN worden vastgelegd wie de kosten voor het beoordelen van bijdragen moet betalen.
+- In de bijdragersrichtlijnen ZOU MOETEN worden vastgelegd wie de kosten voor het beoordelen van bijdragen moet betalen.
 
 - De codebase ZOU de toegezegde betrokkenheid van organisaties bij de ontwikkeling en het onderhoud MOETEN noemen.
 
@@ -26,17 +26,17 @@ De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat
 
 - De codebase ZOU statistieken over de codebase-activiteiten MOETEN publiceren.
 
-- De codebase kan OPTIONEEL een gedragscode voor bijdragers bevatten.
+- De codebase kan OPTIONEEL een gedragscode voor participanten bevatten.
 
 ## Hoe te testen
 
 - Controleer of het mogelijk is suggesties voor wijzigingen in de codebase te doen.
 
-- Controleer of er bijdragerichtlijnen zijn.
+- Controleer of er bijdragersrichtlijnen zijn.
 
 - Controleer of de codebase governance duidelijk is uitgelegd, inclusief hoe invloed kan worden uitgeoefend op de besluitvorming.
 
-- Controleer of in de bijdragerichtlijnen is vastgelegd wie de kosten voor het beoordelen van bijdragen betaalt.
+- Controleer of in de bijdragersrichtlijnen is vastgelegd wie de kosten voor het beoordelen van bijdragen betaalt.
 
 - Controleer de lijst met betrokken organisaties.
 
@@ -68,9 +68,9 @@ De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat
 
 - Reageer vlot op verzoeken.
 
-- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
+- Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere participanten te ondersteunen.
 
-- Communiceer duidelijk aan bijdragers wat ze moeten doen om ervoor te zorgen dat hun bijdrage geïntegreerd kan worden.
+- Communiceer duidelijk aan participanten wat ze moeten doen om ervoor te zorgen dat hun bijdrage geïntegreerd kan worden.
 
 ## Meer informatie
 
