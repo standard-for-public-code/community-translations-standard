@@ -8,9 +8,9 @@ description: Vergroot de kans dat gebruikers bijdragen leveren aan de codebase.
 
 # Maak bijdragen gemakkelijk
 
-Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten gebruikers problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
+Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten participanten problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
 
-Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers ook bijdragen gaan leveren.
+Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers ook participanten worden.
 
 ## Vereisten
 
@@ -52,9 +52,9 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere participanten te ondersteunen.
 
-- Zorg ervoor dat de juiste communicatiekanalen voor het stellen van vragen aan beheerders en belanghebbenden gemakkelijk te vinden zijn, bijvoorbeeld in de `README`.
+- Zorg ervoor dat het stellen van vragen aan beheerders en belanghebbenden zo gemakkelijk mogelijk is. Door bijvoorbeeld de juiste communicatiekanalen daartoe te benoemen in de `README`.
 
-- Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in het bestand publiccode.yml.
+- Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in de publiccode.yml.
 
 ## Meer informatie
 
