@@ -12,7 +12,7 @@ Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk re
 
 Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [continue integratieworkflow](../glossary.html#continue-integratie) van een codebase helpt participanten om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
+Het documenteren van de [continue integratieworkflow](../glossary.html#continue-integratie) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
 
 ## Vereisten
 
@@ -22,7 +22,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - De codebase MOET richtlijnen hebben die uitleggen hoe bijdragen gestructureerd moeten worden.
 
-- De codebase MOET actieve participanten hebben die bijdragen kunnen beoordelen.
+- De codebase MOET actieve bijdragers hebben die bijdragen kunnen beoordelen.
 
 - De geautomatiseerde testresultaten voor bijdragen ZOUDEN openbaar MOETEN zijn.
 
@@ -44,7 +44,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Controleer of bijdragen alleen aan de codebase worden toegevoegd nadat alle tests zijn doorstaan.
 
-- Controleer of de bijdragersrichtlijnen uitleggen hoe bijdragen gestructureerd moeten worden.
+- Controleer of de bijdragerichtlijnen uitleggen hoe bijdragen gestructureerd moeten worden.
 
 - Controleer of er de afgelopen drie maanden bijdragen zijn geleverd.
 
@@ -76,7 +76,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Help managers het werkplan zo te structureren dat het in kleine stapjes kan worden geïntegreerd.
 
-- Help participanten om de scope van hun bijdragen en functieverzoeken zo klein mogelijk te houden.
+- Help bijdragers om de scope van hun bijdragen en functieverzoeken zo klein mogelijk te houden.
 
 - Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
 

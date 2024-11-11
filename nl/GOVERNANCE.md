@@ -19,7 +19,7 @@ De community rondom de Nederlandse Vertaling van de Standaard voor Publieke Code
 De community rondom de Nederlandse Vertaling van de Standaard voor Publieke Code heeft een redactie die verantwoordelijk is voor het doorvoeren van verbeteringen. 
 
 #### Samenstelling
-Elke actieve participant in de community kan verzoeken om lid te worden van de redactie door dit aan de redactie kenbaar te maken. De redactie zal hierover stemmen.
+Elke actieve bijdrager in de community kan verzoeken om lid te worden van de redactie door dit aan de redactie kenbaar te maken. De redactie zal hierover stemmen.
 
 De huidige redactieleden zijn:
 
@@ -29,7 +29,7 @@ De huidige redactieleden zijn:
 
 #### Verantwoordelijkheden
 
-De redactie zijn actieve participanten die dagelijks verantwoordelijk zijn voor:
+De redactie zijn actieve bijdragers die dagelijks verantwoordelijk zijn voor:
 
 - Het mergen van pull requests
 - Het afhandelen van overtredingen van de gedragscode
@@ -38,7 +38,7 @@ Naast de dagelijkse taken heeft de redactie de gezamenlijke verantwoordelijkheid
 
 - Technisch richting te geven aan de codebase
 - De roadmap en ondersteunende principes van de *upstream* Standard for Public Code in de gaten te houden
-- Problemen in de ontwikkeling of conflicten tussen participanten op te lossen
+- Problemen in de ontwikkeling of conflicten tussen bijdragers op te lossen
 - Releases te beheren en plannen
 - Toegangsrechten te beheren tot de bronnen van de Standaard voor Publieke Code, zoals bronrepositories, hosting en projectagenda's
 - De governance aan te passen indien nodig
@@ -72,7 +72,7 @@ De community rondom de *upstream* Standard for Public Code houdt zich aan de vol
 De community van de *upstream* Standard for Public Code heeft één stuurteam.
 
 #### Samenstelling
-Elke actieve participant in de community kan verzoeken om lid te worden van het stuurteam door het stuurteam te vragen. Het stuurteam zal hierover stemmen (zie het stemproces hieronder).
+Elke actieve bijdrager in de community kan verzoeken om lid te worden van het stuurteam door het stuurteam te vragen. Het stuurteam zal hierover stemmen (zie het stemproces hieronder).
 
 De huidige teamleden zijn:
 
@@ -85,7 +85,7 @@ De huidige teamleden zijn:
 Idealiter heeft geen enkele organisatie een meerderheid aan leden in het stuurteam.
 
 #### Verantwoordelijkheden
-De stuurteamleden zijn actieve participanten die dagelijks verantwoordelijk zijn voor:
+De stuurteamleden zijn actieve bijdragers die dagelijks verantwoordelijk zijn voor:
 
 - Het mergen van pull requests
 - Het afhandelen van overtredingen van de gedragscode
@@ -94,7 +94,7 @@ Naast de dagelijkse taken heeft het stuurteam de gezamenlijke verantwoordelijkhe
 
 - Technisch richting te geven aan de codebase
 - Een roadmap en ondersteunende principes bij te houden
-- Problemen in de ontwikkeling of conflicten tussen participanten op te lossen
+- Problemen in de ontwikkeling of conflicten tussen bijdragers op te lossen
 - Releases te beheren en plannen
 - Toegangsrechten te beheren tot de bronnen van de *upstream* Standard for Public Code, zoals bronrepositories, hosting en projectagenda's
 - De missie, visie, waarden en scope van het project te bewaken

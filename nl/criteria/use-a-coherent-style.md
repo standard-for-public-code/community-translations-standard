@@ -3,12 +3,12 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 15
-description: Gebruik een coherente stijl om participanten in verschillende omgevingen samen te laten werken.
+description: Gebruik een coherente stijl om bijdragers in verschillende omgevingen samen te laten werken.
 ---
 
 # Gebruik een coherente stijl
 
-Door een consistente en coherente stijl te volgen, kunnen participanten in verschillende omgevingen samenwerken. Het uniformeren van taalgebruik vermindert wrijving in de communicatie tussen participanten.
+Door een consistente en coherente stijl te volgen, kunnen bijdragers in verschillende omgevingen samenwerken. Het uniformeren van taalgebruik vermindert wrijving in de communicatie tussen bijdragers.
 
 ## Vereisten
 
@@ -36,7 +36,7 @@ Door een consistente en coherente stijl te volgen, kunnen participanten in versc
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-Als de codebase nog geen technische richtlijnen of andere richtlijnen voor participanten heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.html#repository) die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen](/nl/glossary.html#broncode) zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
+Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.html#repository) die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen](/nl/glossary.html#broncode) zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
 
 Bovendien:
 

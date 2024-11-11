@@ -20,13 +20,13 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
-- Bijdragersrichtlijnen ZOUDEN MOETEN vereisen dat participanten relevante wijzigingen in commits groeperen.
+- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat bijdragers relevante wijzigingen in commits groeperen.
 
 - Beheerders ZOUDEN vrijgegeven versies van de codebase MOETEN markeren, bijvoorbeeld met revisie- of tekstlabels.
 
-- Bijdragersrichtlijnen ZOUDEN bestandsformaten MOETEN aanmoedigen waarbij de wijzigingen in de bestanden eenvoudig kunnen worden bekeken en begrepen in het versiebeheersysteem.
+- Bijdragerichtlijnen ZOUDEN bestandsformaten MOETEN aanmoedigen waarbij de wijzigingen in de bestanden eenvoudig kunnen worden bekeken en begrepen in het versiebeheersysteem.
 
-- Participanten kunnen hun commits OPTIONEEL ondertekenen en een e-mailadres opgeven, zodat toekomstige participanten contact kunnen opnemen met eerdere participanten met vragen over hun werk.
+- Bijdragers kunnen hun commits OPTIONEEL ondertekenen en een e-mailadres opgeven, zodat toekomstige bijdragers contact kunnen opnemen met eerdere bijdragers met vragen over hun werk.
 
 ## Hoe te testen
 
@@ -38,7 +38,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Controleer of het versiebeheersysteem gedistribueerd is.
 
-- Bekijk de commit-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragersrichtlijnen.
+- Bekijk de commit-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
 
 - Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 

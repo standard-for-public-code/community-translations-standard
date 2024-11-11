@@ -14,7 +14,7 @@ Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codeb
 
 Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context](../glossary.html#verschillende-contexten) als het doel ervan duidelijk gedocumenteerd is.
 
-Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een participant, leverancier of implementatie kan door elke andere participant worden getest.
+Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een mede-ontwikkelaar, leverancier of implementatie kan door elke andere mede-ontwikkelaar worden getest.
 
 ## Vereisten
 
