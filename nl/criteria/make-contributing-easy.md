@@ -8,7 +8,7 @@ description: Vergroot de kans dat gebruikers bijdragen leveren aan de codebase.
 
 # Maak bijdragen gemakkelijk
 
-Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten bijdragers problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
+Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
 
 Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers ook bijdragers worden.
 

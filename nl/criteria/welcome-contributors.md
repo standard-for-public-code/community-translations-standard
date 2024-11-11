@@ -8,7 +8,7 @@ description: Verwelkom bijdragers om de community te laten groeien en zichzelf l
 
 # Verwelkom bijdragers
 
-De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als bijdrager kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur ("*governance*") van de codebase-community begrijpen en die vertrouwen.
+De sfeer in een [codebase](../glossary.html#codebase) community zorgt ervoor dat gebruikers de ene codebase wel en de andere niet zullen gebruiken. Door iedereen te verwelkomen als [bijdrager](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) kan de community groeien en zichzelf langdurig in stand houden. In een community waarin bijdragers op een duidelijke manier invloed kunnen uitoefenen op de codebase en de doelen en voortgang van de community, is de kans kleiner dat de community zich opsplitst in zich van elkaar af bewegende communities. Nieuwkomers moeten de bestuurs- en besluitvormingsstructuur ("*governance*") van de codebase-community begrijpen en die vertrouwen.
 
 ## Vereisten
 

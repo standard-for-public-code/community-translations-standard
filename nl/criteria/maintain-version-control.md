@@ -20,7 +20,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
-- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat bijdragers relevante wijzigingen in commits groeperen.
+- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) relevante wijzigingen in commits groeperen.
 
 - Beheerders ZOUDEN vrijgegeven versies van de codebase MOETEN markeren, bijvoorbeeld met revisie- of tekstlabels.
 

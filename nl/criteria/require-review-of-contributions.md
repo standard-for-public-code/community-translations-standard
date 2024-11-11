@@ -12,7 +12,7 @@ Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [
 
 Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](../glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen.
 
-Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdragers een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
+Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
 
 ## Vereisten
 

@@ -20,7 +20,7 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Alle broncode MOET worden gepubliceerd met een licentiebestand.
 
-- Bijdragers MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
+- [Bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
 
 - Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentiekop MOETEN bevatten die machineleesbaar zijn.
 

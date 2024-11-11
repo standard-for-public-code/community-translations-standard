@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html
 translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 order: 15
-description: Gebruik een coherente stijl om bijdragers in verschillende omgevingen samen te laten werken.
+description: Gebruik een coherente stijl om [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) in verschillende omgevingen samen te laten werken.
 ---
 
 # Gebruik een coherente stijl
