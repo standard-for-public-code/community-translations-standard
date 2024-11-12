@@ -16,7 +16,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Alle beslissingen MOETEN in commit-berichten worden gedocumenteerd.
 
-- Elke commit-berichten MOET waar mogelijk linken naar discussies en issues.
+- Elke commit-berichten MOET waar mogelijk een verwijzing bevatten naar onderlinge discussies en issues.
 
 - De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
@@ -42,7 +42,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 
-- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk tekstformaten zijn.
+- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk in platte tekstformaten zijn.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -52,11 +52,11 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
     -   hoe de beleidswijziging de codebase heeft veranderd
 
-Bijvoorbeeld, het toevoegen van een nieuwe categorie aanvrager aan een codebase voor het toekennen van vergunningen, zou als een beleidswijziging worden beschouwd.
+Bijvoorbeeld, als er een nieuwe categorie voor het aanvragen van een vergunning wordt vastgesteld, dan wordt dat als een beleidswijziging gezien.
 
 ## Managers: wat je moet doen
 
-- Stimuleer beleidsmakers, ontwikkelaars en ontwerpers om duidelijk te zijn over welke verbeteringen ze aanbrengen in de codebase. Verbeteringen aanbrengen is geen imagoschade-risico.
+- Stimuleer beleidsmakers, ontwikkelaars en ontwerpers om duidelijk te zijn over welke verbeteringen ze aanbrengen aan de codebase. Verbeteringen aanbrengen is geen imagoschade-risico.
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
