@@ -32,7 +32,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 - Controleer of alle gebruikte niet-open standaarden duidelijk als zodanig zijn gedocumenteerd.
 
-- Controleer of de documentatie een lijst bevat met de standaarden die in de codebase worden gehanteerd, elk met een werkende link of een verklaring dat er geen standaarden zijn gekozen.
+- Controleer of de documentatie een lijst bevat met de standaarden die in de codebase worden gehanteerd, elk met een werkende link, of een verklaring dat er geen standaarden zijn gekozen.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
