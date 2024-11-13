@@ -16,7 +16,9 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 - De codebase MOET een openbare issue tracker hebben die suggesties van iedereen accepteert.
 
-- De documentatie MOET linken naar zowel de openbare issue tracker als de ingediende codebase-wijzigingen, bijvoorbeeld in een `README`-bestand.
+- De documentatie MOET duidelijk maken waar issues openbaar kunnen worden gemeld, zoals in een `README`-bestand.
+
+- De documentatie MOET duidelijk maken waar de openbare wijzigingshistorie te vinden is, zoals in een `README`-bestand.
 
 - De codebase MOET communicatiekanalen hebben voor gebruikers en ontwikkelaars, bijvoorbeeld e-maillijsten.
 
@@ -38,11 +40,11 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Houd [beleidsissues](../glossary.html#beleid) in de codebase bij, zodat ook externe beleidsexperts vrijwillige hulp kunnen bieden.
+- Documenteer onduidelijkheden of openstaande vragen in je beleidscodebase, zodat anderen in staat worden gesteld je te helpen.
 
 ## Managers: wat je moet doen
 
-- Houd management issues in de codebase bij, zodat ook externe managers met relevante ervaring vrijwillige hulp kunnen bieden.
+- Documenteer openlijk onduidelijkheden of openstaande vragen waar je tegenaan loopt, zodat anderen in staat worden gesteld je te helpen.
 
 - Stimuleer je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
 
