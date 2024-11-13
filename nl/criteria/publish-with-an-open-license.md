@@ -8,21 +8,21 @@ description: Door voor elk bestand in een codebase duidelijk de licentie aan te 
 
 # Publiceer met een open licentie
 
-Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken om te begrijpen hoe de broncode werkt, om het vrijelijk te gebruiken en om bij te dragen aan de [codebase](/nl/glossary.html#codebase). Hierdoor kan er een ecosysteem van leveranciers ontstaan rond de codebase.
+Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken en doorgronden, om het vrijelijk te gebruiken en er aan bij te dragen. Hierdoor kan er een ecosysteem van bijdragers ontstaan rond de codebase.
 
-Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden hergebruik van delen van de codebase en naamsvermelding daarbij eenvoudiger.
+Door voor elk bestand in een codebase duidelijk aan te geven onze welke licentie deze is gedeeld, wordt hergebruik van delen van de codebase eenvoudiger.
 
 ## Vereisten
 
-- Alle broncode en documentatie MOET onder een licentie vallen zodanig dat ze vrij herbruikbaar, veranderbaar en herdistribueerbaar is.
+- Aan alle broncode en documentatie MOET een open licentie worden verbonden waarmee deze herbruikbaar, veranderbaar en herdistribueerbaar is.
 
-- De broncode van software MOET onder een [OSI-goedgekeurde of FSF Free/Libre-licentie](https://spdx.org/licenses/) vallen.
+- Aan de broncode van software MOET een [OSI-goedgekeurde of FSF Free/Libre-licentie](https://spdx.org/licenses/) verbonden worden.
 
 - Alle broncode MOET worden gepubliceerd met een licentiebestand.
 
 - [Bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
 
-- Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentiekop MOETEN bevatten die machineleesbaar zijn.
+- Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentie koptekst MOETEN bevatten die machineleesbaar zijn.
 
 - Het hebben van meerdere licenties voor verschillende soorten broncode en documentatie is OPTIONEEL.
 
@@ -32,11 +32,11 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 - Controleer of de licentie voor de broncode op de [OSI-goedgekeurde of FSF Free/Libre-licentielijst](https://spdx.org/licenses/) staat en of de licentie voor de documentatie [overeenkomt met de Open Definition](https://opendefinition.org/licenses/).
 
-- Controleer of de licenties die in de codebase worden gebruikt, als bestanden zijn opgenomen.
+- Controleer of de licenties die in de codebase worden gebruikt, als platte tekst bestanden zijn opgenomen.
 
 - Controleer of de bijdragerichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
 
-- Controleer op machineleesbare licentiecontrole in de [continue integratietests](../glossary.html#continue-integratie) van de codebase.
+- Controleer op machineleesbare licentiecontrole in de [doorlopende integratietests](../glossary.html#continue-integratie) van de codebase.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -52,11 +52,11 @@ Door voor elk bestand in een codebase duidelijk de licentie aan te geven, worden
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Voeg een nieuw licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
+- Voeg een nieuw platte tekst licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
 
-- Voeg een copyrightmelding en een licentiekop toe aan elk nieuw broncodebestand dat wordt gemaakt.
+- Voeg een copyrightmelding en een licentie koptekst toe aan elk nieuw broncodebestand dat wordt gemaakt.
 
-- Als broncode door de codebase wordt hergebruikt, zorg er dan voor dat deze onder een licentie valt die compatibel is met de licentie of licenties van de codebase.
+- Als broncode door de codebase wordt hergebruikt, zorg er dan voor dat deze onder een licentie valt die verenigbaar is met de licentie of licenties van de codebase.
 
 ## Meer informatie
 
