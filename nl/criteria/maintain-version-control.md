@@ -14,31 +14,31 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Alle bestanden in de codebase MOETEN onder versiebeheer vallen.
 
-- Alle beslissingen MOETEN in commit-berichten worden gedocumenteerd.
+- Alle beslissingen MOETEN in bijdrage-berichten worden gedocumenteerd.
 
-- Elke commit-berichten MOET waar mogelijk een verwijzing bevatten naar onderlinge discussies en issues.
+- Elke bijdrage-berichten MOET waar mogelijk een verwijzing bevatten naar onderlinge discussies en issues.
 
 - De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
-- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) relevante wijzigingen in commits groeperen.
+- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) relevante wijzigingen in bijdragen groeperen.
 
 - Beheerders ZOUDEN vrijgegeven versies van de codebase MOETEN markeren, bijvoorbeeld met revisie- of tekstlabels.
 
 - Bijdragerichtlijnen ZOUDEN bestandsformaten MOETEN aanmoedigen waarbij de wijzigingen in de bestanden eenvoudig kunnen worden bekeken en begrepen in het versiebeheersysteem.
 
-- Bijdragers kunnen hun commits OPTIONEEL ondertekenen en een e-mailadres opgeven, zodat toekomstige bijdragers contact kunnen opnemen met eerdere bijdragers met vragen over hun werk.
+- Bijdragers kunnen hun bijdragen OPTIONEEL ondertekenen en een e-mailadres opgeven, zodat toekomstige bijdragers contact kunnen opnemen met eerdere bijdragers met vragen over hun werk.
 
 ## Hoe te testen
 
 - Controleer of de codebase wordt beheerd met versiebeheersoftware zoals Git.
 
-- Bekijk de commit-geschiedenis om te bevestigen dat alle commit-berichten uitleggen waarom de wijziging is gemaakt.
+- Bekijk de bijdrage-geschiedenis om te bevestigen dat alle bijdrage-berichten uitleggen waarom de wijziging is gemaakt.
 
-- Bekijk de commit-geschiedenis en bevestig dat waar mogelijk alle commit-berichten de discussie over de wijziging bevatten of waar die te vinden is (met een URL).
+- Bekijk de bijdrage-geschiedenis en bevestig dat waar mogelijk alle bijdrage-berichten de discussie over de wijziging bevatten of waar die te vinden is (met een URL).
 
 - Controleer of het versiebeheersysteem gedistribueerd is.
 
-- Bekijk de commit-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
+- Bekijk de bijdrage-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
 
 - Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 
@@ -62,11 +62,11 @@ Bijvoorbeeld, als er een nieuwe categorie voor het aanvragen van een vergunning 
 
 - Zorg ervoor dat alle bestanden die nodig zijn om de code te begrijpen, te bouwen en te implementeren, in het versiebeheersysteem staan.
 
-- Schrijf duidelijke commit-berichten, zodat het makkelijk te begrijpen is waarom de commit gedaan is.
+- Schrijf duidelijke bijdrage-berichten, zodat het makkelijk te begrijpen is waarom de bijdrage gedaan is.
 
 - Markeer verschillende versies zodat het eenvoudig is om een specifieke versie te openen, bijvoorbeeld met behulp van revisie- of tekstlabels.
 
-- Schrijf duidelijke commit-berichten zodat versies goed vergeleken kunnen worden.
+- Schrijf duidelijke bijdrage-berichten zodat versies goed vergeleken kunnen worden.
 
 - Werk samen met beleidsmakers om te beschrijven hoe de broncode is bijgewerkt na een beleidswijziging.
 

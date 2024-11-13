@@ -58,7 +58,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
         - Controleer of er meerdere partijen bijdragen aan de codebase.
 
-- Controleer of de codebase-bestanden en commit-geschiedenis geen situatiespecifieke gegevens bevatten.
+- Controleer of de codebase-bestanden en bijdrage-geschiedenis geen situatiespecifieke gegevens bevatten.
 
 - Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder dat er diensten of platformen van één leverancier nodig zijn.
 
@@ -90,7 +90,7 @@ zodat iemand in een vergelijkbare organisatie met een vergelijkbaar probleem (de
 
 Zorg ervoor dat de documentatie van de codebase de build- en runtime-afhankelijkheden beschrijft. Als je context vereist dat je implementeert op propriëtaire platformen of propriëtaire componenten gebruikt, zorg er dan voor dat anderen zonder deze componenten kunnen ontwikkelen, gebruiken, testen en implementeren.
 
-Bij elke commit controleren beoordelaars of de inhoud geen situatiespecifieke gegevens bevat, zoals hostnamen, persoons- en organisatiegegevens of tokens en wachtwoorden.
+Bij elke bijdrage controleren beoordelaars of de inhoud geen situatiespecifieke gegevens bevat, zoals hostnamen, persoons- en organisatiegegevens of tokens en wachtwoorden.
 
 ## Meer informatie
 

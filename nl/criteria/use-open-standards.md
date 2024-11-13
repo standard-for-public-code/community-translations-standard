@@ -48,7 +48,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 - Voeg [continue integratietests](../glossary.html#continue-integratie) op naleving van de standaarden toe.
 
-- Controleer de commits en andere [repositorybronnen](../glossary.html#repository) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
+- Controleer de bijdragen en andere [repositorybronnen](../glossary.html#repository) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
 
 ## Meer informatie
 

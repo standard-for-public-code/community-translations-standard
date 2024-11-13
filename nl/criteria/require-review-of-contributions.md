@@ -36,7 +36,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdr
 
 ## Hoe te testen
 
-- Controleer of elke commit in de geschiedenis door iemand anders dan de bijdrager is beoordeeld.
+- Controleer of elke bijdrage in de geschiedenis door iemand anders dan de bijdrager is beoordeeld.
 
 - Controleer of de beoordelingen de bron, het beleid, de tests en de documentatie bevatten.
 
@@ -46,7 +46,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdr
 
 - Controleer bij de beoordelaars of ze tijdens de beoordeling de software en tests uitvoeren.
 
-- Controleer bij de beoordelaars of commits door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
+- Controleer bij de beoordelaars of bijdragen door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
 
 - Controleer het gebruik van *branch protection* in het [versiebeheersysteem](../glossary.html#versiebeheer).
 
