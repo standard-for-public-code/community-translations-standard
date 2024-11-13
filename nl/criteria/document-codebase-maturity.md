@@ -12,7 +12,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#
 
 ## Vereisten
 
-- De codebase MOET een geversioneerd zijn.
+- De codebase MOET een unieke versienummering bevatten.
 
 - De codebase MOET duidelijk documenteren of er al dan niet versies van de codebase klaar zijn voor gebruik.
 
