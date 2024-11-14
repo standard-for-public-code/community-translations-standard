@@ -143,9 +143,11 @@
   {% assign page = pages | where: "name", "GOVERNANCE.md" | first %}
   {% if page %}<article id="section-governance">{{page.content | markdownify}}</article>{% endif %}
 
+  {% comment %}
   <figure>
     <img src="https://www.standardforpubliccode.org/assets/eco-system.svg" alt="ecosystem">
   </figure>
+  {% endcomment %}
 
   {% comment %}
   {% assign page = pages | where: "name", "CHANGELOG.md" | first %}

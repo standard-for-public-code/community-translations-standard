@@ -110,11 +110,11 @@ weasyprint --presentational-hints \
 	standaard-voor-publieke-code-$VERSION.pdf
 ls -l	standaard-voor-publieke-code-$VERSION.pdf
 
-echo
-weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/nl/foreword-print.html" \
-	standaard-voor-publieke-code-foreword-$VERSION.pdf
-ls -l	standaard-voor-publieke-code-foreword-$VERSION.pdf
+#echo
+#weasyprint --presentational-hints \
+#	"http://localhost:$JEKYLL_PDF_PORT/nl/foreword-print.html" \
+#	standaard-voor-publieke-code-foreword-$VERSION.pdf
+#ls -l	standaard-voor-publieke-code-foreword-$VERSION.pdf
 
 echo
 weasyprint --presentational-hints \
@@ -134,14 +134,14 @@ ls -l	standaard-cover-$VERSION.pdf
 #	standard-checklist-$VERSION.pdf
 #ls -l	standard-checklist-$VERSION.pdf
 
-echo
-if ! pdfjam --version ; then
-	echo "'pdfjam' not installed, skipping print versions"
-	echo "'pdfjam' should be available from the package manager, e.g.:"
-	echo
-	echo "        sudo apt install -y texlive-extra-utils"
-	echo
-else
+#echo
+#if ! pdfjam --version ; then
+#	echo "'pdfjam' not installed, skipping print versions"
+#	echo "'pdfjam' should be available from the package manager, e.g.:"
+#	echo
+#	echo "        sudo apt install -y texlive-extra-utils"
+#	echo
+#else
 	#pdfjam standard-checklist-$VERSION.pdf \
 	#	'4,1-3' \
 	#	--trim "-0.6cm -0.6cm -0.6cm -0.6cm" \
@@ -149,27 +149,27 @@ else
 	#	--papersize '{216mm,303mm}'  \
 	#	--outfile standard-checklist-folded-$VERSION.pdf
 
-	pdfjam \
-		standaard-voor-publieke-code-voorwoord-$VERSION.pdf \
-		standaard-voor-publieke-code-$VERSION.pdf \
-		--outfile standaard-voor-publieke-code-print-$VERSION.pdf
+	#pdfjam \
+	#	standaard-voor-publieke-code-voorwoord-$VERSION.pdf \
+	#	standaard-voor-publieke-code-$VERSION.pdf \
+	#	--outfile standaard-voor-publieke-code-print-$VERSION.pdf
 
 	#ls -l standard-checklist-folded-$VERSION.pdf
-	ls -l standaard-voor-publieke-code-print-$VERSION.pdf
-fi
+	#ls -l standaard-voor-publieke-code-print-$VERSION.pdf
+#fi
 
-echo
-if ! pandoc --version ; then
-	echo "'pandoc' not installed, skipping .epub version"
-	echo "'pandoc' should be available from the package manager, e.g.:"
-	echo
-	echo "        sudo apt install -y pandoc"
-	echo
-else
-	pandoc $JEKYLL_PDF_DIR/nl/standard-print.html \
-		-o standaard-voor-publieke-code-$VERSION.epub
-	ls -l standaard-voor-publieke-code-$VERSION.epub
-fi
+#echo
+#if ! pandoc --version ; then
+#	echo "'pandoc' not installed, skipping .epub version"
+#	echo "'pandoc' should be available from the package manager, e.g.:"
+#	echo
+#	echo "        sudo apt install -y pandoc"
+#	echo
+#else
+#	pandoc $JEKYLL_PDF_DIR/nl/standard-print.html \
+#		-o standaard-voor-publieke-code-$VERSION.epub
+#	ls -l standaard-voor-publieke-code-$VERSION.epub
+#fi
 
 echo
 temp_weasyprint_info
