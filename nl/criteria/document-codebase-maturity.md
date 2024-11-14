@@ -48,7 +48,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle uitgaven.
+- Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle uitgaves.
 
 ## Meer informatie
 
