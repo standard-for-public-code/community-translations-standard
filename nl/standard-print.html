@@ -22,6 +22,15 @@
     [id$="managers-what-you-need-to-do"]:before { content: 'M' !important; }
     [id$="developers-and-designers-what-you-need-to-do"]:before { content: 'O' !important; }
 
+    /* Version info */
+
+    #version-info {
+      bottom: 2cm;
+    }
+    #version-info>p {
+      margin: 0 !important;
+    }
+
     /* Print specific */
     @media print {
       @page :left {
@@ -49,9 +58,11 @@
       <li id="first-page-developers-and-designers-what-you-need-to-do">Ontwikkelaar of ontwerper</li>
     </ul>
     <img src="https://www.standardforpubliccode.org/assets/hands-shake.svg" alt="hands shaking">
-    <p><strong>Voorlopige versie</strong><br/>Versie <span class="standard-version">0.8.0-nl-0.1.0</span></p>
-    <p><img src="https://www.standardforpubliccode.org/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"></p>
-    <p>github.com/standard-for-public-code/community-translations-standard</p>
+    <div id="version-info">
+      <p><img src="https://www.standardforpubliccode.org/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"></p>
+      <p>Voorlopige versie <span class="standard-version">0.8.0-nl-0.1.0</span></p>
+      <p>https://www.standaardvoorpubliekecode.nl</p>
+    </div>
   </article>
 
   {% assign page = pages | where: "name", "AUTHORS.md" | first %}
