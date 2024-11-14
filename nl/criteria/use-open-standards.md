@@ -16,7 +16,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 - Alle niet-open standaarden die worden gebruikt, MOETEN duidelijk als zodanig worden vermeld in de documentatie.
 
-- Elke standaard die gekozen is voor gebruik binnen de codebase, MOET in de documentatie worden vermeld met een link naar waar deze beschikbaar is.
+- Elke standaard die gekozen is voor gebruik binnen de codebase, MOET in de documentatie worden vermeld met een verwijzing naar waar deze beschikbaar is.
 
 - Niet-open standaarden die worden gekozen voor gebruik binnen de codebase, MOGEN samenwerking en hergebruik NIET in de weg staan.
 
@@ -32,7 +32,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 - Controleer of alle gebruikte niet-open standaarden duidelijk als zodanig zijn gedocumenteerd.
 
-- Controleer of de documentatie een lijst bevat met de standaarden die in de codebase worden gehanteerd, elk met een werkende link of een verklaring dat er geen standaarden zijn gekozen.
+- Controleer of de documentatie een lijst bevat met de standaarden die in de codebase worden gehanteerd, elk met een werkende verwijzing, of een verklaring dat er geen standaarden zijn gekozen.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -48,7 +48,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 - Voeg [continue integratietests](../glossary.html#continue-integratie) op naleving van de standaarden toe.
 
-- Controleer de commits en andere [repositorybronnen](../glossary.html#repository) op verwijzingen naar standaarden en vergelijk deze met de vermelde standaarden.
+- Controleer bijdragen op gebruik van standaarden en controleer of deze in de documentatie vermeld worden.
 
 ## Meer informatie
 

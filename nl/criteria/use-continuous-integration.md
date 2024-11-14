@@ -26,13 +26,13 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - De geautomatiseerde testresultaten voor bijdragen ZOUDEN openbaar MOETEN zijn.
 
-- In de richtlijnen van de codebase ZOU MOETEN worden vermeld dat elke bijdrage zich op één enkele issue moet richten.
+- In de richtlijnen van de codebase ZOU MOETEN worden vermeld dat elke bijdrage zich op één enkele openstaande vraag moet richten.
 
 - De test- en documentatiedekking van broncode ZOU MOETEN worden gecontroleerd.
 
 - Het testen van [beleid](../glossary.html#beleid) en documentatie op consistentie met de broncode en vice versa is OPTIONEEL.
 
-- Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
+- Het testen van beleid en documentatie op stijl en werkende verwijzingen is OPTIONEEL.
 
 - Het testen van de software aan de hand van voorbeelden in de documentatie is OPTIONEEL.
 
@@ -68,7 +68,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Plan het werk zo dat er heel vaak kleine stukjes geïntegreerd worden in plaats van af en toe grote.
 
-- Zorg ervoor dat consultancydiensten incrementeel opleveren, in afgestemming met het plan.
+- Zorg ervoor dat consultancydiensten incrementeel opleveren, in afstemming met het plan.
 
 - Moedig na een grote mislukking de publicatie van incidentrapporten aan en een openbare bespreking van de geleerde lessen.
 
@@ -78,13 +78,13 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Help bijdragers om de scope van hun bijdragen en functieverzoeken zo klein mogelijk te houden.
 
-- Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
+- Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op werkende verwijzingen of stijl.
 
-- Structureer broncode die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving op zo\'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van bronnen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
+- Structureer broncode, die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving, op zo\'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
 
 - Pas de hulpmiddelen voor testcode-dekkingen aan om valse alarmen als gevolg van *inlining* of andere optimalisaties te voorkomen.
 
-- Rol de codebase regelmatig uit.
+- Installeer regelmatig de nieuwste versie van de codebase.
 
 - Integreer je werk minstens één keer per dag.
 

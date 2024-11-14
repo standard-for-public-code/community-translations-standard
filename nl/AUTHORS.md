@@ -40,7 +40,8 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 ## Auteurs Nederlandse Vertaling
 
 * Vertaalbureau Scriptware
-* Johan Groenen, Code for NL
 * Eva van Sloten, Opensourcewerken
-* Tom Ootes, Developer Overheid
 * Jacco Brouwer
+* Johan Groenen, Code for NL
+* Maurice Hendriks, Ministerie van Volksgezondheid, Welzijn en Sport
+* Tom Ootes, Developer Overheid

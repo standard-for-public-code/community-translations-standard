@@ -8,7 +8,7 @@ description: Onvindbare codebases bestaan de facto niet.
 
 # Maak de codebase vindbaar
 
-Hoe beter een [codebase](../glossary.html#codebase) te vinden is, hoe meer potentiële nieuwe samenwerkers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
+Hoe beter een [codebase](../glossary.html#codebase) te vinden is, hoe meer potentiële nieuwe bijdragers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
 
 Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of een vermelding in de FSF-software directory (en op die manier dus onderdeel uitmaken van het semantische web), zorgt ervoor dat mensen gemakkelijker naar de codebase kunnen verwijzen, er uit citeren, codebases van elkaar onderscheiden en ontdekken via overzichtswebsites van derden.
 
@@ -20,15 +20,15 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Beheerders ZOUDEN de codebase MOETEN indienen bij relevante softwarecatalogi.
 
-- De codebase ZOU een website MOETEN hebben waarop het probleem dat de codebase oplost, wordt beschreven in het jargon van verschillende potentiële gebruikers van de codebase (waaronder technologen, beleidsdeskundigen en managers).
+- De codebase ZOU een website MOETEN hebben waarop het probleem dat de codebase oplost wordt beschreven in het jargon van verschillende potentiële gebruikers van de codebase (waaronder technologen, beleidsdeskundigen en managers).
 
 - De codebase ZOU vindbaar MOETEN zijn met een zoekmachine op codebase-naam.
 
 - De codebase ZOU vindbaar MOETEN zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
-- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van [de repository](../glossary.html#repository) en de website vermeld worden.
+- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van de [repository](../glossary.html#repository) en de website vermeld worden.
 
-- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld in een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
+- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
 - Een eigen domeinnaam voor de codebase is OPTIONEEL.
 

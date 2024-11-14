@@ -26,9 +26,9 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Al het gebundelde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle hoofdtalen.
 
-- Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een link naar een uitleg.
+- Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een verwijzing naar een uitleg.
 
-- De documentatie ZOU gericht MOETEN zijn op het leesniveau van lager secundair onderwijs, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
+- De documentatie ZOU geschreven MOETEN zijn op een eenvoudig taalniveau, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
 
 - Het verstrekken van extra vertalingen van code, documentatie of tests is OPTIONEEL.
 

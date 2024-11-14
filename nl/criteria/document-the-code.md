@@ -12,7 +12,7 @@ Goed gedocumenteerde [broncode](../glossary.html#broncode) helpt mensen te begri
 
 ## Vereisten
 
-- Alle functionaliteit van de codebase, zowel het [beleid](../glossary.html#beleid) als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase begrijpen.
+- Alle functionaliteit van de codebase, zowel het [beleid](../glossary.html#beleid) als de broncode, MOET worden beschreven in een taal die duidelijk te begrijpen is voor degenen die het doel van de codebase moeten begrijpen.
 
 - De documentatie van de codebase MOET een beschrijving bevatten van hoe de software moet worden geïnstalleerd en uitgevoerd.
 
@@ -44,7 +44,7 @@ Goed gedocumenteerde [broncode](../glossary.html#broncode) helpt mensen te begri
 
 - Controleer of de documentatie een hoog-over architectuurdiagram of iets dergelijks bevat.
 
-- Controleer of de kwaliteit van de documentatie deel uitmaakt van de integratietests, bijvoorbeeld of de documentatie correct is gegenereerd en of links en afbeeldingen zijn getest.
+- Controleer of de kwaliteit van de documentatie deel uitmaakt van de integratietests, bijvoorbeeld of de documentatie correct is gegenereerd en of verwijzingen en afbeeldingen zijn getest.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 

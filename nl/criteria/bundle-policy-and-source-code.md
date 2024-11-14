@@ -8,7 +8,7 @@ description: Zo is het gemakkelijker om te begrijpen hoe de code werkt en waarom
 
 # Bundel beleid en broncode
 
-Toegang tot zowel de [broncode](../glossary.html#broncode) als de [beleid](../glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](../glossary.html#codebase).
+Toegang tot zowel de [broncode](../glossary.html#broncode) als het [beleid](../glossary.html#beleid) biedt bouwstenen voor iedereen om de codebase te implementeren in hun lokale context of om bij te dragen aan de verdere ontwikkeling van de [codebase](../glossary.html#codebase).
 
 Inzicht in het domein en het beleid binnen dat domein is fundamenteel om te begrijpen welke problemen een codebase probeert op te lossen en hoe de codebase die probeert op te lossen.
 
@@ -22,7 +22,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Beleid ZOU MOETEN worden aangeleverd in machineleesbare en ondubbelzinnige formaten.
 
-- [Continue integratietests](../glossary.html#continue-integratie) ZOU MOETEN valideren dat de broncode en het beleid coherent worden uitgevoerd.
+- [Continue integratietests](../glossary.html#continue-integratie) ZOUDEN MOETEN valideren dat de broncode en het beleid coherent worden uitgevoerd.
 
 ## Hoe te testen
 
@@ -32,7 +32,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Controleer of het beleid door een machine kan worden geïnterpreteerd.
 
-- Controleer of de continue integratietests op coherente uitvoering van de broncode en het beleid slagen.
+- Controleer of de integratietests op coherente uitvoering van de broncode en het beleid slagen.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -40,7 +40,7 @@ Om te kunnen evalueren of een codebase in een nieuwe context kan worden toegepas
 
 - Geef de relevante beleidsteksten op voor opname in de [repository](../glossary.html#repository). Als de tekst niet in het Engels beschikbaar is, geef dan ook een Engelse samenvatting. Zorg ervoor dat je de standaarden opneemt waaraan je organisatie zich wil houden en alle organisatieprocessen die van invloed zijn op de ontwikkelings- of implementatiecontext van de codebase voor je organisatie.
 
-- Geef referenties en links naar teksten die het beleid ondersteunen.
+- Geef referenties en verwijzingen naar teksten die het beleid ondersteunen.
 
 - Documenteer beleid in formaten die ondubbelzinnig en machineleesbaar zijn, zoals die gepubliceerd door de [Object Management Group](https://www.omg.org/spec/).
 

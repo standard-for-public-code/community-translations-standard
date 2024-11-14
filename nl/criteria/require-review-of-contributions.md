@@ -10,13 +10,13 @@ description: Stimuleer een cultuur waarin ervoor wordt gezorgd dat elke bijdrage
 
 Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [broncode](../glossary.html#broncode) en het verminderen van beveiligingsrisico\'s en operationele risico\'s.
 
-Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](../glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen.
+Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](../glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen en gedeeld eigenaarschap.
 
-Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdragers een gegarandeerde snelheid van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
+Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdragers snelle feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
 
 ## Vereisten
 
-- Alle bijdragen die worden geaccepteerd of vastgelegd in releaseversies van de codebase, MOETEN door een andere bijdrager worden beoordeeld.
+- Alle bijdragen die worden geaccepteerd of vastgelegd in een uitgave van de codebase, MOETEN door een andere bijdrager worden beoordeeld.
 
 - Beoordelingen MOETEN bron, beleid, tests en documentatie omvatten.
 
@@ -28,7 +28,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 - Bijdragen ZOUDEN MOETEN worden beoordeeld door iemand in een [andere context](../glossary.html#verschillende-contexten) dan de bijdrager.
 
-- Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in releaseversies.
+- Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in een uitgave.
 
 - Beoordelingen ZOUDEN binnen twee werkdagen MOETEN plaatsvinden.
 
@@ -36,7 +36,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 ## Hoe te testen
 
-- Controleer of elke commit in de geschiedenis door iemand anders dan de bijdrager is beoordeeld.
+- Controleer of elke bijdrage in de geschiedenis door iemand anders dan de bijdrager is beoordeeld.
 
 - Controleer of de beoordelingen de bron, het beleid, de tests en de documentatie bevatten.
 
@@ -46,11 +46,11 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 - Controleer bij de beoordelaars of ze tijdens de beoordeling de software en tests uitvoeren.
 
-- Controleer bij de beoordelaars of commits door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
+- Controleer bij de beoordelaars of bijdragen door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
 
-- Controleer het gebruik van *branch protection* in het [versiebeheersysteem](../glossary.html#versiebeheer).
+- Controleer of beoordeling ook technisch vereist wordt, bijvoorbeeld door middel van *branch protection* in het [versiebeheersysteem](../glossary.html#versiebeheer).
 
-- Controleer of er geen patroon is van tussenpozen tussen het indienen van een bijdrage en de beoordeling ervan, waarbij de bijdrager langer dan twee werkdagen moet wachten op zinvolle reacties.
+- Controleer of er geen patroon is waarbij de bijdrager langer dan twee werkdagen moet wachten op een beoordeling of anderszins zinvolle reacties.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
