@@ -72,7 +72,7 @@ Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwik
 
 ## Managers: wat je moet doen
 
-- Zorg ervoor dat belanghebbenden en proceseigenaren begrijpen dat herbruikbaarheid een expliciet doel van de codebase is. Dit vermindert de *technical debt* en zorgt voor duurzaamheid van de codebase.
+- Zorg ervoor dat belanghebbenden en proceseigenaren begrijpen dat herbruikbaarheid een expliciet doel van de codebase is. Dit draagt bij aan lange termijn onderhoudbaarheid en zorgt voor duurzaamheid van de codebase.
 
 - Zorg ervoor dat je teams samenwerken met andere teams.
 

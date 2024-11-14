@@ -12,9 +12,11 @@ We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwe
 
 ## Bijdragen aan de Nederlandse Vertaling
 
-Deze Nederlandse vertaling van de Standaard voor Publieke Code is een communityproject georganiseerd vanuit [Code for NL](https://www.codefor.nl). We verwelkomen bijdragen van iedereen. Als je wilt bijdragen aan de vertaling, kun je in de GitHub-repository van de vertaling een *issue* aanmaken of een *pull request* indienen. Of je kunt deze per e-mail sturen naar <standaardvoorpubliekecode@codefor.nl>.
+Deze Nederlandse vertaling van de Standaard voor Publieke Code is een Nederlandstalig communityproject georganiseerd vanuit [Code for NL](https://www.codefor.nl). We verwelkomen bijdragen van iedereen. Als je wilt bijdragen aan de vertaling, kun je een *issue* aanmaken of een *pull request* indienen in de GitHub-repository van de vertaling. Of je kunt deze per e-mail sturen naar <standaardvoorpubliekecode@codefor.nl>.
 
 Maandelijks organiseren we een gebruikerssessie waarin we de Nederlandse Vertaling van de Standaard voor Publieke Code en het gebruik daarvan in de praktijk bespreken. Tussentijds is er de mogelijkheid met elkaar te communiceren via de [chat omgeving van Code for NL](https://praatmee.codefor.nl).
+
+Voertaal in deze community is vanwege de aard van het project Nederlands. Dat wil zeggen dat issues en commit messages in het Nederlands dienen te worden geschreven. De vertaling zelf is in het Nederlands, maar de Engelse versie van de Standaard voor Publieke Code is leidend wat betreft de strekking en inhoud van de tekst.
 
 Talige aanpassingen kunnen we direct doorvoeren. Inhoudelijke suggesties brengen we in bij de *upstream* Standard for Public Code. Iedereen is welkom om deel te nemen. Wil je een uitnodiging ontvangen voor de volgende sessie? Stuur dan een e-mail naar <standaardvoorpubliekecode@codefor.nl>.
 
