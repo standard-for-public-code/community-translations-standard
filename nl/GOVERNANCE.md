@@ -39,7 +39,7 @@ Naast de dagelijkse taken heeft de redactie de gezamenlijke verantwoordelijkheid
 - Technisch richting te geven aan de codebase
 - De roadmap en ondersteunende principes van de *upstream* Standard for Public Code in de gaten te houden
 - Problemen in de ontwikkeling of conflicten tussen bijdragers op te lossen
-- Uitgave te beheren en plannen
+- Uitgaven te beheren en plannen
 - Toegangsrechten te beheren tot de bronnen van de Standaard voor Publieke Code, zoals bronrepositories, hosting en projectagenda's
 - De governance aan te passen indien nodig
 
