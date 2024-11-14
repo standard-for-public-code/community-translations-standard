@@ -128,6 +128,6 @@ Veel van de dagelijkse onderhoudstaken van het project kunnen worden afgehandeld
 Bij een gewone meerderheid betekent dit dat minstens de helft van de stuurteamleden voor heeft gestemd, en bij een tweederdemeerderheid tweederde van de stuurteamleden.
 
 ### Gedragscode
-De Gedragscode van de *upstream* Standard for Public Code wordt uitgelegd in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+De Gedragscode van de *upstream* Standard for Public Code wordt uitgelegd in [CODE_OF_CONDUCT](CODE_OF_CONDUCT).
 
 Als een mogelijke overtreding betrekking heeft op een teamlid, zal dat teamlid worden uitgesloten van de stemming over het probleem. Dergelijke problemen moeten worden geëscaleerd direct naar het stuurteam, en het stuurteam kan ervoor kiezen om in te grijpen.

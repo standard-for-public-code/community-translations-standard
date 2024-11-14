@@ -152,11 +152,8 @@
   {% if page %}<article id="section-changelog">{{page.content | markdownify}}</article>{% endif %}
   {% endcomment %}
 
-  <article id="section-license">
-    <p>Deze licentie vormt de juridische toestemming waardoor iedereen mag doen wat die wil met de inhoud van dit hele document.</p>
-    <h1>CC0 1.0 Universal</h1>
-    <pre>{% include_relative LICENSE.txt %}</pre>
-  </article>
+  {% assign page = pages | where: "name", "LICENSE.md" | first %}
+  {% if page %}<article id="section-license">{{page.content | markdownify}}</article>{% endif %}
 
 </body>
 </html>

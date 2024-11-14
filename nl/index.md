@@ -14,19 +14,19 @@ De Standaard voor Publieke Code definieert "[publieke code](glossary.html#publie
 
 De criteria van de Standaard voor Publieke Code zijn afgestemd op richtlijnen en _best practices_ in open source softwareontwikkeling.
 
-Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](foreword.md).
+Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](foreword).
 
 ## Inhoudsopgave
 
-* [Auteurs](AUTHORS.md)
-* [Voorwoord bij de vertaling](translation-foreword.md)
-* [Voorwoord](foreword.md)
-* [Leeswijzer](readers-guide.md)
-* [Begrippenlijst](glossary.md)
+* [Auteurs](AUTHORS)
+* [Voorwoord bij de vertaling](translation-foreword)
+* [Voorwoord](foreword)
+* [Leeswijzer](readers-guide)
+* [Begrippenlijst](glossary)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/nl/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
   * [{{page.title}}]({{site.baseurl}}{{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}
-* [Bijdragen](CONTRIBUTING.md)
-* [Gedragscode](CODE_OF_CONDUCT.md)
-* [Governance](GOVERNANCE.md)
-* [Versiegeschiedenis](CHANGELOG.md)
-* [Licentie](LICENSE.txt)
+* [Bijdragen](CONTRIBUTING)
+* [Gedragscode](CODE_OF_CONDUCT)
+* [Governance](GOVERNANCE)
+* [Versiegeschiedenis](CHANGELOG)
+* [Licentie](LICENSE)
