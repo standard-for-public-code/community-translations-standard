@@ -124,10 +124,9 @@ gevallen in afwijking van de uitdrukkelijke Doelverklaring van Bekrachtiger.
  c. Bekrachtiger is niet verantwoordelijk voor het vrijmaken van rechten van
     derden die op het Werk of het gebruik daarvan kunnen berusten, zoals maar
     niet beperkt tot het Auteursrecht en Aanverwante Rechten van derden op het
-    Werk.
- d. Bekrachtiger is evenmin verantwoordelijk voor het verkrijgen van de
+    Werk. Bekrachtiger is evenmin verantwoordelijk voor het verkrijgen van de
     voorgeschreven toestemmingen, vergunningen of andere rechten die vereist
     zijn voor het gebruik van het Werk.
- e. Bekrachtiger erkent en verklaart dat Creative Commons geen partij is bij dit
+ d. Bekrachtiger erkent en verklaart dat Creative Commons geen partij is bij dit
     document en dat op haar geen enkele verplichting of plicht rust met
     betrekking tot deze CC0 of het gebruik van het Werk.
