@@ -4,3 +4,4 @@ _site
 .vscode/settings.json
 _build_pdf
 *.epub
+.DS_Store
