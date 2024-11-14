@@ -38,11 +38,11 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Houd een openbare lijst bij van openstaande beleidsvragen, zodat externe beleidsexperts hulp kunnen bieden.
+- Houd een openbare lijst bij van openstaande beleidsvragen, zodat anderen hulp kunnen bieden.
 
 ## Managers: wat je moet doen
 
-- Houd een openbare lijst bij van openstaande managementvragen, zodat externe managers hulp kunnen bieden.
+- Houd een openbare lijst bij van openstaande managementvragen, zodat anderen hulp kunnen bieden.
 
 - Stimuleer je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
 
