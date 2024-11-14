@@ -44,7 +44,7 @@ Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
 
 ## Continue integratie
 
-In software ontwikkeling is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
+In software-ontwikkeling is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
 
 ## Open source
 
