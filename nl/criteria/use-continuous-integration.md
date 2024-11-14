@@ -6,7 +6,7 @@ order: 12
 description: Verzeker je ervan dat bijdragen werken zoals bedoeld en geen fouten bevatten.
 ---
 
-# Continue integratie gebruiken
+# Pas continue integratie toe
 
 Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde aftakking, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdrage, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
 
@@ -60,7 +60,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Herstel beleidsdocumentatie onmiddellijk als deze een test niet doorstaat.
 
-- Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Versiebeheer bijhouden](maintain-version-control.html)).
+- Zorg ervoor dat de broncode wijzigingen in het beleid weergeeft (zie [Houd versiebeheer bij](maintain-version-control.html)).
 
 ## Managers: wat je moet doen
 

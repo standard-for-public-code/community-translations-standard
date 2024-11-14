@@ -6,7 +6,7 @@ order: 16
 description: Zo kunnen anderen beslissen of ze de codebase willen gebruiken en eraan willen bijdragen.
 ---
 
-# Documenteer de volwassenheid van de codebase
+# Beschrijf de volwassenheid
 
 Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#codebase) helpt anderen om te beslissen of ze de codebase willen gebruiken en eraan willen bijdragen. De volwassenheid van een codebase-versie omvat de volwassenheid van zijn afhankelijkheden. Begrijpen hoe een codebase geëvolueerd is, is de sleutel tot het begrijpen van de codebase en hoe eraan bij te dragen.
 

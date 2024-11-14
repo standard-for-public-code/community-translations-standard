@@ -6,9 +6,9 @@ order: 3
 description: Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
 ---
 
-# Maak de codebase herbruikbaar en portabel
+# Maak de codebase herbruikbaar
 
-Het maken van herbruikbare en portabele [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen. Dit leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid van de code.
+Het maken van herbruikbare en verhuisbare [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken en te testen op verschillende omgevingen, te verbeteren en die verbeteringen weer in te brengen. Dit leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid van de code.
 
 Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
 

@@ -6,7 +6,7 @@ order: 6
 description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werken en helpt toekomstige ontwikkelaars om de redenen voor wijzigingen te begrijpen.
 ---
 
-# Versiebeheer bijhouden
+# Houd versiebeheer bij
 
 [Versiebeheer](../glossary.html#versiebeheer") betekent het in de loop van de tijd bijhouden van wijzigingen in de [broncode](../glossary.html#broncode) en andere bestanden van de [codebase](../glossary.html#codebase). Op deze manier kun je gestructureerde documentatie bijhouden van de geschiedenis van de codebase. Dit is essentieel voor samenwerking op grote schaal, omdat het ontwikkelaars in staat stelt om parallel aan bijdragen te werken en toekomstige ontwikkelaars helpt om de redenen voor wijzigingen te begrijpen.
 

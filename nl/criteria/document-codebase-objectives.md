@@ -6,7 +6,7 @@ order: 8
 description: Dit helpt belanghebbenden en bijdragers de ontwikkeling van de codebase af te kaderen.
 ---
 
-# Documenteer de doelstellingen van codebase
+# Documenteer de doelstellingen
 
 Het duidelijk documenteren van de doelstellingen van de [codebase](../glossary.html#codebase) communiceert de bedoeling van de codebase. Het helpt belanghebbenden en bijdragers de ontwikkeling van de codebase af te kaderen. De doelstellingen bieden ook een gemakkelijke manier voor mensen om te beslissen of deze codebase, of een van modules ervan, nu of in de toekomst interessant voor hen is.
 
