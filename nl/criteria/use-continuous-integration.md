@@ -6,13 +6,13 @@ order: 12
 description: Verzeker je ervan dat bijdragen werken zoals bedoeld en geen fouten bevatten.
 ---
 
-# Doorlopende integratie gebruiken
+# Continue integratie gebruiken
 
 Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde aftakking, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdrage, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
 
 Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [doorlopende integratieworkflow](../glossary.html#continue-integratie) van een codebase helpt [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) om de verwachtingen van bijdragen te begrijpen. Doorlopende integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
+Het documenteren van de [continue integratieworkflow](../glossary.html#continue-integratie) van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
 
 ## Vereisten
 
@@ -26,13 +26,13 @@ Het documenteren van de [doorlopende integratieworkflow](../glossary.html#contin
 
 - De geautomatiseerde testresultaten voor bijdragen ZOUDEN openbaar MOETEN zijn.
 
-- In de richtlijnen van de codebase ZOU MOETEN worden vermeld dat elke bijdrage zich op één enkele issue moet richten.
+- In de richtlijnen van de codebase ZOU MOETEN worden vermeld dat elke bijdrage zich op één enkele openstaande vraag moet richten.
 
 - De test- en documentatiedekking van broncode ZOU MOETEN worden gecontroleerd.
 
 - Het testen van [beleid](../glossary.html#beleid) en documentatie op consistentie met de broncode en vice versa is OPTIONEEL.
 
-- Het testen van beleid en documentatie op stijl en gebroken links is OPTIONEEL.
+- Het testen van beleid en documentatie op stijl en werkende verwijzingen is OPTIONEEL.
 
 - Het testen van de software aan de hand van voorbeelden in de documentatie is OPTIONEEL.
 
@@ -78,13 +78,13 @@ Het documenteren van de [doorlopende integratieworkflow](../glossary.html#contin
 
 - Help bijdragers om de scope van hun bijdragen en functieverzoeken zo klein mogelijk te houden.
 
-- Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op gebroken links of stijl.
+- Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op werkende verwijzingen of stijl.
 
 - Structureer broncode, die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving, op zo\'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
 
 - Pas de hulpmiddelen voor testcode-dekkingen aan om valse alarmen als gevolg van *inlining* of andere optimalisaties te voorkomen.
 
-- Geef nieuwe versies van de codebase regelmatig vrij.
+- Installeer regelmatig de nieuwste versie van de codebase.
 
 - Integreer je werk minstens één keer per dag.
 

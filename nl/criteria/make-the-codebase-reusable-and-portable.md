@@ -8,19 +8,19 @@ description: Codebases die door meerdere partijen worden ontwikkeld en gebruikt,
 
 # Maak de codebase herbruikbaar en portabel
 
-Het maken van herbruikbare en portabele [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld her te gebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen, wat leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid van die code.
+Het maken van herbruikbare en portabele [code](../glossary.html#code) stelt beleidsmakers, ontwikkelaars en ontwerpers in staat om wat is ontwikkeld te hergebruiken, te testen, te verbeteren en die verbeteringen weer in te brengen. Dit leidt tot betere kwaliteit, goedkoper onderhoud en hogere betrouwbaarheid van de code.
 
-Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community ondersteuning.
+Het doordacht en doelgericht ontwerpen van een [codebase](../glossary.html#codebase) voor herbruikbaarheid zorgt ervoor dat de missie, visie en scope van de codebase door meerdere partijen wordt gedeeld. Codebases die door meerdere partijen worden ontwikkeld en gebruikt, hebben meer kans op een langlevende community.
 
 Door een codebase zo te organiseren dat deze is samengesteld uit goed gedocumenteerde modules, worden de herbruikbaarheid en het onderhoud ervan verbeterd. Een module is gemakkelijker te hergebruiken in [een andere context](../glossary.html#verschillende-contexten) als het doel ervan duidelijk gedocumenteerd is.
 
-Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van een mede-ontwikkelaar, leverancier of implementatie kan door elke andere mede-ontwikkelaar worden getest.
+Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwikkelaar, leverancier of installatieomgeving kan door elke andere ontwikkelaar worden geprobeerd.
 
 ## Vereisten
 
 - De codebase MOET worden ontwikkeld om in verschillende contexten herbruikbaar te zijn.
 
-- De codebase MOET voor uitvoering en begrip onafhankelijk zijn van geheime, niet openbaar gemaakte, bedrijfseigen of niet-open software of diensten aangeboden onder een beperkende licentie.
+- De codebase MAG voor gebruik en begrip NIET afhankelijk zijn van geheime, niet openbaar gemaakte, bedrijfseigen of niet-open software of diensten.
 
 - De codebase ZOU door meerdere partijen MOETEN worden gebruikt.
 
@@ -30,7 +30,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - Om [broncode](../glossary.html#broncode) aan te passen aan contextspecifieke behoeften ZOU gebruik MOETEN worden gemaakt van configuratie.
 
-- De codebase ZOU locatiespecifiek te maken MOETEN zijn, dat wil zeggen aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen.
+- De codebase ZOU aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen MOETEN zijn.
 
 - De broncode en de bijbehorende documentatie MOGEN GEEN situatiespecifieke informatie bevatten.
 
@@ -44,7 +44,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
 - Controleer of de codebase kan worden uitgevoerd zonder gebruik te maken van propriëtaire of niet-open software of services.
 
-- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt &mdash; vóórdat er een release is die gereed is voor productie &mdash; controleer dan of er aanwijzingen zijn voor de ambitie om samen te werken.
+- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt — vóórdat er een uitgave is die gereed is voor productie — controleer dan of er aanwijzingen zijn voor de ambitie om samen te werken.
 
     - Of als de codebase erg volwassen en stabiel is en er zeer zelden oplossingen, patches of bijdragen zijn:
 
@@ -58,7 +58,7 @@ Broncode die niet afhankelijk is van de situatiespecifieke infrastructuur van ee
 
         - Controleer of er meerdere partijen bijdragen aan de codebase.
 
-- Controleer of de codebase-bestanden en bijdrage-geschiedenis geen situatiespecifieke gegevens bevatten.
+- Controleer of de codebase-bestanden en bijdragegeschiedenis geen situatiespecifieke gegevens bevatten.
 
 - Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder dat er diensten of platformen van één leverancier nodig zijn.
 

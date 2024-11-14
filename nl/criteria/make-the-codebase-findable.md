@@ -26,9 +26,9 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - De codebase ZOU vindbaar MOETEN zijn met een zoekmachine door het probleem dat het oplost in natuurlijke taal te beschrijven.
 
-- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor), de locatie van [de repository](../glossary.html#repository) en de website vermeld worden.
+- De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van de [repository](../glossary.html#repository) en de website vermeld worden.
 
-- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld in een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
+- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
 - Een eigen domeinnaam voor de codebase is OPTIONEEL.
 

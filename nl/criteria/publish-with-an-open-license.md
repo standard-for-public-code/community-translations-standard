@@ -8,9 +8,9 @@ description: Door voor elk bestand in een codebase duidelijk de licentie aan te 
 
 # Publiceer met een open licentie
 
-Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken en doorgronden, om het vrijelijk te gebruiken en er aan bij te dragen. Hierdoor kan er een ecosysteem van bijdragers ontstaan rond de codebase.
+Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken en doorgronden, om het vrijelijk te gebruiken en eraan bij te dragen. Hierdoor kan er een ecosysteem van bijdragers ontstaan rond de codebase.
 
-Door voor elk bestand in een codebase duidelijk aan te geven onze welke licentie deze is gedeeld, wordt hergebruik van delen van de codebase eenvoudiger.
+Door voor elk bestand in een codebase duidelijk aan te geven onder welke licentie deze beschikbaar is gesteld, wordt hergebruik van delen van de codebase eenvoudiger.
 
 ## Vereisten
 
@@ -20,9 +20,9 @@ Door voor elk bestand in een codebase duidelijk aan te geven onze welke licentie
 
 - Alle broncode MOET worden gepubliceerd met een licentiebestand.
 
-- [Bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
+- Bijdragers MOGEN NIET verplicht worden om het auteursrecht van hun bijdragen aan de codebase over te dragen.
 
-- Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentie koptekst MOETEN bevatten die machineleesbaar zijn.
+- Alle broncodebestanden in de codebase ZOUDEN een copyrightmelding en een licentie-koptekst MOETEN bevatten die machineleesbaar zijn.
 
 - Het hebben van meerdere licenties voor verschillende soorten broncode en documentatie is OPTIONEEL.
 
@@ -36,7 +36,7 @@ Door voor elk bestand in een codebase duidelijk aan te geven onze welke licentie
 
 - Controleer of de bijdragerichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
 
-- Controleer op machineleesbare licentiecontrole in de [doorlopende integratietests](../glossary.html#continue-integratie) van de codebase.
+- Controleer op machineleesbare licentiecontrole in de [continue integratietests](../glossary.html#continue-integratie) van de codebase.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -54,9 +54,9 @@ Door voor elk bestand in een codebase duidelijk aan te geven onze welke licentie
 
 - Voeg een nieuw platte tekst licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
 
-- Voeg een copyrightmelding en een licentie koptekst toe aan elk nieuw broncodebestand dat wordt gemaakt.
+- Voeg een copyrightmelding en een licentie-koptekst toe aan elk nieuw broncodebestand dat wordt gemaakt.
 
-- Als broncode door de codebase wordt hergebruikt, zorg er dan voor dat deze onder een licentie valt die verenigbaar is met de licentie of licenties van de codebase.
+- Als broncode in de codebase wordt hergebruikt, zorg er dan voor dat de bijbehorende licentie verenigbaar is met de licentie of licenties van de codebase.
 
 ## Meer informatie
 

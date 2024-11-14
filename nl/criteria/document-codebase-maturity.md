@@ -12,7 +12,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#
 
 ## Vereisten
 
-- De codebase MOET een unieke versienummering bevatten.
+- Bij de codebase MOET een versiegeschiedenis aanwezig zijn.
 
 - De codebase MOET duidelijk documenteren of er al dan niet versies van de codebase klaar zijn voor gebruik.
 
@@ -48,7 +48,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle releases.
+- Zorg ervoor dat de methodiek van het versiebeheer van de codebase wordt gevolgd voor alle uitgaven.
 
 ## Meer informatie
 

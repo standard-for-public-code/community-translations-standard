@@ -14,13 +14,13 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Alle bestanden in de codebase MOETEN onder versiebeheer vallen.
 
-- Alle beslissingen MOETEN in bijdrage-berichten worden gedocumenteerd.
+- Alle beslissingen MOETEN in bijdrageberichten worden gedocumenteerd.
 
-- Elke bijdrage-berichten MOET waar mogelijk een verwijzing bevatten naar onderlinge discussies en issues.
+- Elk bijdragebericht MOET waar mogelijk een verwijzing bevatten naar bijbehorende discussies en openstaande vragen.
 
 - De versies van de codebase ZOUDEN in een gedistribueerd versiebeheersysteem MOETEN worden bijgehouden.
 
-- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) relevante wijzigingen in bijdragen groeperen.
+- Bijdragerichtlijnen ZOUDEN MOETEN vereisen dat bijdragers relevante wijzigingen in bijdragen groeperen.
 
 - Beheerders ZOUDEN vrijgegeven versies van de codebase MOETEN markeren, bijvoorbeeld met revisie- of tekstlabels.
 
@@ -32,17 +32,17 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Controleer of de codebase wordt beheerd met versiebeheersoftware zoals Git.
 
-- Bekijk de bijdrage-geschiedenis om te bevestigen dat alle bijdrage-berichten uitleggen waarom de wijziging is gemaakt.
+- Bekijk de bijdragegeschiedenis om te bevestigen dat alle bijdrageberichten uitleggen waarom de wijziging is gemaakt.
 
-- Bekijk de bijdrage-geschiedenis en bevestig dat waar mogelijk alle bijdrage-berichten de discussie over de wijziging bevatten of waar die te vinden is (met een URL).
+- Bekijk de bijdragegeschiedenis en bevestig dat waar mogelijk alle bijdrageberichten de discussie over de wijziging bevatten of waar die te vinden is (met een URL).
 
 - Controleer of het versiebeheersysteem gedistribueerd is.
 
-- Bekijk de bijdrage-geschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
+- Bekijk de bijdragegeschiedenis, controleer of het groeperen van relevante wijzigingen in overeenstemming is met de bijdragerichtlijnen.
 
 - Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 
-- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk in platte tekstformaten zijn.
+- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk platte tekstformaten zijn.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -52,7 +52,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
     -   hoe de beleidswijziging de codebase heeft veranderd
 
-Bijvoorbeeld, als er een nieuwe categorie voor het aanvragen van een vergunning wordt vastgesteld, dan wordt dat als een beleidswijziging gezien.
+Bijvoorbeeld: het toevoegen van een nieuwe categorie aan de codebase voor het aanvragen van een vergunning wordt als een beleidswijziging gezien.
 
 ## Managers: wat je moet doen
 
@@ -62,11 +62,11 @@ Bijvoorbeeld, als er een nieuwe categorie voor het aanvragen van een vergunning 
 
 - Zorg ervoor dat alle bestanden die nodig zijn om de code te begrijpen, te bouwen en te implementeren, in het versiebeheersysteem staan.
 
-- Schrijf duidelijke bijdrage-berichten, zodat het makkelijk te begrijpen is waarom de bijdrage gedaan is.
+- Schrijf duidelijke bijdrageberichten, zodat het makkelijk te begrijpen is waarom de bijdrage gedaan is.
 
 - Markeer verschillende versies zodat het eenvoudig is om een specifieke versie te openen, bijvoorbeeld met behulp van revisie- of tekstlabels.
 
-- Schrijf duidelijke bijdrage-berichten zodat versies goed vergeleken kunnen worden.
+- Schrijf duidelijke bijdrageberichten zodat versies goed vergeleken kunnen worden.
 
 - Werk samen met beleidsmakers om te beschrijven hoe de broncode is bijgewerkt na een beleidswijziging.
 

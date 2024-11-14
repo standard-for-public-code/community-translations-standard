@@ -12,11 +12,11 @@ Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [
 
 Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](../glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen en gedeeld eigenaarschap.
 
-Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) het snel aangeleverd krijgen van feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
+Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdragers snelle feedback of gezamenlijke verbetering, wat zowel de leveringssnelheid als de betrokkenheid van de bijdragers vergroot.
 
 ## Vereisten
 
-- Alle bijdragen die worden geaccepteerd of vastgelegd in eindversies van de codebase, MOETEN door een andere bijdrager worden beoordeeld.
+- Alle bijdragen die worden geaccepteerd of vastgelegd in een uitgave van de codebase, MOETEN door een andere bijdrager worden beoordeeld.
 
 - Beoordelingen MOETEN bron, beleid, tests en documentatie omvatten.
 
@@ -28,7 +28,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdr
 
 - Bijdragen ZOUDEN MOETEN worden beoordeeld door iemand in een [andere context](../glossary.html#verschillende-contexten) dan de bijdrager.
 
-- Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in eindversies.
+- Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in een uitgave.
 
 - Beoordelingen ZOUDEN binnen twee werkdagen MOETEN plaatsvinden.
 
@@ -48,9 +48,9 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert [bijdr
 
 - Controleer bij de beoordelaars of bijdragen door iemand anders dan de bijdrager, in een andere context zijn beoordeeld.
 
-- Controleer het gebruik van *branch protection* in het [versiebeheersysteem](../glossary.html#versiebeheer).
+- Controleer of beoordeling ook technisch vereist wordt, bijvoorbeeld door middel van *branch protection* in het [versiebeheersysteem](../glossary.html#versiebeheer).
 
-- Controleer of er geen patroon is waarbij de bijdrager langer dan twee dagen moet wachten op een beoordeling of anderszins zinvolle reacties.
+- Controleer of er geen patroon is waarbij de bijdrager langer dan twee werkdagen moet wachten op een beoordeling of anderszins zinvolle reacties.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 

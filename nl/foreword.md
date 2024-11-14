@@ -28,28 +28,27 @@ Er zijn veel redenen waarom publieke code nu relevant is.
 
 Software is publieke infrastructuur.
 
-In de 21e eeuw kan software worden beschouwd als vitale publieke infrastructuur. Software ondersteund niet alleen de implementatie
- van bestaand beleid, maar is steeds vaker ook de aanleiding voor nieuw beleid. Wanneer bijvoorbeeld algoritmes beslissingen ondersteunen over welke wijken extra sociale voorzieningen of politietoezicht nodig hebben.
+In de 21e eeuw kan software worden beschouwd als vitale publieke infrastructuur. Software ontstaat steeds vaker niet alleen als de implementatie van bestaand beleid, maar vormt meer en meer ook de aanleiding voor nieuw beleid. Denk daarbij bijvoorbeeld aan inzet van algoritmes om te bepalen welke wijken extra sociale voorzieningen of politietoezicht nodig hebben.
 
-De werking van software, algoritmes en gegevensverzameling zijn kernaspecten geworden in de uitvoering van beleid. Computercode voert nu beleid uit dat via democratische procedures is vastgelegd in wetgeving, oftewel wettelijke code. Beide vormen van code vormen de structuur die ervoor zorgt dat de samenleving volgens democratisch, bepaalde publieke waarden functioneert; de ene code wordt uitgevoerd door mensen, de andere door machines. Met andere woorden: softwarecode begint steeds meer te lijken op wetgeving.
+De werking van software, algoritmes en gegevensverzameling zijn kernaspecten geworden in de uitvoering van beleid. Computercode voert nu beleid uit dat via democratische procedures is vastgelegd in wetgeving, de "wettelijke code". Beide vormen van code vormen de structuur die ervoor zorgt dat de samenleving volgens democratisch bepaalde publieke waarden functioneert; de ene code wordt uitgevoerd door mensen, de andere door machines. Met andere woorden: softwarecode begint steeds meer te lijken op wetgeving.
 
 En daarom moet software aan dezelfde principes van democratisch bestuur onderhevig zijn.
 
 ### Traditionele openbare softwareaanbesteding
 
-De publieke dienstverlening wordt niet optimaal gediend met de manier waarop we nu software ontwikkelen.
+De publieke dienstverlening wordt niet optimaal bediend door de manier waarop we nu software ontwikkelen.
 
 Publieke organisaties die complete softwareoplossingen inkopen worden nog wel eens verrast doordat:
 
 - hun software niet kan worden aangepast aan veranderend beleid en nieuwe technologie kan niet worden ingezet
-- er geen toegang meer is tot hun gegevens omdat deze zijn opgesloten in propriëtaire systemen
+- er geen toegang meer is tot hun gegevens, omdat deze zijn opgesloten in propriëtaire systemen
 - er steeds hogere licentiekosten worden gevraagd
 
 ### Technologische soevereiniteit en democratische verantwoording
 
 Publieke organisaties, ambtenaren en inwoners verdienen beter.
 
-Wij geloven dat de software die onze samenleving aanstuurt niet langer een black box mag zijn. Gesloten codebases die gecontroleerd wordt door externe bedrijven die de onderliggende logica waarop hun software werkt verborgen houden. In plaats daarvan hebben publieke organisaties en de mensen die zij dienen technologische soevereiniteit nodig. Op die manier kunnen ze de werking van publieke software bepalen en controleren, zoals ze dat ook doen met wetgeving. Het is belangrijk voor burgers en maatschappelijk middenveld dat software transparant is en dat er verantwoording over wordt afgelegd.
+Wij geloven dat de software die onze samenleving aanstuurt niet langer een black box mag zijn; gesloten codebases die gecontroleerd worden door externe bedrijven die de onderliggende logica waarop hun software werkt verborgen houden. In plaats daarvan hebben publieke organisaties en de mensen die zij dienen technologische soevereiniteit nodig. Op die manier kunnen ze de werking van publieke software bepalen en controleren, zoals ze dat ook doen met wetgeving. Het is belangrijk voor burgers en maatschappelijk middenveld dat software transparant is en dat er verantwoording over wordt afgelegd.
 
 Het ontwerp van software als essentiële maatschappelijke infrastructuur moet de digitale rechten van burgers respecteren.
 
@@ -60,12 +59,12 @@ Publieke code vormt de kern van moderne publieke instituties, bepaalt het werk v
 Publieke software moet daarom:
 
 - transparant zijn
-- afrekenbaar zijn
+- verantwoordbaar zijn
 - begrijpelijk zijn voor haar belanghebbenden
 
 Het moet de waarden van de samenleving die het dient weerspiegelen, bijvoorbeeld door inclusief te zijn en niet-discriminerend.
 
-De meeste propriëtaire softwaresystemen die momenteel door publieke organisaties worden gebruikt, voldoen niet aan deze eisen. Publieke code kan dat wel.
+De meeste propriëtaire softwaresystemen die momenteel door publieke organisaties worden gebruikt, kunnen niet aan deze eisen voldoen. Publieke code kan dat wel.
 
 ### Waarden van publieke code
 
@@ -75,7 +74,7 @@ Wij beschouwen deze waarden als de kern van publieke code:
 - Herbruikbaar
 - Open
 - Leesbaar
-- Afrekenbaar
+- Verantwoordbaar
 - Toegankelijk
 - Duurzaam
 
@@ -93,7 +92,7 @@ Door het bundelen van middelen kunnen publieke organisaties extra aandacht beste
 
 Publieke code biedt een beter economisch model voor publieke organisaties en commerciële bedrijven. Als alternatief voor traditionele softwareaanbesteding zorgt het ervoor dat de lokale controle en economische kansen worden vergroot.
 
-Omdat het *by design* open en aanpasbaar is en gegevensuitwisseling ondersteunt, kan het worden ontwikkeld door intern personeel of vertrouwde leveranciers. Omdat de code open is, kan de publieke organisatie van leverancier veranderen als dat nodig is. Open code vergroot de mogelijkheden voor meekijken en daarvan leren, waardoor de publieke organisatie kleinere contracten kan aanbesteden. Kleinere aanbestedingen maken het gemakkelijker voor lokale kleine en middelgrote ondernemingen om zich daarop in te schrijven. Publieke organisaties kunnen hun eigen softwareaankopen gebruiken om innovatie en concurrentie in hun lokale economie te stimuleren.
+Omdat het *by design* open en aanpasbaar is en het overdragen van gegevens ondersteunt, kan het worden ontwikkeld door intern personeel of vertrouwde leveranciers. Omdat de code open is, kan de publieke organisatie van leverancier veranderen als dat nodig is. Open code vergroot de mogelijkheden voor meekijken en daarvan leren, waardoor de publieke organisatie kleinere contracten kan aanbesteden. Kleinere aanbestedingen maken het gemakkelijker voor lokale kleine en middelgrote ondernemingen om zich daarop in te schrijven. Publieke organisaties kunnen hun eigen softwareaankopen gebruiken om innovatie en concurrentie in hun lokale economie te stimuleren.
 
 Dit kan worden gezien als een investering die leidt tot toekomstige economische groei. Meer leveranciers zullen nodig zijn vanwege de groeiende vraag naar technologie.
 

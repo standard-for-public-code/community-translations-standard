@@ -8,17 +8,15 @@ description: Vergroot de kans dat gebruikers bijdragen leveren aan de codebase.
 
 # Maak bijdragen gemakkelijk
 
-Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten [bijdragers](https://standaarden.overheid.nl/owms/4.0/doc/eigenschappen/dcterms.contributor) problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
+Om betere, betrouwbaardere en functierijke software te ontwikkelen, moeten bijdragers problemen kunnen oplossen, functies kunnen toevoegen en beveiligingsproblemen van de gedeelde [codebase](../glossary.html#codebase) kunnen aanpakken.
 
 Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. Hoe minder moeite het kost om bijdragen te leveren die door de codebase worden geaccepteerd, hoe groter de kans dat gebruikers ook bijdragers worden.
 
 ## Vereisten
 
-- De codebase MOET een openbare issue tracker hebben die suggesties van iedereen accepteert.
+- De codebase MOET een openbare lijst van openstaande vragen hebben die suggesties van iedereen accepteert.
 
-- De documentatie MOET duidelijk maken waar issues openbaar kunnen worden gemeld, zoals in een `README`-bestand.
-
-- De documentatie MOET duidelijk maken waar de openbare wijzigingshistorie te vinden is, zoals in een `README`-bestand.
+- De documentatie MOET verwijzingen bevatten naar de openbare lijst van openstaande vragen en van wijzigingen, bijvoorbeeld in de `README`.
 
 - De codebase MOET communicatiekanalen hebben voor gebruikers en ontwikkelaars, bijvoorbeeld e-maillijsten.
 
@@ -28,9 +26,9 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Hoe te testen
 
-- Controleer of er een openbare issue tracker is.
+- Controleer of er een openbare lijst van openstaande vragen is.
 
-- Controleer of de codebase links bevat naar de openbare issue tracker en ingediende wijzigingen in de codebase.
+- Controleer of de codebase verwijzingen bevat naar de openbare lijst van openstaande vragen en ingediende wijzigingen in de codebase.
 
 - Controleer of het mogelijk is om met andere gebruikers en ontwikkelaars deel te nemen aan een discussie over de software via de kanalen die in de codebase worden beschreven.
 
@@ -40,26 +38,26 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Documenteer onduidelijkheden of openstaande vragen in je beleidscodebase, zodat anderen in staat worden gesteld je te helpen.
+- Houd in de codebase een lijst bij van openstaande beleidsvragen, zodat externe beleidsexperts hulp kunnen bieden.
 
 ## Managers: wat je moet doen
 
-- Documenteer openlijk onduidelijkheden of openstaande vragen waar je tegenaan loopt, zodat anderen in staat worden gesteld je te helpen.
+- Houd in de codebase een lijst bij van openstaande managementvragen, zodat externe managers hulp kunnen bieden.
 
 - Stimuleer je ervaren beleidsmakers, ontwikkelaars en ontwerpers om zo lang mogelijk bij te blijven dragen aan de codebase.
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Zorg er net als bij [reviews](require-review-of-contributions.html) voor dat je vlot op verzoeken reageert.
+- Zorg er net als bij [Vereis inspectie van bijdragen](require-review-of-contributions.html) voor dat je vlot op verzoeken reageert.
 
 - Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
 
-- Zorg ervoor dat het stellen van vragen aan beheerders en belanghebbenden zo gemakkelijk mogelijk is. Door bijvoorbeeld de juiste communicatiekanalen daartoe te benoemen in de `README`.
+- Vermeld duidelijk waar mensen vragen kunnen stellen aan beheerders en belanghebbenden, bijvoorbeeld in de `README`.
 
-- Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in de publiccode.yml.
+- Zorg ervoor dat de juiste contactgegevens zijn opgenomen in de metadata, bijvoorbeeld in de `publiccode.yml`.
 
 ## Meer informatie
 
-* [Hoe uitzonderlijke bijdragen aan je open-sourceproject te inspireren](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) door Joel Hans.
+* [Hoe inspireer je uitzonderlijke bijdragen aan je open-sourceproject](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) door Joel Hans.
 
 * [De voordelen van coderen in het openbaar](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) door de UK Government Digital Service.

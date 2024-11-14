@@ -12,7 +12,7 @@ We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwe
 
 ## Bijdragen aan de Nederlandse Vertaling
 
-Deze Nederlandse vertaling van de Standaard voor Publieke Code is een communityproject georganiseerd vanuit [Code for NL](https://www.codefor.nl). We verwelkomen bijdragen van iedereen. Als je wilt bijdragen aan de vertaling, kun je een *issue* aanmaken of een *pull request* indienen in de GitHub-repository van de vertaling. Of je kunt deze per e-mail sturen naar <standaardvoorpubliekecode@codefor.nl>.
+Deze Nederlandse vertaling van de Standaard voor Publieke Code is een communityproject georganiseerd vanuit [Code for NL](https://www.codefor.nl). We verwelkomen bijdragen van iedereen. Als je wilt bijdragen aan de vertaling, kun je in de GitHub-repository van de vertaling een *issue* aanmaken of een *pull request* indienen. Of je kunt deze per e-mail sturen naar <standaardvoorpubliekecode@codefor.nl>.
 
 Maandelijks organiseren we een gebruikerssessie waarin we de Nederlandse Vertaling van de Standaard voor Publieke Code en het gebruik daarvan in de praktijk bespreken. Tussentijds is er de mogelijkheid met elkaar te communiceren via de [chat omgeving van Code for NL](https://praatmee.codefor.nl).
 
@@ -40,7 +40,7 @@ Bijdragen moeten voldoen aan de vereisten in de criteria van de *upstream* Stand
 
 Dit project gebruikt het GitFlow branch model en de GitFlow workflow. Als je deze repository hebt geforkt, zorg er dan voor dat je een feature branch aanmaakt volgens het GitFlow-model.
 
-Voeg je wijzigingen toe aan bijdragen met een bericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte bijdragen. In sommige gevallen kan een enkele set wijzigingen meerdere issues oplossen. Zorg er in dat geval voor dat je alle issue-nummers vermeldt die zijn opgelost. Wanneer je nieuwe bestanden toevoegt, selecteer je bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die je maakt in het bijdragen-bericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van je keuzes.
+Bundel je wijzigingen in een bijdrage met daarbij een bijdragebericht dat ze uitlegt. Als er meer dan één type wijziging nodig is, groepeer logisch gerelateerde wijzigingen dan in aparte bijdragen. In sommige gevallen kan een enkele set wijzigingen meerdere gedocumenteerde problemen oplost. Zorg er in dat geval voor dat je alle problemen vermeldt die zijn opgelost. Wanneer je nieuwe bestanden toevoegt, selecteer je bestandsformaten die gemakkelijk in een diff kunnen worden bekeken, bijvoorbeeld .svg heeft de voorkeur boven een binaire afbeelding. Documenteer keuzes of beslissingen die je maakt in het bijdragebericht. Hierdoor kan iedereen in de toekomst op de hoogte blijven van je keuzes.
 
 Als je code toevoegt, zorg er dan voor dat je de relevante documentatie en tests hebt toegevoegd en bijgewerkt voordat je pull request indient. Zorg ervoor dat je tests schrijft die het gedrag van de nieuw toegevoegde of gewijzigde code laten zien.
 
@@ -50,7 +50,7 @@ Op dit moment implementeert de *upstream* Standard for Public Code geen specifie
 
 ### Stijl
 
-Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe release wordt uitgebracht].
+Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe uitgave wordt uitgebracht].
 
 ### Te volgen standaarden
 
@@ -82,9 +82,9 @@ Sterker nog, open gerust een pull request om je naam toe te voegen aan het [`AUT
 
 De primaire taal van de *upstream* Standard for Public Code is Engels.
 
-Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor releases. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
+Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor uitgave. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
 
-  [er een nieuwe release wordt uitgebracht]: https://standard.publiccode.net/docs/releasing.html
+  [er een nieuwe uitgave wordt uitgebracht]: https://standard.publiccode.net/docs/releasing.html
   [IETF RFC 2119]: https://tools.ietf.org/html/rfc2119
   [Web Content Accessibility Guidelines 2.1]: https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level
   [AUTHORS]: https://standard.publiccode.net/AUTHORS.html

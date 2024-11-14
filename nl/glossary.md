@@ -26,7 +26,7 @@ Beleidsvorming is het proces waarbij publieke organisaties hun politieke visie v
 
 Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Bij lokale overheden is dit onderscheid is vaak vager.
 
-In de Standaard voor Publieke Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals rijks, provenciale of lokale overheden.
+In de Standaard voor Publieke Code verwijst het woord 'beleid' naar beleid dat is gemaakt en aangenomen door publieke organisaties zoals rijks-, provenciale of lokale overheden.
 
 ## Broncode
 
@@ -44,7 +44,7 @@ Dit kan bijvoorbeeld een document of een repository onder versiebeheer zijn.
 
 ## Continue integratie
 
-In software ontwikkeling is doorlopende integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
+In software ontwikkeling is continue integratie (*Continuous Integration* of CI) de praktijk van het zo vaak mogelijk samenvoegen van alle werkkopieën van ontwikkelaars in een ontwikkel-branch van een codebase.
 
 ## Open source
 
@@ -60,23 +60,17 @@ Publieke code (*public code*) is open source software ontwikkeld door publieke o
 
 Publieke code is zowel computerbroncode (zoals software en algoritmen) als beleid dat wordt uitgevoerd in een publieke context, door mensen of machines.
 
-Publieke code dient het algemeen belang, is open, leesbaar, afrekenbaar, toegankelijk en duurzaam.
+Publieke code dient het algemeen belang, is open, leesbaar, verantwoordbaar, toegankelijk en duurzaam.
 
-Publieke code kan een bouwsteen bieden voor anderen wanneer deze:
+Publieke code kan een bouwsteen bieden voor anderen om:
 
-- onafhankelijk van de lokale context is ontwikkeld
+- de code in hun lokale context te implementeren
 
-- implementeerbaar is in de lokale context
+- de code als uitgangspunt te nemen voor verdere ontwikkeling
 
-- een openbaar gedocumenteerd ontwikkelproces bevat
+- de code te gebruiken als bron om van te leren
 
-Zodat anderen de code vervolgens:
-
-- kunnen implementeren in hun lokale context
-
-- als uitgangspunt kunnen nemen voor verdere ontwikkeling
-
-- kunnen gebruiken als bron om van te leren
+Daarvoor is het belangrijk dat publieke code onafhankelijk is van de lokale context waarin ze is ontwikkeld, en dat het ontwikkelproces openbaar gedocumenteerd is.
 
 Om hergebruik te vergemakkelijken, wordt publieke code ofwel vrijgegeven in het publieke domein of voorzien van een open licentie die anderen toestaat het werk vrij te bekijken, her te gebruiken en afgeleide werken te produceren.
 
@@ -86,7 +80,7 @@ Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramm
 
 ## Verschillende contexten
 
-Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft. Hierdoor is er niet één besluitvormer die samenwerking op een natuurlijke manier kan laten plaatsvinden.
+Twee contexten zijn verschillend als het verschillende publieke organisaties of verschillende afdelingen betreft, waarbij er niet één besluitvormer is die samenwerking op een natuurlijke manier kan laten plaatsvinden.
 
 ## Versiebeheer
 
