@@ -23,7 +23,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 * Jan Ainali, The Foundation for Public Code
 * Johan Groenen, Code For NL
 * Marcus Klaas de Vries
-* Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/en/)
+* Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/)
 * Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 * Matti Schneider
 * Mauko Quiroga
