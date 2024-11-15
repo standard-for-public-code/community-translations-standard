@@ -50,7 +50,7 @@ Goed gedocumenteerde [broncode](../glossary.html#broncode) helpt mensen te begri
 
 - Kijk regelmatig of begrijpelijk is hoe de niet-beleidscode in de codebase is gewijzigd.
 
-- Geef feedback over hoe de niet-beleid documentatie duidelijker gemaakt kan worden.
+- Geef feedback over hoe de documentatie van niet-beleidscode duidelijker gemaakt kan worden.
 
 ## Managers: wat je moet doen
 
@@ -62,7 +62,7 @@ Goed gedocumenteerde [broncode](../glossary.html#broncode) helpt mensen te begri
 
 - Controleer regelmatig hoe de niet-broncode in de codebase is gewijzigd.
 
-- Geef feedback over hoe de niet-broncode documentatie duidelijker gemaakt kan worden.
+- Geef feedback over hoe de documentatie van de niet-broncode duidelijker gemaakt kan worden.
 
 ## Meer informatie
 

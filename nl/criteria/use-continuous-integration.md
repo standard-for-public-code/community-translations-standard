@@ -80,7 +80,7 @@ Het documenteren van de [continue integratie](../glossary.html#continue-integrat
 
 - Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op werkende verwijzingen of stijl.
 
-- Structureer broncode, die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving, op zo'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
+- Structureer broncode die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving op zo'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
 
 - Pas de hulpmiddelen voor testcode-dekkingen aan om valse alarmen als gevolg van *inlining* of andere optimalisaties te voorkomen.
 
@@ -90,7 +90,7 @@ Het documenteren van de [continue integratie](../glossary.html#continue-integrat
 
 ## Meer informatie
 
-* [Wat is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) door Martin Fowler.
+* [Continuous Integration](https://www.martinfowler.com/articles/continuousIntegration.html) door Martin Fowler.
 
 * [Gebruik continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) door de UK Government Digital Service.
 

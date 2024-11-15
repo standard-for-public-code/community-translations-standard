@@ -12,7 +12,7 @@ De Standaard voor Publieke Code is een leidraad voor publieke organisaties die w
 
 De Standaard voor Publieke Code definieert '[publieke code](glossary.html#publieke-code)' als open source software ontwikkeld door publieke organisaties, samen met het beleid en de richtlijnen die nodig zijn voor samenwerking en hergebruik.
 
-De criteria van de Standaard voor Publieke Code zijn afgestemd op richtlijnen en _best practices_ in open source softwareontwikkeling.
+De criteria van de Standaard voor Publieke Code zijn afgestemd op richtlijnen en _best practices_ in open source software-ontwikkeling.
 
 Aanvullende context en achtergrondinformatie zijn te vinden in het [voorwoord](foreword).
 

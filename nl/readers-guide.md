@@ -34,7 +34,7 @@ De betekenis van deze woorden is:
 
 In deze sectie vind je acties die je kunt ondernemen om te controleren of een bijdrage voldoet aan de standaard. Dit is essentieel als je de Standaard voor Publieke Code in gebruik wilt nemen.
 
-We hebben geprobeerd het zo te formuleren, dat iemand die niet zo bekend is met het onderwerp, toch een basiscontrole op naleving kan uitvoeren.
+We hebben geprobeerd het zo te formuleren, dat iemand die niet zo bekend is met het onderwerp toch een basiscontrole op naleving kan uitvoeren.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 

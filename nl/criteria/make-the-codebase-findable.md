@@ -10,7 +10,7 @@ description: Onvindbare codebases bestaan de facto niet.
 
 Hoe beter een [codebase](../glossary.html#codebase) te vinden is, hoe meer potentiële nieuwe bijdragers deze zullen vinden. Gewoon een codebase publiceren en hopen dat deze wordt gevonden werkt niet, in plaats daarvan is proactiviteit vereist.
 
-Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en blijvende identificatie, zoals een Wikidata-item of een vermelding in de FSF-software directory (en op die manier dus onderdeel uitmaken van het semantische web), zorgt ervoor dat mensen gemakkelijker naar de codebase kunnen verwijzen, er uit citeren, codebases van elkaar onderscheiden en ontdekken via overzichtswebsites van derden.
+Een bestand met metadatabeschrijvingen verhoogt de vindbaarheid. Goed geschreven metadata met een unieke en persistente identificatie, zoals een Wikidata-item of een vermelding in de Free Software Foundation-software directory (en op die manier dus onderdeel uitmaken van het semantische web), zorgt ervoor dat mensen gemakkelijker naar de codebase kunnen verwijzen, eruit citeren, codebases van elkaar onderscheiden en ontdekken via overzichtswebsites van derden.
 
 ## Vereisten
 
@@ -18,7 +18,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - De codebase ZOU een korte beschrijving MOETEN hebben die iemand helpt te begrijpen waar de codebase voor dient of wat de codebase doet.
 
-- Beheerders ZOUDEN de codebase MOETEN indienen bij relevante softwarecatalogi.
+- Beheerders ZOUDEN de codebase MOETEN indienen bij relevante software-catalogi.
 
 - De codebase ZOU een website MOETEN hebben waarop het probleem dat de codebase oplost wordt beschreven in het jargon van verschillende potentiële gebruikers van de codebase (waaronder technologen, beleidsdeskundigen en managers).
 
@@ -28,7 +28,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van de [repository](../glossary.html#repository) en de website vermeld worden.
 
-- De codebase ZOU een machineleesbare metadata-beschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
+- De codebase ZOU een machineleesbare metadatabeschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
 
 - Een eigen domeinnaam voor de codebase is OPTIONEEL.
 
@@ -44,7 +44,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Controleer of de repository van de codebase een korte beschrijving van de codebase heeft.
 
-- Controleer of de codebase in relevante softwarecatalogi is opgenomen.
+- Controleer of de codebase in relevante software-catalogi is opgenomen.
 
 - Zoek naar een website over de codebase die het probleem beschrijft dat de codebase oplost.
 
@@ -58,7 +58,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Controleer of er unieke en persistente vermeldingen zijn voor de website van de codebase.
 
-- Controleer of er een machineleesbaar bestand met metadata-beschrijvingen is.
+- Controleer of er een machineleesbaar bestand met metadatabeschrijvingen is.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -92,6 +92,6 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 * [Inleiding tot Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) door de Wikidata-gemeenschap.
 
-* [FSF-softwarelijstvermelding](https://directory.fsf.org/wiki/Main_Page) door de Free Software Foundation.
+* [Free Software Foundation-software-lijstvermelding](https://directory.fsf.org/wiki/Main_Page) door de Free Software Foundation.
 
-* De [FAIR-richtlijnen voor wetenschappelijk databeheer en stewardship](https://www.go-fair.org/fair-principles/) door het GO FAIR International Support and Coordination Office bieden een mooie lijst van attributen die (meta)gegevens beter machine-actionable (en dus beter vindbaar) maken. Sommige hiervan zijn direct van toepassing op codebases, terwijl andere kunnen aanzetten tot verkenning van wat het equivalent zou zijn voor codebases.
+* [FAIR-richtlijnen](https://www.go-fair.org/fair-principles/) voor wetenschappelijk databeheer en stewardship door het GO FAIR International Support and Coordination Office bieden een mooie lijst van attributen die (meta)gegevens beter machine-actionable (en dus beter vindbaar) maken. Sommige hiervan zijn direct van toepassing op codebases, terwijl andere kunnen aanzetten tot verkenning van wat het equivalent zou zijn voor codebases.

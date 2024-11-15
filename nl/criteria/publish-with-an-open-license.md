@@ -8,7 +8,7 @@ description: Door voor elk bestand in een codebase duidelijk de licentie aan te 
 
 # Publiceer met een open licentie
 
-Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken en doorgronden, om het vrijelijk te gebruiken en eraan bij te dragen. Hierdoor kan er een ecosysteem van bijdragers ontstaan rond de codebase.
+Een open en gangbare licentie maakt het voor iedereen mogelijk om de [broncode](../glossary.html#broncode) te bekijken en doorgronden, deze vrijelijk te gebruiken en eraan bij te dragen. Hierdoor kan er een ecosysteem van bijdragers ontstaan rond de codebase.
 
 Door voor elk bestand in een codebase duidelijk aan te geven onder welke licentie deze beschikbaar is gesteld, wordt hergebruik van delen van de codebase eenvoudiger.
 
@@ -16,7 +16,7 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 - Aan alle broncode en documentatie MOET een open licentie worden verbonden waarmee deze herbruikbaar, veranderbaar en herdistribueerbaar is.
 
-- Aan de broncode van software MOET een [OSI-goedgekeurde of FSF Free/Libre-licentie](https://spdx.org/licenses/) verbonden worden.
+- Aan de broncode van software MOET een [Open Source Initiative-goedgekeurde of Free Software Foundation Free/Libre-licentie](https://spdx.org/licenses/) verbonden worden.
 
 - Alle broncode MOET worden gepubliceerd met een licentiebestand.
 
@@ -30,9 +30,9 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 - Controleer of de codebase duidelijk onder een licentie valt.
 
-- Controleer of de licentie voor de broncode op de [OSI-goedgekeurde of FSF Free/Libre-licentielijst](https://spdx.org/licenses/) staat en of de licentie voor de documentatie [overeenkomt met de Open Definition](https://opendefinition.org/licenses/).
+- Controleer of de licentie voor de broncode op de [Open Source Initiative-goedgekeurde of Free Software Foundation Free/Libre-licentielijst](https://spdx.org/licenses/) staat en of de licentie voor de documentatie [overeenkomt met de Open Definition](https://opendefinition.org/licenses/).
 
-- Controleer of de licenties die in de codebase worden gebruikt, als platte tekst bestanden zijn opgenomen.
+- Controleer of de licenties die in de codebase worden gebruikt, als plattetekstbestanden zijn opgenomen.
 
 - Controleer of de bijdragerichtlijnen en de configuratie van de [repository](../glossary.html#repository) geen overdracht van auteursrechten vereisen.
 
@@ -52,7 +52,7 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Voeg een nieuw platte tekst licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
+- Voeg een nieuw plattetekst-licentiebestand toe aan elke nieuwe codebase die wordt gemaakt.
 
 - Voeg een copyrightmelding en een licentie-koptekst toe aan elk nieuw broncodebestand dat wordt gemaakt.
 
@@ -64,6 +64,6 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 * [Geanimeerde video-introductie tot Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) door Creative Commons Aotearoa Nieuw-Zeeland.
 
-* [REUSE Initiative specificatie](https://reuse.software/spec/) door Free Software Foundation Europe voor ondubbelzinnige, leesbare en machine-leesbare copyright- en licentie-informatie.
+* [REUSE Initiative specificatie](https://reuse.software/spec/) door Free Software Foundation Europe voor ondubbelzinnige, leesbare en machineleesbare copyright- en licentie-informatie.
 
-* [SPDX Licentielijst](https://spdx.org/licenses/) door de Linux Foundation met gestandaardiseerde, machine-leesbare afkortingen voor de meeste licenties.
+* [SPDX Licentielijst](https://spdx.org/licenses/) door de Linux Foundation met gestandaardiseerde, machineleesbare afkortingen voor de meeste licenties.

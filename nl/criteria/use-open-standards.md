@@ -28,7 +28,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 ## Hoe te testen
 
-- Controleer of de gegevensuitwisseling een door OSI goedgekeurde open standaard volgt.
+- Controleer of de gegevensuitwisseling een door Open Source Initiative goedgekeurde open standaard volgt.
 
 - Controleer of alle gebruikte niet-open standaarden duidelijk als zodanig zijn gedocumenteerd.
 

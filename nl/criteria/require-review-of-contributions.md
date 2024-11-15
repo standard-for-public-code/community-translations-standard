@@ -54,9 +54,9 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Voer een 'vier ogen'-beleid in, waarbij alles, niet alleen de broncode, wordt gecontroleerd.
+- Voer het vierogenprincipe in, waarbij alles, niet alleen de broncode, wordt gecontroleerd.
 
-- Gebruik een versiebeheersysteem of -methodologie die beoordeling en feedback mogelijk maakt.
+- Gebruik een versiebeheersysteem of werkwijze die beoordeling en feedback mogelijk maakt.
 
 ## Managers: wat je moet doen
 

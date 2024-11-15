@@ -44,7 +44,7 @@ Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwik
 
 - Controleer of de codebase kan worden uitgevoerd zonder gebruik te maken van propriëtaire of niet-open software of services.
 
-- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt — vóórdat er een uitgave is die gereed is voor productie — controleer dan of er aanwijzingen zijn voor de ambitie om samen te werken.
+- Als de codebase zich nog in een vroeg stadium van ontwikkeling bevindt—vóórdat er een uitgave is die gereed is voor productie—controleer dan of er aanwijzingen zijn voor de ambitie om samen te werken.
 
     - Of als de codebase erg volwassen en stabiel is en er zeer zelden oplossingen, patches of bijdragen zijn:
 

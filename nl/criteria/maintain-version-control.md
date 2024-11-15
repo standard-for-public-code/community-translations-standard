@@ -42,7 +42,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 - Controleer of het mogelijk is om toegang te krijgen tot een specifieke versie van de codebase, bijvoorbeeld via een revisie- of tekstlabel.
 
-- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk platte tekstformaten zijn.
+- Controleer of de bestandsformaten die in de codebase worden gebruikt, waar mogelijk plattetekstformaten zijn.
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
@@ -52,7 +52,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
     -   hoe de beleidswijziging de codebase heeft veranderd
 
-Bijvoorbeeld: het toevoegen van een nieuwe categorie aan de codebase voor het aanvragen van een vergunning wordt als een beleidswijziging gezien.
+  Bijvoorbeeld: het toevoegen van een nieuwe categorie aan de codebase voor het aanvragen van een vergunning wordt als een beleidswijziging gezien.
 
 ## Managers: wat je moet doen
 

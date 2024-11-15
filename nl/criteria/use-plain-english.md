@@ -8,7 +8,7 @@ description: Duidelijke en eenvoudige taal zorgt ervoor dat de code en wat deze 
 
 # Gebruik eenvoudig Engels
 
-Engels is de *de facto* taal voor samenwerking bij softwareontwikkeling. Sommige contexten vereisen echter andere talen dan Engels. Daarom kan een codebase een aantal hoofdtalen hebben, waaronder Engels.
+Engels is de *de facto* taal voor samenwerking bij software-ontwikkeling. Sommige contexten vereisen echter andere talen dan Engels. Daarom kan een codebase een aantal hoofdtalen hebben, waaronder Engels.
 
 Informatie van publieke organisaties moet voor iedereen toegankelijk zijn. Duidelijke en eenvoudige taal zorgt ervoor dat de [code](../glossary.html#code) en wat deze doet, voor een breder publiek begrijpelijk is.
 
@@ -22,11 +22,11 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Alle documentatie van de codebase MOET up-to-date zijn in alle hoofdtalen.
 
-- Alle [broncode](../glossary.html#broncode) MOET in het Engels zijn opgesteld, behalve wanneer [beleid](../glossary.html#beleid) machine leesbaar als code wordt geïnterpreteerd.
+- Alle [broncode](../glossary.html#broncode) MOET in het Engels zijn opgesteld, behalve wanneer [beleid](../glossary.html#beleid) machineleesbaar als code wordt geïnterpreteerd.
 
 - Al het gebundelde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle hoofdtalen.
 
-- Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een verwijzing naar een uitleg.
+- Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische termen, taaltermen of domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een verwijzing naar een uitleg.
 
 - De documentatie ZOU geschreven MOETEN zijn op een eenvoudig taalniveau, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
 
@@ -44,7 +44,7 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Controleer of alle beleidsregels volledig zijn vertaald of een samenvatting hebben in alle hoofdtalen.
 
-- Controleer of de documentatie geen onverklaarde acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen bevat.
+- Controleer of de documentatie geen onverklaarde acroniemen, afkortingen, woordspelingen of juridische termen, taaltermen of domeinspecifieke termen bevat.
 
 - Controleer de spelling, grammatica en leesbaarheid van de documentatie.
 
@@ -58,7 +58,7 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Zorg ervoor dat er voldoende personeel of budget is om vertalingen te verzorgen voor de hoofdtalen.
 
-- Probeer het gebruik van acroniemen, afkortingen, woordspelingen of juridische termen/taaltermen/domeinspecifieke termen bij interne communicatie in en tussen teams en belanghebbenden te beperken. Voeg dergelijke termen toe aan een woordenlijst en verwijs ernaar vanaf de plekken waar ze worden gebruikt.
+- Probeer het gebruik van acroniemen, afkortingen, woordspelingen of juridische , taaltermen, of domeinspecifieke termen bij interne communicatie in en tussen teams en belanghebbenden te beperken. Voeg dergelijke termen toe aan een woordenlijst en verwijs ernaar vanaf de plekken waar ze worden gebruikt.
 
 - Wees kritisch op documentatie en beschrijvingen in voorstellen en wijzigingen. Als je iets niet begrijpt, zullen anderen er waarschijnlijk ook moeite mee hebben.
 
@@ -74,6 +74,6 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 * Het voldoen aan de [Web Content Accessibility Guidelines 2.2, Guideline 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level) door W3C maakt tekstinhoud leesbaar en begrijpelijk.
 
-* De [Europese Unie toegankelijkheidsrichtlijn](https://ec.europa.eu/digital-single-market/en/web-accessibility) door de Europese Commissie, is een voorbeeld van regelgeving die hoge toegankelijkheid vereist.
+* De [Europese Unie toegankelijkheidsrichtlijn](https://ec.europa.eu/digital-single-market/en/web-accessibility) door de Europese Commissie is een voorbeeld van regelgeving die hoge toegankelijkheid vereist.
 
 * [Definitie van eenvoudige taal](https://www.plainlanguage.gov/about/definitions/) door de United States General Services Administration.
