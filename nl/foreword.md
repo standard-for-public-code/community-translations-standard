@@ -74,7 +74,7 @@ Wij beschouwen deze waarden als de kern van publieke code:
 - Herbruikbaar
 - Open
 - Leesbaar
-- Verantwoordbaar
+- Te verantwoorden
 - Toegankelijk
 - Duurzaam
 
