@@ -8,7 +8,7 @@ description: Stimuleer een cultuur waarin ervoor wordt gezorgd dat elke bijdrage
 
 # Vereis inspectie van bijdragen
 
-Inspectie van bijdragen door collega\'s is essentieel voor de kwaliteit van de [broncode](../glossary.html#broncode) en het verminderen van beveiligingsrisico\'s en operationele risico\'s.
+Inspectie van bijdragen door collega's is essentieel voor de kwaliteit van de [broncode](../glossary.html#broncode) en het verminderen van beveiligingsrisico's en operationele risico's.
 
 Door te eisen dat bijdragen grondig worden nagekeken, wordt een cultuur gestimuleerd waarin ervoor wordt gezorgd dat elke bijdrage van hoge kwaliteit, volledig en van waarde is. Door de broncode te inspecteren, vergroot je de kans dat mogelijke bugs of fouten worden ontdekt en opgelost voordat ze aan de [codebase](../glossary.html#codebase) worden toegevoegd. Als je weet dat alle broncode is gecontroleerd, voorkom je dat er een cultuur ontstaat waarin de schuld bij individuen wordt gelegd en stimuleer je een cultuur waarin de focus ligt op oplossingen en gedeeld eigenaarschap.
 
@@ -54,7 +54,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Voer een \'vier ogen\'-beleid in, waarbij alles, niet alleen de broncode, wordt gecontroleerd.
+- Voer een 'vier ogen'-beleid in, waarbij alles, niet alleen de broncode, wordt gecontroleerd.
 
 - Gebruik een versiebeheersysteem of -methodologie die beoordeling en feedback mogelijk maakt.
 

@@ -68,7 +68,7 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Vraag iemand buiten jouw context of hij of zij de inhoud begrijpt (bijvoorbeeld een ontwikkelaar die aan een andere codebase werkt).
 
-- Als er zowel hoofdvertalingen als \"best effort\" vertalingen zijn, zorg er dan voor dat duidelijk wordt vastgelegd tot welke categorie elke vertaling behoort.
+- Als er zowel hoofdvertalingen als 'best effort' vertalingen zijn, zorg er dan voor dat duidelijk wordt vastgelegd tot welke categorie elke vertaling behoort.
 
 ## Meer informatie
 

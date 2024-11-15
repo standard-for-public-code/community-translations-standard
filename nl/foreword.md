@@ -30,7 +30,7 @@ Software is publieke infrastructuur.
 
 In de 21e eeuw kan software worden beschouwd als vitale publieke infrastructuur. Software ontstaat steeds vaker niet alleen als de implementatie van bestaand beleid, maar vormt meer en meer ook de aanleiding voor nieuw beleid. Denk daarbij bijvoorbeeld aan inzet van algoritmes om te bepalen welke wijken extra sociale voorzieningen of politietoezicht nodig hebben.
 
-De werking van software, algoritmes en gegevensverzameling zijn kernaspecten geworden in de uitvoering van beleid. Computercode voert nu beleid uit dat via democratische procedures is vastgelegd in wetgeving, de "wettelijke code". Beide vormen van code vormen de structuur die ervoor zorgt dat de samenleving volgens democratisch bepaalde publieke waarden functioneert; de ene code wordt uitgevoerd door mensen, de andere door machines. Met andere woorden: softwarecode begint steeds meer te lijken op wetgeving.
+De werking van software, algoritmes en gegevensverzameling zijn kernaspecten geworden in de uitvoering van beleid. Computercode voert nu beleid uit dat via democratische procedures is vastgelegd in wetgeving, de 'wettelijke code'. Beide vormen van code vormen de structuur die ervoor zorgt dat de samenleving volgens democratisch bepaalde publieke waarden functioneert; de ene code wordt uitgevoerd door mensen, de andere door machines. Met andere woorden: softwarecode begint steeds meer te lijken op wetgeving.
 
 En daarom moet software aan dezelfde principes van democratisch bestuur onderhevig zijn.
 

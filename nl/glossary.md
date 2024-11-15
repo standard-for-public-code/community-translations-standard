@@ -22,7 +22,7 @@ Beleidsregels worden over het algemeen aangenomen door een bestuursorgaan binnen
 
 Beleid kan helpen bij zowel subjectieve als objectieve besluitvorming.
 
-Beleidsvorming is het proces waarbij publieke organisaties hun politieke visie vertalen naar programma\'s en acties om resultaten te behalen.
+Beleidsvorming is het proces waarbij publieke organisaties hun politieke visie vertalen naar programma's en acties om resultaten te behalen.
 
 Op nationaal niveau zijn beleid en wetgeving (de wet) meestal gescheiden. Bij lokale overheden is dit onderscheid is vaak vager.
 
@@ -76,7 +76,7 @@ Om hergebruik te vergemakkelijken, wordt publieke code ofwel vrijgegeven in het 
 
 ## Repository
 
-Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramma\'s voor bestanden en metadata van een codebase. Repositories zorgen ervoor dat meerdere medewerkers aan dezelfde set bestanden kunnen werken. Repositories kunnen meerdere versies van sets bestanden bevatten.
+Een repository is een opslaglocatie die wordt gebruikt door versiebeheerprogramma's voor bestanden en metadata van een codebase. Repositories zorgen ervoor dat meerdere medewerkers aan dezelfde set bestanden kunnen werken. Repositories kunnen meerdere versies van sets bestanden bevatten.
 
 ## Verschillende contexten
 

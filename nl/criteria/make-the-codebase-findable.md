@@ -64,7 +64,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Geef een beschrijving van het beleidsterrein of probleem waarop deze codebase betrekking heeft of waarop deze codebase draait.
 
-- Toets je probleemomschrijving bij collega\'s buiten jouw context die niet bekend zijn met de codebase.
+- Toets je probleemomschrijving bij collega's buiten jouw context die niet bekend zijn met de codebase.
 
 - Presenteer op relevante conferenties hoe de codebase het [beleid](../glossary.html#beleid) implementeert.
 
@@ -84,7 +84,7 @@ Een bestand met metadata-beschrijvingen verhoogt de vindbaarheid. Goed geschreve
 
 - Gebruik de korte beschrijving overal waar naar de codebase wordt verwezen, bijvoorbeeld in de beschrijving van de repository.
 
-- Toets je probleemomschrijving bij collega\'s buiten jouw context die niet bekend zijn met de codebase.
+- Toets je probleemomschrijving bij collega's buiten jouw context die niet bekend zijn met de codebase.
 
 - Draag conferenties aan waar presentaties kunnen worden gegeven en geef daar zelf ook presentaties.
 

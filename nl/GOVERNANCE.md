@@ -110,7 +110,7 @@ Het stuurteam vergadert regelmatig. Hun agenda bevat een beoordeling van de road
 Het besluitvormingsproces is standaard gebaseerd op consensus, met stemmingen voor bepaalde zaken.
 
 #### Consensus
-Voor deze community betekent "consensus" dat als je denkt dat een beslissing onomstreden is, je deze gewoon kunt nemen. Elke beslissing die op deze manier wordt genomen, wordt als ondersteund beschouwd zolang niemand bezwaar maakt. Uiteraard moet je bereid zijn om je werk terug te draaien als iemand bezwaar maakt.
+Voor deze community betekent 'consensus' dat als je denkt dat een beslissing onomstreden is, je deze gewoon kunt nemen. Elke beslissing die op deze manier wordt genomen, wordt als ondersteund beschouwd zolang niemand bezwaar maakt. Uiteraard moet je bereid zijn om je werk terug te draaien als iemand bezwaar maakt.
 
 Als er onzekerheid is over een beslissing, kan een stuurteamlid de rest van het team informeren dat zij op het punt staan een bepaalde beslissing te nemen. Als geen enkel teamlid binnen 96 uur bezwaar maakt, wordt de beslissing als ondersteund beschouwd. Als er bezwaren zijn en er geen oplossing kan worden gevonden door middel van discussie, kan een teamlid een stemming aanvragen.
 

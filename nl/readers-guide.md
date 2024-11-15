@@ -8,7 +8,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 De standaard beschrijft een aantal criteria. Alle criteria bevatten consistente secties die duidelijk maken hoe je goede publieke code maakt.
 
-Verwijzingen naar \"beleidsmakers\", \"managers\" en \"ontwikkelaars en ontwerpers\" zijn van toepassing op iedereen die taken uitvoert die verband houden met deze rollen, ongeacht hun functie. Het komt vaak voor dat mensen taken hebben die meerdere rollen omvatten.
+Verwijzingen naar beleidsmakers, managers en ontwikkelaars en ontwerpers zijn van toepassing op iedereen die taken uitvoert die verband houden met deze rollen, ongeacht hun functie. Het komt vaak voor dat mensen taken hebben die meerdere rollen omvatten.
 
 Hieronder volgt een korte uitleg van elk van deze secties en hoe ze worden gebruikt binnen de criteria van de standaard.
 
@@ -20,7 +20,7 @@ In deze sectie wordt uitgelegd wat het criterium beoogt te bereiken en waarom he
 
 In deze sectie staat wat er gedaan moet worden om aan de Standaard voor Publieke Code te voldoen.
 
-De woorden “MOET”, “MAG NIET”, “ZOU MOETEN”, “ZOU NIET MOETEN”, en “MAG” in dit document moeten worden geïnterpreteerd gelijk aan hun Engelstalige tegenhangers (“_MUST_", "_MUST NOT_", "_SHOULD_", "_SHOULD NOT_" en "_MAY_") zoals beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119). Waar deze exacte termen bedoeld zijn worden ze in hoofdletters weergegeven.
+De woorden 'MOET', 'MAG NIET', 'ZOU MOETEN', 'ZOU NIET MOETEN', en 'MAG' in dit document moeten worden geïnterpreteerd gelijk aan hun Engelstalige tegenhangers ('_MUST_', '_MUST NOT_', '_SHOULD_', '_SHOULD NOT_' en '_MAY_') zoals beschreven in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119). Waar deze exacte termen bedoeld zijn worden ze in hoofdletters weergegeven.
 
 De betekenis van deze woorden is:
 

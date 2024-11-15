@@ -80,7 +80,7 @@ Het documenteren van de [continue integratieworkflow](../glossary.html#continue-
 
 - Help managers en beleidsmakers bij het testen van hun bijdragen, bijvoorbeeld door hun bijdragen te testen op werkende verwijzingen of stijl.
 
-- Structureer broncode, die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving, op zo\'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
+- Structureer broncode, die geschreven is om omstandigheden af te handelen die moeilijk te creëren zijn in een testomgeving, op zo'n manier dat die omstandigheden gesimuleerd kunnen worden tijdens het testen. Vormen van uitputting van middelen, zoals onvoldoende opslagruimte en mislukte geheugentoewijzing, zijn typische voorbeelden van omstandigheden die moeilijk te creëren zijn.
 
 - Pas de hulpmiddelen voor testcode-dekkingen aan om valse alarmen als gevolg van *inlining* of andere optimalisaties te voorkomen.
 
