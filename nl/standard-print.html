@@ -41,6 +41,7 @@
           content: counter(page);
         }
       }
+      /* Overwrites */
       a[href^="#"]:after {
         /* content: "" target-counter(attr(href), page);
         color: black;
@@ -49,8 +50,20 @@
         width: 0.8cm;
         padding: 0.2cm;
         text-align: right; */
-        display: none;
+        display: none; /* Hide the internal link labels */
       }
+    }
+
+    /* Overwrites */
+    a {
+      color: #24292e !important;
+    }
+    a[href^="http"] {
+      text-decoration: underline !important;
+    }
+    article {
+      margin: 0 2cm;
+      break-before: right; /* Experiment */
     }
   </style>
 </head>

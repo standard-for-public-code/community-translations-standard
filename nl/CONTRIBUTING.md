@@ -8,7 +8,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 🙇‍♀️ Bedankt voor je bijdrage!
 
-We begrijpen dat een standaard als deze alleen kan worden vastgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom inbreng, stellen feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
+We begrijpen dat een standaard als deze alleen kan worden opgesteld in samenwerking met zoveel mogelijk technologen uit de publieke sector, beleidsmakers en geïnteresseerden. We waarderen daarom inbreng, stellen feedback op prijs, verwelkomen verbeteringen aan dit project en staan erg open voor samenwerking.
 
 ## Bijdragen aan de Nederlandse Vertaling
 

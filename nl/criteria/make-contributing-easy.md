@@ -48,7 +48,7 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-- Zorg er net als bij [Vereis inspectie van bijdragen](require-review-of-contributions.html) voor dat je vlot op verzoeken reageert.
+- Zorg er net als bij het criterium "[Vereis inspectie van bijdragen](require-review-of-contributions.html)" voor dat je vlot op verzoeken reageert.
 
 - Houd je managers op de hoogte van de tijd en middelen die je nodig hebt om andere bijdragers te ondersteunen.
 
