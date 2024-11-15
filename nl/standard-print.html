@@ -41,6 +41,16 @@
           content: counter(page);
         }
       }
+      a[href^="#"]:after {
+        /* content: "" target-counter(attr(href), page);
+        color: black;
+        background-color: whitesmoke;
+        display: inline;
+        width: 0.8cm;
+        padding: 0.2cm;
+        text-align: right; */
+        display: none;
+      }
     }
   </style>
 </head>
