@@ -80,7 +80,9 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 * [Hoe je code beoordeelt op de GDS-manier](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) door de UK Government Digital Service.
 
-* Branch-beveiliging op [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) en [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).
+* Branch-beveiliging op [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches).
+
+* Branch-beveiliging op [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).
 
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) door Sage Sharp.
 
