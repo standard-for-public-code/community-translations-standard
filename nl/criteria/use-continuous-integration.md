@@ -6,13 +6,13 @@ order: 12
 description: Verzeker je ervan dat bijdragen werken zoals bedoeld en geen fouten bevatten.
 ---
 
-# Pas continue integratie toe
+# Test regelmatig op conflicten
 
-Asynchrone samenwerking wordt mogelijk gemaakt doordat ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde aftakking, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdrage, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
+Asynchrone samenwerking is mogelijk als ontwikkelaars hun werk regelmatig samenvoegen in een gedeelde werkomgeving, geverifieerd door geautomatiseerde tests. Hoe vaker er samengevoegd wordt en hoe kleiner de bijdragen, hoe makkelijker het is om samenvoegingsconflicten op te lossen.
 
-Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Bovendien kunnen beoordelaars zich richten op de structuur en aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
+Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Zo kunnen beoordelaars zich richten op de structuur en de aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-Het documenteren van de [continue integratie](../glossary.html#continue-integratie) workflow van een codebase helpt bijdragers om de verwachtingen van bijdragen te begrijpen. Continue integratie maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren.
+[Continue integratie](../glossary.html#continue-integratie) maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren. Het documenteren van de continue integratie-workflow van een codebase helpt bijdragers om de verwachtingen bij het leveren van bijdragen te begrijpen.
 
 ## Vereisten
 
