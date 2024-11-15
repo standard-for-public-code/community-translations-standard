@@ -104,7 +104,7 @@ Naast de dagelijkse taken heeft het stuurteam de gezamenlijke verantwoordelijkhe
 - Wijzigingen door te voeren op het gebied van licenties en intellectueel eigendom
 
 ### Vergaderingen
-Het stuurteam vergadert regelmatig. Hun agenda bevat een beoordeling van de roadmap en problemen/zaken die zijn vastgelopen. Het doel van de agenda is niet om alle patches te beoordelen of goed te keuren. (Het beoordelen en goedkeuren van patches wordt gedaan via het proces dat is beschreven in CONTRIBUTING.md.)
+Het stuurteam vergadert regelmatig. Hun agenda bevat een beoordeling van de roadmap en problemen/zaken die zijn vastgelopen. Het doel van de agenda is niet om alle patches te beoordelen of goed te keuren. (Het beoordelen en goedkeuren van patches wordt gedaan via het proces dat is beschreven in `CONTRIBUTING` van de *upstream* Standard for Public Code.)
 
 ### Besluitvormingsproces
 Het besluitvormingsproces is standaard gebaseerd op consensus, met stemmingen voor bepaalde zaken.
