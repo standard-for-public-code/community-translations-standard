@@ -52,15 +52,15 @@ Op dit moment implementeert de *upstream* Standard for Public Code geen specifie
 
 ### Stijl
 
-Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe uitgave wordt uitgebracht].
+Tekstinhoud moet normaal gesproken één regel per zin bevatten, zonder regelafbreking, zodat de diff-uitvoer gemakkelijker te bekijken is. We willen echter benadrukken dat het belangrijker is dat je jouw bijdrage levert dan dat je je zorgen maakt over spelling en typografie. We helpen je graag om het goed te doen in ons beoordelingsproces en we hebben ook een aparte kwaliteitscontrole voordat [er een nieuwe uitgave wordt uitgebracht](https://www.standardforpubliccode.org/docs/releasing.html).
 
 ### Te volgen standaarden
 
 Dit zijn de standaarden die de *upstream* Standard for Public Code gebruikt. Zorg ervoor dat je bijdragen hierop aansluiten, zodat ze gemakkelijker kunnen worden samengevoegd.
 
--   [IETF RFC 2119] - voor trefwoorden op vereisteniveau
+-   [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - voor trefwoorden op vereisteniveau
 
--   [Web Content Accessibility Guidelines 2.1] - voor leesbaarheid
+-   [Web Content Accessibility Guidelines 2.1](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level) - voor leesbaarheid
 
 ### 2. Pull request
 
@@ -78,16 +78,10 @@ Als je documentatie en code door de menselijke beoordeling zijn gekomen, wordt d
 
 Jouw ideeën, documentatie en code zijn een integraal onderdeel van dit project geworden. Jij bent de open source-held die we nodig hebben!
 
-Sterker nog, open gerust een *pull request* om je naam toe te voegen aan het [`AUTHORS`](AUTHORS.html)-bestand en eeuwige naamsvermelding te krijgen.
+Sterker nog, open gerust een *pull request* om je naam toe te voegen aan het `AUTHORS`-bestand en eeuwige naamsvermelding te krijgen.
 
 ### Talen en vertalingen
 
 De primaire taal van de *upstream* Standard for Public Code is Engels.
 
-Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor uitgave. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard] te onderhouden en nieuwe toe te voegen.
-
-  [er een nieuwe uitgave wordt uitgebracht]: https://standard.publiccode.net/docs/releasing.html
-  [IETF RFC 2119]: https://tools.ietf.org/html/rfc2119
-  [Web Content Accessibility Guidelines 2.1]: https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level
-  [AUTHORS]: https://standard.publiccode.net/AUTHORS.html
-  [community-vertalingen van de standaard]: https://github.com/publiccodenet/community-translations-standard
+Versies in andere talen worden door de community naar beste vermogen beschikbaar gesteld. Deze vertalingen zijn mogelijk niet up-to-date met de Engelse versie. Ontbrekende vertalingen vormen geen belemmering voor uitgave. We nodigen je uit om te helpen bestaande [community-vertalingen van de standaard](https://github.com/standard-for-public-code/community-translations-standard) te onderhouden en nieuwe toe te voegen.

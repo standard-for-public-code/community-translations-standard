@@ -61,5 +61,3 @@ De Standaard voor Publieke Code is niet bedoeld voor individuele implementaties 
 Hoewel de Standaard voor Publieke Code verwijst naar verschillende standaarden en er aanzienlijke overlappingen zijn met andere standaarden, richt de Standaard voor Publieke Code zich specifiek op samenwerking. Daarom is het niet de bedoeling om kwaliteitsstandaarden te vervangen, zoals de ISO 25000-serie, of standaarden die gericht zijn op beveiliging, zoals de OpenSSF Best Practices Badge, maar om er een goede synergie mee te creëren.
 
 En hoewel het doel is om samenwerking mogelijk te maken, is het geen garantie dat er een community ontstaat. Dat vereist nog steeds proactiviteit en ambitie die verder gaan dan het gereedmaken van de codebase voor samenwerking.
-
-  [IETF RFC 2119]: https://tools.ietf.org/html/rfc2119
