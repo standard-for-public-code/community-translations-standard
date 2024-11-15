@@ -8,7 +8,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 Beste lezer,
 
-Voor je ligt de eerste Nederlandse vertaling van de Standard for Public Code, oftewel: de Standaard voor Publieke Code. Een leidraad voor opensourcewerken in publieke organisaties. In de standaard staan criteria en adviezen om software en bijbehorend beleid te ontwikkelen en onderhouden. Met de standaard kunnen organisaties in samenwerking software ontwikkelen die herbruikbaar, open, leesbaar, te verantwoorden, toegankelijk en duurzaam is. De standaard is voor alle overheidsniveaus — van internationaal tot gemeentelijk.
+Voor je ligt de eerste Nederlandse vertaling van de Standard for Public Code, oftewel: de Standaard voor Publieke Code. Een leidraad voor opensourcewerken in publieke organisaties. In de standaard staan criteria en adviezen om software en bijbehorend beleid te ontwikkelen en onderhouden. Met de standaard kunnen organisaties in samenwerking software ontwikkelen die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is. De standaard is voor alle overheidsniveaus — van internationaal tot gemeentelijk.
 
 ## Opensourcewerken doe je samen
 Een van de uitgangspunten van open source is dat je het sámen doet. Opensourcewerken is niet iets wat een IT-team alleen kan: je moet in alle onderdelen van de organisatie samenwerken. En doe je dat goed, dan leg je meteen een stevige basis voor de samenwerking met de buitenwereld: de community van gebruikers, onafhankelijke experts, samenwerkingspartners en andere stakeholders.
