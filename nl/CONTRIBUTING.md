@@ -78,7 +78,7 @@ Als je documentatie en code door de menselijke beoordeling zijn gekomen, wordt d
 
 Jouw ideeën, documentatie en code zijn een integraal onderdeel van dit project geworden. Jij bent de open source-held die we nodig hebben!
 
-Sterker nog, open gerust een *pull request* om je naam toe te voegen aan het `AUTHORS`-bestand en eeuwige naamsvermelding te krijgen.
+Sterker nog, open gerust een *pull request* om je naam toe te voegen aan `AUTHORS` en eeuwige naamsvermelding te krijgen.
 
 ### Talen en vertalingen
 

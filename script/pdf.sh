@@ -174,6 +174,7 @@ ls -l	standaard-cover-$VERSION.pdf
 echo
 temp_weasyprint_info
 
-ls -l *.pdf *.epub
+ls -l *.pdf
+# removed *.epub above
 
 echo "done"

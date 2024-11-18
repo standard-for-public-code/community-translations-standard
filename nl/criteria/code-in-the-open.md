@@ -28,7 +28,7 @@ Samen creëert dit meer mogelijkheden voor burgers en bedrijven om te begrijpen 
 
 - Controleer of de broncode van elke versie die momenteel in gebruik is op internet is gepubliceerd. Deze moet van buiten de oorspronkelijke bijdragende organisatie kunnen worden bekeken, zonder dat er enige vorm van authenticatie of autorisatie nodig is.
 
-- Controleer of de [codebase](../glossary.html#codebase)-bestanden en bijdragegeschiedenis geen gevoelige informatie bevatten.
+- Controleer of de bestanden in de [codebase](../glossary.html#codebase) en bijdragegeschiedenis geen gevoelige informatie bevatten.
 
 - Controleer op de publicatie van broncode die momenteel niet in gebruik is.
 

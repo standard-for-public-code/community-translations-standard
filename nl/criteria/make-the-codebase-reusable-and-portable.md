@@ -58,7 +58,7 @@ Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwik
 
         - Controleer of er meerdere partijen bijdragen aan de codebase.
 
-- Controleer of de codebase-bestanden en bijdragegeschiedenis geen situatiespecifieke gegevens bevatten.
+- Controleer of de bestanden in de codebase en bijdragegeschiedenis geen situatiespecifieke gegevens bevatten.
 
 - Controleer of de software kan worden geïmplementeerd en uitgevoerd zonder dat er diensten of platformen van één leverancier nodig zijn.
 

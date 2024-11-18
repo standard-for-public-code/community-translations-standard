@@ -28,7 +28,7 @@ Een bestand met metadatabeschrijvingen verhoogt de vindbaarheid. Goed geschreven
 
 - De codebase ZOU een unieke en persistente identificatie MOETEN hebben waarbij de belangrijkste bijdragers, de locatie van de [repository](../glossary.html#repository) en de website vermeld worden.
 
-- De codebase ZOU een machineleesbare metadatabeschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)-bestand.
+- De codebase ZOU een machineleesbare metadatabeschrijving MOETEN bevatten, bijvoorbeeld een [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml).
 
 - Een eigen domeinnaam voor de codebase is OPTIONEEL.
 
