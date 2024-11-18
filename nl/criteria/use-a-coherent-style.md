@@ -36,7 +36,7 @@ Door een consistente en coherente stijl te volgen, kunnen bijdragers in verschil
 
 ## Ontwikkelaars en ontwerpers: wat je moet doen
 
-Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.html#repository) die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen](/nl/glossary.html#broncode) zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
+Als de codebase nog geen technische richtlijnen of andere richtlijnen voor bijdragers heeft, begin dan met het toevoegen van documentatie aan de [repository](../glossary.html#repository) die beschrijft wat er nu wordt gedaan, bijvoorbeeld in de `CONTRIBUTING` of `README`. Een belangrijk doel van het bestand is het communiceren van ontwerpvoorkeuren, naamgevingsconventies en andere aspecten die machines niet eenvoudig kunnen controleren. Richtlijnen moeten bevatten wat er verwacht wordt van [broncodebijdragen](../glossary.html#broncode) zodat ze samengevoegd kunnen worden door de beheerders, inclusief broncode, tests en documentatie. Deze documentatie voortdurend verbeteren en uitbreiden met als doel deze documentatie te ontwikkelen tot technische richtlijnen.
 
 Bovendien:
 

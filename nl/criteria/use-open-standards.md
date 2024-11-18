@@ -8,7 +8,7 @@ description: Gebruik open standaarden om interoperabiliteit te garanderen en ven
 
 # Gebruik open standaarden
 
-[Open standaarden](../glossary.html#open-standaard) garanderen toegang tot de kennis die nodig is om de [codebase](/nl/glossary.html#codebase) te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Eenduidige open standaarden maken het mogelijk om beide kanten van een gegevensuitwisseling onafhankelijk van elkaar te ontwikkelen.
+[Open standaarden](../glossary.html#open-standaard) garanderen toegang tot de kennis die nodig is om de [codebase](../glossary.html#codebase) te gebruiken en eraan bij te dragen. Ze maken interoperabiliteit tussen systemen mogelijk en verminderen het risico op vendor lock-ins. Eenduidige open standaarden maken het mogelijk om beide kanten van een gegevensuitwisseling onafhankelijk van elkaar te ontwikkelen.
 
 ## Vereisten
 

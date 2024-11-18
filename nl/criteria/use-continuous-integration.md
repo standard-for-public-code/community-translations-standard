@@ -12,7 +12,7 @@ Asynchrone samenwerking is mogelijk als ontwikkelaars hun werk regelmatig samenv
 
 Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen werken zoals bedoeld en geen fouten bevatten. Zo kunnen beoordelaars zich richten op de structuur en de aanpak van de bijdrage. Hoe gerichter de test, hoe makkelijker het is om fouten duidelijk te identificeren en te begrijpen wanneer ze zich voordoen.
 
-[Continue integratie](../glossary.html#continue-integratie) maakt het gemakkelijker om de status van de [codebase](/nl/glossary.html#codebase) te controleren. Het documenteren van de continue integratie-workflow van een codebase helpt bijdragers om de verwachtingen bij het leveren van bijdragen te begrijpen.
+[Continue integratie](../glossary.html#continue-integratie) maakt het gemakkelijker om de status van de [codebase](../glossary.html#codebase) te controleren. Het documenteren van de continue integratie-workflow van een codebase helpt bijdragers om de verwachtingen bij het leveren van bijdragen te begrijpen.
 
 ## Vereisten
 

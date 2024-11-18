@@ -40,7 +40,7 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Ontwikkel [beleid](../glossary.html#beleid) dat vereist dat broncode [open source](/nl/glossary.html#open-source) is.
+- Ontwikkel [beleid](../glossary.html#beleid) dat vereist dat broncode [open source](../glossary.html#open-source) is.
 
 - Ontwikkel beleid dat het gebruik van niet-open broncode en technologie bij aanbestedingen ontmoedigt.
 

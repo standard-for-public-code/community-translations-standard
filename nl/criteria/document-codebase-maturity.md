@@ -38,7 +38,7 @@ Het duidelijk aangeven van de volwassenheid van een [codebase](../glossary.html#
 
 ## Beleidsmakers in de publieke sector: wat je moet doen
 
-- Houd er bij het ontwikkelen van [beleid](../glossary.html#beleid) rekening mee dat elke ontwikkelde [broncode](/nl/glossary.html#broncode) moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
+- Houd er bij het ontwikkelen van [beleid](../glossary.html#beleid) rekening mee dat elke ontwikkelde [broncode](../glossary.html#broncode) moet worden getest en verbeterd voordat deze in gebruik kan worden genomen.
 
 - Overweeg versionering van beleidswijzigingen, vooral als de wijzigingen nieuwe versies van de broncode veroorzaken.
 
