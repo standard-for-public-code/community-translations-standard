@@ -28,7 +28,7 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 - Bijdragen ZOUDEN MOETEN worden beoordeeld door iemand in een [andere context](../glossary.html#verschillende-contexten) dan de bijdrager.
 
-- Versiebeheersystemen MOGEN GEEN niet-beoordeelde bijdragen accepteren in een uitgave.
+- Versiebeheersystemen ZOUDEN GEEN niet-beoordeelde bijdragen MOGEN accepteren in een uitgave.
 
 - Beoordelingen ZOUDEN binnen twee werkdagen MOETEN plaatsvinden.
 
@@ -78,11 +78,11 @@ Een [beleid](../glossary.html#beleid) van snelle beoordelingen garandeert bijdra
 
 ## Meer informatie
 
-* [Hoe je code beoordeelt op de GDS-manier](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) door de UK Government Digital Service.
+* [How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) door de UK Government Digital Service.
 
-* Branch-beveiliging op [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches).
+* [About protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) over branch-beveiliging op GitHub.
 
-* Branch-beveiliging op [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).
+* [How GitLab Permissions and Protected Branches Keep Your Code Safe](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/) over Branch-beveiliging op GitLab.
 
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) door Sage Sharp.
 

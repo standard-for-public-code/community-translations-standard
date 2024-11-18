@@ -32,9 +32,9 @@ Broncode die niet afhankelijk is van de infrastructuur van een specifieke ontwik
 
 - De codebase ZOU aanpasbaar aan locatiespecifieke omstandigheden zoals taal, karakterset en symbolen MOETEN zijn.
 
-- De broncode en de bijbehorende documentatie MOGEN GEEN situatiespecifieke informatie bevatten.
+- De broncode en de bijbehorende documentatie ZOUDEN GEEN situatiespecifieke informatie MOGEN bevatten.
 
-- Codebase-modules ZOUDEN zodanig MOETEN zijn gedocumenteerd dat hergebruik in codebases in andere contexten mogelijk is.
+- Codebase-modules ZOUDEN zodanig gedocumenteerd MOETEN zijn dat hergebruik in codebases in andere contexten mogelijk is.
 
 - De software MAG GEEN diensten of platformen vereisen die slechts door één leverancier worden geleverd.
 

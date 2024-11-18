@@ -58,6 +58,6 @@ Een gedeelde digitale infrastructuur maakt het makkelijker om samen te werken. H
 
 ## Meer informatie
 
-* [Hoe inspireer je uitzonderlijke bijdragen aan je open-sourceproject](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) door Joel Hans.
+* [How to inspire exceptional contributions to your open-source project](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) door Joel Hans.
 
-* [De voordelen van coderen in het openbaar](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) door de UK Government Digital Service.
+* [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) door de UK Government Digital Service.

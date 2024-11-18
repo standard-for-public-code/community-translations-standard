@@ -74,7 +74,7 @@ description: Dit stelt ontwikkelaars in staat om parallel aan bijdragen te werke
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) door Karl Fogel.
 
-* [Versiebeheer in codering handhaven](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) door de UK Government Digital Service.
+* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) door de UK Government Digital Service.
 
 * [GitHub Skills](https://skills.github.com/) door GitHub voor het leren gebruiken van GitHub of om je vaardigheden op te frissen.
 

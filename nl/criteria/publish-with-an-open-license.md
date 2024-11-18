@@ -60,7 +60,7 @@ Door voor elk bestand in een codebase duidelijk aan te geven onder welke licenti
 
 ## Meer informatie
 
-* [Open source definitie](https://opensource.org/osd) door de Open Source Initiative, alle open source-licenties voldoen aan deze definitie.
+* [The Open Source Definition](https://opensource.org/osd) door de Open Source Initiative, alle open source-licenties voldoen aan deze definitie.
 
 * [Geanimeerde video-introductie tot Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) door Creative Commons Aotearoa Nieuw-Zeeland.
 

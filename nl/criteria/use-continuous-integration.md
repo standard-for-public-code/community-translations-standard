@@ -92,6 +92,6 @@ Door alle functionaliteit automatisch te testen, weet je zeker dat bijdragen wer
 
 * [Continuous Integration](https://www.martinfowler.com/articles/continuousIntegration.html) door Martin Fowler.
 
-* [Gebruik continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) door de UK Government Digital Service.
+* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) door de UK Government Digital Service.
 
-* [Kwaliteitsborging: je service regelmatig testen](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) door de UK Government Digital Service.
+* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) door de UK Government Digital Service.

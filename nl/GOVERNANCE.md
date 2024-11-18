@@ -104,7 +104,7 @@ Naast de dagelijkse taken heeft het stuurteam de gezamenlijke verantwoordelijkhe
 - Wijzigingen door te voeren op het gebied van licenties en intellectueel eigendom
 
 ### Vergaderingen
-Het stuurteam vergadert regelmatig. Hun agenda bevat een beoordeling van de roadmap en problemen/zaken die zijn vastgelopen. Het doel van de agenda is niet om alle patches te beoordelen of goed te keuren. (Het beoordelen en goedkeuren van patches wordt gedaan via het proces dat is beschreven in `CONTRIBUTING` van de *upstream* Standard for Public Code.)
+Het stuurteam vergadert regelmatig. Hun agenda bevat een beoordeling van de roadmap en problemen/zaken die zijn vastgelopen. Het doel van de agenda is niet om alle patches te beoordelen of goed te keuren. (Het beoordelen en goedkeuren van patches wordt gedaan via het proces dat is beschreven in `CONTRIBUTING` van de [*upstream* Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code).)
 
 ### Besluitvormingsproces
 Het besluitvormingsproces is standaard gebaseerd op consensus, met stemmingen voor bepaalde zaken.
@@ -128,6 +128,6 @@ Veel van de dagelijkse onderhoudstaken van het project kunnen worden afgehandeld
 Bij een gewone meerderheid betekent dit dat minstens de helft van de stuurteamleden voor heeft gestemd, en bij een tweederdemeerderheid tweederde van de stuurteamleden.
 
 ### Gedragscode
-De Gedragscode van de *upstream* Standard for Public Code wordt uitgelegd in [CODE_OF_CONDUCT](CODE_OF_CONDUCT).
+De Gedragscode van de *upstream* Standard for Public Code wordt uitgelegd in [`CODE_OF_CONDUCT`](CODE_OF_CONDUCT).
 
 Als een mogelijke overtreding betrekking heeft op een teamlid, zal dat teamlid worden uitgesloten van de stemming over het probleem. Dergelijke problemen moeten direct worden geëscaleerd naar het stuurteam, en het stuurteam kan ervoor kiezen om in te grijpen.

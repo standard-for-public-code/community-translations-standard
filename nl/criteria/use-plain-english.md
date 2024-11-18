@@ -26,7 +26,7 @@ Vertalingen vergroten verder het mogelijke bereik van een [codebase](../glossary
 
 - Al het gebundelde beleid MOET beschikbaar zijn, of een samenvatting hebben, in alle hoofdtalen.
 
-- Er ZOUDEN geen acroniemen, afkortingen, woordspelingen of juridische termen, taaltermen of domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een verwijzing naar een uitleg.
+- Er ZOUDEN GEEN acroniemen, afkortingen, woordspelingen of juridische termen, taaltermen of domeinspecifieke termen in de codebase MOGEN voorkomen zonder voorafgaande uitleg of een verwijzing naar een uitleg.
 
 - De documentatie ZOU geschreven MOETEN zijn op een eenvoudig taalniveau, zoals aanbevolen door de [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
 
