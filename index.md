@@ -7,8 +7,8 @@ The authoritative language for the standard is English, and the current version 
 
 | Language | Version | Latest release |
 |----------|---------|---------|
-| [Spanish](es/index.md) | 0.2.1 | |
 | [Dutch](https://github.com/codefornl/community-translations-standard) | 0.8.0 | [0.8.0-nl-0.1.1](https://github.com/codefornl/community-translations-standard/releases/tag/0.8.0-nl-0.1.1) |
+| [Spanish](es/index.md) | 0.2.1 | |
 
 ## Contributing
 
