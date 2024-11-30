@@ -11,7 +11,7 @@ The authoritative language for the standard is English, and the current version 
 
 ## Contributing
 
-Translations are maintained in our [GitHub repository](https://github.com/standard-for-public-code/community-translations-standard).
+Translations are coordinated in our [GitHub repository](https://github.com/standard-for-public-code/community-translations-standard).
 You can see translations in progress by looking at the open [pull requests](https://github.com/standard-for-public-code/community-translations-standard/pulls).
 We invite you to review ongoing translations, start a new translation, or update existing ones to the most current version of the standard.
 
