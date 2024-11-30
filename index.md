@@ -7,6 +7,7 @@ The authoritative language for the standard is English, and the current version 
 
 | Language | Version |
 |----------|---------|
+| [Danish](da/index.md) | 0.2.1 |
 | [Spanish](es/index.md) | 0.2.1 |
 
 ## Contributing
