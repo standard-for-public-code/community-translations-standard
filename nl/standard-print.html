@@ -1,0 +1,211 @@
+---
+---
+{% assign pages = site.pages | where_exp: "page", "page.dir contains '/nl/'" | where_exp: "page", "page.name != 'index.md'" %}
+{% assign criteriaPages = pages | where_exp: "page", "page.dir contains '/criteria/'" | where_exp: "page", "page.title" | sort: "order" %}
+<!DOCTYPE html>
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS.html -->
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://www.standardforpubliccode.org/assets/github-markdown.css">
+  <link rel="stylesheet" href="https://www.standardforpubliccode.org/assets/print.css">
+  <title>{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+  <style>
+    /* Ducth Headings */
+    .markdown-body [id$="beleidsmakers-in-de-publieke-sector-wat-je-moet-doen"]:before,
+    .markdown-body [id$="managers-wat-je-moet-doen"]:before,
+    .markdown-body [id$="ontwikkelaars-en-ontwerpers-wat-je-moet-doen"]:before {
+      display: block;
+      position: absolute;
+      content: 'A';
+      text-align: center;
+      width: 1cm;
+      height: 1cm;
+      background-color: black;
+      border: 1px solid black;
+      color: white;
+      display: inline-block;
+      margin-left: -1.2cm;
+      box-sizing: border-box;
+      padding: 0.12cm;
+      font-size: 0.5cm;
+      font-weight: 900;
+    }
+    .markdown-body [id$="beleidsmakers-in-de-publieke-sector-wat-je-moet-doen"]:before {
+      background-color: #00EFB5;
+      border-color: #00EFB5;
+      content: 'B';
+    }
+    .markdown-body [id$="managers-wat-je-moet-doen"]:before {
+      background-color: #FF6D1C;
+      border-color: #FF6D1C;
+      content: 'M';
+    }
+    .markdown-body [id$="ontwikkelaars-en-ontwerpers-wat-je-moet-doen"]:before {
+      background-color: #8626FF;
+      border-color: #8626FF;
+      content: 'O';
+    }
+
+    /* Version info */
+
+    #version-info {
+      bottom: 2cm;
+      margin-top: 2cm;
+    }
+
+    /* Print specific */
+    @media print {
+      @page :left {
+        @top-left {
+          content: counter(page);
+        }
+      }
+      @page :right {
+        @top-right {
+          content: counter(page);
+        }
+      }
+      /* Overwrites */
+      a[href^="#"]:after {
+        /* content: "" target-counter(attr(href), page);
+        color: black;
+        background-color: whitesmoke;
+        display: inline;
+        width: 0.8cm;
+        padding: 0.2cm;
+        text-align: right; */
+        display: none; /* Hide the internal link labels */
+      }
+    }
+
+    /* Overwrites */
+    a {
+      color: #24292e !important;
+    }
+    a[href^="http"] {
+      text-decoration: underline !important;
+    }
+  </style>
+</head>
+<body class="markdown-body">
+
+  <article id="section-first-page">
+    <p>Nederlandse vertaling</p>
+    <h1 class="title">Standaard voor Publieke Code</h1>
+    <ul class="first-page-audiences">
+      <lh>Over wat publieke code is en hoe je dit gebruikt als:</lh>
+      <li id="first-page-beleidsmakers-in-de-publieke-sector-wat-je-moet-doen">Beleidsmaker in de publieke sector</li>
+      <li id="first-page-managers-wat-je-moet-doen">Manager</li>
+      <li id="first-page-ontwikkelaars-en-ontwerpers-wat-je-moet-doen">Ontwikkelaar of ontwerper</li>
+    </ul>
+    <img src="https://www.standardforpubliccode.org/assets/hands-shake.svg" alt="hands shaking">
+    <div id="version-info">
+      <p>
+        <img style="float: right" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="Licensed CC0" height="46">
+        Versie <span class="standard-version">0.8.0-nl-0.1.1</span><br>
+        https://www.standaardvoorpubliekecode.nl
+      </p>
+    </div>
+  </article>
+
+  {% assign page = pages | where: "name", "AUTHORS.md" | first %}
+  {% if page %}<article id="section-authors">{{page.content | markdownify}}</article>{% endif %}
+
+  <article id="table-of-contents">
+    <h1>Inhoudsopgave</h1>
+    <ol>
+      <li><a href="#section-authors" class="table-of-contents">Auteurs</a></li>
+      <li><a href="#section-translation-foreword" class="table-of-contents">Voorwoord bij de vertaling</a></li>
+      <li><a href="#section-foreword" class="table-of-contents">Voorwoord</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Leeswijzer</a></li>
+      <li><a href="#section-glossary" class="table-of-contents">Begrippenlijst</a></li>
+      <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
+        <ol>
+        {% for page in criteriaPages %}
+          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>
+        {% endfor %}
+        </ol>
+      </li>
+      <li><a href="#section-contributing" class="table-of-contents">Bijdragen</a></li>
+      <li><a href="#section-code-of-conduct" class="table-of-contents">Gedragscode</a></li>
+      <li><a href="#section-governance" class="table-of-contents">Governance</a></li>
+      <!-- <li><a href="#section-changelog" class="table-of-contents">Versiegeschiedenis</a></li> -->
+      <li><a href="#section-license" class="table-of-contents">Licentie</a></li>
+    </ol>
+  </article>
+
+  <figure>
+    <img src="https://www.standardforpubliccode.org/assets/codebase.svg" alt="codebase">
+  </figure>
+
+  {% assign page = pages | where: "name", "translation-foreword.md" | first %}
+  {% if page %}<article id="section-translation-foreword">{{page.content | markdownify}}</article>{% endif %}
+
+  {% assign page = pages | where: "name", "foreword.md" | first %}
+  {% if page %}<article id="section-foreword">{{page.content | markdownify}}</article>{% endif %}
+
+  {% assign page = pages | where: "name", "readers-guide.md" | first %}
+  {% if page %}<article id="section-readers-guide">{{page.content | markdownify}}</article>{% endif %}
+
+  {% assign page = pages | where: "name", "glossary.md" | first %}
+  {% if page %}<article id="section-glossary">{{page.content | markdownify}}</article>{% endif %}
+
+  <article id="section-criteria">
+    <h1>Criteria</h1>
+    <ol>
+    {% for page in criteriaPages %}
+      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>
+    {% endfor %}
+    </ol>
+  </article>
+
+  <figure>
+    <img src="https://www.standardforpubliccode.org/assets/unlock.svg" alt="unlock">
+  </figure>
+
+  {% for page in criteriaPages %}
+    <article id="section-criteria-{{page.name}}">
+      {{page.content | replace: "../glossary.html#", "#" | markdownify}}
+    </article>
+  {% endfor %}
+
+  {% assign page = pages | where: "name", "CONTRIBUTING.md" | first %}
+  {% if page %}<article id="section-contributing">{{page.content | markdownify}}</article>{% endif %}
+
+  <figure>
+    <img src="https://www.standardforpubliccode.org/assets/collaborative-development.svg" alt="collaborative-development">
+  </figure>
+
+  {% assign page = pages | where: "name", "CODE_OF_CONDUCT.md" | first %}
+  {% if page %}<article id="section-code-of-conduct">{{page.content | markdownify}}</article>{% endif %}
+
+  <figure>
+    <img src="https://www.standardforpubliccode.org/assets/collaboration.svg" alt="collaboration">
+  </figure>
+
+  {% assign page = pages | where: "name", "GOVERNANCE.md" | first %}
+  {% if page %}<article id="section-governance">{{page.content | markdownify}}</article>{% endif %}
+
+  {% comment %}
+  <figure>
+    <img src="https://www.standardforpubliccode.org/assets/eco-system.svg" alt="ecosystem">
+  </figure>
+  {% endcomment %}
+
+  {% comment %}
+  {% assign page = pages | where: "name", "CHANGELOG.md" | first %}
+  {% if page %}<article id="section-changelog">{{page.content | markdownify}}</article>{% endif %}
+  {% endcomment %}
+
+  {% assign page = pages | where: "name", "LICENSE.md" | first %}
+  {% if page %}<article id="section-license">{{page.content | markdownify}}</article>{% endif %}
+
+</body>
+</html>
