@@ -5,15 +5,16 @@ The authoritative language for the standard is English, and the current version 
 
 ## Courtesy translations
 
-| Language | Version |
-|----------|---------|
-| [Spanish](es/index.md) | 0.2.1 |
-| [Traditional Chinese (Taiwan)](zh_Hant_TW/index.md) | 0.7.1 |
-
+| Language | Version | Latest release |
+|----------|---------|---------|
+| [Danish](da/index.md) | 0.2.1 | |
+| [Dutch](https://www.standaardvoorpubliekecode.nl) | 0.8.0 | [0.8.0-nl-0.1.1](https://github.com/codefornl/community-translations-standard/releases/tag/0.8.0-nl-0.1.1) |
+| [Spanish](es/index.md) | 0.2.1 | |
+| [Traditional Chinese (Taiwan)](zh_Hant_TW/index.md) | 0.7.1 | |
 
 ## Contributing
 
-Translations are maintained in our [GitHub repository](https://github.com/standard-for-public-code/community-translations-standard).
+Translations are coordinated in our [GitHub repository](https://github.com/standard-for-public-code/community-translations-standard).
 You can see translations in progress by looking at the open [pull requests](https://github.com/standard-for-public-code/community-translations-standard/pulls).
 We invite you to review ongoing translations, start a new translation, or update existing ones to the most current version of the standard.
 
