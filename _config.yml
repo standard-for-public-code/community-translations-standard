@@ -1,11 +1,10 @@
 title: Community Translations of the Standard for Public Code
 version: 0.2.2
-repository: codefornl/community-translations-standard
 
 plugins:
   - jekyll-redirect-from
 
-remote_theme: codefornl/standard-for-public-code-jekyll-theme
+remote_theme: standard-for-public-code/jekyll-theme
 include:
   - "README.md"
     # - "CONTRIBUTING.md"
