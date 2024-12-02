@@ -8,7 +8,7 @@ The authoritative language for the standard is English, and the current version 
 | Language | Version |
 |----------|---------|
 | [Spanish](es/index.md) | 0.2.1 |
-| [Traditional Chinese](zh_Hant_TW/index.md) | 0.7.1 |
+| [Traditional Chinese (Taiwan)](zh_Hant_TW/index.md) | 0.7.1 |
 
 
 ## Contributing
