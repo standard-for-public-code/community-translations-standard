@@ -80,7 +80,7 @@ Wij beschouwen deze waarden als de kern van publieke code:
 
 ## Hoe publieke code werkt
 
-Publieke code is open source software bedoeld voor het vervullen van de kerntaken van publieke organisaties. Door gebruik dragen andere organisaties bij aan de software, zodat de ontwikkeling en het onderhoud ervan echte samenwerkingen worden.
+Publieke code is open source software bedoeld voor het vervullen van de kerntaken van publieke organisaties. Wanneer andere organisaties deze open source software gebruiken, krijgen ze de mogelijkheid om hier ook aan bij te dragen. Dit kan door middel van het aandragen van verbeteringen of het aangeven van bugs. Ook kan de organisatie zelf ontwikkelcapaciteit inhuren om features aan de software bij te dragen. Zo wordt de ontwikkeling en het onderhoud ervan een echte samenwerking.
 
 Open zijn heeft veel voordelen.
 
