@@ -86,7 +86,7 @@ Open zijn heeft veel voordelen.
 
 Lokale verantwoordelijkheid en democratische verantwoording worden gewaarborgd wanneer een publieke organisatie hun eigen publieke code implementeert en onderhoudt. Door open te zijn en een bredere gemeenschap van ondersteunende ontwikkelaars te hebben, is de software veiliger. Open code profiteert van vele ogen die mogelijke fouten opsporen. Veel bijdragers delen het onderhoudswerk om het functioneel en modern te houden, wat lange termijn onderhoudbaarheid ten goede komt. De gedeelde werklast is nu en in de toekomst duurzamer. De openheid maakt zowel de code als de gegevens in de toekomst gemakkelijker aanpasbaar. De code wordt makkelijker te herzien, te hergebruiken en uit te faseren. Dit alles resulteert in infrastructuur met een lager risico.
 
-Door het bundelen van middelen kunnen publieke organisaties extra aandacht besteden aan hoe ze de software kunnen aanpassen zodat deze het beste werkt in elke lokale context, wat betere gebruikerservaringen creëert voor hun eindgebruikers (inwoners of burgers).
+Door de kosten te delen kunnen publieke organisaties extra aandacht besteden aan het aanpassen van software, zodat deze optimaal werkt in iedere lokale context, wat leidt tot betere gebruikerservaringen voor hun eindgebruikers (inwoners of burgers).
 
 ### Economie van publieke code
 
