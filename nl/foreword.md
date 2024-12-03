@@ -88,6 +88,8 @@ Lokale verantwoordelijkheid en democratische verantwoording worden gewaarborgd w
 
 Door de kosten te delen kunnen publieke organisaties extra aandacht besteden aan het aanpassen van software, zodat deze optimaal werkt in iedere lokale context, wat leidt tot betere gebruikerservaringen voor hun eindgebruikers (inwoners of burgers).
 
+Nog een bijkomend voordeel is dat doordat organisaties hun krachten bundelen, er meer tijd vrij gemaakt kan worden voor het verbeteren van de kwaliteit van de software. Een mooi voorbeeld hiervan is https://nldesignsystem.nl/. Binnen dit project werken UX-designers en developers samen aan hoogwaardige ui-components die uiteindelijk door de hele overheid heen gebruikt kunnen worden.
+
 ### Economie van publieke code
 
 Publieke code biedt een beter economisch model voor publieke organisaties en commerciële bedrijven. Als alternatief voor traditionele software-aanbesteding zorgt het ervoor dat de lokale controle en economische kansen worden vergroot.
