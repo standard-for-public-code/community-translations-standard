@@ -16,7 +16,7 @@ Dit voorwoord introduceert het begrip “publieke code” en legt uit waarom dit
 
 Publieke code is zowel computercode (zoals software en algoritmes) als beleid dat in een publieke context wordt uitgevoerd, door mensen of machines.
 
-Het omvat de software die is gebouwd om te functioneren op of als publieke infrastructuur, maar ook de manier van voortbrenging daarvan.
+Het omvat de software die is gebouwd om te functioneren op of als publieke infrastructuur, evenals de afspraken omtrent het bouwen ervan. Afspraken die bijvoorbeeld kunnen gelden tijdens het bouwen van de software zijn: toegankelijkheids- en securitystandaarden.
 
 Publieke code moet worden onderscheiden van reguliere software omdat deze ontstaat en gebruikt wordt onder fundamenteel andere omstandigheden en verwachtingen.
 
