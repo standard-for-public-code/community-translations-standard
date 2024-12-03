@@ -59,7 +59,7 @@ Publieke code vormt de kern van moderne publieke instituties, bepaalt het werk v
 Publieke software moet daarom:
 
 - transparant zijn
-- te verantwoorden zijn
+- verantwoord kunnen worden
 - begrijpelijk zijn voor haar belanghebbenden
 
 Het moet de waarden van de samenleving die het dient weerspiegelen, bijvoorbeeld door inclusief te zijn en niet-discriminerend.
