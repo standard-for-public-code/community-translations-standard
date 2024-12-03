@@ -8,7 +8,7 @@ translation-title: Nederlandse vertaling van de Standaard voor Publieke Code
 
 De Standaard voor Publieke Code is een set criteria die publieke organisaties ondersteunt bij het samen ontwikkelen en onderhouden van software en bijbehorend beleid.
 
-Iedereen die software of beleid ontwikkelt voor het algemeen belang kan deze standaard gebruiken om de kwaliteit van publieke diensten te verbeteren en deze efficienter te maken, met minder risico en meer controle.
+Iedereen die software of beleid ontwikkelt voor het algemeen belang kan deze standaard gebruiken om de kwaliteit van publieke diensten te verbeteren en deze efficiënter te maken, met minder risico en meer controle.
 
 Dit voorwoord introduceert het begrip “publieke code” en legt uit waarom dit belangrijk is.
 
