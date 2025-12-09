@@ -69,7 +69,7 @@ That way it will benefit more people and you will get help of a community that k
 
 #### Foreword
 
-There is also [foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) that gives context about the concept of Public Code.
+There is also [foreword.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/foreword.md) that gives context about the concept of Public Code.
 The foreword may be translated or even customized for a locale's context.
 
 ### Review of a translation
@@ -79,7 +79,7 @@ This should be done by a native speaker coming from a different context than the
 
 ## Problems, suggestions and questions in issues
 
-You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/publiccodenet/community-translations-standard/issues).
+You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/standard-for-public-code/community-translations-standard/issues).
 Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 ## Preview, build and deploy
