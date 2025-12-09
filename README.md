@@ -80,7 +80,8 @@ This should be done by a native speaker coming from a different context than the
 ## Problems, suggestions and questions in issues
 
 You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/standard-for-public-code/community-translations-standard/issues).
-Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
+
+Or, join the next [community call](https://community.standardforpubliccode.org/) and provide your feedback.
 
 ## Preview, build and deploy
 
