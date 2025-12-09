@@ -1,6 +1,6 @@
 # Community translations of the Standard for Public Code
 
-This is a repository for unofficial translations of the [Standard for Public Code](https://www.standardforpubliccode.org/), provided by the community.
+This is a repository for translations of the [Standard for Public Code](https://www.standardforpubliccode.org/).
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment)
 
