@@ -1,15 +1,16 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 order: 4
 redirect_from:
   - criteria/open-to-contributions
 ---
-
 # 歡迎貢獻者
 
-[程式基底](../glossary.md#codebase)社群的氛圍，會影響使用者選擇所要使用的程式基底。歡迎任何人成為貢獻者的社群，才能夠不斷茁壯並且持續自我
-運作。若貢獻者有明確的方法可以影響程式基底、社群目標與進展，則該社群分裂成分歧的社群的機率也較低。新參與者需要瞭解並信任程式基底社群的治理方式。
+[程式基底](../glossary.md#codebase)社群的氛圍，會影響使用者選擇所要使用的程式基底。
+歡迎任何人成為貢獻者的社群，才能夠不斷茁壯並且持續自我運作。
+若貢獻者有明確的方法可以影響程式基底、社群目標與進展，則該社群分裂成分歧的社群的機率也較低。
+新參與者需要瞭解並信任程式基底社群的治理方式。
 
 ## 需求規定
 
@@ -47,7 +48,6 @@ redirect_from:
 * 支持您經驗豐富的政策制定者、開發人員與設計師，使其盡可能長久參與社群。
 
 <p style="page-break-after: always;"></p>
-
 ## 開發人員與設計師：需要的工作
 
 * 快速回應請求。
@@ -57,8 +57,6 @@ redirect_from:
 ## 延伸閱讀
 
 * 開放原始碼指引所提供的《[營造友善的社群](https://opensource.guide/building-community/)》。
-* Mike McQuaid《[開放原始碼貢獻者瓶
-頸](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)》。
-* 開放原始碼指引針對推動[開放原始碼](../glossary.md#open-source)社群專案所寫的《[領導與治
-理](https://opensource.guide/leadership-and-governance/)》。
+* Mike McQuaid《[開放原始碼貢獻者瓶頸](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)》。
+* 開放原始碼指引針對推動[開放原始碼](../glossary.md#open-source)社群專案所寫的《[領導與治理](https://opensource.guide/leadership-and-governance/)》。
 * Pieter Hintjens《[打造網路社群](http://hintjens.com/blog:117)》(長篇文章！)。
