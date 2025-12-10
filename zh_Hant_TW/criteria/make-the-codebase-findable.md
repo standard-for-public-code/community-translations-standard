@@ -23,7 +23,7 @@ redirect_from:
 * 在搜尋引擎查找程式基底名稱時，「應該」能搜尋得到程式基底。
 * 在使用搜尋引擎時，如果以自然語言描述程式基底所能解決的問題，「應該」能搜尋得到程式基底。
 * 程式基底「應該」具備永久唯一識別碼，而且該項條目要提及主要貢獻者、[儲存庫](../glossary.md#repository)、位置、網站等。
-* 程式基底「應該」包含機器可讀的中介資料說明，例如採用 [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)格式的檔案。
+* 程式基底「應該」包含機器可讀的中介資料說明，例如採用 [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) 格式的檔案。
 * 「可選擇」是否為程式基底設置專用的網域名稱。
 * 「可選擇」是否在社群舉辦的會議中定期進行簡報。
 
