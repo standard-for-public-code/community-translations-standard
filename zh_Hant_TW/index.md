@@ -16,7 +16,9 @@ toc: false
 
 《公共程式標準》準則規定符合開源軟體開發的準則與最佳實例。
 
-{% for page in site.pages %}{% if page.name == "foreword.md" %} 本文件的「序」章節有更多情境與背景資訊。[序文](foreword.md)。 {% endif%}{% endfor %}
+{% for page in site.pages %}{% if page.name == "foreword.md" %}
+本文件的「序」章節有更多情境與背景資訊。[序文](foreword.md)。
+{% endif%}{% endfor %}
 
 ## 目次
 
@@ -30,12 +32,12 @@ if page.title %}
 * [貢獻指引](CONTRIBUTING.md)
 * [行為守則](CODE_OF_CONDUCT.md)
 * [治理方式](GOVERNANCE.md)
-* [版本歷史](CHANGELOG.md)
+* [版本歷史](RELEASE_NOTES.md)
 * [授權](license.html)
 
 ## 社群會議
 
-我們通常會在每個月最後一個星期四的下午 3 點 (CET/CEST) 進行社群會議。
+我們通常會在每個月最後一個星期四的下午3點 (CET/CEST) 進行社群會議。
 [議程](https://github.com/standard-for-public-code/standard-for-public-code/discussions/categories/community-calls)討論主題會在會議一週前於討論區協調並公佈。
 
 ## 其他資源
