@@ -6,6 +6,10 @@ This is a repository for unofficial translations of the [Standard for Public Cod
 
 ## Contribute
 
+The Standard for Public Code is [community governed](https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/GOVERNANCE.md).
+
+Join our [community calls](https://community.standardforpubliccode.org/), come say hello on our [discussion board](https://github.com/standard-for-public-code/standard-for-public-code/discussions), or feel free to leave an issue on any of [our repositories](https://github.com/orgs/standard-for-public-code/repositories).
+
 Anyone may start a translation of the standard.
 Please place your translation in a folder named with an [RFC 5646](https://www.rfc-editor.org/info/rfc5646) language code (for example `es` for Spanish or `da` for Danish or `zh_Hant_TW` for Chinese with traditional script for the Taiwan locale).
 
