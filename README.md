@@ -1,6 +1,6 @@
 # Community translations of the Standard for Public Code
 
-This is a repository for unofficial translations of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
+This is a repository for translations of the [Standard for Public Code](https://www.standardforpubliccode.org/).
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment)
 
@@ -24,17 +24,17 @@ In the pull request, also remember to update the table in [index.md](index.md) w
 
 These are the files that need to be translated before it is ready for review.
 
-- [index.md](https://github.com/publiccodenet/standard/blob/main/index.md)
-- all files in the folder [criteria](https://github.com/publiccodenet/standard/tree/main/criteria) except for _template.md
-- [readers-guide.md](https://github.com/publiccodenet/standard/blob/main/readers-guide.md)
-- [glossary.md](https://github.com/publiccodenet/standard/blob/main/glossary.md)
-- [CODE_OF_CONDUCT.md](https://github.com/publiccodenet/standard/blob/main/CODE_OF_CONDUCT.md)
-- [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
-- [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
-- [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
-- [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
-- [standard-print.html](https://github.com/publiccodenet/standard/blob/main/standard-print.html)
-- [print-cover.html](https://github.com/publiccodenet/standard/blob/main/print-cover.html)
+- [index.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/index.md)
+- all files in the folder [criteria](https://github.com/standard-for-public-code/standard-for-public-code/tree/main/criteria) except for _template.md
+- [readers-guide.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/readers-guide.md)
+- [glossary.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/glossary.md)
+- [CODE_OF_CONDUCT.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CODE_OF_CONDUCT.md)
+- [CONTRIBUTING.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CONTRIBUTING.md)
+- [GOVERNANCE.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/GOVERNANCE.md)
+- [CHANGELOG.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/CHANGELOG.md)
+- [AUTHORS.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/AUTHORS.md)
+- [standard-print.html](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/standard-print.html)
+- [print-cover.html](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/print-cover.html)
 
 While standard-print.html and print-cover.html are large files, the only text that needs to be translated are the ones in the table below (some in two places in the file).
 
@@ -73,7 +73,7 @@ That way it will benefit more people and you will get help of a community that k
 
 #### Foreword
 
-There is also [foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) that gives context about the concept of Public Code.
+There is also [foreword.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/foreword.md) that gives context about the concept of Public Code.
 The foreword may be translated or even customized for a locale's context.
 
 ### Review of a translation
@@ -83,8 +83,9 @@ This should be done by a native speaker coming from a different context than the
 
 ## Problems, suggestions and questions in issues
 
-You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/publiccodenet/community-translations-standard/issues).
-Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
+You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/standard-for-public-code/community-translations-standard/issues).
+
+Or, join the next [community call](https://community.standardforpubliccode.org/) and provide your feedback.
 
 ## Preview, build and deploy
 
