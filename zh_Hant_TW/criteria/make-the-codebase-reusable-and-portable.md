@@ -1,21 +1,20 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 order: 3
 redirect_from:
   - criteria/reusable-and-portable-codebases
   - criteria/create-reusable-and-portable-code
 ---
-
 # 程式基底要可重複使用且可移植
 
-編寫可重複使用且可移植的[程式碼](../glossary.md#code)，讓政策制定者、開發人員與設計師等，能重複使用、測試與改善目前已開發的內容，並將改善貢獻
-回程式基底中，如此可提高品質、降低維護成本、增強可靠性。
+編寫可重複使用且可移植的[程式碼](../glossary.md#code)，讓政策制定者、開發人員與設計師等，能重複使用、測試與改善目前已開發的內容，並將改善貢獻回程式基底中，如此可提高品質、降低維護成本、增強可靠性。
 
-以重複利用為前提籌劃設計[程式基底](../glossary.md#codebase)，更容易與多方共享程式基底的目標使命、願景與範圍等。多方開發與使用的程式基底，
-更可以從能自我運作的社群中獲益。
+以重複利用為前提籌劃設計[程式基底](../glossary.md#codebase)，更容易與多方共享程式基底的目標使命、願景與範圍等。
+多方開發與使用的程式基底，更可以從能自我運作的社群中獲益。
 
-以文件記錄周全的模組構成程式基底，能夠改善重複使用與維護的能力。以文件清楚記錄用途的模組，更容易在[另一種情境](../glossary.md#different-contexts)中重複利用。
+以文件記錄周全的模組構成程式基底，能夠改善重複使用與維護的能力。
+以文件清楚記錄用途的模組，更容易在[另一種情境](../glossary.md#different-contexts)中重複利用。
 
 原始碼不依賴任何貢獻者、供應商或部署底下的特定情況專用基礎架構，則其他任何貢獻者都能測試該原始碼。
 
@@ -54,7 +53,7 @@ redirect_from:
 
 ## 管理人員：需要的工作
 
-* 確認利害關係人與業主能夠瞭解，程式基底是以重複利用為明確目標，因而得以減少程式碼技術債，並讓程式基底可以永續發展。
+* 確認利害關係人與業主能夠瞭解程式基底是以重複利用為明確目標，因而得以提升長期可維護性，並讓程式基底可以永續發展。
 * 確認您的團隊與其他團隊能相互協作。
 
 ## 開發人員與設計師：需要的工作
@@ -73,6 +72,5 @@ redirect_from:
 
 ## 延伸閱讀
 
-* 英國政府數位服務團《[讓原始碼開放且可重複利
-用](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)》。
+* 英國政府數位服務團《[讓原始碼開放且可重複利用](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)》。
 * W3C 全球資訊網協會《[在地化與國際化](https://www.w3.org/International/questions/qa-i18n)》。
