@@ -11,3 +11,5 @@ release.body
 *.orig
 node_modules/
 package-lock.json
+.vscode/settings.json
+.DS_Store
