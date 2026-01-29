@@ -51,7 +51,7 @@ glossary.md \
 CODE_OF_CONDUCT.md \
 CONTRIBUTING.md \
 GOVERNANCE.md \
-CHANGELOG.md \
+RELEASE_NOTES.md \
 AUTHORS.md \
 foreword-print.html \
 print-cover.html \

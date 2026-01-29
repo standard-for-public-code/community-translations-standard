@@ -34,7 +34,7 @@ These are the files that need to be translated before it is ready for review.
 - [CODE_OF_CONDUCT.md](https://github.com/publiccodenet/standard/blob/main/CODE_OF_CONDUCT.md)
 - [CONTRIBUTING.md](https://github.com/publiccodenet/standard/blob/main/CONTRIBUTING.md)
 - [GOVERNANCE.md](https://github.com/publiccodenet/standard/blob/main/GOVERNANCE.md)
-- [CHANGELOG.md](https://github.com/publiccodenet/standard/blob/main/CHANGELOG.md)
+- [RELEASE_NOTES.md](https://github.com/publiccodenet/standard/blob/main/RELEASE_NOTES.md)
 - [AUTHORS.md](https://github.com/publiccodenet/standard/blob/main/AUTHORS.md)
 - [standard-print.html](https://github.com/publiccodenet/standard/blob/main/standard-print.html)
 - [print-cover.html](https://github.com/publiccodenet/standard/blob/main/print-cover.html)
