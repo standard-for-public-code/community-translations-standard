@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2024-2025 Standard for Public Code Authors, https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/AUTHORS.md
+# SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 ---
 
 # 治理方式.md {#governance.md}
