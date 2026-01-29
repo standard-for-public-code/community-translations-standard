@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
 <html lang="en">
 
 <head>
@@ -13,7 +13,7 @@
   <title>{{ site.title }}</title>
   <style>
     html {
-      font-family: Mulish;
+      font-family: Mulish, "Noto Sans TC", "PingFangTC", "Heiti TC", sans-serif;
       font-size: 16pt;
       margin: 0;
       padding: 0;
@@ -216,11 +216,11 @@
     <section id="back">
       <div id="back-text">
         <p>
-          The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable.
-          The Standard includes guidance to policymakers, managers, designers and developers creating and managing codebases.
+          《公共程式標準》協助以協作方式打造具備可用性、開放性、可讀性、可問責性、可近用性與永續性的程式基底。
+          本標準為政策制定者、管理人員、設計師與開發人員在建立與管理程式基底時提供指引與方向。
         </p>
         <p>
-          The standard specifies the criteria:
+          標準中明確定義的準則：    
           {% assign sorted = site.pages | sort:"order" %}
           <ol>
             {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
@@ -232,30 +232,27 @@
 
       <img src="assets/hand-point.svg" alt="hand pointing">
 
-      <section id="logo">
-        <img src="https://brand.publiccode.net/logo/mark-and-name-over-two-lines.svg" alt="Foundation for Public Code logo">
-      </section>
     </section>
 
     <section id="front">
       <div id="title-block">
-        <p>Request for contributions</p>
-        <h1 class="title">Standard for Public Code</h1>
+        <p>徵求貢獻者</p>
+        <h1 class="title">公共程式標準</h1>
       </div>
 
       <ul class="audiences">
-        <lh>What public code is and how to implement it for:</lh>
-        <li id="first-page-public-policy-makers-what-you-need-to-do">Public policy makers</li>
-        <li id="first-page-managers-what-you-need-to-do">Managers</li>
-        <li id="first-page-developers-and-designers-what-you-need-to-do">Developers and designers</li>
+        <lh>公共程式是什麼，以及各角色如何導入實踐：</lh>
+        <li id="first-page-public-policy-makers-what-you-need-to-do">公共政策制定者</li>
+        <li id="first-page-managers-what-you-need-to-do">管理人員</li>
+        <li id="first-page-developers-and-designers-what-you-need-to-do">工程師與設計師</li>
       </ul>
 
       <img src="assets/hands-shake.svg" alt="hands shaking">
 
       <div id="version-info">
-        <p><strong>Draft</strong><br/>Version <span class="standard-version">0.7.1</span></p>
-        <p><img src="/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"> <img src="/assets/dpg-badge.svg" alt="Digital Public Goods approval badge" width="92" height="46"></p>
-        <p>https://standard.publiccode.net/</p>
+        <p><strong>草稿</strong><br/>版本 <span class="standard-version">0.8.1</span></p>
+        <p><img src="/assets/cc-zero.svg" alt="Licensed CC0" height="46"></p>
+        <p>https://www.standardforpubliccode.org</p>
       </div>
     </section>
   </article>

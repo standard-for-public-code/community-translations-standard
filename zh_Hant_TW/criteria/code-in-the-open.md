@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 order: 1
 ---
 # 原始碼要開放
@@ -11,12 +11,11 @@ order: 1
 
 ## 需求規定
 
-* 任何使用中政策的所有原始碼都「必須」要公開（用於偵測詐欺的原始碼除外），且能供民眾取用。
 * 任何使用中軟體的所有原始碼都「必須」要公開（用於偵測詐欺的原始碼除外），且能供民眾取用。
+* 任何使用中政策的所有原始碼都「必須」要公開（用於偵測詐欺的原始碼除外），且能供民眾取用。
 * 程式基底「禁止」包含與使用者及其組織單位，或與第三方相關的敏感性資訊。
 * 目前非使用中的任何原始碼（像是新版本、提案版本，或較舊版本）都「應該」公開。
-* 「可選擇」是否要以文件記錄[一般大眾](../glossary.md#general-public)與組織單位之間可能發生的任何特定互動，其背後所採用的原始碼或
-支持的政策。
+* 「可選擇」是否要以文件記錄[一般大眾](../glossary.md#general-public)與組織單位之間可能發生的任何特定互動，其背後所採用的原始碼或支持的政策。
 
 ## 測試方式
 
@@ -41,13 +40,8 @@ order: 1
 
 ## 延伸閱讀
 
-* 英國政府數位服務團《[以開放精神編寫原始
-碼](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/)》。
-* 英國政府數位服務團《[程式碼應該開放或封閉的時
-機](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed)》。
-* 英國政府數位服務團《[以開放精神編寫原始碼的資安考
-量](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open)》。
-* 英國政府數位服務團《[定期部署軟
-體](https://www.gov.uk/service-manual/technology/deploying-software-regularly)》。
-* 英國政府數位服務團《[政府數位服務團如何使用
-GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/)》。
+* 英國政府數位服務團《[以開放精神編寫原始碼](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/)》。
+* 英國政府數位服務團《[程式碼應該開放或封閉的時機](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed)》。
+* 英國政府數位服務團《[以開放精神編寫原始碼的資安考量](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open)》。
+* 英國政府數位服務團《[定期部署軟體](https://www.gov.uk/service-manual/technology/deploying-software-regularly)》。
+* 英國政府數位服務團《[政府數位服務團如何使用GitHub](https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/)》。
