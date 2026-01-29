@@ -1,5 +1,8 @@
 # Contents
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2022-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
+
 Welcome to the community provided courtesy translations of the Standard for Public Code.
 The authoritative language for the standard is English, and the current version is published at [www.standardforpubliccode.org](https://www.standardforpubliccode.org).
 
