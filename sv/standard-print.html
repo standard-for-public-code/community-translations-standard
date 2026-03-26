@@ -1,0 +1,164 @@
+---
+---
+
+<!DOCTYPE html>
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="assets/github-markdown.css">
+  <link rel="stylesheet" href="assets/print.css">
+  <title>{{ site.title }}</title>
+  <style>
+    /* Print specific */
+    @media print {
+      @page :left {
+        @top-left {
+          content: counter(page);
+        }
+      }
+      @page :right {
+        @top-right {
+          content: counter(page);
+        }
+      }
+    }
+  </style>
+</head>
+<body class="markdown-body">
+
+  <article id="section-first-page">
+    <p>Begäran om bidrag</p>
+    <h1 class="title">Standarden för offentlig kod</h1>
+
+    <ul class="first-page-audiences">
+      <lh>Vad offentlig kod är och hur den kan tillämpas, för:</lh>
+      <li id="first-page-public-policy-makers-what-you-need-to-do">Offentliga beslutsfattare</li>
+      <li id="first-page-managers-what-you-need-to-do">Chefer</li>
+      <li id="first-page-developers-and-designers-what-you-need-to-do">Utvecklare och formgivare</li>
+    </ul>
+
+    <img src="assets/hands-shake.svg" alt="handslag">
+
+    <p><strong>Utkast</strong><br/>Version <span class="standard-version">0.8.1</span></p>
+    <p><img src="/assets/cc-zero.svg" alt="Licensierad CC0" height="46"></p>
+    <p style="max-width:none">github.com/standard-for-public-code/standard-for-public-code</p>
+  </article>
+
+  <article id="section-authors">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="table-of-contents">
+
+    <h1>Innehållsförteckning</h1>
+
+    <ol>
+      <li><a href="#section-authors" class="table-of-contents">Upphovspersoner</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Läsanvisning</a></li>
+      <li><a href="#section-glossary" class="table-of-contents">Ordlista</a></li>
+      <li><a href="#section-criteria" class="table-of-contents">Kriterier</a>
+        {% assign sorted = site.pages | sort:"order" %}
+        <ol>
+        {% for page in sorted %}{% if page.dir == "/sv/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
+        {% endif%}  {% endif%}{% endfor %}
+        </ol>
+      </li>
+      <li><a href="#section-contributing" class="table-of-contents">Bidragsguide</a></li>
+      <li><a href="#section-code-of-conduct" class="table-of-contents">Uppförandekod</a></li>
+      <li><a href="#section-governance" class="table-of-contents">Styrning</a></li>
+      <li><a href="#section-release-notes" class="table-of-contents">Versionshistorik</a></li>
+      <li><a href="#section-license" class="table-of-contents">Licens</a></li>
+    </ol>
+
+  </article>
+
+  <figure>
+    <img src="/assets/codebase.svg" alt="kodbas">
+  </figure>
+
+  <article id="section-readers-guide">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-glossary">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-criteria">
+    <h1>Kriterier</h1>
+    {% assign sorted = site.pages | sort:"order" %}
+    <ol>
+    {% for page in sorted %}{% if page.dir == "/sv/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
+    {% endif%}  {% endif%}{% endfor %}
+    </ol>
+  </article>
+
+  <figure>
+    <img src="/assets/unlock.svg" alt="upplåst">
+  </figure>
+
+  {% assign sorted = site.pages | sort:"order" %}
+  {% for page in sorted %}{% if page.dir == "/sv/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    <article id="section-criteria-{{page.name}}">
+      {{page.content | markdownify}}
+    </article>{% endif%}
+  {% endif%}  {% endif%}{% endfor %}
+
+  <article id="section-contributing">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+      <img src="/assets/collaborative-development.svg" alt="gemensam utveckling">
+    </figure>
+
+  <article id="section-code-of-conduct">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+    <img src="/assets/collaboration.svg" alt="samarbete">
+  </figure>
+
+  <article id="section-governance">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+    <img src="/assets/eco-system.svg" alt="ekosystem">
+  </figure>
+
+  <article id="section-release-notes">
+
+    {% for page in site.pages %}{% if page.dir == "/sv/" and page.name == "RELEASE_NOTES.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-license">
+
+    <p>Licensen är det juridiska avtal som tillåter vem som helst att göra vad de vill med innehållet i hela dokumentet.</p>
+    <h1>CC0 1.0 Universal</h1>
+    <pre>{% include_relative LICENSE %}</pre>
+
+  </article>
+
+</body>
+</html>
