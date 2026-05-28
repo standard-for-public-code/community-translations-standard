@@ -3,7 +3,7 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
 
-This is a repository for unofficial translations of the [Standard for Public Code](https://standard.publiccode.net), provided by the community.
+This is a repository for courtesy translations of the [Standard for Public Code](https://standard.publiccode.net).
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment)
 
@@ -16,12 +16,12 @@ Join our [community calls](https://community.standardforpubliccode.org/), come s
 Anyone may start a translation of the standard.
 Please place your translation in a folder named with an [RFC 5646](https://www.rfc-editor.org/info/rfc5646) language code (for example `es` for Spanish or `da` for Danish or `zh_Hant_TW` for Chinese with traditional script for the Taiwan locale).
 
-In order for our scripts that generate pdf's to work as easily as possible, do not translate file names, folder names or the front matter.
+In order for our scripts that generate PDFs to work as easily as possible, do not translate file names, folder names or the front matter.
 
 You may use `script/new-translation.sh` to get started.
 This script copies the English files into the translation folder that you specify.
 
-In the pull request, also remember to update the table in [index.md](index.md) with a link to the translation and what version this is a translation of.
+In the pull request, also remember to update the table in [index.md](index.md) with a link to the translation and which version this is a translation of.
 
 ### Files to translate
 
@@ -69,19 +69,19 @@ While standard-print.html and print-cover.html are large files, the only text th
 | Draft |
 | Version |
 
-The license need not be translated since that is just copied from another project.
+The license does not need to be translated since that is copied from another project.
 If there is a translation available in the target language for it, it *may* be included.
 If a translation of the license is not available yet, but you really need it, we encourage you to translate it upstream.
-That way it will benefit more people and you will get help of a community that know the license well.
+That way it will benefit more people and you can get help from a community that knows the license well.
 
 #### Foreword
 
-There is also [foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) that gives context about the concept of Public Code.
-The foreword may be translated or even customized for a locale's context.
+[foreword.md](https://github.com/publiccodenet/standard/blob/main/foreword.md) gives context about the concept of Public Code.
+The foreword may be translated or even customized for a language's context.
 
 ### Review of a translation
 
-Before we merge a pull request of a new or updated translation it need to be reviewed.
+Before we merge a pull request for a new or updated translation it must be reviewed.
 This should be done by a native speaker coming from a different context than the person submitting the pull request.
 
 ## Problems, suggestions and questions in issues
