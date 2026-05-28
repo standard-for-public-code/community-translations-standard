@@ -4,6 +4,7 @@
 <!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
 
 This is a repository for courtesy translations of the [Standard for Public Code](https://standard.publiccode.net).
+A [Dutch translation](https://github.com/codefornl/community-translations-standard) is hosted separately by CodeforNL.
 
 [![pages-build-deployment](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/community-translations-standard/actions/workflows/pages/pages-build-deployment)
 
