@@ -1,6 +1,6 @@
-# Traducciones de la comunidad del Estándar para el Código Público
+# Traducciones del Estándar para el Código Público
 
-Este es un repositorio no oficial de traducciones del [Estándar para el Código Público o Standard for Public Code](https://standard.publiccode.net), proporcionadas por la comunidad.
+Este es un repositorio no oficial de traducciones del [Estándar para el Código Público o Standard for Public Code](https://standard.publiccode.net).
 
 ## Contribute
 
@@ -9,7 +9,7 @@ Por favor, coloca tu traducción en una carpeta nombrada con un código de lengu
 
 ## Problemas, sugerencias y preguntas en issues
 
-Puedes reportar problemas, sugerir cambios o preguntar dudas [creando un issue en GitHub](https://help.github.com/articles/creating-an-issue/). Para este proyecto en el repositorio a través de [GitHub Issues para traducciones de la comunidad](https://github.com/publiccodenet/community-translations-standard/issues).
+Puedes reportar problemas, sugerir cambios o preguntar dudas [creando un issue en GitHub](https://help.github.com/articles/creating-an-issue/). Para este proyecto en el repositorio a través de [GitHub Issues para traducciones](https://github.com/publiccodenet/community-translations-standard/issues).
 O también puedes apuntarte a [la lista de correo del Estándar para el Código Público](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) y enviar un correo electrónico a [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 ## Previsualizar, construir y desplegar
