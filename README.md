@@ -1,4 +1,4 @@
-# Community translations of the Standard for Public Code
+# Translations of the Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
@@ -87,7 +87,7 @@ This should be done by a native speaker coming from a different context than the
 
 ## Problems, suggestions and questions in issues
 
-You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for community translations](https://github.com/publiccodenet/community-translations-standard/issues).
+You can report problems, suggest changes or ask questions by [creating a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for translations](https://github.com/publiccodenet/community-translations-standard/issues).
 Or, sign up to the [Standard for Public Code mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 ## Preview, build and deploy
