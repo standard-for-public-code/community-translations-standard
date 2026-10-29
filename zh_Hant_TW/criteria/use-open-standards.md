@@ -1,20 +1,19 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 order: 11
 redirect_from:
   - criteria/open-standards
 ---
-
 # 採用開放標準
 
-[開放標準](../glossary.md#open-standard)保證可以取得使用與貢獻[程式基底](../glossary.md#codebase)所需的知
-識。不僅能為不同的系統之間建立互通性，更能降低廠商套牢的可能性。開放標準如果明確，不同方就可以各自獨立開發作資料交換。
+[開放標準](../glossary.md#open-standard)保證可以取得使用與貢獻[程式基底](../glossary.md#codebase)所需的知識。
+不僅能為不同的系統之間建立互通性，更能降低廠商套牢的可能性。
+開放標準如果明確，不同方就可以各自獨立開發作資料交換。
 
 ## 需求規定
 
-* 程式基底如要促進資料交換的特性，就「必須」採用符合 [OSI 開放原始碼促進會其《開放標準需求規範](https://opensource.org/osr)》的
-開放標準。
+* 程式基底如要促進資料交換的特性，就「必須」採用符合 [OSI 開放原始碼促進會其《開放標準需求規範](https://opensource.org/osr)》的開放標準。
 * 如果有使用到任何非開放標準，則「必須」在文件中清楚記錄。
 * 程式基底選擇採用的任何標準，皆「必須」在文件中列出，並且只要有的話，就附上該標準的連結。
 * 程式基底選擇採用的任何非開放標準，皆「禁止」妨礙程式基底的協作與重複使用。
@@ -44,6 +43,4 @@ redirect_from:
 
 ## 延伸閱讀
 
-* 英國內閣辦公室發表的《[開放標準原
-則](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)》
-[政策](../glossary.md#policy)報告。
+* 英國內閣辦公室發表的《[開放標準原則](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)》[政策](../glossary.md#policy)報告。

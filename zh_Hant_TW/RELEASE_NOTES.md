@@ -1,11 +1,37 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 # script/release-body.sh expects VERSION in the first second-level header
-# script/update-changelog-date.sh expects DATE-OF-RELEASE and a colon
+# script/update-release-notes-date.sh expects DATE-OF-RELEASE and a colon
+redirect_from:
+  - CHANGELOG
 ---
-
 # 版本歷史
+
+## 0.8.1 版
+
+2025年4月28日： 🧑‍🤝‍🧑 社群治理模型的第18個修正草案。
+
+* 本專案已經改為社群治理模型。
+  * 治理模型現在涵蓋指導團隊、成員組成、責任、會議、決策流程、懶惰共識決、投票以及行為守則。
+  * 官網現在已經換到全新網域： [https://www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
+  * 所有專案檔案皆已更新其SPDX 著作權聲明。
+* 已刪除文件內與示例內容相關的可選要求。
+* 準則相關文字稍微簡化，減少技術性詞彙，讀者更容易理解。
+* 「README」儲存庫文件已獲得改善。
+* 「CHANGELOG」改名為「RELEASE_NOTES」。
+* 改善了送交版次準則。
+* 細微調整文字，使其更清楚一致。
+
+## 0.8.0 版
+
+2024年1月9日：🌐第十七版區分官方與免費翻譯的文字。
+
+* 釐清除了英文，也可以用更多其他語言來編寫。
+* 允許提供免費翻譯，但翻譯內容可能無法在發行時更新至最新版本。
+* 新增指引，要求開發人員優先儘速審核貢獻內容。
+* 增加即時審核評估方式指引的內容。
+* 微調文字，讓內容更明確與一致。
 
 ## 0.7.1 版
 
@@ -86,8 +112,7 @@
 * 將剩餘 SPDX 標頭加入檔案中。
 * 再稍微修改些文字，讓文字更明確。
 * 更新部分超連結。
-* 將範例移動到《[社群實踐指
-引](https://publiccodenet.github.io/community-implementation-guide-standard/)》。
+* 將範例移動到《[社群實踐指引](https://publiccodenet.github.io/community-implementation-guide-standard/)》。
 
 ## 0.4.0 版
 
@@ -138,8 +163,7 @@
 * 在〈程式碼要可重複使用且可攜〉中強調解決方案部分內容的可重複使用性。
 * 將〈程式碼要可重複使用且可攜〉當中的開發人員與設計師指引，加入部署到專有平台上的內容。
 * 在〈使用白話的英文〉中，加入管理層在面對非英語詞彙時需要做的事的提點。
-* 變更拉取請求流程圖，從業務流程 BPMN 改用 Mermaid，來讓[社群翻
-譯](https://github.com/publiccodenet/community-translations-standard)更容易。
+* 變更拉取請求流程圖，從業務流程 BPMN 改用 Mermaid，來讓[社群翻譯](https://github.com/publiccodenet/community-translations-standard)更容易。
 * 將 Maurice Hendriks 加入作者群。
 * 將「OpenApi 規格」加入延伸閱讀。
 * 將延伸閱讀小節的特性變得更明確。
@@ -223,12 +247,12 @@
 * 所有連結都是 HTTPS。
 * 一般校對、釐清用字淺詞、修正拼字錯誤等。
 * 更新準則：
-   * 在不同情境背景下重複使用的規定
-   * 明確的版本控制建議
-   * 多方部署的建議
-   * 檔案授權標頭的建議
-   * 漏洞回報的建議
-   * 明確以文件記錄治理方式的建議
+  * 在不同情境背景下重複使用的規定
+  * 明確的版本控制建議
+  * 多方部署的建議
+  * 檔案授權標頭的建議
+  * 漏洞回報的建議
+  * 明確以文件記錄治理方式的建議
 
 ## 0.1.1 版
 
@@ -247,5 +271,4 @@
 * 14 項準則，有各自的規定，以及相關的實施方式。
 * 精要的背景介紹，例如本標準是什麼，以及 Foundation for Public Code 如何使用此標準。
 
-最初的版本是由阿姆斯特丹應用科學大學、阿姆斯特丹市政府，以及本基金會合作撰寫，取自 [Smart Cities? Public Code! 專
-案](https://smartcities.publiccode.net/) 的部分內容。
+最初的版本是由阿姆斯特丹應用科學大學、阿姆斯特丹市政府，以及本基金會合作撰寫，取自 [Smart Cities? Public Code! 專案](https://smartcities.publiccode.net/) 的部分內容。

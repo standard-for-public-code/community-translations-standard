@@ -1,19 +1,20 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 order: 12
 redirect_from:
   - criteria/continuous-integration
 ---
-
 # 使用持續整合
 
-透過自動化測試驗證，開發人員能更頻繁地將其工作成果合併至共享的分支，達成非同步協作。合併的頻率越頻繁、貢獻的規模越小，在合併時所發生的衝突就越容易解決。
+透過自動化測試驗證，開發人員能更頻繁地將其工作成果合併至共享的分支，達成非同步協作。
+合併的頻率越頻繁、貢獻的規模越小，在合併時所發生的衝突就越容易解決。
 
-自動化測試所有功能，使人更加信賴貢獻內容發揮其功用且沒有引發任何錯誤，同時讓審查人員專注在貢獻的結構與作法。測試越聚焦，就越容易辨識並瞭解所出現的問題。
+自動化測試所有功能，使人更加信賴貢獻內容發揮其功用且沒有引發任何錯誤，同時讓審查人員專注在貢獻的結構與作法。
+測試越聚焦，就越容易辨識並瞭解所出現的問題。
 
-以文件記錄程式基底的[持續整合](../glossary.md#continuous-integration)工作流程，能協助貢獻者瞭解對貢獻內容的期待。持續整合讓
-監管[程式基底](../glossary.md#codebase)狀態變得更為簡單。
+以文件記錄程式基底的[持續整合](../glossary.md#continuous-integration)工作流程，能協助貢獻者瞭解對貢獻內容的期待。
+持續整合讓監管[程式基底](../glossary.md#codebase)狀態變得更為簡單。
 
 ## 需求規定
 
@@ -32,7 +33,7 @@ redirect_from:
 
 * 確認有測試可用。
 * 確認原始碼覆蓋率工具能檢查到 100% 的原始碼。
-* 確認貢獻內容只有在通過所有測試後，才會認可上傳至程式基底。
+* 確認貢獻內容只有在通過所有測試後，才會上傳至程式基底。
 * 確認有貢獻指引解說如何撰寫貢獻內容的結構。
 * 確認最近三個月內有貢獻內容上傳。
 * 檢查是否可以查看測試結果。
@@ -48,7 +49,7 @@ redirect_from:
 ## 管理人員：需要的工作
 
 * 確保能儘快且經常給真正的終端使用者進行測試。
-* 以頻繁整合少量部分內容的方式做專案規劃，而非久久一次繳交大量部分內容。
+* 專案規劃為頻繁整合少量部分內容，而非久久一次繳交大量部分內容。
 * 聘請有能力處理漸進式交付，並跟得上規劃進度的顧問服務。
 * 發生重大失誤後，鼓勵公開事故報告，以及公開討論事後學到的教訓。
 
@@ -64,9 +65,6 @@ redirect_from:
 
 ## 延伸閱讀
 
-* Martin Fowler《[什麼是持續整
-合](https://www.martinfowler.com/articles/continuousIntegration.html)》。
-* 英國政府數位服務團《[使用持續交
-付](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)》。
-* 英國政府數位服務團《[品質保證：定期測試您的服
-務](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly)》。
+* Martin Fowler《[什麼是持續整合](https://www.martinfowler.com/articles/continuousIntegration.html)》。
+* 英國政府數位服務團《[使用持續交付](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)》。
+* 英國政府數位服務團《[品質保證：定期測試您的服務](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly)》。
