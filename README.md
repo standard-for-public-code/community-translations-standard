@@ -23,6 +23,7 @@ You may use `script/new-translation.sh` to get started.
 This script copies the English files into the translation folder that you specify.
 
 In the pull request, also remember to update the table in [index.md](index.md) with a link to the translation and which version this is a translation of.
+Translations are listed in alphabetical order.
 
 ### Files to translate
 
