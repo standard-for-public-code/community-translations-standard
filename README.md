@@ -57,7 +57,6 @@ While standard-print.html and print-cover.html are large files, the only text th
 | License |
 | Contact |
 | This license is the legal contract that allows anyone to do anything they like with the content in this entire document. |
-| For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500 |
 | The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable. |
 | The Standard includes guidance to policymakers, managers, designers and developers creating and managing codebases. |
 | The standard specifies the criteria: |
