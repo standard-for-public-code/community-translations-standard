@@ -69,7 +69,7 @@ That way it will benefit more people and you will get help of a community that k
 
 #### Foreword
 
-There is also [foreword.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/foreword.md) that gives context about the concept of Public Code.
+The [foreword.md](https://github.com/standard-for-public-code/standard-for-public-code/blob/main/foreword.md) gives context about the concept of Public Code.
 The foreword may be translated or even customized for a locale's context.
 
 ### Review of a translation
